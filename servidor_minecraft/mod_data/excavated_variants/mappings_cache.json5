@@ -1,0 +1,94 @@
+{
+  "ore_mappings": {
+    "copper_ore": [
+      "minecraft:deepslate_copper_ore",
+      "minecraft:copper_ore",
+    ],
+    "pendorite_ore": [
+      "byg:pendorite_ore",
+    ],
+    "emeraldite_ore": [
+      "byg:emeraldite_ore",
+    ],
+    "gold_ore": [
+      "minecraft:deepslate_gold_ore",
+      "minecraft:gold_ore",
+    ],
+    "nether_gold_ore": [
+      "minecraft:nether_gold_ore",
+      "byg:blue_nether_gold_ore",
+      "byg:brimstone_nether_gold_ore",
+    ],
+    "redstone_ore": [
+      "minecraft:redstone_ore",
+      "byg:cryptic_redstone_ore",
+      "minecraft:deepslate_redstone_ore",
+    ],
+    "diamond_ore": [
+      "minecraft:diamond_ore",
+      "minecraft:deepslate_diamond_ore",
+    ],
+    "iron_ore": [
+      "minecraft:deepslate_iron_ore",
+      "minecraft:iron_ore",
+    ],
+    "lapis_ore": [
+      "minecraft:deepslate_lapis_ore",
+      "minecraft:lapis_ore",
+    ],
+    "coal_ore": [
+      "minecraft:deepslate_coal_ore",
+      "minecraft:coal_ore",
+    ],
+    "anthracite_ore": [
+      "byg:anthracite_ore",
+    ],
+    "emerald_ore": [
+      "minecraft:emerald_ore",
+      "minecraft:deepslate_emerald_ore",
+    ],
+    "ametrine_ore": [
+      "byg:ametrine_ore",
+    ],
+    "quartz_ore": [
+      "byg:brimstone_nether_quartz_ore",
+      "byg:blue_nether_quartz_ore",
+      "minecraft:nether_quartz_ore",
+    ],
+  },
+  "stone_mappings": {
+    "byg_soapstone": "byg:soapstone",
+    "red_sandstone": "minecraft:red_sandstone",
+    "byg_mossy_stone": "byg:mossy_stone",
+    "quark_shale": "quark:shale",
+    "dripstone": "minecraft:dripstone_block",
+    "calcite": "minecraft:calcite",
+    "twigs_bloodstone": "twigs:bloodstone",
+    "byg_purpur": "byg:purpur_stone",
+    "sandstone": "minecraft:sandstone",
+    "byg_travertine": "byg:travertine",
+    "basalt": "minecraft:basalt",
+    "quark_limestone": "quark:limestone",
+    "quark_jasper": "quark:jasper",
+    "end_stone": "minecraft:end_stone",
+    "byg_ether_stone": "byg:ether_stone",
+    "byg_scoria": "byg:scoria_stone",
+    "netherrack": "minecraft:netherrack",
+    "andesite": "minecraft:andesite",
+    "diorite": "minecraft:diorite",
+    "deepslate": "minecraft:deepslate",
+    "byg_blue_netherrack": "byg:blue_netherrack",
+    "twigs_rhyolite": "twigs:rhyolite",
+    "byg_dacite": "byg:dacite",
+    "stone": "minecraft:stone",
+    "twigs_schist": "twigs:schist",
+    "smooth_basalt": "minecraft:smooth_basalt",
+    "byg_cryptic": "byg:cryptic_stone",
+    "byg_brimstone": "byg:brimstone",
+    "granite": "minecraft:granite",
+    "tuff": "minecraft:tuff",
+    "byg_red_rock": "byg:red_rock",
+    "byg_rocky": "byg:rocky_stone",
+    "blackstone": "minecraft:blackstone",
+  },
+}
