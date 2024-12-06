@@ -4248,3 +4248,30 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [06Dec2024 16:49:35.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: phaaq has made the advancement [Frosted Friends]
 [06Dec2024 16:49:35.347] [Server thread/INFO] [Jade/]: Syncing config to phaaq (40c05ebf-4986-3140-992e-5a3aa045997b)
 [06Dec2024 16:51:35.995] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-274, y=77, z=108} BlockPos{x=-274, y=78, z=108}
+[06Dec2024 16:54:19.183] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: phaaq lost connection: You logged in from another location
+[06Dec2024 16:54:19.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: phaaq left the game
+[06Dec2024 16:54:19.185] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 40c05ebf-4986-3140-992e-5a3aa045997b
+[06Dec2024 16:54:19.200] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7011060d
+[06Dec2024 16:54:19.254] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Dec2024 16:54:19.259] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: phaaq[/[0:0:0:0:0:0:0:1%0]:33032] logged in with entity id 7110 at (-16.522366268339702, 80.0, 87.23113452846276)
+[06Dec2024 16:54:19.263] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to phaaq
+[06Dec2024 16:54:19.263] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to phaaq
+[06Dec2024 16:54:19.263] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to phaaq
+[06Dec2024 16:54:19.264] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to phaaq
+[06Dec2024 16:54:19.269] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to phaaq
+[06Dec2024 16:54:19.278] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to phaaq
+[06Dec2024 16:54:19.279] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to phaaq
+[06Dec2024 16:54:19.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: phaaq joined the game
+[06Dec2024 16:54:19.456] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 40c05ebf-4986-3140-992e-5a3aa045997b
+[06Dec2024 16:54:19.479] [Server thread/INFO] [Jade/]: Syncing config to phaaq (40c05ebf-4986-3140-992e-5a3aa045997b)
+[06Dec2024 16:57:07.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zetreaa> salte
+[06Dec2024 16:57:09.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zetreaa> del server
+[06Dec2024 16:57:17.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zetreaa> y pon suavisado de minimapa x4
+[06Dec2024 16:57:29.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Bark Off]
+[06Dec2024 16:59:13.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zetreaa> PUTO
+[06Dec2024 17:00:36.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa was blown up by Creeper
+[06Dec2024 17:00:58.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to -301.500000, 66.500000, 107.500000]
+[06Dec2024 17:02:15.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-312, y=68, z=110} BlockPos{x=-311, y=69, z=109}
+[06Dec2024 17:02:45.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: phaaq was slain by Moth
+[06Dec2024 17:03:14.558] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-312, y=75, z=115} BlockPos{x=-313, y=77, z=114}
+[06Dec2024 17:03:14.637] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-312, y=75, z=115} BlockPos{x=-313, y=77, z=114}

@@ -309,6 +309,12 @@
     },
     "done": true
   },
+  "immersive_weathering:immersive_weathering/bark_off": {
+    "criteria": {
+      "wax_off": "2024-12-06 16:57:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2024-12-05 22:20:52 +0000"
@@ -1093,6 +1099,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-06 16:58:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-05 22:24:51 +0000"
@@ -1357,6 +1369,12 @@
     },
     "done": true
   },
+  "delightful:recipes/food/cooking/nut_butter_bottle": {
+    "criteria": {
+      "has_nuts": "2024-12-06 16:51:37 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2024-12-05 22:32:34 +0000"
@@ -1378,6 +1396,12 @@
   "windswept:recipes/misc/wooden_bucket": {
     "criteria": {
       "has_log": "2024-12-05 22:20:52 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-06 16:56:54 +0000"
     },
     "done": true
   },
@@ -1426,6 +1450,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2024-12-05 22:37:25 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/decorations/red_mushroom_basket": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-06 16:56:54 +0000"
     },
     "done": true
   },
@@ -2152,6 +2182,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-06 16:56:54 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/white_stool": {
     "criteria": {
       "has_wool": "2024-12-05 23:07:24 +0000"
@@ -2191,6 +2227,12 @@
   "aether:recipes/transportation/skyroot_boat": {
     "criteria": {
       "in_water": "2024-12-05 22:30:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-06 16:55:32 +0000"
     },
     "done": true
   },
@@ -2293,6 +2335,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-06 16:56:54 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/wooden_pickaxe_repairing": {
     "criteria": {
       "has_wooden_pickaxe": "2024-12-05 22:23:40 +0000"
@@ -2320,6 +2368,12 @@
   "aether:recipes/combat/wooden_sword_repairing": {
     "criteria": {
       "has_wooden_sword": "2024-12-05 21:45:31 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/nut_milk": {
+    "criteria": {
+      "has_nuts": "2024-12-06 16:51:37 +0000"
     },
     "done": true
   },
@@ -2623,6 +2677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-06 16:56:54 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/galosphere/allurite_bricks_from_allurite_block_stonecutting": {
     "criteria": {
       "has_allurite_block": "2024-12-06 16:30:00 +0000"
@@ -2912,6 +2972,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-06 16:55:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-05 22:24:51 +0000"
@@ -3038,6 +3104,12 @@
     },
     "done": true
   },
+  "delightful:recipes/storage/acorn_storage_block": {
+    "criteria": {
+      "has_acorn": "2024-12-06 16:51:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-05 22:25:23 +0000"
@@ -3053,6 +3125,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-05 22:31:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-06 16:56:54 +0000"
     },
     "done": true
   },
@@ -3104,6 +3182,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-06 16:56:54 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/diamond_pickaxe_repairing": {
     "criteria": {
       "has_diamond_pickaxe": "2024-12-06 16:42:17 +0000"
@@ -3149,6 +3233,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2024-12-05 22:24:51 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_beam": {
+    "criteria": {
+      "has_stripped_log": "2024-12-06 16:58:21 +0000"
     },
     "done": true
   },
@@ -3392,6 +3482,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-12-05 22:25:23 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/dark_oak_bark": {
+    "criteria": {
+      "has_copper_block": "2024-12-06 16:57:30 +0000"
     },
     "done": true
   },

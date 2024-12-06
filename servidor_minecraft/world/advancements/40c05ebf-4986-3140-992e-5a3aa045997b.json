@@ -37,15 +37,15 @@
     },
     "done": true
   },
-  "takesapillage:root": {
-    "criteria": {
-      "always": "2024-12-06 16:49:35 +0000"
-    },
-    "done": true
-  },
   "bambooeverything:recipes/dry_bamboo_bundle": {
     "criteria": {
       "has_dry_bamboo": "2024-12-06 16:49:34 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2024-12-06 16:49:35 +0000"
     },
     "done": true
   },
@@ -61,18 +61,18 @@
     },
     "done": true
   },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-06 16:49:35 +0000"
+    },
+    "done": true
+  },
   "biomemakeover:biomemakeover/root": {
     "criteria": {
       "enter_mushroom_fields": "2024-12-06 16:49:36 +0000",
       "enter_swamp": "2024-12-06 16:49:36 +0000",
       "enter_dark_forest": "2024-12-06 16:49:36 +0000",
       "enter_badlands": "2024-12-06 16:49:36 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2024-12-06 16:49:35 +0000"
     },
     "done": true
   },
@@ -118,15 +118,15 @@
     },
     "done": true
   },
-  "bambooeverything:recipes/dry_bamboo_stairs": {
-    "criteria": {
-      "has_dry_bundle": "2024-12-06 16:49:35 +0000"
-    },
-    "done": true
-  },
   "bambooeverything:recipes/bamboo_trapdoor": {
     "criteria": {
       "has_bundle": "2024-12-06 16:49:34 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/dry_bamboo_stairs": {
+    "criteria": {
+      "has_dry_bundle": "2024-12-06 16:49:35 +0000"
     },
     "done": true
   },
@@ -185,16 +185,16 @@
     },
     "done": true
   },
-  "bambooeverything:recipes/bamboo_slab": {
-    "criteria": {
-      "has_bundle": "2024-12-06 16:49:35 +0000"
-    },
-    "done": true
-  },
   "bambooeverything:recipes/bamboo_fence": {
     "criteria": {
       "has_bamboo": "2024-12-06 16:49:34 +0000",
       "has_bundle": "2024-12-06 16:49:34 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/bamboo_slab": {
+    "criteria": {
+      "has_bundle": "2024-12-06 16:49:35 +0000"
     },
     "done": true
   },
