@@ -297,6 +297,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-12-06 16:33:34 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/dark_oak_boards": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-05 22:21:25 +0000"
@@ -444,6 +450,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-05 22:38:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-06 16:33:40 +0000"
     },
     "done": true
   },
@@ -1045,6 +1057,12 @@
     },
     "done": true
   },
+  "sculked:thrill_shrieker": {
+    "criteria": {
+      "thrill_shrieker": "2024-12-06 16:33:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-05 22:55:27 +0000"
@@ -1222,6 +1240,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-05 22:38:53 +0000"
+    },
+    "done": true
+  },
+  "sculked:sculked_root": {
+    "criteria": {
+      "sculked_root": "2024-12-06 16:33:34 +0000"
     },
     "done": true
   },
@@ -1509,6 +1533,7 @@
       "minecraft:lush_caves": "2024-12-05 22:27:06 +0000",
       "minecraft:jungle": "2024-12-05 22:30:58 +0000",
       "atmospheric:sparse_rainforest": "2024-12-05 22:54:33 +0000",
+      "minecraft:deep_dark": "2024-12-06 16:33:34 +0000",
       "minecraft:savanna": "2024-12-06 16:27:10 +0000",
       "minecraft:plains": "2024-12-05 23:07:04 +0000"
     },
@@ -2142,6 +2167,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2024-12-05 22:28:09 +0000",
+      "rotten_flesh": "2024-12-06 16:32:27 +0000",
       "glow_berries": "2024-12-05 22:41:18 +0000"
     },
     "done": false
@@ -3265,7 +3291,9 @@
   },
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
+      "byg:redwood_thicket": "2024-12-06 16:34:09 +0000",
       "byg:firecracker_shrubland": "2024-12-05 23:09:24 +0000",
+      "byg:araucaria_savanna": "2024-12-06 16:40:32 +0000",
       "byg:amaranth_fields": "2024-12-05 23:06:08 +0000"
     },
     "done": false

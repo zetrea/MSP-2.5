@@ -4224,3 +4224,12 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [06Dec2024 16:27:38.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
 [06Dec2024 16:28:11.526] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-319, y=-36, z=-831} but found not block entity block Block{sculked:sculk_shaker}[waterlogged=false] at location
 [06Dec2024 16:28:11.527] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{sculked:sculk_shaker}[waterlogged=false] but failed at location BlockPos{x=-319, y=-36, z=-831}
+[06Dec2024 16:33:40.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Sneak 100]
+[06Dec2024 16:33:45.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Thrill Shrieker]
+[06Dec2024 16:36:06.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa was slain by Enderman
+[06Dec2024 16:36:17.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to -528.500000, 48.000000, -526.500000]
+[06Dec2024 16:40:55.635] [Worker-Main-1/WARN] [ModernFix/]: The namespace additionalstructures contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[06Dec2024 16:41:01.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa was shot by Skeleton
+[06Dec2024 16:41:10.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to -608.500000, 62.000000, -317.500000]
+[06Dec2024 16:42:41.015] [Worker-Main-7/WARN] [ModernFix/]: The namespace structory contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[06Dec2024 16:43:11.760] [Worker-Main-1/WARN] [ModernFix/]: The namespace betterwitchhuts contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
