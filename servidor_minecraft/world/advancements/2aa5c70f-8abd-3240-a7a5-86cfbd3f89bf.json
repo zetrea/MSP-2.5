@@ -682,6 +682,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-06 16:49:33 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/oak_support": {
     "criteria": {
       "has_plank": "2024-12-05 22:37:25 +0000"
@@ -721,6 +727,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-05 22:25:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2024-12-06 16:44:23 +0000"
     },
     "done": true
   },
@@ -943,6 +955,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-12-06 16:48:20 +0000"
+    },
+    "done": true
+  },
   "upgradednetherite:recipes/essences/poison_essence": {
     "criteria": {
       "has_spider_eye": "2024-12-05 22:40:58 +0000"
@@ -1087,6 +1105,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2024-12-06 16:44:23 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_loom": {
     "criteria": {
       "has_string": "2024-12-05 22:30:39 +0000"
@@ -1114,6 +1138,12 @@
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2024-12-05 22:27:06 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/food/apple_pie": {
+    "criteria": {
+      "has_apple": "2024-12-06 16:48:20 +0000"
     },
     "done": true
   },
@@ -1578,6 +1608,12 @@
   "handcrafted:recipes/misc/diorite_corner_trim": {
     "criteria": {
       "has_corner_trim": "2024-12-05 22:24:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2024-12-06 16:50:33 +0000"
     },
     "done": true
   },
@@ -2122,6 +2158,12 @@
     },
     "done": true
   },
+  "delightful:recipes/food/cooking/jelly_bottle": {
+    "criteria": {
+      "has_sweet_fruit": "2024-12-06 16:48:20 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cobblestone_bricks": {
     "criteria": {
       "has_item": "2024-12-05 22:23:46 +0000"
@@ -2166,6 +2208,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-12-06 16:44:27 +0000",
       "bread": "2024-12-05 22:28:09 +0000",
       "rotten_flesh": "2024-12-06 16:32:27 +0000",
       "glow_berries": "2024-12-05 22:41:18 +0000"
@@ -2193,6 +2236,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-12-05 22:32:34 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/food/mutton_pie": {
+    "criteria": {
+      "has_cooked_mutton": "2024-12-06 16:44:23 +0000"
     },
     "done": true
   },
@@ -3055,6 +3104,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2024-12-06 16:42:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-12-05 22:24:51 +0000"
@@ -3100,6 +3155,12 @@
   "galosphere:recipes/galosphere/allurite_stairs_from_allurite_block_stonecutting": {
     "criteria": {
       "has_allurite_block": "2024-12-06 16:30:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2024-12-06 16:44:23 +0000"
     },
     "done": true
   },
@@ -3166,6 +3227,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-05 22:21:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2024-12-06 16:49:35 +0000"
     },
     "done": true
   },
@@ -3577,6 +3644,12 @@
   "stoneworks:recipes/stoneworks.main/diorite_shingles_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-05 22:24:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/stick_from_twig": {
+    "criteria": {
+      "has_item": "2024-12-06 16:47:15 +0000"
     },
     "done": true
   },

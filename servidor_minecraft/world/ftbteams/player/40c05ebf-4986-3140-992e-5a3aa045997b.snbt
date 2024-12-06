@@ -1,0 +1,17 @@
+{
+	id: "40c05ebf-4986-3140-992e-5a3aa045997b"
+	type: "player"
+	player_name: "phaaq"
+	ranks: {
+		40c05ebf-4986-3140-992e-5a3aa045997b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "phaaq"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5997"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

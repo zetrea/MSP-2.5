@@ -4233,3 +4233,18 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [06Dec2024 16:41:10.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to -608.500000, 62.000000, -317.500000]
 [06Dec2024 16:42:41.015] [Worker-Main-7/WARN] [ModernFix/]: The namespace structory contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [06Dec2024 16:43:11.760] [Worker-Main-1/WARN] [ModernFix/]: The namespace betterwitchhuts contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[06Dec2024 16:48:11.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-289, y=65, z=105} BlockPos{x=-290, y=64, z=105}
+[06Dec2024 16:49:34.636] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4ba75cc7
+[06Dec2024 16:49:34.684] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: phaaq[/[0:0:0:0:0:0:0:1%0]:45690] logged in with entity id 5220 at (-21.5, 77.0, 68.5)
+[06Dec2024 16:49:34.699] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to phaaq
+[06Dec2024 16:49:34.700] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to phaaq
+[06Dec2024 16:49:34.702] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to phaaq
+[06Dec2024 16:49:34.703] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to phaaq
+[06Dec2024 16:49:34.717] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to phaaq
+[06Dec2024 16:49:34.730] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to phaaq
+[06Dec2024 16:49:34.730] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to phaaq
+[06Dec2024 16:49:34.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: phaaq joined the game
+[06Dec2024 16:49:35.103] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 40c05ebf-4986-3140-992e-5a3aa045997b
+[06Dec2024 16:49:35.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: phaaq has made the advancement [Frosted Friends]
+[06Dec2024 16:49:35.347] [Server thread/INFO] [Jade/]: Syncing config to phaaq (40c05ebf-4986-3140-992e-5a3aa045997b)
+[06Dec2024 16:51:35.995] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-274, y=77, z=108} BlockPos{x=-274, y=78, z=108}
