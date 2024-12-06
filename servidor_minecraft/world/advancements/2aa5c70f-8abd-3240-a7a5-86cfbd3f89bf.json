@@ -1040,6 +1040,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-06 17:23:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-05 22:37:25 +0000"
@@ -1055,6 +1061,12 @@
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2024-12-05 22:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-06 17:23:28 +0000"
     },
     "done": true
   },
@@ -1145,6 +1157,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-06 17:15:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2024-12-06 17:21:52 +0000"
     },
     "done": true
   },
@@ -1544,6 +1562,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-06 17:23:28 +0000"
+    },
+    "done": true
+  },
   "windswept:recipes/decorations/red_mushroom_basket": {
     "criteria": {
       "has_red_mushroom": "2024-12-06 16:56:54 +0000"
@@ -1882,6 +1906,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-06 17:23:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-05 22:57:52 +0000"
@@ -1909,6 +1939,12 @@
   "environmental:recipes/transportation/wisteria_boat": {
     "criteria": {
       "in_water": "2024-12-05 22:30:46 +0000"
+    },
+    "done": true
+  },
+  "vinery:coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2024-12-06 17:22:54 +0000"
     },
     "done": true
   },
@@ -2426,6 +2462,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2024-12-06 16:44:27 +0000",
+      "apple": "2024-12-06 17:22:21 +0000",
       "bread": "2024-12-05 22:28:09 +0000",
       "rotten_flesh": "2024-12-06 16:32:27 +0000",
       "glow_berries": "2024-12-05 22:41:18 +0000"
@@ -3636,6 +3673,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-05 22:26:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-06 17:23:28 +0000"
     },
     "done": true
   },

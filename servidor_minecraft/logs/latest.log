@@ -4292,3 +4292,31 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [06Dec2024 17:15:09.296] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 40c05ebf-4986-3140-992e-5a3aa045997b
 [06Dec2024 17:15:09.347] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [06Dec2024 17:18:07.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Multi-Disciplined]
+[06Dec2024 17:25:30.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[06Dec2024 17:25:30.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Dec2024 17:25:30.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Dec2024 17:25:30.973] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zetreaa lost connection: Server closed
+[06Dec2024 17:25:30.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa left the game
+[06Dec2024 17:25:30.974] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 2aa5c70f-8abd-3240-a7a5-86cfbd3f89bf
+[06Dec2024 17:25:31.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Dec2024 17:25:32.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Dec2024 17:25:35.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Dec2024 17:25:35.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[06Dec2024 17:25:35.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[06Dec2024 17:25:35.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Dec2024 17:25:35.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[06Dec2024 17:25:35.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/l2library:maze
+[06Dec2024 17:25:35.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[06Dec2024 17:25:35.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[06Dec2024 17:25:35.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Dec2024 17:25:35.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Dec2024 17:25:35.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[06Dec2024 17:25:35.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[06Dec2024 17:25:35.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Dec2024 17:25:35.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[06Dec2024 17:25:35.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (maze): All chunks are saved
+[06Dec2024 17:25:35.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[06Dec2024 17:25:35.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[06Dec2024 17:25:35.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Dec2024 17:25:35.926] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[06Dec2024 17:25:35.934] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
