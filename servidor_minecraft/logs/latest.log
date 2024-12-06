@@ -4216,3 +4216,31 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [06Dec2024 23:37:04.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-27, y=76, z=77}
 [06Dec2024 23:37:05.156] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-28, y=77, z=78}
 [06Dec2024 23:37:37.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported ElJimmyy to zetreaa]
+[06Dec2024 23:39:09.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Bark Off]
+[06Dec2024 23:43:06.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to -352.500000, 16.500000, 68.500000]
+[06Dec2024 23:44:00.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Made ElJimmyy a server operator]
+[06Dec2024 23:44:03.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Bison
+[06Dec2024 23:44:09.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to -324.500000, 70.500000, 47.500000]
+[06Dec2024 23:45:50.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy fell from a high place
+[06Dec2024 23:46:04.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to -330.500000, 69.500000, -53.500000]
+[06Dec2024 23:46:17.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to -307.500000, 0.500000, -20.500000]
+[06Dec2024 23:46:30.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[06Dec2024 23:46:42.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Monster Hunter]
+[06Dec2024 23:46:43.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has reached the goal [This Belongs in a Museum]
+[06Dec2024 23:46:51.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Suit Up]
+[06Dec2024 23:47:33.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Stone Age]
+[06Dec2024 23:48:02.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Let the Game Begin!]
+[06Dec2024 23:48:48.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Acquire Hardware]
+[06Dec2024 23:49:02.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Isn't It Iron Pick]
+[06Dec2024 23:51:03.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to -178.500000, -18.500000, -14.500000]
+[06Dec2024 23:53:17.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[06Dec2024 23:54:23.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to -288.500000, 64.500000, 114.500000]
+[06Dec2024 23:55:01.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to -293.500000, 64.500000, 127.500000]
+[06Dec2024 23:55:11.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa was slain by Zombie
+[06Dec2024 23:55:17.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to -276.500000, 64.500000, 128.500000]
+[06Dec2024 23:55:19.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to -105.500000, -22.500000, 133.500000]
+[06Dec2024 23:55:50.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Diamonds!]
+[06Dec2024 23:56:20.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Spider
+[06Dec2024 23:56:21.083] [Netty Epoll Server IO #0/INFO] [mixin/]: Mixing common.MixinServerStatusSerializer from nochatreports.mixins.json into net.minecraft.network.protocol.status.ServerStatus$Serializer
+[06Dec2024 23:56:26.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to -106.500000, -26.500000, 125.500000]
+[06Dec2024 23:56:44.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Swiper, No Swiping!]

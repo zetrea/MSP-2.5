@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "6e8302dfe3003f3ebe2f9abcae59b880"
+	name: "ElJimmyy"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
