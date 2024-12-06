@@ -105,6 +105,12 @@
     },
     "done": true
   },
+  "vinery:vinemaker_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 17:15:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-05 22:55:27 +0000"
@@ -183,6 +189,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 17:15:51 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/flowering_azalea_boat": {
     "criteria": {
       "in_water": "2024-12-05 22:30:46 +0000"
@@ -204,6 +216,12 @@
   "stoneworks:recipes/stoneworks.main/diorite_paver_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-05 22:24:51 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/sterling_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-06 17:18:07 +0000"
     },
     "done": true
   },
@@ -345,6 +363,12 @@
     },
     "done": true
   },
+  "delightful:recipes/knives/silver_knife": {
+    "criteria": {
+      "has_silver": "2024-12-06 17:18:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2024-12-05 22:21:25 +0000"
@@ -414,6 +438,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-12-05 22:38:53 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/oak_ladder_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-12-06 17:16:22 +0000"
     },
     "done": true
   },
@@ -586,6 +616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 17:15:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2024-12-05 22:35:41 +0000"
@@ -742,6 +778,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/galosphere/combustion_table": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-06 17:18:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-05 22:30:46 +0000"
@@ -757,6 +799,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2024-12-05 22:32:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_ring": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 17:15:51 +0000"
     },
     "done": true
   },
@@ -843,13 +891,20 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-05 22:20:27 +0000",
       "minecraft:spider": "2024-12-05 22:30:33 +0000",
-      "minecraft:zombie": "2024-12-05 22:37:33 +0000"
+      "minecraft:zombie": "2024-12-05 22:37:33 +0000",
+      "minecraft:drowned": "2024-12-06 17:19:54 +0000"
     },
     "done": false
   },
   "another_furniture:recipes/spruce_drawer": {
     "criteria": {
       "has_planks": "2024-12-05 22:21:32 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/sterling_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-06 17:18:07 +0000"
     },
     "done": true
   },
@@ -1063,6 +1118,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/oak_trapdoor_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-12-06 17:16:22 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/galosphere/allurite_stairs": {
     "criteria": {
       "has_allurite_block": "2024-12-06 16:30:00 +0000"
@@ -1078,6 +1139,12 @@
   "backpacked:recipes/backpacked/oak_backpack_shelf": {
     "criteria": {
       "has_stick": "2024-12-05 22:21:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 17:15:51 +0000"
     },
     "done": true
   },
@@ -1102,6 +1169,12 @@
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2024-12-06 16:58:21 +0000"
+    },
+    "done": true
+  },
+  "vinery:grapevine_stem": {
+    "criteria": {
+      "has_oak_log": "2024-12-06 17:16:22 +0000"
     },
     "done": true
   },
@@ -1243,6 +1316,12 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/nethersdelight/golden_machete": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 17:15:51 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_drawer": {
     "criteria": {
       "has_planks": "2024-12-05 22:21:32 +0000"
@@ -1264,6 +1343,12 @@
   "another_furniture:recipes/jungle_drawer": {
     "criteria": {
       "has_planks": "2024-12-05 22:21:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-06 17:16:22 +0000"
     },
     "done": true
   },
@@ -1300,6 +1385,12 @@
   "stoneworks:recipes/stoneworks.main/cobbled_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-05 22:26:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 17:15:51 +0000"
     },
     "done": true
   },
@@ -1471,6 +1562,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/oak_pressure_plate_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-12-06 17:16:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-05 22:24:51 +0000"
@@ -1483,6 +1580,12 @@
     },
     "done": true
   },
+  "barteringstation:recipes/decorations/bartering_station": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 17:15:51 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/cracked_andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-05 22:25:23 +0000"
@@ -1492,6 +1595,12 @@
   "aether:recipes/building_blocks/ice_from_bucket_freezing": {
     "criteria": {
       "has_water_bucket": "2024-12-05 22:37:15 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/sterling_horse_armor_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-06 17:18:07 +0000"
     },
     "done": true
   },
@@ -1540,6 +1649,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-05 22:26:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 17:15:51 +0000"
     },
     "done": true
   },
@@ -1605,6 +1720,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/oak_planks_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-12-06 17:16:22 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/dark_oak_trapdoor_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-05 22:20:52 +0000"
@@ -1614,6 +1735,12 @@
   "handcrafted:recipes/misc/white_sheet": {
     "criteria": {
       "has_sheet": "2024-12-05 23:07:24 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/oak_fence_gate_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-12-06 17:16:22 +0000"
     },
     "done": true
   },
@@ -1810,6 +1937,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/oak_stairs_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-12-06 17:16:22 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/granite_tile_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-05 22:26:57 +0000"
@@ -1858,6 +1991,18 @@
     },
     "done": true
   },
+  "upgradednetherite:recipes/essences/gold_essence": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 17:15:51 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/oak_button_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-12-06 17:16:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2024-12-05 22:24:51 +0000"
@@ -1897,6 +2042,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2024-12-05 23:07:24 +0000"
+    },
+    "done": true
+  },
+  "shieldexp:recipes/golden_shield": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 17:15:51 +0000"
     },
     "done": true
   },
@@ -2050,6 +2201,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 17:15:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-05 22:24:51 +0000"
@@ -2137,6 +2294,12 @@
   "woodworks:recipes/decorations/mangrove_ladder": {
     "criteria": {
       "has_stick": "2024-12-05 22:21:32 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/spectre_flare": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-06 17:18:07 +0000"
     },
     "done": true
   },
@@ -2230,6 +2393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 17:15:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-12-06 16:55:32 +0000"
@@ -2248,6 +2417,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/galosphere/sterling_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-06 17:18:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2024-12-06 16:44:27 +0000",
@@ -2256,6 +2431,18 @@
       "glow_berries": "2024-12-05 22:41:18 +0000"
     },
     "done": false
+  },
+  "woodworks:recipes/building_blocks/oak_boards_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-12-06 17:16:22 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/sterling_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-06 17:18:07 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -2308,6 +2495,12 @@
   "woodworks:recipes/decorations/acacia_ladder": {
     "criteria": {
       "has_stick": "2024-12-05 22:21:32 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_palisade": {
+    "criteria": {
+      "has_log": "2024-12-06 17:16:22 +0000"
     },
     "done": true
   },
@@ -2440,6 +2633,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-05 22:32:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 17:15:51 +0000"
     },
     "done": true
   },
@@ -2611,6 +2810,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 17:15:51 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/granite_corner_trim": {
     "criteria": {
       "has_corner_trim": "2024-12-05 22:26:57 +0000"
@@ -2773,6 +2978,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/oak_fence_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-12-06 17:16:22 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/oak_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-05 22:23:43 +0000"
@@ -2782,6 +2993,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2024-12-06 16:28:07 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-06 17:18:07 +0000"
     },
     "done": true
   },
@@ -2930,6 +3147,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 17:15:51 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/spruce_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-05 22:23:43 +0000"
@@ -2969,6 +3192,12 @@
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2024-12-05 22:23:46 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/oak_door_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-12-06 17:16:22 +0000"
     },
     "done": true
   },
@@ -3038,15 +3267,33 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/oak_slab_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-12-06 17:16:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2024-12-05 23:07:24 +0000"
     },
     "done": true
   },
+  "aether:recipes/combat/golden_pendant": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 17:15:51 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_ladder": {
     "criteria": {
       "has_dry_bamboo": "2024-12-05 21:45:29 +0000"
+    },
+    "done": true
+  },
+  "vinery:stackable_log": {
+    "criteria": {
+      "has_oak_log": "2024-12-06 17:16:22 +0000"
     },
     "done": true
   },
@@ -3140,6 +3387,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 17:15:51 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bricks/mossy_bricks_from_moss_block": {
     "criteria": {
       "has_item": "2024-12-05 22:27:06 +0000"
@@ -3224,6 +3477,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/oak_sign_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-12-06 17:16:22 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_blocks/food_prep_table": {
     "criteria": {
       "has_item": "2024-12-05 22:31:23 +0000"
@@ -3248,6 +3507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 17:15:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2024-12-06 16:44:23 +0000"
@@ -3257,6 +3522,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-05 22:37:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves": {
+    "criteria": {
+      "has_gold": "2024-12-06 17:15:51 +0000"
     },
     "done": true
   },
@@ -3311,6 +3582,12 @@
   "stoneworks:recipes/stoneworks.main/cobbled_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-05 22:25:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-06 17:16:22 +0000"
     },
     "done": true
   },
@@ -3503,6 +3780,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/galosphere/silver_lattice": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-06 17:18:07 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_stairs": {
     "criteria": {
       "has_bundle": "2024-12-05 21:45:29 +0000"
@@ -3617,6 +3900,12 @@
     },
     "done": true
   },
+  "galosphere:adventure/silver_ingot": {
+    "criteria": {
+      "silver_ingot": "2024-12-06 17:18:07 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/diorite_tile_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-05 22:24:51 +0000"
@@ -3629,6 +3918,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/galosphere/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-06 17:18:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-05 22:32:34 +0000"
@@ -3638,6 +3933,12 @@
   "stoneworks:recipes/stoneworks.main/diorite_plate_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-05 22:24:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 17:15:51 +0000"
     },
     "done": true
   },
@@ -3704,6 +4005,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-12-05 22:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 17:15:51 +0000"
     },
     "done": true
   },

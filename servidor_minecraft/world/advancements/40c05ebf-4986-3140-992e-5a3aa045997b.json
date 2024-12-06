@@ -1,17 +1,4 @@
 {
-  "bambooeverything:recipes/dry_bamboo_fence_gate": {
-    "criteria": {
-      "has_dry_bundle": "2024-12-06 16:49:35 +0000",
-      "has_dry_bamboo": "2024-12-06 16:49:35 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2024-12-06 16:49:35 +0000"
-    },
-    "done": true
-  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2024-12-06 16:49:35 +0000"
@@ -25,27 +12,45 @@
     },
     "done": true
   },
-  "bambooeverything:recipes/bamboo_ladder": {
+  "deeperdarker:recipes/deeperdarker/echo_boat": {
     "criteria": {
-      "has_bamboo": "2024-12-06 16:49:35 +0000"
+      "in_water": "2024-12-06 17:14:31 +0000"
     },
     "done": true
   },
-  "cataclysm:root": {
+  "woodworks:recipes/decorations/dark_oak_sign_from_dark_oak_logs_sawing": {
     "criteria": {
-      "custom_test_name": "2024-12-06 16:49:35 +0000"
+      "has_dark_oak_logs": "2024-12-06 17:12:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
+  "aether_redux:recipes/transportation/blightwillow_boat": {
     "criteria": {
-      "has_egg": "2024-12-06 17:10:54 +0000"
+      "in_water": "2024-12-06 17:14:31 +0000"
     },
     "done": true
   },
-  "bambooeverything:recipes/dry_bamboo_bundle": {
+  "aether_redux:recipes/transportation/fieldsprout_boat": {
     "criteria": {
-      "has_dry_bamboo": "2024-12-06 16:49:34 +0000"
+      "in_water": "2024-12-06 17:14:31 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 17:14:31 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_palisade": {
+    "criteria": {
+      "has_log": "2024-12-06 17:12:04 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 17:14:31 +0000"
     },
     "done": true
   },
@@ -55,21 +60,15 @@
     },
     "done": true
   },
-  "aether:recipes/combat/shield_repairing": {
+  "woodworks:recipes/redstone/dark_oak_button_from_dark_oak_logs_sawing": {
     "criteria": {
-      "has_shield": "2024-12-06 16:49:36 +0000"
+      "has_dark_oak_logs": "2024-12-06 17:12:04 +0000"
     },
     "done": true
   },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2024-12-06 16:49:34 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2024-12-06 16:49:35 +0000"
     },
     "done": true
   },
@@ -112,9 +111,9 @@
     },
     "done": true
   },
-  "incubation:recipes/food/fried_egg": {
+  "woodworks:recipes/building_blocks/dark_oak_planks_from_dark_oak_logs_sawing": {
     "criteria": {
-      "has_eggs": "2024-12-06 17:10:54 +0000"
+      "has_dark_oak_logs": "2024-12-06 17:12:04 +0000"
     },
     "done": true
   },
@@ -132,19 +131,26 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:dark_forest": "2024-12-06 16:49:36 +0000"
+      "minecraft:dark_forest": "2024-12-06 16:49:36 +0000",
+      "minecraft:river": "2024-12-06 17:14:31 +0000"
     },
     "done": false
-  },
-  "incubation:recipes/food/fried_egg_from_campfire_cooking": {
-    "criteria": {
-      "has_eggs": "2024-12-06 17:10:54 +0000"
-    },
-    "done": true
   },
   "bambooeverything:recipes/bamboo_door": {
     "criteria": {
       "has_bundle": "2024-12-06 16:49:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-06 17:12:04 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/dark_oak_trapdoor_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2024-12-06 17:12:04 +0000"
     },
     "done": true
   },
@@ -166,21 +172,9 @@
     },
     "done": true
   },
-  "frosted_friends:frosted_friends": {
+  "woodworks:recipes/redstone/dark_oak_door_from_dark_oak_logs_sawing": {
     "criteria": {
-      "frosted_friends": "2024-12-06 16:49:35 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/leather_boots_repairing": {
-    "criteria": {
-      "has_leather_boots": "2024-12-06 16:49:36 +0000"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_log": {
-    "criteria": {
-      "has_recipe": "2024-12-06 16:49:34 +0000"
+      "has_dark_oak_logs": "2024-12-06 17:12:04 +0000"
     },
     "done": true
   },
@@ -196,6 +190,289 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 17:14:31 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/misc/charcoal_from_baking": {
+    "criteria": {
+      "has_log": "2024-12-06 17:12:04 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/flowering_azalea_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 17:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 17:14:31 +0000"
+    },
+    "done": true
+  },
+  "incubation:recipes/food/scrambled_eggs": {
+    "criteria": {
+      "has_eggs": "2024-12-06 17:10:54 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/bamboo_bundle_uncrafting": {
+    "criteria": {
+      "has_bundle": "2024-12-06 16:49:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 17:14:31 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cake_compat": {
+    "criteria": {
+      "has_item": "2024-12-06 17:10:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-06 17:12:04 +0000"
+    },
+    "done": true
+  },
+  "incubation:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "has_eggs": "2024-12-06 17:10:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-06 17:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 17:14:31 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/bamboo_slab": {
+    "criteria": {
+      "has_bundle": "2024-12-06 16:49:35 +0000"
+    },
+    "done": true
+  },
+  "incubation:recipes/decorations/chicken_egg_crate": {
+    "criteria": {
+      "has_egg": "2024-12-06 17:10:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 17:14:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg": {
+    "criteria": {
+      "fried_egg": "2024-12-06 17:10:54 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/dry_bamboo_fence_gate": {
+    "criteria": {
+      "has_dry_bundle": "2024-12-06 16:49:35 +0000",
+      "has_dry_bamboo": "2024-12-06 16:49:35 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/dark_oak_ladder_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2024-12-06 17:12:04 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/transportation/holly_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 17:14:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-06 16:49:35 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/cloudcap_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 17:14:31 +0000"
+    },
+    "done": true
+  },
+  "goodending:recipes/cypress_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 17:14:31 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/dark_oak_stairs_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2024-12-06 17:12:04 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 17:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 17:14:31 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/bamboo_ladder": {
+    "criteria": {
+      "has_bamboo": "2024-12-06 16:49:35 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-06 16:49:35 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/dark_oak_fence_gate_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2024-12-06 17:12:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-06 17:10:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-06 17:12:04 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/dry_bamboo_bundle": {
+    "criteria": {
+      "has_dry_bamboo": "2024-12-06 16:49:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 17:14:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2024-12-06 16:49:36 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-06 16:49:35 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/transportation/wisteria_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 17:14:31 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/springshroom_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 17:14:31 +0000"
+    },
+    "done": true
+  },
+  "incubation:recipes/food/fried_egg": {
+    "criteria": {
+      "has_eggs": "2024-12-06 17:10:54 +0000"
+    },
+    "done": true
+  },
+  "incubation:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "has_eggs": "2024-12-06 17:10:54 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/crystal_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 17:14:31 +0000"
+    },
+    "done": true
+  },
+  "goodending:recipes/muddy_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 17:14:31 +0000"
+    },
+    "done": true
+  },
+  "frosted_friends:frosted_friends": {
+    "criteria": {
+      "frosted_friends": "2024-12-06 16:49:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_boots_repairing": {
+    "criteria": {
+      "has_leather_boots": "2024-12-06 16:49:36 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/transportation/chestnut_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 17:14:31 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2024-12-06 16:49:34 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/dark_oak_boards_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2024-12-06 17:12:04 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 17:14:31 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/dark_oak_fence_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2024-12-06 17:12:04 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2024-12-06 16:49:34 +0000"
@@ -208,33 +485,27 @@
     },
     "done": true
   },
-  "incubation:recipes/food/scrambled_eggs": {
-    "criteria": {
-      "has_eggs": "2024-12-06 17:10:54 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2024-12-06 17:10:54 +0000"
     },
     "done": true
   },
-  "bambooeverything:recipes/bamboo_bundle_uncrafting": {
+  "windswept:recipes/misc/wooden_bucket": {
     "criteria": {
-      "has_bundle": "2024-12-06 16:49:35 +0000"
+      "has_log": "2024-12-06 17:12:04 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/food/cake_compat": {
+  "aether_redux:recipes/transportation/glacia_boat": {
     "criteria": {
-      "has_item": "2024-12-06 17:10:54 +0000"
+      "in_water": "2024-12-06 17:14:31 +0000"
     },
     "done": true
   },
-  "incubation:recipes/food/fried_egg_from_smoking": {
+  "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
-      "has_eggs": "2024-12-06 17:10:54 +0000"
+      "in_water": "2024-12-06 17:14:31 +0000"
     },
     "done": true
   },
@@ -251,9 +522,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "ecologics:recipes/ecologics/azalea_boat": {
     "criteria": {
-      "killed_by_something": "2024-12-06 17:02:45 +0000"
+      "in_water": "2024-12-06 17:14:31 +0000"
     },
     "done": true
   },
@@ -264,33 +535,27 @@
     },
     "done": true
   },
-  "bambooeverything:recipes/bamboo_slab": {
-    "criteria": {
-      "has_bundle": "2024-12-06 16:49:35 +0000"
-    },
-    "done": true
-  },
   "bambooeverything:recipes/dry_bamboo_bundle_uncrafting": {
     "criteria": {
       "has_dry_bundle": "2024-12-06 16:49:34 +0000"
     },
     "done": true
   },
-  "incubation:recipes/decorations/chicken_egg_crate": {
+  "woodworks:recipes/building_blocks/dark_oak_slab_from_dark_oak_logs_sawing": {
     "criteria": {
-      "has_egg": "2024-12-06 17:10:54 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/fried_egg": {
-    "criteria": {
-      "fried_egg": "2024-12-06 17:10:54 +0000"
+      "has_dark_oak_logs": "2024-12-06 17:12:04 +0000"
     },
     "done": true
   },
   "repurposed_structures:root": {
     "criteria": {
       "always": "2024-12-06 16:49:35 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/dark_oak_pressure_plate_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2024-12-06 17:12:04 +0000"
     },
     "done": true
   },

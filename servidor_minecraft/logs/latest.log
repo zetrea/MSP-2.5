@@ -4285,3 +4285,10 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [06Dec2024 17:10:31.071] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-23, y=77, z=84} BlockPos{x=-25, y=69, z=65}
 [06Dec2024 17:10:31.107] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-23, y=77, z=84} BlockPos{x=-25, y=70, z=65}
 [06Dec2024 17:10:31.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-23, y=77, z=84} BlockPos{x=-25, y=71, z=65}
+[06Dec2024 17:15:02.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: phaaq was shot by Skeleton
+[06Dec2024 17:15:09.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: phaaq was kicked for floating too long!
+[06Dec2024 17:15:09.293] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: phaaq lost connection: Flying is not enabled on this server
+[06Dec2024 17:15:09.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: phaaq left the game
+[06Dec2024 17:15:09.296] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 40c05ebf-4986-3140-992e-5a3aa045997b
+[06Dec2024 17:15:09.347] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Dec2024 17:18:07.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Multi-Disciplined]
