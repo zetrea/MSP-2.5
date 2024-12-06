@@ -37,6 +37,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-06 17:10:54 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_bundle": {
     "criteria": {
       "has_dry_bamboo": "2024-12-06 16:49:34 +0000"
@@ -76,9 +82,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2024-12-06 17:10:54 +0000"
+    },
+    "done": true
+  },
   "byg:root": {
     "criteria": {
       "tick": "2024-12-06 16:49:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-06 17:10:54 +0000"
     },
     "done": true
   },
@@ -91,6 +109,12 @@
   "bambooeverything:recipes/dry_bamboo_door": {
     "criteria": {
       "has_dry_bundle": "2024-12-06 16:49:35 +0000"
+    },
+    "done": true
+  },
+  "incubation:recipes/food/fried_egg": {
+    "criteria": {
+      "has_eggs": "2024-12-06 17:10:54 +0000"
     },
     "done": true
   },
@@ -111,6 +135,12 @@
       "minecraft:dark_forest": "2024-12-06 16:49:36 +0000"
     },
     "done": false
+  },
+  "incubation:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "has_eggs": "2024-12-06 17:10:54 +0000"
+    },
+    "done": true
   },
   "bambooeverything:recipes/bamboo_door": {
     "criteria": {
@@ -154,6 +184,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-06 17:10:54 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_slab": {
     "criteria": {
       "has_dry_bundle": "2024-12-06 16:49:35 +0000"
@@ -172,9 +208,33 @@
     },
     "done": true
   },
+  "incubation:recipes/food/scrambled_eggs": {
+    "criteria": {
+      "has_eggs": "2024-12-06 17:10:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2024-12-06 17:10:54 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_bundle_uncrafting": {
     "criteria": {
       "has_bundle": "2024-12-06 16:49:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cake_compat": {
+    "criteria": {
+      "has_item": "2024-12-06 17:10:54 +0000"
+    },
+    "done": true
+  },
+  "incubation:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "has_eggs": "2024-12-06 17:10:54 +0000"
     },
     "done": true
   },
@@ -182,6 +242,18 @@
     "criteria": {
       "has_bamboo": "2024-12-06 16:49:34 +0000",
       "has_bundle": "2024-12-06 16:49:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2024-12-06 17:10:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-06 17:02:45 +0000"
     },
     "done": true
   },
@@ -201,6 +273,18 @@
   "bambooeverything:recipes/dry_bamboo_bundle_uncrafting": {
     "criteria": {
       "has_dry_bundle": "2024-12-06 16:49:34 +0000"
+    },
+    "done": true
+  },
+  "incubation:recipes/decorations/chicken_egg_crate": {
+    "criteria": {
+      "has_egg": "2024-12-06 17:10:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg": {
+    "criteria": {
+      "fried_egg": "2024-12-06 17:10:54 +0000"
     },
     "done": true
   },

@@ -3374,6 +3374,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2024-12-06 17:05:18 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/granite_shingle_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-05 22:26:57 +0000"
