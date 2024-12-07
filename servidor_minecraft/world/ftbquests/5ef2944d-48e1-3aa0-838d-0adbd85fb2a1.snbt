@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "5ef2944d48e13aa0838d0adbd85fb2a1"
+	name: "rxci_"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
