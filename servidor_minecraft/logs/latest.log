@@ -4178,3 +4178,19 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [07Dec2024 04:23:55.803] [Server thread/WARN] [ModernFix/]: Dedicated server took 193.14 seconds to load
 [07Dec2024 04:27:31.144] [Netty Epoll Server IO #2/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
 [07Dec2024 04:27:33.341] [Netty Epoll Server IO #2/INFO] [mixin/]: Mixing common.MixinServerStatusSerializer from nochatreports.mixins.json into net.minecraft.network.protocol.status.ServerStatus$Serializer
+[07Dec2024 05:17:43.107] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[07Dec2024 05:17:43.596] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@51f127ee
+[07Dec2024 05:17:43.712] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zetreaa[/[0:0:0:0:0:0:0:1%0]:55446] logged in with entity id 163 at (211.1788384570607, 49.0, 655.3059220523936)
+[07Dec2024 05:17:43.835] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zetreaa
+[07Dec2024 05:17:43.839] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zetreaa
+[07Dec2024 05:17:43.842] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zetreaa
+[07Dec2024 05:17:43.844] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zetreaa
+[07Dec2024 05:17:43.872] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zetreaa
+[07Dec2024 05:17:43.888] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zetreaa
+[07Dec2024 05:17:43.890] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zetreaa
+[07Dec2024 05:17:44.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa joined the game
+[07Dec2024 05:17:44.654] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 2aa5c70f-8abd-3240-a7a5-86cfbd3f89bf
+[07Dec2024 05:17:44.842] [Server thread/INFO] [Jade/]: Syncing config to zetreaa (2aa5c70f-8abd-3240-a7a5-86cfbd3f89bf)
+[07Dec2024 05:17:47.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3944ms or 78 ticks behind
+[07Dec2024 05:18:09.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7003ms or 140 ticks behind
+[07Dec2024 05:18:40.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to 231.500000, 74.500000, 693.500000]
