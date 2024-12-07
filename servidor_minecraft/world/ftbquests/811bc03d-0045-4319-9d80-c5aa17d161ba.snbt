@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "811bc03d004543199d80c5aa17d161ba"
+	name: "zetreaa"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
