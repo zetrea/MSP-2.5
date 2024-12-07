@@ -122,6 +122,12 @@
     },
     "done": true
   },
+  "vinery:loam": {
+    "criteria": {
+      "has_clay_ball": "2024-12-07 23:32:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2024-12-06 19:32:14 +0000"
@@ -1109,6 +1115,12 @@
   "stoneworks:recipes/stoneworks.main/tuff_shingles_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-06 23:50:52 +0000"
+    },
+    "done": true
+  },
+  "shieldexp:get_diamond_shield": {
+    "criteria": {
+      "diamond_shield": "2024-12-07 23:37:48 +0000"
     },
     "done": true
   },
@@ -3206,6 +3218,7 @@
       "byg:coconino_meadow": "2024-12-07 01:49:08 +0000",
       "byg:allium_fields": "2024-12-07 22:41:44 +0000",
       "byg:redwood_thicket": "2024-12-06 16:34:09 +0000",
+      "byg:fragment_forest": "2024-12-07 23:33:17 +0000",
       "byg:white_mangrove_marshes": "2024-12-07 01:53:24 +0000",
       "byg:firecracker_shrubland": "2024-12-05 23:09:24 +0000",
       "byg:subzero_hypogeal": "2024-12-07 02:59:52 +0000",
@@ -3327,6 +3340,12 @@
   "twigs:recipes/smooth_stone_bricks/smooth_stone_bricks": {
     "criteria": {
       "has_smooth_stone": "2024-12-06 19:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-07 23:25:46 +0000"
     },
     "done": true
   },
@@ -3959,6 +3978,12 @@
     "criteria": {
       "has_bamboo": "2024-12-05 21:45:29 +0000",
       "has_bundle": "2024-12-05 21:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-07 23:32:05 +0000"
     },
     "done": true
   },
@@ -4673,6 +4698,12 @@
   "stoneworks:recipes/stoneworks.main/sandstone_tile_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-07 01:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-07 23:32:05 +0000"
     },
     "done": true
   },
@@ -6809,6 +6840,12 @@
   "stoneworks:recipes/stoneworks.main/sandstone_shingle_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-07 01:01:30 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/misc/brick_from_baking": {
+    "criteria": {
+      "has_clay_ball": "2024-12-07 23:32:05 +0000"
     },
     "done": true
   },

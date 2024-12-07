@@ -4331,3 +4331,42 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [07Dec2024 23:13:30.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5407ms or 108 ticks behind
 [07Dec2024 23:13:50.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
 [07Dec2024 23:14:07.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22407ms or 448 ticks behind
+[07Dec2024 23:25:09.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa was slain by ElJimmyy
+[07Dec2024 23:25:16.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to 210.500000, 49.500000, 657.500000]
+[07Dec2024 23:25:46.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Take Aim]
+[07Dec2024 23:26:06.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Cover Me with Diamonds]
+[07Dec2024 23:27:20.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Enchanter]
+[07Dec2024 23:28:18.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to 231.500000, 14.500000, 469.500000]
+[07Dec2024 23:28:57.059] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/31254, l='ServerLevel[world]', x=200.50, y=72.00, z=404.50]
+[07Dec2024 23:29:14.664] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/31333, l='ServerLevel[world]', x=187.50, y=74.00, z=386.50]
+[07Dec2024 23:29:21.208] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/31369, l='ServerLevel[world]', x=239.50, y=73.00, z=390.50]
+[07Dec2024 23:29:26.863] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/31417, l='ServerLevel[world]', x=210.50, y=70.00, z=520.50]
+[07Dec2024 23:30:09.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Crops of the Wild]
+[07Dec2024 23:30:09.759] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/31633, l='ServerLevel[world]', x=189.50, y=74.00, z=386.50]
+[07Dec2024 23:30:11.966] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/31642, l='ServerLevel[world]', x=223.50, y=70.00, z=411.50]
+[07Dec2024 23:30:24.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[07Dec2024 23:30:45.361] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/31765, l='ServerLevel[world]', x=250.50, y=71.00, z=446.50]
+[07Dec2024 23:31:03.109] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/31823, l='ServerLevel[world]', x=202.50, y=72.00, z=405.50]
+[07Dec2024 23:31:03.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to 1242.500000, 1.500000, 2734.500000]
+[07Dec2024 23:31:37.311] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/32397, l='ServerLevel[world]', x=221.50, y=70.00, z=413.50]
+[07Dec2024 23:31:40.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to 1272.500000, -15.500000, 2825.500000]
+[07Dec2024 23:31:45.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2647ms or 52 ticks behind
+[07Dec2024 23:31:50.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to 409.500000, 12.500000, 575.500000]
+[07Dec2024 23:32:03.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3027ms or 60 ticks behind
+[07Dec2024 23:33:17.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to 1405.500000, -23.500000, 2893.500000]
+[07Dec2024 23:33:47.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[07Dec2024 23:34:08.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to 1302.500000, -23.500000, 2963.500000]
+[07Dec2024 23:34:24.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to 1305.500000, -28.500000, 3043.500000]
+[07Dec2024 23:35:12.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to 1298.500000, -21.500000, 3107.500000]
+[07Dec2024 23:35:38.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to 1221.500000, -20.500000, 3184.500000]
+[07Dec2024 23:37:47.259] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/36066, l='ServerLevel[world]', x=302.50, y=78.00, z=417.50]
+[07Dec2024 23:37:48.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Diamond is Unbreakable]
+[07Dec2024 23:38:10.104] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/36228, l='ServerLevel[world]', x=270.50, y=72.00, z=440.50]
+[07Dec2024 23:38:36.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to 1181.500000, -48.500000, 3277.500000]
+[07Dec2024 23:38:43.214] [Worker-Main-50/WARN] [ModernFix/]: The namespace ecologics contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[07Dec2024 23:38:49.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11113ms or 222 ticks behind
+[07Dec2024 23:38:51.259] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/36513, l='ServerLevel[world]', x=222.50, y=74.00, z=419.50]
+[07Dec2024 23:38:55.202] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/36550, l='ServerLevel[world]', x=222.50, y=74.00, z=418.50]
+[07Dec2024 23:38:56.012] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/36560, l='ServerLevel[world]', x=268.50, y=72.00, z=441.50]
+[07Dec2024 23:39:19.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
+[07Dec2024 23:39:36.926] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2670ms or 53 ticks behind

@@ -1,4 +1,10 @@
 {
+  "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-07 23:29:04 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/walnut_boat": {
     "criteria": {
       "in_water": "2024-12-06 23:43:30 +0000"
@@ -92,6 +98,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-07 23:24:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2024-12-06 23:39:31 +0000"
@@ -143,6 +155,12 @@
   "aether_redux:recipes/transportation/cloudcap_boat": {
     "criteria": {
       "in_water": "2024-12-06 23:43:30 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall": {
+    "criteria": {
+      "has_item": "2024-12-07 23:29:04 +0000"
     },
     "done": true
   },
@@ -458,6 +476,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-07 23:29:04 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/spruce_drawer": {
     "criteria": {
       "has_planks": "2024-12-06 23:42:59 +0000"
@@ -527,6 +551,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_granite_brick_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-07 01:09:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2024-12-07 23:26:11 +0000"
     },
     "done": true
   },
@@ -962,6 +992,12 @@
     },
     "done": true
   },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_bricks_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-07 23:24:55 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/dark_oak_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-06 23:39:09 +0000"
@@ -1085,6 +1121,12 @@
   "stoneworks:recipes/stoneworks.main/andesite_shingle_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-07 01:15:19 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-07 23:29:04 +0000"
     },
     "done": true
   },
@@ -1434,6 +1476,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-07 01:24:12 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-07 23:29:04 +0000"
     },
     "done": true
   },
@@ -1821,6 +1869,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2024-12-07 23:30:09 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/dark_oak_stairs_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-06 23:39:00 +0000"
@@ -1854,6 +1908,12 @@
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2024-12-06 23:47:24 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-07 23:24:55 +0000"
     },
     "done": true
   },
@@ -2035,6 +2095,12 @@
     },
     "done": false
   },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2024-12-07 23:26:06 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/andesite_corner_trim": {
     "criteria": {
       "has_corner_trim": "2024-12-07 01:15:19 +0000"
@@ -2068,6 +2134,12 @@
   "farmersdelight:recipes/farmersdelight/diamond_knife": {
     "criteria": {
       "has_diamond": "2024-12-06 23:55:50 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_bricks": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-07 23:24:55 +0000"
     },
     "done": true
   },
@@ -2122,6 +2194,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2024-12-07 01:09:24 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_slab": {
+    "criteria": {
+      "has_item": "2024-12-07 23:29:04 +0000"
     },
     "done": true
   },
@@ -2306,6 +2384,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-07 23:26:06 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/flowering_azalea_boat": {
     "criteria": {
       "in_water": "2024-12-06 23:43:30 +0000"
@@ -2441,6 +2525,12 @@
   "vinery:grapevine_lattice": {
     "criteria": {
       "has_stick": "2024-12-06 23:42:59 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite": {
+    "criteria": {
+      "has_item": "2024-12-07 23:29:04 +0000"
     },
     "done": true
   },
@@ -2679,6 +2769,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_stairs": {
+    "criteria": {
+      "has_item": "2024-12-07 23:29:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
       "has_stick": "2024-12-06 23:42:59 +0000"
@@ -2748,6 +2844,7 @@
       "quark:forgotten": "2024-12-06 23:46:42 +0000",
       "minecraft:witch": "2024-12-07 00:59:22 +0000",
       "minecraft:cave_spider": "2024-12-07 01:47:01 +0000",
+      "minecraft:enderman": "2024-12-07 23:33:25 +0000",
       "minecraft:zombie": "2024-12-07 00:00:22 +0000"
     },
     "done": false
@@ -2755,6 +2852,12 @@
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2024-12-06 23:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-07 23:27:20 +0000"
     },
     "done": true
   },
@@ -2905,6 +3008,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/dark_oak_seat": {
     "criteria": {
       "has_plank": "2024-12-06 23:39:31 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-07 23:29:04 +0000"
     },
     "done": true
   },
@@ -3392,6 +3501,12 @@
     },
     "done": true
   },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_wall_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-07 23:24:55 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
       "dirt": "2024-12-07 22:59:52 +0000"
@@ -3754,6 +3869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-07 23:24:55 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_diorite_brick_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-07 01:24:12 +0000"
@@ -3980,6 +4101,12 @@
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2024-12-07 23:01:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-07 23:24:55 +0000"
     },
     "done": true
   },
@@ -4640,6 +4767,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-06 23:55:50 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_stairs_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-07 23:24:55 +0000"
     },
     "done": true
   },
