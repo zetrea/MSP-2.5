@@ -1,0 +1,17 @@
+{
+	id: "5d7e779e-3e9a-30be-92d8-fc4b2445a9ad"
+	type: "player"
+	player_name: "7Pakass"
+	ranks: {
+		5d7e779e-3e9a-30be-92d8-fc4b2445a9ad: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "7Pakass"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5980"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -8,3 +8,113 @@
 [07Dec2024 00:08:00.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to -47.500000, -41.500000, -38.500000]
 [07Dec2024 00:08:25.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to -288.500000, 64.500000, 114.500000]
 [07Dec2024 00:09:15.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to -71.500000, -44.500000, -91.500000]
+[07Dec2024 00:09:18.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Undead Miner
+[07Dec2024 00:09:25.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to -67.500000, -43.500000, -95.500000]
+[07Dec2024 00:09:46.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Enchanter]
+[07Dec2024 00:10:09.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Glorious Eminence]
+[07Dec2024 00:10:17.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to -16.500000, -53.500000, 160.500000]
+[07Dec2024 00:10:39.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[07Dec2024 00:12:27.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa was slain by Enderman
+[07Dec2024 00:12:33.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to -14.500000, -13.500000, 109.500000]
+[07Dec2024 00:14:42.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[07Dec2024 00:16:38.777] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/13818, l='ServerLevel[world]', x=97.50, y=57.00, z=440.50]
+[07Dec2024 00:16:44.392] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/13893, l='ServerLevel[world]', x=36.50, y=58.00, z=299.50]
+[07Dec2024 00:16:46.589] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/13929, l='ServerLevel[world]', x=39.50, y=58.00, z=305.50]
+[07Dec2024 00:16:47.516] [Worker-Main-28/WARN] [ModernFix/]: The namespace blue_skies contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[07Dec2024 00:16:54.215] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/14004, l='ServerLevel[world]', x=99.50, y=52.00, z=445.50]
+[07Dec2024 00:17:56.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to -157.500000, 6.500000, 501.500000]
+[07Dec2024 00:18:00.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[07Dec2024 00:19:13.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Hide and Seek]
+[07Dec2024 00:19:33.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[07Dec2024 00:21:15.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to -15.500000, -7.500000, 9.500000]
+[07Dec2024 00:23:08.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported ElJimmyy to zetreaa]
+[07Dec2024 00:24:21.069] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@12ad840
+[07Dec2024 00:24:21.205] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 7Pakass[/[0:0:0:0:0:0:0:1%0]:46024] logged in with entity id 16209 at (-27.5, 69.0, 70.5)
+[07Dec2024 00:24:21.225] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to 7Pakass
+[07Dec2024 00:24:21.226] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to 7Pakass
+[07Dec2024 00:24:21.226] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to 7Pakass
+[07Dec2024 00:24:21.226] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to 7Pakass
+[07Dec2024 00:24:21.229] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to 7Pakass
+[07Dec2024 00:24:21.258] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to 7Pakass
+[07Dec2024 00:24:21.258] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to 7Pakass
+[07Dec2024 00:24:21.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7Pakass joined the game
+[07Dec2024 00:24:21.627] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5d7e779e-3e9a-30be-92d8-fc4b2445a9ad
+[07Dec2024 00:24:21.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7Pakass has made the advancement [Frosted Friends]
+[07Dec2024 00:24:22.222] [Server thread/INFO] [Jade/]: Syncing config to 7Pakass (5d7e779e-3e9a-30be-92d8-fc4b2445a9ad)
+[07Dec2024 00:24:34.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElJimmyy> siete pakaaaaaaaaaaas
+[07Dec2024 00:24:34.552] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zetreaa lost connection: Timed out
+[07Dec2024 00:24:34.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa left the game
+[07Dec2024 00:24:34.554] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 2aa5c70f-8abd-3240-a7a5-86cfbd3f89bf
+[07Dec2024 00:24:34.608] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Dec2024 00:24:38.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElJimmyy> XD
+[07Dec2024 00:24:55.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <7Pakass> aaaaa misfps
+[07Dec2024 00:24:56.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-29, y=71, z=74}
+[07Dec2024 00:25:03.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElJimmyy> A mi me va 200
+[07Dec2024 00:25:27.490] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@734373f
+[07Dec2024 00:25:27.514] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zetreaa[/[0:0:0:0:0:0:0:1%0]:43492] logged in with entity id 16706 at (0.699999988079071, -27.0, 192.7610495934382)
+[07Dec2024 00:25:27.523] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zetreaa
+[07Dec2024 00:25:27.527] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zetreaa
+[07Dec2024 00:25:27.527] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zetreaa
+[07Dec2024 00:25:27.528] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zetreaa
+[07Dec2024 00:25:27.530] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zetreaa
+[07Dec2024 00:25:27.536] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zetreaa
+[07Dec2024 00:25:27.536] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zetreaa
+[07Dec2024 00:25:27.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa joined the game
+[07Dec2024 00:25:27.794] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 2aa5c70f-8abd-3240-a7a5-86cfbd3f89bf
+[07Dec2024 00:25:27.799] [Server thread/INFO] [Jade/]: Syncing config to zetreaa (2aa5c70f-8abd-3240-a7a5-86cfbd3f89bf)
+[07Dec2024 00:25:27.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <7Pakass> y mi skin
+[07Dec2024 00:25:36.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElJimmyy> lo pusieron para pobres
+[07Dec2024 00:25:41.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <7Pakass> bro
+[07Dec2024 00:25:42.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <7Pakass> pq
+[07Dec2024 00:25:47.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <7Pakass> los q no tiene q compren
+[07Dec2024 00:25:48.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElJimmyy> idk
+[07Dec2024 00:25:49.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <7Pakass> ponelo premium
+[07Dec2024 00:25:57.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <7Pakass> ok ya me cargo el mundo
+[07Dec2024 00:25:59.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zetreaa> ahorita viene nara y su gang invita a cepi y los pendejos esos
+[07Dec2024 00:25:59.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <7Pakass> 120 fps
+[07Dec2024 00:26:02.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <7Pakass> chat
+[07Dec2024 00:26:07.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElJimmyy> nice
+[07Dec2024 00:26:08.286] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/16975, l='ServerLevel[world]', x=159.50, y=75.00, z=367.50]
+[07Dec2024 00:26:08.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <7Pakass> ponlo premium
+[07Dec2024 00:26:09.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <7Pakass> ponlo premium
+[07Dec2024 00:26:09.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <7Pakass> ponlo premium
+[07Dec2024 00:26:10.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <7Pakass> ponlo premium
+[07Dec2024 00:26:25.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zetreaa> Ok w pero no te burles de mi match
+[07Dec2024 00:26:29.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <7Pakass> XD
+[07Dec2024 00:26:31.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <7Pakass> AJAJJAJAJAJA
+[07Dec2024 00:26:33.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zetreaa> ok
+[07Dec2024 00:26:35.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElJimmyy> calavera calavera
+[07Dec2024 00:26:52.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to -288.500000, 64.500000, 114.500000]
+[07Dec2024 00:26:56.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported ElJimmyy to zetreaa]
+[07Dec2024 00:27:02.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported 7Pakass to zetreaa]
+[07Dec2024 00:29:48.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa was slain by 7Pakass
+[07Dec2024 00:30:08.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to -284.500000, 63.500000, 111.500000]
+[07Dec2024 00:30:10.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7Pakass has made the advancement [Suit Up]
+[07Dec2024 00:31:13.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07Dec2024 00:31:14.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Dec2024 00:31:14.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Dec2024 00:31:14.086] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElJimmyy lost connection: Server closed
+[07Dec2024 00:31:14.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy left the game
+[07Dec2024 00:31:14.088] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 6e8302df-e300-3f3e-be2f-9abcae59b880
+[07Dec2024 00:31:14.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Dec2024 00:31:14.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Dec2024 00:31:15.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/l2library:maze
+[07Dec2024 00:31:15.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[07Dec2024 00:31:15.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Dec2024 00:31:15.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[07Dec2024 00:31:15.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[07Dec2024 00:31:15.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[07Dec2024 00:31:15.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Dec2024 00:31:15.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[07Dec2024 00:31:15.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Dec2024 00:31:15.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (maze): All chunks are saved
+[07Dec2024 00:31:15.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[07Dec2024 00:31:15.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Dec2024 00:31:15.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[07Dec2024 00:31:15.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[07Dec2024 00:31:15.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[07Dec2024 00:31:15.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Dec2024 00:31:15.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[07Dec2024 00:31:15.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Dec2024 00:31:15.569] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[07Dec2024 00:31:15.573] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!

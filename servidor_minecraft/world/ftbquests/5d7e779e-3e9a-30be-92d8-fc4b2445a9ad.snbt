@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "5d7e779e3e9a30be92d8fc4b2445a9ad"
+	name: "7Pakass"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

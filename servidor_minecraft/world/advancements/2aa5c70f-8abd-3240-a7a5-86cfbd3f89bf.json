@@ -278,6 +278,12 @@
     },
     "done": true
   },
+  "environmental:recipes/building_blocks/cherry_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-07 00:09:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-05 22:32:34 +0000"
@@ -305,6 +311,18 @@
   "stoneworks:recipes/stoneworks.main/cracked_granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-05 22:26:57 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/acacia_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-07 00:09:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-07 00:09:22 +0000"
     },
     "done": true
   },
@@ -626,6 +644,12 @@
     },
     "done": true
   },
+  "environmental:recipes/building_blocks/willow_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-07 00:09:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-05 22:21:25 +0000"
@@ -914,6 +938,12 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2024-12-07 00:09:22 +0000"
+    },
+    "done": true
+  },
   "sculked:sculked_root": {
     "criteria": {
       "sculked_root": "2024-12-06 16:33:34 +0000"
@@ -1040,6 +1070,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everbright_blocks/bluebright_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-07 00:09:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-05 22:21:25 +0000"
@@ -1139,6 +1175,12 @@
   "woodworks:recipes/building_blocks/oak_planks_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-06 17:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-07 00:09:10 +0000"
     },
     "done": true
   },
@@ -1568,6 +1610,12 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/complete_hide_and_seek_game": {
+    "criteria": {
+      "friendsandfoes:complete_hide_and_seek_game": "2024-12-07 00:19:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-12-06 16:55:32 +0000"
@@ -1583,6 +1631,12 @@
   "galosphere:recipes/galosphere/sterling_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-06 17:18:07 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/wisteria_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-07 00:09:22 +0000"
     },
     "done": true
   },
@@ -1766,6 +1820,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blightwillow_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-07 00:09:22 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/dark_oak_sign_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-05 22:20:52 +0000"
@@ -1916,6 +1976,12 @@
     },
     "done": true
   },
+  "upgradednetherite:recipes/essences/ender_essence": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-07 00:12:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-05 22:26:57 +0000"
@@ -1955,6 +2021,12 @@
   "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
     "criteria": {
       "has_iron_knife": "2024-12-06 20:09:14 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/oak_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-07 00:09:22 +0000"
     },
     "done": true
   },
@@ -2270,6 +2342,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glacia_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-07 00:09:22 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/mangrove_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-07 00:09:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-05 22:26:57 +0000"
@@ -2444,6 +2528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/fieldsprout_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-07 00:09:22 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/polished_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-06 23:50:52 +0000"
@@ -2486,6 +2576,12 @@
   "woodworks:recipes/decorations/dark_oak_ladder_from_dark_oak_planks_sawing": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-05 22:21:25 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/crimson_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-07 00:09:22 +0000"
     },
     "done": true
   },
@@ -2736,6 +2832,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/spruce_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-07 00:09:22 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2024-12-05 22:32:34 +0000"
@@ -2799,6 +2901,12 @@
   "woodworks:recipes/building_blocks/jungle_slab_from_jungle_logs_sawing": {
     "criteria": {
       "has_jungle_logs": "2024-12-06 17:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cloudcap_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-07 00:09:22 +0000"
     },
     "done": true
   },
@@ -3049,6 +3157,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-07 00:09:22 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/blightwillow_boat": {
     "criteria": {
       "in_water": "2024-12-05 22:30:46 +0000"
@@ -3106,6 +3220,12 @@
   "stoneworks:recipes/stoneworks.main/diorite_pillar_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-05 22:24:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crystal_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-07 00:09:22 +0000"
     },
     "done": true
   },
@@ -3178,6 +3298,12 @@
   "farmersdelight:recipes/farmersdelight/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2024-12-06 16:44:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everbright_blocks/frostbright_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-07 00:09:22 +0000"
     },
     "done": true
   },
@@ -3273,6 +3399,8 @@
       "minecraft:creeper": "2024-12-06 19:25:03 +0000",
       "minecraft:slime": "2024-12-06 19:17:03 +0000",
       "minecraft:phantom": "2024-12-06 19:55:22 +0000",
+      "minecraft:witch": "2024-12-07 00:12:18 +0000",
+      "minecraft:enderman": "2024-12-07 00:12:33 +0000",
       "minecraft:zombie": "2024-12-05 22:37:33 +0000",
       "minecraft:drowned": "2024-12-06 17:19:54 +0000"
     },
@@ -3287,6 +3415,12 @@
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2024-12-05 22:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-07 00:09:46 +0000"
     },
     "done": true
   },
@@ -3554,6 +3688,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_book": "2024-12-07 00:09:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-12-05 22:21:32 +0000"
@@ -3569,6 +3709,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-05 22:38:53 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/dark_oak_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-07 00:09:22 +0000"
     },
     "done": true
   },
@@ -3620,6 +3766,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-07 00:09:10 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/andesite_shingle_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-05 22:25:23 +0000"
@@ -3659,6 +3811,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-12-06 17:23:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/cherry_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-07 00:09:22 +0000"
     },
     "done": true
   },
@@ -3814,6 +3972,12 @@
     },
     "done": true
   },
+  "quark:apply_color_rune": {
+    "criteria": {
+      "apply_color_rune": "2024-12-07 00:10:09 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/stone_axe_repairing": {
     "criteria": {
       "has_stone_axe": "2024-12-05 22:23:58 +0000"
@@ -3841,6 +4005,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-05 22:32:34 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/jungle_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-07 00:09:22 +0000"
     },
     "done": true
   },
@@ -3889,6 +4059,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-05 22:23:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-07 00:09:10 +0000"
     },
     "done": true
   },
@@ -3983,6 +4159,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/maple_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-07 00:09:22 +0000"
+    },
+    "done": true
+  },
   "windswept:recipes/transportation/chestnut_boat": {
     "criteria": {
       "in_water": "2024-12-05 22:30:46 +0000"
@@ -4067,6 +4249,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-07 00:09:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-05 22:25:23 +0000"
@@ -4100,6 +4288,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-12-05 22:30:39 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/paper_lantern": {
+    "criteria": {
+      "has_item": "2024-12-07 00:09:10 +0000"
     },
     "done": true
   },
@@ -4175,6 +4369,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-07 00:09:22 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/andesite_tile_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-05 22:25:23 +0000"
@@ -4202,6 +4402,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-12-06 19:16:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everbright_blocks/starlit_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-07 00:09:22 +0000"
     },
     "done": true
   },
@@ -4412,6 +4618,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-07 00:09:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-06 19:16:03 +0000"
@@ -4517,6 +4729,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-05 22:55:27 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-07 00:09:22 +0000"
     },
     "done": true
   },
@@ -4649,6 +4867,12 @@
   "stoneworks:recipes/stoneworks.main/stone_tile_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-06 19:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/springshroom_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-07 00:09:22 +0000"
     },
     "done": true
   },
@@ -5407,6 +5631,18 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-05 22:30:46 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/warped_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-07 00:09:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2024-12-07 00:09:22 +0000"
     },
     "done": true
   },

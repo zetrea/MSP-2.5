@@ -436,6 +436,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_moss": {
+    "criteria": {
+      "has_item": "2024-12-07 00:12:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-12-06 23:56:43 +0000"
@@ -490,6 +496,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-07 00:14:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-06 23:55:50 +0000"
@@ -535,6 +547,12 @@
   "shieldexp:recipes/iron_shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 23:48:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/packed_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2024-12-07 00:14:17 +0000"
     },
     "done": true
   },
@@ -596,6 +614,12 @@
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2024-12-06 23:47:24 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/moss_clump": {
+    "criteria": {
+      "has_copper_block": "2024-12-07 00:12:33 +0000"
     },
     "done": true
   },
@@ -714,6 +738,12 @@
   "twigs:recipes/tables/jungle_table": {
     "criteria": {
       "has_jungle": "2024-12-06 23:47:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-07 00:11:36 +0000"
     },
     "done": true
   },
@@ -846,6 +876,12 @@
   "environmental:recipes/food/apple_pie": {
     "criteria": {
       "has_apple": "2024-12-06 23:41:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-07 00:12:33 +0000"
     },
     "done": true
   },
@@ -1077,6 +1113,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2024-12-07 00:14:17 +0000"
+    },
+    "done": true
+  },
   "vinery:jungle_wine_rack_big": {
     "criteria": {
       "has_jungle_planks": "2024-12-06 23:47:24 +0000"
@@ -1165,11 +1207,13 @@
     "criteria": {
       "minecraft:birch_forest": "2024-12-06 23:55:21 +0000",
       "minecraft:dark_forest": "2024-12-06 23:36:20 +0000",
+      "minecraft:sparse_jungle": "2024-12-07 00:09:15 +0000",
       "minecraft:river": "2024-12-06 23:42:14 +0000",
       "minecraft:dripstone_caves": "2024-12-06 23:53:30 +0000",
       "minecraft:forest": "2024-12-06 23:53:18 +0000",
       "minecraft:lush_caves": "2024-12-06 23:58:34 +0000",
       "minecraft:jungle": "2024-12-07 00:00:35 +0000",
+      "minecraft:ocean": "2024-12-07 00:20:51 +0000",
       "minecraft:plains": "2024-12-06 23:37:37 +0000"
     },
     "done": false
@@ -1285,6 +1329,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-12-06 23:55:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-07 00:11:36 +0000"
     },
     "done": true
   },
@@ -1481,9 +1531,21 @@
     },
     "done": true
   },
+  "twigs:recipes/lamps/lamp": {
+    "criteria": {
+      "has_item": "2024-12-07 00:18:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 23:48:48 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/surface_moss": {
+    "criteria": {
+      "has_moss_block": "2024-12-07 00:12:33 +0000"
     },
     "done": true
   },
@@ -1886,6 +1948,12 @@
     },
     "done": true
   },
+  "upgradednetherite:recipes/essences/ender_essence": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-07 00:12:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-06 23:50:09 +0000"
@@ -2241,6 +2309,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-07 00:12:33 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/storage/acorn_storage_block": {
     "criteria": {
       "has_acorn": "2024-12-06 23:39:15 +0000"
@@ -2259,9 +2333,21 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2024-12-07 00:14:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-06 23:56:43 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/mossy_bricks_from_moss_block": {
+    "criteria": {
+      "has_item": "2024-12-07 00:12:33 +0000"
     },
     "done": true
   },
@@ -2349,6 +2435,18 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
+    "criteria": {
+      "has_torch": "2024-12-07 00:18:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-07 00:12:33 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/dark_oak_boards_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-06 23:39:00 +0000"
@@ -2370,6 +2468,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-06 23:43:04 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/moss_block": {
+    "criteria": {
+      "has_copper_block": "2024-12-07 00:12:33 +0000"
     },
     "done": true
   },
@@ -2509,6 +2613,12 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2024-12-06 23:44:21 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2024-12-07 00:18:44 +0000"
     },
     "done": true
   },
