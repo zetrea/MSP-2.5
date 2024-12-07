@@ -1778,6 +1778,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "environmental:marsh": "2024-12-07 22:26:57 +0000",
+      "atmospheric:rainforest": "2024-12-07 22:57:20 +0000",
       "minecraft:birch_forest": "2024-12-06 23:55:21 +0000",
       "minecraft:beach": "2024-12-07 00:47:30 +0000",
       "minecraft:dark_forest": "2024-12-06 23:36:20 +0000",
