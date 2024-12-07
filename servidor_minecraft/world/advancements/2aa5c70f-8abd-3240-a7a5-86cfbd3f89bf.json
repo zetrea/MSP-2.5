@@ -2619,6 +2619,12 @@
     },
     "done": true
   },
+  "byg:husbandry/granny_smith": {
+    "criteria": {
+      "green_apple": "2024-12-07 22:36:20 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/oak_stairs_from_oak_planks_sawing": {
     "criteria": {
       "has_oak_planks": "2024-12-05 22:37:25 +0000"
@@ -3198,6 +3204,7 @@
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
       "byg:coconino_meadow": "2024-12-07 01:49:08 +0000",
+      "byg:allium_fields": "2024-12-07 22:41:44 +0000",
       "byg:redwood_thicket": "2024-12-06 16:34:09 +0000",
       "byg:white_mangrove_marshes": "2024-12-07 01:53:24 +0000",
       "byg:firecracker_shrubland": "2024-12-05 23:09:24 +0000",
@@ -6208,6 +6215,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-07 01:01:30 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/melon_slice": {
+    "criteria": {
+      "has_mini_melon": "2024-12-07 22:44:02 +0000"
     },
     "done": true
   },
