@@ -574,6 +574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-07 22:31:45 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_diorite_brick_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-07 01:24:12 +0000"
@@ -637,6 +643,12 @@
   "takesapillage:root": {
     "criteria": {
       "always": "2024-12-06 23:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-07 22:31:45 +0000"
     },
     "done": true
   },
@@ -1337,6 +1349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-07 22:31:45 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 23:48:48 +0000"
@@ -1673,6 +1691,12 @@
     },
     "done": true
   },
+  "magnumtorch:recipes/decorations/amethyst_magnum_torch": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-07 22:31:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "quark:forgotten": "2024-12-06 23:46:42 +0000"
@@ -1753,6 +1777,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "environmental:marsh": "2024-12-07 22:26:57 +0000",
       "minecraft:birch_forest": "2024-12-06 23:55:21 +0000",
       "minecraft:beach": "2024-12-07 00:47:30 +0000",
       "minecraft:dark_forest": "2024-12-06 23:36:20 +0000",
@@ -3557,6 +3582,12 @@
   "aether:recipes/building_blocks/blue_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2024-12-07 00:14:17 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/amethyst_lamp": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-07 22:31:45 +0000"
     },
     "done": true
   },
