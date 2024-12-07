@@ -3225,7 +3225,8 @@
       "byg:araucaria_savanna": "2024-12-06 16:40:32 +0000",
       "byg:autumnal_valley": "2024-12-07 01:37:09 +0000",
       "byg:skyris_vale": "2024-12-07 01:47:09 +0000",
-      "byg:amaranth_fields": "2024-12-05 23:06:08 +0000"
+      "byg:amaranth_fields": "2024-12-05 23:06:08 +0000",
+      "byg:windswept_desert": "2024-12-07 23:43:38 +0000"
     },
     "done": false
   },
@@ -5026,6 +5027,7 @@
       "atmospheric:rainforest": "2024-12-05 22:54:31 +0000",
       "minecraft:birch_forest": "2024-12-05 22:28:42 +0000",
       "minecraft:bamboo_jungle": "2024-12-05 22:41:52 +0000",
+      "minecraft:wooded_badlands": "2024-12-07 23:39:45 +0000",
       "minecraft:savanna_plateau": "2024-12-06 16:27:05 +0000",
       "minecraft:beach": "2024-12-07 00:49:21 +0000",
       "minecraft:dark_forest": "2024-12-05 21:45:32 +0000",
@@ -5036,6 +5038,7 @@
       "minecraft:cold_ocean": "2024-12-07 01:39:57 +0000",
       "minecraft:forest": "2024-12-05 23:05:31 +0000",
       "minecraft:lush_caves": "2024-12-05 22:27:06 +0000",
+      "minecraft:desert": "2024-12-07 23:41:15 +0000",
       "minecraft:jungle": "2024-12-05 22:30:58 +0000",
       "minecraft:ocean": "2024-12-07 00:55:55 +0000",
       "atmospheric:sparse_rainforest": "2024-12-05 22:54:33 +0000",
