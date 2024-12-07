@@ -4295,3 +4295,39 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [07Dec2024 22:57:05.255] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 6e8302df-e300-3f3e-be2f-9abcae59b880
 [07Dec2024 22:57:05.260] [Server thread/INFO] [Jade/]: Syncing config to ElJimmyy (6e8302df-e300-3f3e-be2f-9abcae59b880)
 [07Dec2024 22:57:19.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[07Dec2024 22:59:58.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa hit the ground too hard whilst trying to escape Chimpanzee
+[07Dec2024 23:00:04.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to 1180.500000, 105.500000, 2854.500000]
+[07Dec2024 23:01:29.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[07Dec2024 23:02:13.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Spider
+[07Dec2024 23:02:17.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[07Dec2024 23:02:27.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
+[07Dec2024 23:05:32.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa was slain by Tiger
+[07Dec2024 23:05:37.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to 1208.500000, 72.500000, 3009.500000]
+[07Dec2024 23:07:14.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Tiger
+[07Dec2024 23:07:21.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to 1170.500000, 62.500000, 3004.500000]
+[07Dec2024 23:07:26.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Tiger
+[07Dec2024 23:07:30.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to 1171.500000, 62.500000, 3003.500000]
+[07Dec2024 23:07:38.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Tiger
+[07Dec2024 23:07:42.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa was doomed to fall by Chimpanzee
+[07Dec2024 23:07:44.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to 1165.500000, 65.500000, 2999.500000]
+[07Dec2024 23:07:48.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to 1168.500000, 64.500000, 3008.500000]
+[07Dec2024 23:07:58.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Tiger
+[07Dec2024 23:08:04.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to 1169.500000, 64.500000, 2993.500000]
+[07Dec2024 23:08:09.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Tiger
+[07Dec2024 23:08:13.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to 1164.500000, 67.500000, 2995.500000]
+[07Dec2024 23:08:54.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Tiger
+[07Dec2024 23:08:59.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to 1152.500000, 71.500000, 3019.500000]
+[07Dec2024 23:10:31.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Gone Bananas!]
+[07Dec2024 23:10:41.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Zombie
+[07Dec2024 23:10:46.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to 1139.500000, 76.500000, 3025.500000]
+[07Dec2024 23:10:59.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to 1102.500000, 71.500000, 3174.500000]
+[07Dec2024 23:11:05.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Zombie
+[07Dec2024 23:11:09.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to 1137.500000, 77.500000, 3034.500000]
+[07Dec2024 23:11:25.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[07Dec2024 23:12:26.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was shot by Skeleton
+[07Dec2024 23:12:32.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to 1093.500000, 79.500000, 3287.500000]
+[07Dec2024 23:12:57.675] [Worker-Main-50/WARN] [ModernFix/]: The namespace betterjungletemples contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[07Dec2024 23:13:30.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to 210.500000, 49.500000, 657.500000]
+[07Dec2024 23:13:30.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5407ms or 108 ticks behind
+[07Dec2024 23:13:50.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[07Dec2024 23:14:07.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22407ms or 448 ticks behind
