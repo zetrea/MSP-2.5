@@ -86,6 +86,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-06 23:57:59 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/dark_oak_slab_from_dark_oak_planks_sawing": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-05 22:21:25 +0000"
@@ -320,6 +326,12 @@
     },
     "done": true
   },
+  "environmental:recipes/food/cooked_venison": {
+    "criteria": {
+      "has_venison": "2024-12-06 23:58:02 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/andesite_tile_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-05 22:25:23 +0000"
@@ -347,6 +359,12 @@
   "woodworks:recipes/building_blocks/dark_oak_slab_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-05 22:20:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-06 23:57:59 +0000"
     },
     "done": true
   },
@@ -1526,6 +1544,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-07 00:07:32 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/food/cooking/jelly_bottle": {
     "criteria": {
       "has_sweet_fruit": "2024-12-06 16:48:20 +0000"
@@ -1685,6 +1709,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-05 22:38:53 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/food/cooked_venison_from_smoking": {
+    "criteria": {
+      "has_venison": "2024-12-06 23:58:02 +0000"
     },
     "done": true
   },
@@ -1967,6 +1997,12 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-12-05 21:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-06 23:57:59 +0000"
     },
     "done": true
   },
@@ -2348,6 +2384,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-07 00:07:32 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/backpacked/spruce_backpack_shelf": {
     "criteria": {
       "has_stick": "2024-12-05 22:21:32 +0000"
@@ -2393,6 +2435,12 @@
   "stoneworks:recipes/stoneworks.main/diorite_shingle_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-05 22:24:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-06 23:57:59 +0000"
     },
     "done": true
   },
@@ -3007,6 +3055,12 @@
     },
     "done": true
   },
+  "windswept:recipes/combat/snow_boots_from_silver": {
+    "criteria": {
+      "has_leather": "2024-12-06 23:57:59 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/mangrove_drawer": {
     "criteria": {
       "has_planks": "2024-12-05 22:21:32 +0000"
@@ -3299,6 +3353,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-05 22:37:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2024-12-06 23:57:59 +0000"
     },
     "done": true
   },
@@ -3802,6 +3862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-06 23:57:59 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_slab": {
     "criteria": {
       "has_bundle": "2024-12-05 21:45:29 +0000"
@@ -4203,7 +4269,8 @@
       "bread": "2024-12-05 22:28:09 +0000",
       "golden_apple": "2024-12-06 19:02:08 +0000",
       "rotten_flesh": "2024-12-06 16:32:27 +0000",
-      "glow_berries": "2024-12-05 22:41:18 +0000"
+      "glow_berries": "2024-12-05 22:41:18 +0000",
+      "environmental:cooked_venison": "2024-12-07 00:01:05 +0000"
     },
     "done": false
   },
@@ -4321,6 +4388,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-06 23:57:59 +0000"
+    },
+    "done": true
+  },
   "windswept:recipes/redstone/chestnut_trapped_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-05 22:23:43 +0000"
@@ -4411,6 +4484,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2024-12-06 23:57:59 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/andesite_shingles_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-05 22:25:23 +0000"
@@ -4426,6 +4505,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-05 22:30:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-07 00:07:32 +0000"
     },
     "done": true
   },
@@ -5346,6 +5431,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-06 20:12:24 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/food/cooked_venison_from_campfire_cooking": {
+    "criteria": {
+      "has_venison": "2024-12-06 23:58:02 +0000"
     },
     "done": true
   },

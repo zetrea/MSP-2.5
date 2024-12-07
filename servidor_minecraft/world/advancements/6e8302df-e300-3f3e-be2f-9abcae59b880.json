@@ -36,21 +36,9 @@
     },
     "done": true
   },
-  "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_from_cobblestone_stonecutting": {
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
-      "has_item": "2024-12-06 23:47:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2024-12-06 23:47:33 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:recipes/iron_ingot": {
-    "criteria": {
-      "has_copper_block": "2024-12-06 23:48:48 +0000"
+      "has_rotten_flesh": "2024-12-06 23:59:50 +0000"
     },
     "done": true
   },
@@ -60,21 +48,9 @@
     },
     "done": true
   },
-  "woodworks:recipes/redstone/jungle_button_from_jungle_planks_sawing": {
-    "criteria": {
-      "has_jungle_planks": "2024-12-06 23:47:24 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 23:48:48 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/decorations/spruce_ladder": {
-    "criteria": {
-      "has_stick": "2024-12-06 23:42:59 +0000"
     },
     "done": true
   },
@@ -96,6 +72,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-06 23:47:45 +0000"
+    },
+    "done": true
+  },
+  "vinery:vinemaker_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 23:56:43 +0000"
     },
     "done": true
   },
@@ -123,25 +105,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2024-12-06 23:48:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_stick": "2024-12-06 23:42:59 +0000",
-      "has_the_recipe": "2024-12-06 23:42:59 +0000"
-    },
-    "done": true
-  },
-  "bambooeverything:recipes/bamboo_door": {
-    "criteria": {
-      "has_bundle": "2024-12-06 23:36:19 +0000"
-    },
-    "done": true
-  },
   "woodworks:recipes/building_blocks/dark_oak_slab_from_dark_oak_planks_sawing": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-06 23:39:31 +0000"
@@ -160,15 +123,21 @@
     },
     "done": true
   },
+  "vinery:basket": {
+    "criteria": {
+      "has_wheat": "2024-12-06 23:56:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2024-12-06 23:44:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget": {
+  "vinery:straw_hat": {
     "criteria": {
-      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
+      "has_wheat": "2024-12-06 23:56:43 +0000"
     },
     "done": true
   },
@@ -178,21 +147,27 @@
     },
     "done": true
   },
-  "clayworks:recipes/misc/charcoal_from_baking": {
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
     "criteria": {
-      "has_log": "2024-12-06 23:38:23 +0000"
+      "has_wheat": "2024-12-06 23:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 23:56:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves": {
+    "criteria": {
+      "has_diamond": "2024-12-06 23:55:50 +0000"
     },
     "done": true
   },
   "ecologics:recipes/ecologics/flowering_azalea_boat": {
     "criteria": {
       "in_water": "2024-12-06 23:43:30 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/oak_chair": {
-    "criteria": {
-      "has_planks": "2024-12-06 23:48:51 +0000"
     },
     "done": true
   },
@@ -208,43 +183,13 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_support": {
-    "criteria": {
-      "has_plank": "2024-12-06 23:39:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-06 23:47:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-06 23:42:59 +0000"
     },
     "done": true
   },
-  "twigs:recipes/cobblestone_bricks/cobblestone_bricks_stonecutting": {
-    "criteria": {
-      "has_item": "2024-12-06 23:47:33 +0000"
-    },
-    "done": true
-  },
   "woodworks:recipes/decorations/jungle_ladder": {
-    "criteria": {
-      "has_stick": "2024-12-06 23:42:59 +0000"
-    },
-    "done": true
-  },
-  "backpacked:recipes/backpacked/warped_backpack_shelf": {
-    "criteria": {
-      "has_stick": "2024-12-06 23:42:59 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/decorations/mangrove_ladder": {
     "criteria": {
       "has_stick": "2024-12-06 23:42:59 +0000"
     },
@@ -274,12 +219,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2024-12-06 23:43:30 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/dark_oak_shelf": {
     "criteria": {
       "has_planks": "2024-12-06 23:39:31 +0000"
@@ -289,12 +228,6 @@
   "woodworks:recipes/redstone/oak_button_from_oak_planks_sawing": {
     "criteria": {
       "has_oak_planks": "2024-12-06 23:48:51 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/decorations/warped_chest": {
-    "criteria": {
-      "has_lots_of_items": "2024-12-06 23:39:09 +0000"
     },
     "done": true
   },
@@ -322,18 +255,6 @@
     },
     "done": true
   },
-  "delightful:recipes/food/cooking/jelly_bottle": {
-    "criteria": {
-      "has_sweet_fruit": "2024-12-06 23:41:26 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/cobblestone_bricks": {
-    "criteria": {
-      "has_item": "2024-12-06 23:47:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2024-12-06 23:47:01 +0000"
@@ -352,24 +273,6 @@
     },
     "done": true
   },
-  "aether:recipes/transportation/skyroot_boat": {
-    "criteria": {
-      "in_water": "2024-12-06 23:43:30 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/dark_oak_table": {
-    "criteria": {
-      "has_planks": "2024-12-06 23:39:31 +0000"
-    },
-    "done": true
-  },
-  "vinery:dark_oak_wine_rack_big": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-06 23:39:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 23:48:48 +0000"
@@ -379,31 +282,6 @@
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2024-12-06 23:39:31 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/oak_boards_from_oak_logs_sawing": {
-    "criteria": {
-      "has_oak_logs": "2024-12-06 23:38:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "melon_slice": "2024-12-06 23:44:44 +0000",
-      "apple": "2024-12-06 23:42:12 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/jungle_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-06 23:47:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2024-12-06 23:42:59 +0000"
     },
     "done": true
   },
@@ -437,33 +315,9 @@
     },
     "done": true
   },
-  "clayworks:recipes/building_blocks/deepslate_from_baking": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-06 23:47:45 +0000"
-    },
-    "done": true
-  },
   "vinery:grapevine_lattice": {
     "criteria": {
       "has_stick": "2024-12-06 23:42:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bucket": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_button": {
-    "criteria": {
-      "has_planks": "2024-12-06 23:47:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2024-12-06 23:47:33 +0000"
     },
     "done": true
   },
@@ -473,45 +327,21 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorative_blocks.general/oak_palisade": {
-    "criteria": {
-      "has_log": "2024-12-06 23:38:23 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/decorations/acacia_ladder": {
-    "criteria": {
-      "has_stick": "2024-12-06 23:42:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-06 23:47:45 +0000"
     },
     "done": true
   },
-  "delightful:recipes/food/cooking/sinigang_no_ginger_citrus": {
+  "savage_and_ravage:adventure/creeper_spores": {
     "criteria": {
-      "has_ginger": "2024-12-06 23:41:26 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/leather_boots_repairing": {
-    "criteria": {
-      "has_leather_boots": "2024-12-06 23:36:19 +0000"
+      "creeper_spores": "2024-12-07 00:00:54 +0000"
     },
     "done": true
   },
   "woodworks:recipes/decorations/oak_ladder_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-06 23:38:23 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/wooden_pickaxe_repairing": {
-    "criteria": {
-      "has_wooden_pickaxe": "2024-12-06 23:43:14 +0000"
     },
     "done": true
   },
@@ -527,25 +357,13 @@
     },
     "done": true
   },
-  "delightful:recipes/food/cooking/nut_milk": {
+  "environmental:adventure/obtain_explorer_gear": {
     "criteria": {
-      "has_nuts": "2024-12-06 23:39:15 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/wooden_sword_repairing": {
-    "criteria": {
-      "has_wooden_sword": "2024-12-06 23:36:19 +0000"
+      "thief_hood": "2024-12-06 23:56:44 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-06 23:47:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-06 23:47:45 +0000"
     },
@@ -558,27 +376,9 @@
     },
     "done": true
   },
-  "woodworks:recipes/decorations/oak_ladder": {
-    "criteria": {
-      "has_stick": "2024-12-06 23:42:59 +0000"
-    },
-    "done": true
-  },
-  "backpacked:recipes/backpacked/dark_oak_backpack_shelf": {
-    "criteria": {
-      "has_stick": "2024-12-06 23:42:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-06 23:50:09 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/dark_oak_chair": {
-    "criteria": {
-      "has_planks": "2024-12-06 23:39:31 +0000"
     },
     "done": true
   },
@@ -588,63 +388,21 @@
     },
     "done": true
   },
-  "bambooeverything:recipes/dry_bamboo_bundle_uncrafting": {
-    "criteria": {
-      "has_dry_bundle": "2024-12-06 23:36:18 +0000"
-    },
-    "done": true
-  },
   "woodworks:recipes/decorations/crimson_ladder": {
     "criteria": {
       "has_stick": "2024-12-06 23:42:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_helmet": {
+  "incubation:recipes/decorations/hay_nest": {
     "criteria": {
-      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/redstone/dark_oak_pressure_plate_from_dark_oak_logs_sawing": {
-    "criteria": {
-      "has_dark_oak_logs": "2024-12-06 23:39:00 +0000"
-    },
-    "done": true
-  },
-  "windswept:recipes/redstone/chestnut_trapped_chest": {
-    "criteria": {
-      "has_lots_of_items": "2024-12-06 23:39:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2024-12-06 23:48:19 +0000"
+      "has_wheat": "2024-12-06 23:56:43 +0000"
     },
     "done": true
   },
   "woodworks:recipes/decorations/dark_oak_fence_from_dark_oak_planks_sawing": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-06 23:39:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-06 23:48:51 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/decorations/jungle_chest": {
-    "criteria": {
-      "has_lots_of_items": "2024-12-06 23:39:09 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/decorations/dark_oak_sign_from_dark_oak_logs_sawing": {
-    "criteria": {
-      "has_dark_oak_logs": "2024-12-06 23:39:00 +0000"
     },
     "done": true
   },
@@ -655,12 +413,6 @@
     "done": true
   },
   "another_furniture:recipes/mangrove_drawer": {
-    "criteria": {
-      "has_planks": "2024-12-06 23:42:59 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/crimson_drawer": {
     "criteria": {
       "has_planks": "2024-12-06 23:42:59 +0000"
     },
@@ -684,6 +436,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 23:56:43 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-07 00:05:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2024-12-06 23:46:51 +0000"
@@ -702,12 +466,6 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2024-12-06 23:47:33 +0000"
-    },
-    "done": true
-  },
   "woodworks:recipes/decorations/oak_ladder_from_oak_planks_sawing": {
     "criteria": {
       "has_oak_planks": "2024-12-06 23:48:51 +0000"
@@ -717,18 +475,6 @@
   "woodworks:recipes/building_blocks/dark_oak_stairs_from_dark_oak_planks_sawing": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-06 23:39:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/furnace": {
-    "criteria": {
-      "has_cobblestone": "2024-12-06 23:47:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/minecart": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
     },
     "done": true
   },
@@ -744,15 +490,9 @@
     },
     "done": true
   },
-  "another_furniture:recipes/jungle_chair": {
+  "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
-      "has_planks": "2024-12-06 23:47:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2024-12-06 23:38:23 +0000"
+      "has_diamond": "2024-12-06 23:55:50 +0000"
     },
     "done": true
   },
@@ -762,39 +502,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2024-12-06 23:42:59 +0000"
-    },
-    "done": true
-  },
   "bambooeverything:recipes/dry_bamboo_trapdoor": {
     "criteria": {
       "has_dry_bundle": "2024-12-06 23:36:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_hoe": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-06 23:47:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-06 23:47:45 +0000"
-    },
-    "done": true
-  },
-  "vinery:jungle_wine_rack_small": {
-    "criteria": {
-      "has_jungle_planks": "2024-12-06 23:47:24 +0000"
     },
     "done": true
   },
@@ -810,18 +526,6 @@
     },
     "done": true
   },
-  "clayworks:recipes/decorations/kiln": {
-    "criteria": {
-      "has_cobblestone": "2024-12-06 23:47:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-12-06 23:39:35 +0000"
-    },
-    "done": true
-  },
   "decorative_blocks:recipes/decorative_blocks.general/oak_support": {
     "criteria": {
       "has_plank": "2024-12-06 23:48:51 +0000"
@@ -834,39 +538,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2024-12-06 23:43:30 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorative_blocks.general/jungle_seat": {
-    "criteria": {
-      "has_plank": "2024-12-06 23:47:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2024-12-06 23:50:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-06 23:48:51 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/decorations/oak_fence_from_oak_planks_sawing": {
-    "criteria": {
-      "has_oak_planks": "2024-12-06 23:48:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-06 23:47:45 +0000"
     },
     "done": true
   },
@@ -876,21 +550,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_shovel": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 23:48:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
+  "aether:recipes/combat/golden_ring": {
     "criteria": {
-      "has_log": "2024-12-06 23:39:00 +0000"
+      "has_gold_ingot": "2024-12-06 23:56:43 +0000"
     },
     "done": true
   },
@@ -918,12 +586,6 @@
     },
     "done": true
   },
-  "woodworks:recipes/decorations/dark_oak_ladder_from_dark_oak_logs_sawing": {
-    "criteria": {
-      "has_dark_oak_logs": "2024-12-06 23:39:00 +0000"
-    },
-    "done": true
-  },
   "bambooeverything:recipes/dry_bamboo_fence_gate": {
     "criteria": {
       "has_dry_bundle": "2024-12-06 23:36:18 +0000",
@@ -931,21 +593,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/bench": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2024-12-06 23:47:24 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2024-12-06 23:36:19 +0000"
     },
     "done": true
   },
@@ -961,33 +611,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2024-12-06 23:47:33 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/jungle_stairs_from_jungle_planks_sawing": {
-    "criteria": {
-      "has_jungle_planks": "2024-12-06 23:47:24 +0000"
-    },
-    "done": true
-  },
   "bambooeverything:recipes/bamboo_ladder": {
     "criteria": {
       "has_bamboo": "2024-12-06 23:36:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/activator_rail": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
-      "has_rail": "2024-12-06 23:47:01 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/tables/dark_oak_table": {
-    "criteria": {
-      "has_bamboo": "2024-12-06 23:39:31 +0000"
+      "has_diamond": "2024-12-06 23:55:50 +0000"
     },
     "done": true
   },
@@ -997,15 +629,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-06 23:39:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "quark:forgotten": "2024-12-06 23:46:42 +0000"
+      "minecraft:skeleton": "2024-12-06 23:54:07 +0000",
+      "minecraft:spider": "2024-12-06 23:55:34 +0000",
+      "minecraft:creeper": "2024-12-07 00:00:27 +0000",
+      "quark:forgotten": "2024-12-06 23:46:42 +0000",
+      "minecraft:zombie": "2024-12-07 00:00:22 +0000"
     },
     "done": false
   },
@@ -1015,39 +645,15 @@
     },
     "done": true
   },
-  "woodworks:recipes/building_blocks/oak_boards": {
-    "criteria": {
-      "has_oak_planks": "2024-12-06 23:48:51 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/shield_repairing": {
-    "criteria": {
-      "has_shield": "2024-12-06 23:36:19 +0000"
-    },
-    "done": true
-  },
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2024-12-06 23:47:33 +0000"
     },
     "done": true
   },
-  "woodworks:recipes/decorations/oak_fence_from_oak_logs_sawing": {
-    "criteria": {
-      "has_oak_logs": "2024-12-06 23:38:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-06 23:47:45 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/decorations/oak_chest": {
-    "criteria": {
-      "has_lots_of_items": "2024-12-06 23:39:09 +0000"
     },
     "done": true
   },
@@ -1063,33 +669,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-06 23:47:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2024-12-06 23:44:21 +0000"
     },
     "done": true
   },
-  "woodworks:recipes/building_blocks/oak_stairs_from_oak_planks_sawing": {
-    "criteria": {
-      "has_oak_planks": "2024-12-06 23:48:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2024-12-06 23:44:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_sign": {
-    "criteria": {
-      "has_planks": "2024-12-06 23:39:31 +0000"
     },
     "done": true
   },
@@ -1105,12 +693,6 @@
     },
     "done": true
   },
-  "woodworks:recipes/decorations/dark_oak_ladder": {
-    "criteria": {
-      "has_stick": "2024-12-06 23:42:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-06 23:47:45 +0000"
@@ -1118,30 +700,6 @@
     "done": true
   },
   "aether_redux:recipes/transportation/crystal_boat": {
-    "criteria": {
-      "in_water": "2024-12-06 23:43:30 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/oak_boards_from_oak_planks_sawing": {
-    "criteria": {
-      "has_oak_planks": "2024-12-06 23:48:51 +0000"
-    },
-    "done": true
-  },
-  "frosted_friends:frosted_friends": {
-    "criteria": {
-      "frosted_friends": "2024-12-06 23:36:19 +0000"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_log": {
-    "criteria": {
-      "has_recipe": "2024-12-06 23:36:19 +0000"
-    },
-    "done": true
-  },
-  "environmental:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-12-06 23:43:30 +0000"
     },
@@ -1159,12 +717,6 @@
     },
     "done": true
   },
-  "nethersdelight:recipes/nethersdelight/blackstone_blast_furnace": {
-    "criteria": {
-      "has_iron": "2024-12-06 23:48:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-06 23:48:51 +0000"
@@ -1177,15 +729,9 @@
     },
     "done": true
   },
-  "aether_redux:recipes/transportation/glacia_boat": {
+  "upgradednetherite:recipes/essences/poison_essence": {
     "criteria": {
-      "in_water": "2024-12-06 23:43:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2024-12-06 23:43:30 +0000"
+      "has_spider_eye": "2024-12-06 23:56:12 +0000"
     },
     "done": true
   },
@@ -1195,40 +741,9 @@
     },
     "done": true
   },
-  "delightful:recipes/melon_slice": {
-    "criteria": {
-      "has_mini_melon": "2024-12-06 23:44:38 +0000"
-    },
-    "done": true
-  },
-  "bambooeverything:recipes/bamboo_fence": {
-    "criteria": {
-      "has_bamboo": "2024-12-06 23:36:19 +0000",
-      "has_bundle": "2024-12-06 23:36:19 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/redstone/skyroot_tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-06 23:48:19 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/decorations/spruce_chest": {
-    "criteria": {
-      "has_lots_of_items": "2024-12-06 23:39:09 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/decorations/crimson_chest": {
-    "criteria": {
-      "has_lots_of_items": "2024-12-06 23:39:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2024-12-06 23:42:59 +0000"
     },
     "done": true
   },
@@ -1238,15 +753,15 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_palisade": {
+  "nethersdelight:recipes/nethersdelight/diamond_machete": {
     "criteria": {
-      "has_log": "2024-12-06 23:39:00 +0000"
+      "has_diamond": "2024-12-06 23:55:50 +0000"
     },
     "done": true
   },
-  "ecologics:recipes/ecologics/coconut_boat": {
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_palisade": {
     "criteria": {
-      "in_water": "2024-12-06 23:43:30 +0000"
+      "has_log": "2024-12-06 23:39:00 +0000"
     },
     "done": true
   },
@@ -1256,21 +771,9 @@
     },
     "done": true
   },
-  "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_item": "2024-12-06 23:47:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-06 23:47:24 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/redstone/oak_door_from_oak_logs_sawing": {
-    "criteria": {
-      "has_oak_logs": "2024-12-06 23:38:23 +0000"
     },
     "done": true
   },
@@ -1286,21 +789,15 @@
     },
     "done": true
   },
-  "backpacked:recipes/backpacked/crimson_backpack_shelf": {
-    "criteria": {
-      "has_stick": "2024-12-06 23:42:59 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/jungle_shelf": {
-    "criteria": {
-      "has_planks": "2024-12-06 23:47:24 +0000"
-    },
-    "done": true
-  },
   "backpacked:recipes/backpacked/oak_backpack_shelf": {
     "criteria": {
       "has_stick": "2024-12-06 23:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 23:56:43 +0000"
     },
     "done": true
   },
@@ -1310,33 +807,15 @@
     },
     "done": true
   },
-  "another_furniture:recipes/furniture_hammer": {
-    "criteria": {
-      "has_stick": "2024-12-06 23:42:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-06 23:47:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/loom": {
-    "criteria": {
-      "has_string": "2024-12-06 23:48:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-06 23:47:26 +0000"
-    },
-    "done": true
-  },
-  "environmental:recipes/decorations/wisteria_chest": {
-    "criteria": {
-      "has_lots_of_items": "2024-12-06 23:39:09 +0000"
     },
     "done": true
   },
@@ -1352,33 +831,15 @@
     },
     "done": true
   },
-  "woodworks:recipes/building_blocks/oak_slab_from_oak_logs_sawing": {
-    "criteria": {
-      "has_oak_logs": "2024-12-06 23:38:23 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/decorations/skyroot_loom": {
     "criteria": {
       "has_string": "2024-12-06 23:48:19 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
+  "magnumtorch:recipes/decorations/diamond_magnum_torch": {
     "criteria": {
-      "has_any_ingredient": "2024-12-06 23:44:21 +0000"
-    },
-    "done": true
-  },
-  "bambooeverything:recipes/dry_bamboo_ladder": {
-    "criteria": {
-      "has_dry_bamboo": "2024-12-06 23:36:19 +0000"
-    },
-    "done": true
-  },
-  "vinery:stackable_log": {
-    "criteria": {
-      "has_oak_log": "2024-12-06 23:38:23 +0000"
+      "has_diamond": "2024-12-06 23:55:50 +0000"
     },
     "done": true
   },
@@ -1424,33 +885,27 @@
     },
     "done": true
   },
-  "another_furniture:recipes/birch_drawer": {
-    "criteria": {
-      "has_planks": "2024-12-06 23:42:59 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/storage/acorn_storage_block": {
-    "criteria": {
-      "has_acorn": "2024-12-06 23:39:15 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/decorations/jungle_ladder_from_jungle_planks_sawing": {
-    "criteria": {
-      "has_jungle_planks": "2024-12-06 23:47:24 +0000"
-    },
-    "done": true
-  },
   "woodworks:recipes/decorations/warped_ladder": {
     "criteria": {
       "has_stick": "2024-12-06 23:42:59 +0000"
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-06 23:59:28 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 23:48:48 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/nethersdelight/golden_machete": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 23:56:43 +0000"
     },
     "done": true
   },
@@ -1463,12 +918,6 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-12-06 23:42:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2024-12-06 23:47:33 +0000"
     },
     "done": true
   },
@@ -1487,6 +936,1338 @@
   "goodending:recipes/cypress_boat": {
     "criteria": {
       "in_water": "2024-12-06 23:43:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 23:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_table": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:47:24 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/oak_slab_from_oak_planks_sawing": {
+    "criteria": {
+      "has_oak_planks": "2024-12-06 23:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-06 23:48:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-06 23:50:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-06 23:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-06 23:49:02 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/dark_oak_fence_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2024-12-06 23:39:00 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/nut_butter_bottle": {
+    "criteria": {
+      "has_nuts": "2024-12-06 23:39:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/misc/wooden_bucket": {
+    "criteria": {
+      "has_log": "2024-12-06 23:38:23 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/dark_oak_boards_from_dark_oak_planks_sawing": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-12-06 23:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2024-12-06 23:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 23:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:48:51 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/azalea_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 23:43:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:48:51 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/oak_pressure_plate_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-12-06 23:38:23 +0000"
+    },
+    "done": true
+  },
+  "barteringstation:recipes/decorations/bartering_station": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 23:56:43 +0000"
+    },
+    "done": true
+  },
+  "vinery:jungle_wine_rack_big": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-06 23:47:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_axe": "2024-12-06 23:41:01 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-12-06 23:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 23:47:45 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/dark_oak_button_from_dark_oak_planks_sawing": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-12-06 23:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "quark:forgotten": "2024-12-06 23:46:42 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/jungle_fence_from_jungle_planks_sawing": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-06 23:47:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 23:56:43 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/decorations/wisteria_ladder": {
+    "criteria": {
+      "has_stick": "2024-12-06 23:42:59 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/dry_bamboo_door": {
+    "criteria": {
+      "has_dry_bundle": "2024-12-06 23:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-06 23:47:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/warped_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 23:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 23:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2024-12-06 23:55:21 +0000",
+      "minecraft:dark_forest": "2024-12-06 23:36:20 +0000",
+      "minecraft:river": "2024-12-06 23:42:14 +0000",
+      "minecraft:dripstone_caves": "2024-12-06 23:53:30 +0000",
+      "minecraft:forest": "2024-12-06 23:53:18 +0000",
+      "minecraft:lush_caves": "2024-12-06 23:58:34 +0000",
+      "minecraft:jungle": "2024-12-07 00:00:35 +0000",
+      "minecraft:plains": "2024-12-06 23:37:37 +0000"
+    },
+    "done": false
+  },
+  "woodworks:recipes/building_blocks/oak_planks_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-12-06 23:38:23 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/dark_oak_trapdoor_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2024-12-06 23:39:00 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/oak_fence_gate_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-12-06 23:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-06 23:47:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2024-12-06 23:41:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-12-06 23:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-06 23:56:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-06 23:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-06 23:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
+    },
+    "done": true
+  },
+  "vinery:oak_wine_rack_big": {
+    "criteria": {
+      "has_oak_planks": "2024-12-06 23:48:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/oak_table": {
+    "criteria": {
+      "has_bamboo": "2024-12-06 23:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 23:47:45 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/dark_oak_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-06 23:39:09 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/bamboo_slab": {
+    "criteria": {
+      "has_bundle": "2024-12-06 23:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-06 23:47:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/skyroot_iron_vanilla_shield": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-06 23:55:50 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/backpacked/birch_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2024-12-06 23:42:59 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-06 23:36:19 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/transportation/wisteria_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 23:43:30 +0000"
+    },
+    "done": true
+  },
+  "vinery:coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2024-12-06 23:42:20 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:48:51 +0000"
+    },
+    "done": true
+  },
+  "vinery:campfire": {
+    "criteria": {
+      "has_stick": "2024-12-06 23:42:59 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/oak_stairs_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-12-06 23:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/bar_panel": {
+    "criteria": {
+      "has_ingot": "2024-12-06 23:48:48 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/silver_bomb": {
+    "criteria": {
+      "has_gunpowder": "2024-12-06 23:57:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/frozen_bench": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/transportation/chestnut_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 23:43:30 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/essences/gold_essence": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 23:56:43 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/oak_button_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-12-06 23:38:23 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/jungle_boards": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-06 23:47:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 23:47:45 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/nethersdelight/iron_machete": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
+    },
+    "done": true
+  },
+  "shieldexp:recipes/golden_shield": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 23:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-06 23:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-06 23:47:26 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-06 23:42:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-06 23:56:43 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-06 23:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-06 23:47:33 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/iron_ingot": {
+    "criteria": {
+      "has_copper_block": "2024-12-06 23:48:48 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/jungle_button_from_jungle_planks_sawing": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-06 23:47:24 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/spruce_ladder": {
+    "criteria": {
+      "has_stick": "2024-12-06 23:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-06 23:48:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-12-06 23:42:59 +0000",
+      "has_the_recipe": "2024-12-06 23:42:59 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/bamboo_door": {
+    "criteria": {
+      "has_bundle": "2024-12-06 23:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 23:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-06 23:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/misc/charcoal_from_baking": {
+    "criteria": {
+      "has_log": "2024-12-06 23:38:23 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_chair": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:48:51 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_support": {
+    "criteria": {
+      "has_plank": "2024-12-06 23:39:31 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-07 00:05:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 23:47:45 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-06 23:47:33 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/backpacked/warped_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2024-12-06 23:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-06 23:55:50 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/mangrove_ladder": {
+    "criteria": {
+      "has_stick": "2024-12-06 23:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-06 23:55:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 23:43:30 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/warped_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-06 23:39:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/safety_net": {
+    "criteria": {
+      "has_rope": "2024-12-07 00:08:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-06 23:57:20 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/jelly_bottle": {
+    "criteria": {
+      "has_sweet_fruit": "2024-12-06 23:41:26 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_bricks": {
+    "criteria": {
+      "has_item": "2024-12-06 23:47:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 23:43:30 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_table": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 23:56:43 +0000"
+    },
+    "done": true
+  },
+  "vinery:dark_oak_wine_rack_big": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-12-06 23:39:31 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/oak_boards_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-12-06 23:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "melon_slice": "2024-12-06 23:44:44 +0000",
+      "cooked_beef": "2024-12-07 00:03:02 +0000",
+      "apple": "2024-12-06 23:42:12 +0000",
+      "bread": "2024-12-06 23:54:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:47:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-12-06 23:42:59 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/deepslate_from_baking": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 23:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:47:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-12-06 23:47:33 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_palisade": {
+    "criteria": {
+      "has_log": "2024-12-06 23:38:23 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/acacia_ladder": {
+    "criteria": {
+      "has_stick": "2024-12-06 23:42:59 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/sinigang_no_ginger_citrus": {
+    "criteria": {
+      "has_ginger": "2024-12-06 23:41:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_boots_repairing": {
+    "criteria": {
+      "has_leather_boots": "2024-12-06 23:36:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_pickaxe_repairing": {
+    "criteria": {
+      "has_wooden_pickaxe": "2024-12-06 23:43:14 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/nut_milk": {
+    "criteria": {
+      "has_nuts": "2024-12-06 23:39:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/wooden_sword_repairing": {
+    "criteria": {
+      "has_wooden_sword": "2024-12-06 23:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 23:47:45 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/oak_ladder": {
+    "criteria": {
+      "has_stick": "2024-12-06 23:42:59 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/backpacked/dark_oak_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2024-12-06 23:42:59 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:39:31 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/dry_bamboo_bundle_uncrafting": {
+    "criteria": {
+      "has_dry_bundle": "2024-12-06 23:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-06 23:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 23:56:43 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/dark_oak_pressure_plate_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2024-12-06 23:39:00 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/redstone/chestnut_trapped_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-06 23:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-06 23:48:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-06 23:57:20 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/jungle_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-06 23:39:09 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/dark_oak_sign_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2024-12-06 23:39:00 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/crimson_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-06 23:55:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-06 23:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-06 23:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_chair": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:47:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-06 23:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-12-06 23:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 23:47:45 +0000"
+    },
+    "done": true
+  },
+  "vinery:jungle_wine_rack_small": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-06 23:47:24 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/decorations/kiln": {
+    "criteria": {
+      "has_cobblestone": "2024-12-06 23:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-06 23:39:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 23:43:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 23:56:43 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/jungle_seat": {
+    "criteria": {
+      "has_plank": "2024-12-06 23:47:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-06 23:50:09 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/oak_fence_from_oak_planks_sawing": {
+    "criteria": {
+      "has_oak_planks": "2024-12-06 23:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 23:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-06 23:39:00 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2024-12-07 00:05:22 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/dark_oak_ladder_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2024-12-06 23:39:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bench": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-06 23:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-06 23:47:33 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/jungle_stairs_from_jungle_planks_sawing": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-06 23:47:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-06 23:55:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-06 23:47:01 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/dark_oak_table": {
+    "criteria": {
+      "has_bamboo": "2024-12-06 23:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-06 23:55:50 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/oak_boards": {
+    "criteria": {
+      "has_oak_planks": "2024-12-06 23:48:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2024-12-06 23:36:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2024-12-07 00:01:34 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/oak_fence_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-12-06 23:38:23 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/oak_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-06 23:39:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-06 23:59:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-12-06 23:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 23:47:45 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/oak_stairs_from_oak_planks_sawing": {
+    "criteria": {
+      "has_oak_planks": "2024-12-06 23:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:39:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-06 23:55:50 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/dark_oak_ladder": {
+    "criteria": {
+      "has_stick": "2024-12-06 23:42:59 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/oak_boards_from_oak_planks_sawing": {
+    "criteria": {
+      "has_oak_planks": "2024-12-06 23:48:51 +0000"
+    },
+    "done": true
+  },
+  "frosted_friends:frosted_friends": {
+    "criteria": {
+      "frosted_friends": "2024-12-06 23:36:19 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2024-12-06 23:36:19 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 23:43:30 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/nethersdelight/blackstone_blast_furnace": {
+    "criteria": {
+      "has_iron": "2024-12-06 23:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-06 23:55:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-06 23:55:50 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/glacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 23:43:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 23:43:30 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/melon_slice": {
+    "criteria": {
+      "has_mini_melon": "2024-12-06 23:44:38 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/bamboo_fence": {
+    "criteria": {
+      "has_bamboo": "2024-12-06 23:36:19 +0000",
+      "has_bundle": "2024-12-06 23:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 23:56:43 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/spruce_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-06 23:39:09 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/crimson_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-06 23:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-12-06 23:42:59 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 23:43:30 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-06 23:47:33 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/oak_door_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-12-06 23:38:23 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/backpacked/crimson_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2024-12-06 23:42:59 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:47:24 +0000"
+    },
+    "done": true
+  },
+  "shieldexp:recipes/diamond_shield": {
+    "criteria": {
+      "has_diamond": "2024-12-06 23:55:50 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/furniture_hammer": {
+    "criteria": {
+      "has_stick": "2024-12-06 23:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-06 23:48:19 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/decorations/wisteria_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-06 23:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-06 23:55:50 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/oak_slab_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-12-06 23:38:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-06 23:44:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_pendant": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 23:56:43 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/dry_bamboo_ladder": {
+    "criteria": {
+      "has_dry_bamboo": "2024-12-06 23:36:19 +0000"
+    },
+    "done": true
+  },
+  "vinery:stackable_log": {
+    "criteria": {
+      "has_oak_log": "2024-12-06 23:38:23 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:42:59 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/storage/acorn_storage_block": {
+    "criteria": {
+      "has_acorn": "2024-12-06 23:39:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-06 23:59:51 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/jungle_ladder_from_jungle_planks_sawing": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-06 23:47:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 23:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-06 23:47:33 +0000"
     },
     "done": true
   },
@@ -1538,33 +2319,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_axe": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
-    },
-    "done": true
-  },
   "decorative_blocks:recipes/decorative_blocks.general/dark_oak_beam": {
     "criteria": {
       "has_stripped_log": "2024-12-06 23:39:28 +0000"
     },
     "done": true
   },
-  "another_furniture:recipes/jungle_table": {
+  "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
-      "has_planks": "2024-12-06 23:47:24 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/oak_slab_from_oak_planks_sawing": {
-    "criteria": {
-      "has_oak_planks": "2024-12-06 23:48:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2024-12-06 23:48:19 +0000"
+      "has_gold_ingot": "2024-12-06 23:56:43 +0000"
     },
     "done": true
   },
@@ -1574,21 +2337,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
+  "aether:recipes/combat/golden_gloves": {
     "criteria": {
-      "has_raw_gold": "2024-12-06 23:50:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_boots": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2024-12-06 23:46:42 +0000"
+      "has_gold": "2024-12-06 23:56:43 +0000"
     },
     "done": true
   },
@@ -1598,33 +2349,9 @@
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2024-12-06 23:49:02 +0000"
-    },
-    "done": true
-  },
   "woodworks:recipes/building_blocks/dark_oak_boards_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-06 23:39:00 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/decorations/dark_oak_fence_from_dark_oak_logs_sawing": {
-    "criteria": {
-      "has_dark_oak_logs": "2024-12-06 23:39:00 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/food/cooking/nut_butter_bottle": {
-    "criteria": {
-      "has_nuts": "2024-12-06 23:39:15 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/iron_knife": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
     },
     "done": true
   },
@@ -1640,39 +2367,9 @@
     },
     "done": true
   },
-  "windswept:recipes/misc/wooden_bucket": {
-    "criteria": {
-      "has_log": "2024-12-06 23:38:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-06 23:43:04 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/dark_oak_boards_from_dark_oak_planks_sawing": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-06 23:39:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_chestplate": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_stick": "2024-12-06 23:42:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-06 23:47:45 +0000"
     },
     "done": true
   },
@@ -1682,39 +2379,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-06 23:39:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_sign": {
-    "criteria": {
-      "has_planks": "2024-12-06 23:48:51 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/ecologics/azalea_boat": {
-    "criteria": {
-      "in_water": "2024-12-06 23:43:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-06 23:48:51 +0000"
-    },
-    "done": true
-  },
   "woodworks:recipes/building_blocks/jungle_slab_from_jungle_planks_sawing": {
     "criteria": {
       "has_jungle_planks": "2024-12-06 23:47:24 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/redstone/oak_pressure_plate_from_oak_logs_sawing": {
-    "criteria": {
-      "has_oak_logs": "2024-12-06 23:38:23 +0000"
     },
     "done": true
   },
@@ -1727,12 +2394,6 @@
   "backpacked:recipes/backpacked/spruce_backpack_shelf": {
     "criteria": {
       "has_stick": "2024-12-06 23:42:59 +0000"
-    },
-    "done": true
-  },
-  "vinery:jungle_wine_rack_big": {
-    "criteria": {
-      "has_jungle_planks": "2024-12-06 23:47:24 +0000"
     },
     "done": true
   },
@@ -1754,24 +2415,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_axe": "2024-12-06 23:41:01 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2024-12-06 23:36:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-06 23:47:45 +0000"
-    },
-    "done": true
-  },
   "decorative_blocks:recipes/decorative_blocks.general/oak_seat": {
     "criteria": {
       "has_plank": "2024-12-06 23:48:51 +0000"
@@ -1784,37 +2427,19 @@
     },
     "done": true
   },
-  "woodworks:recipes/redstone/dark_oak_button_from_dark_oak_planks_sawing": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-06 23:39:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "quark:forgotten": "2024-12-06 23:46:42 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/decorations/jungle_fence_from_jungle_planks_sawing": {
-    "criteria": {
-      "has_jungle_planks": "2024-12-06 23:47:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-06 23:48:51 +0000"
     },
     "done": true
   },
-  "backpacked:recipes/backpacked/acacia_backpack_shelf": {
+  "rottencreatures:recipes/rottencreatures.rottencreatures/tnt_barrel": {
     "criteria": {
-      "has_stick": "2024-12-06 23:42:59 +0000"
+      "has_gunpowder": "2024-12-06 23:57:20 +0000"
     },
     "done": true
   },
-  "environmental:recipes/decorations/wisteria_ladder": {
+  "backpacked:recipes/backpacked/acacia_backpack_shelf": {
     "criteria": {
       "has_stick": "2024-12-06 23:42:59 +0000"
     },
@@ -1857,24 +2482,6 @@
     },
     "done": true
   },
-  "bambooeverything:recipes/dry_bamboo_door": {
-    "criteria": {
-      "has_dry_bundle": "2024-12-06 23:36:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone": {
-    "criteria": {
-      "has_cobblestone": "2024-12-06 23:47:33 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/warped_drawer": {
-    "criteria": {
-      "has_planks": "2024-12-06 23:42:59 +0000"
-    },
-    "done": true
-  },
   "immersive_weathering:recipes/dark_oak_bark": {
     "criteria": {
       "has_copper_block": "2024-12-06 23:39:09 +0000"
@@ -1884,12 +2491,6 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-06 23:39:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-06 23:47:45 +0000"
     },
     "done": true
   },
@@ -1923,85 +2524,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-06 23:47:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:dark_forest": "2024-12-06 23:36:20 +0000",
-      "minecraft:river": "2024-12-06 23:42:14 +0000",
-      "minecraft:dripstone_caves": "2024-12-06 23:53:30 +0000",
-      "minecraft:forest": "2024-12-06 23:53:18 +0000",
-      "minecraft:plains": "2024-12-06 23:37:37 +0000"
-    },
-    "done": false
-  },
-  "woodworks:recipes/building_blocks/oak_planks_from_oak_logs_sawing": {
-    "criteria": {
-      "has_oak_logs": "2024-12-06 23:38:23 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/redstone/dark_oak_trapdoor_from_dark_oak_logs_sawing": {
-    "criteria": {
-      "has_dark_oak_logs": "2024-12-06 23:39:00 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/redstone/oak_fence_gate_from_oak_logs_sawing": {
-    "criteria": {
-      "has_oak_logs": "2024-12-06 23:38:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/stone_sword": {
-    "criteria": {
-      "has_cobblestone": "2024-12-06 23:47:33 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/iron_axe_repairing": {
-    "criteria": {
-      "has_iron_axe": "2024-12-06 23:41:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2024-12-06 23:47:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall": {
+  "handcrafted:recipes/misc/dripstone_pillar_trim": {
     "criteria": {
-      "has_cobblestone": "2024-12-06 23:47:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2024-12-06 23:39:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2024-12-06 23:47:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_pickaxe": {
-    "criteria": {
-      "has_cobblestone": "2024-12-06 23:47:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smithing_table": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
+      "has_pillar_trim": "2024-12-07 00:01:34 +0000"
     },
     "done": true
   },
@@ -2011,27 +2542,9 @@
     },
     "done": true
   },
-  "vinery:oak_wine_rack_big": {
-    "criteria": {
-      "has_oak_planks": "2024-12-06 23:48:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-06 23:48:51 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/tables/oak_table": {
-    "criteria": {
-      "has_bamboo": "2024-12-06 23:48:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-06 23:47:45 +0000"
     },
     "done": true
   },
@@ -2047,27 +2560,15 @@
     },
     "done": true
   },
-  "woodworks:recipes/decorations/dark_oak_chest": {
+  "farmersdelight:recipes/farmersdelight/diamond_knife": {
     "criteria": {
-      "has_lots_of_items": "2024-12-06 23:39:09 +0000"
+      "has_diamond": "2024-12-06 23:55:50 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-12-06 23:43:30 +0000"
-    },
-    "done": true
-  },
-  "bambooeverything:recipes/bamboo_slab": {
-    "criteria": {
-      "has_bundle": "2024-12-06 23:36:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2024-12-06 23:47:33 +0000"
     },
     "done": true
   },
@@ -2083,15 +2584,15 @@
     },
     "done": true
   },
-  "aether:recipes/combat/skyroot_iron_vanilla_shield": {
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 23:48:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+  "farmersdelight:recipes/farmersdelight/golden_knife": {
     "criteria": {
-      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
+      "has_gold_ingot": "2024-12-06 23:56:43 +0000"
     },
     "done": true
   },
@@ -2119,30 +2620,6 @@
     },
     "done": true
   },
-  "backpacked:recipes/backpacked/birch_backpack_shelf": {
-    "criteria": {
-      "has_stick": "2024-12-06 23:42:59 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2024-12-06 23:36:19 +0000"
-    },
-    "done": true
-  },
-  "environmental:recipes/transportation/wisteria_boat": {
-    "criteria": {
-      "in_water": "2024-12-06 23:43:30 +0000"
-    },
-    "done": true
-  },
-  "vinery:coarse_dirt_slab": {
-    "criteria": {
-      "has_coarse_dirt": "2024-12-06 23:42:20 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/iron_leggings_repairing": {
     "criteria": {
       "has_iron_leggings": "2024-12-06 23:53:03 +0000"
@@ -2155,27 +2632,9 @@
     },
     "done": true
   },
-  "another_furniture:recipes/oak_shelf": {
+  "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
-      "has_planks": "2024-12-06 23:48:51 +0000"
-    },
-    "done": true
-  },
-  "vinery:campfire": {
-    "criteria": {
-      "has_stick": "2024-12-06 23:42:59 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/oak_stairs_from_oak_logs_sawing": {
-    "criteria": {
-      "has_oak_logs": "2024-12-06 23:38:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lantern": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
+      "has_gold_ingot": "2024-12-06 23:56:43 +0000"
     },
     "done": true
   },
@@ -2191,21 +2650,9 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorative_blocks.general/bar_panel": {
-    "criteria": {
-      "has_ingot": "2024-12-06 23:48:48 +0000"
-    },
-    "done": true
-  },
   "goodending:recipes/muddy_oak_boat": {
     "criteria": {
       "in_water": "2024-12-06 23:43:30 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/frozen_bench": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
     },
     "done": true
   },
@@ -2221,21 +2668,9 @@
     },
     "done": true
   },
-  "windswept:recipes/transportation/chestnut_boat": {
-    "criteria": {
-      "in_water": "2024-12-06 23:43:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2024-12-06 23:44:21 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/redstone/oak_button_from_oak_logs_sawing": {
-    "criteria": {
-      "has_oak_logs": "2024-12-06 23:38:23 +0000"
     },
     "done": true
   },
@@ -2245,21 +2680,9 @@
     },
     "done": true
   },
-  "woodworks:recipes/building_blocks/jungle_boards": {
+  "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
-      "has_jungle_planks": "2024-12-06 23:47:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-06 23:47:45 +0000"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/nethersdelight/iron_machete": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-06 23:48:48 +0000"
+      "has_diamond": "2024-12-06 23:55:50 +0000"
     },
     "done": true
   },
@@ -2287,27 +2710,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_axe": {
-    "criteria": {
-      "has_cobblestone": "2024-12-06 23:47:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_iron_block": {
-    "criteria": {
-      "has_raw_iron": "2024-12-06 23:47:26 +0000"
-    },
-    "done": true
-  },
   "repurposed_structures:root": {
     "criteria": {
       "always": "2024-12-06 23:36:19 +0000"
-    },
-    "done": true
-  },
-  "vinery:cherry_fence_gate": {
-    "criteria": {
-      "has_stick": "2024-12-06 23:42:59 +0000"
     },
     "done": true
   },
