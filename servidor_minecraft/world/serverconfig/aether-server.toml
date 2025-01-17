@@ -8,6 +8,8 @@
 	"Ambrosium Shards are edible" = true
 	#Makes Berry Bushes and Bush Stems behave consistently with Sweet Berry Bushes
 	"Berry Bush consistency" = false
+	#Makes Crystal Fruit Leaves behave consistently with Sweet Berry Bushes
+	"Crystal Fruit Leaves consistency" = false
 	#Gummy Swets when eaten restore full health instead of full hunger
 	"Gummy Swets restore health" = false
 	#Determines the limit of the amount of Life Shards a player can consume to increase their health
@@ -16,6 +18,8 @@
 	"Cooldown for the Hammer of Kingbdogz projectile" = 50
 	#Determines the cooldown in ticks for the Cloud Staff's ability
 	"Cooldown for the Cloud Staff" = 40
+	#Makes armor abilities depend on wearing the respective gloves belonging to an armor set
+	"Require gloves for set abilities" = true
 
 [Loot]
 	#Allows the Golden Feather to spawn in the Silver Dungeon loot table
@@ -38,6 +42,8 @@
 	"Invisibility Cloak visibility timer" = 50
 	#Makes it so that only whitelisted users or anyone with permission level 4 can use the Sun Altar on a server
 	"Only whitelisted users access Sun Altars" = false
+	#Configures what dimensions are able to have their time changed by the Sun Altar
+	"Configure Sun Altar dimensions" = ["aether:the_aether"]
 
 [Modpack]
 	#Spawns the player in the Aether dimension; this is best enabled alongside other modpack configuration to avoid issues
