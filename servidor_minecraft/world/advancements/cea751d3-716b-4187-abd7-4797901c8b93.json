@@ -1437,6 +1437,7 @@
       "minecraft:skeleton": "2025-01-17 04:50:18 +0000",
       "minecraft:spider": "2025-01-17 05:09:13 +0000",
       "minecraft:creeper": "2025-01-17 05:33:13 +0000",
+      "minecraft:witch": "2025-01-17 07:01:43 +0000",
       "minecraft:cave_spider": "2025-01-17 05:26:54 +0000",
       "minecraft:zombie": "2025-01-17 04:42:09 +0000"
     },
@@ -2224,6 +2225,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/gummy_rings": {
+    "criteria": {
+      "blue": "2025-01-17 06:58:44 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/combat/diamond_gloves": {
     "criteria": {
       "has_diamond": "2025-01-17 05:04:20 +0000"
@@ -2371,6 +2378,12 @@
   "tconstruct:recipes/building_blocks/common/slime/sky/crystal_block": {
     "criteria": {
       "has_item": "2025-01-17 06:04:54 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/potion_table": {
+    "criteria": {
+      "has_glass_bottle": "2025-01-17 07:01:44 +0000"
     },
     "done": true
   },
@@ -3079,6 +3092,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-01-17 04:49:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-01-17 07:01:52 +0000"
     },
     "done": true
   },
