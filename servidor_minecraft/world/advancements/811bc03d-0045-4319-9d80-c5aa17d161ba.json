@@ -839,8 +839,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-01-17 05:04:34 +0000",
       "minecraft:spider": "2025-01-17 03:42:25 +0000",
-      "minecraft:creeper": "2025-01-17 04:39:58 +0000"
+      "minecraft:creeper": "2025-01-17 04:39:58 +0000",
+      "minecraft:zombie": "2025-01-17 05:03:29 +0000"
     },
     "done": false
   },
@@ -1208,7 +1210,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-01-17 04:04:43 +0000",
-      "bread": "2025-01-17 03:52:52 +0000"
+      "bread": "2025-01-17 03:52:52 +0000",
+      "rotten_flesh": "2025-01-17 05:05:36 +0000"
     },
     "done": false
   },
@@ -2382,6 +2385,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-17 05:07:49 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2025-01-17 04:57:50 +0000"
@@ -2409,6 +2418,18 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-01-17 05:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-17 05:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-01-17 05:07:49 +0000"
     },
     "done": true
   },
@@ -2553,6 +2574,18 @@
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2025-01-17 04:57:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-01-17 05:03:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-01-17 05:05:31 +0000"
     },
     "done": true
   },
