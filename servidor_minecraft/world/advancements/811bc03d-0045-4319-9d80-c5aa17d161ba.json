@@ -843,7 +843,8 @@
       "minecraft:spider": "2025-01-17 03:42:25 +0000",
       "minecraft:creeper": "2025-01-17 04:39:58 +0000",
       "minecraft:cave_spider": "2025-01-17 05:28:55 +0000",
-      "minecraft:zombie": "2025-01-17 05:03:29 +0000"
+      "minecraft:zombie": "2025-01-17 05:03:29 +0000",
+      "minecraft:zombie_villager": "2025-01-17 06:09:42 +0000"
     },
     "done": false
   },
@@ -1216,7 +1217,8 @@
       "cooked_beef": "2025-01-17 04:04:43 +0000",
       "baked_potato": "2025-01-17 05:28:23 +0000",
       "bread": "2025-01-17 03:52:52 +0000",
-      "rotten_flesh": "2025-01-17 05:05:36 +0000"
+      "rotten_flesh": "2025-01-17 05:05:36 +0000",
+      "carrot": "2025-01-17 06:14:46 +0000"
     },
     "done": false
   },
@@ -2723,6 +2725,54 @@
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2025-01-17 05:34:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-17 06:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-17 06:10:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-17 06:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-17 06:08:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-01-17 06:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-17 06:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-17 06:10:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-17 06:14:41 +0000"
     },
     "done": true
   },
