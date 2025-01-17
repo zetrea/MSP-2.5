@@ -795,6 +795,7 @@
       "porkchop": "2025-01-17 03:41:21 +0000",
       "apple": "2025-01-17 03:40:30 +0000",
       "bread": "2025-01-17 04:22:17 +0000",
+      "rotten_flesh": "2025-01-17 06:46:49 +0000",
       "carrot": "2025-01-17 06:11:24 +0000"
     },
     "done": false
@@ -3470,6 +3471,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-01-17 06:39:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-01-17 06:29:03 +0000"
@@ -3533,6 +3540,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-17 05:47:10 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_seeker_enhanced_repair": {
+    "criteria": {
+      "has_heart_seeker": "2025-01-17 06:38:15 +0000"
     },
     "done": true
   },
@@ -3626,6 +3639,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_smelting": {
+    "criteria": {
+      "has_ring": "2025-01-17 06:41:29 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_fletching_table": {
     "criteria": {
       "has_flint": "2025-01-17 05:58:35 +0000"
@@ -3665,6 +3684,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-01-17 05:54:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-01-17 06:36:52 +0000"
     },
     "done": true
   },
@@ -3764,6 +3789,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-01-17 06:37:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-01-17 06:29:03 +0000"
@@ -3860,6 +3891,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_blasting": {
+    "criteria": {
+      "has_ring": "2025-01-17 06:41:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-01-17 05:54:41 +0000"
@@ -3920,6 +3957,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-17 06:36:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-01-17 05:46:48 +0000"
@@ -3947,6 +3990,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-01-17 05:47:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-01-17 06:37:03 +0000"
     },
     "done": true
   },
@@ -4007,6 +4056,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-01-17 06:29:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-17 06:36:42 +0000"
     },
     "done": true
   },
