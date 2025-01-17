@@ -309,3 +309,52 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [17Jan2025 03:55:39.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Amateur Archaeologist]
 [17Jan2025 03:58:15.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Acquire Hardware]
 [17Jan2025 03:59:06.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Crops of the Wild]
+[17Jan2025 03:59:19.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Amateur Archaeologist]
+[17Jan2025 03:59:44.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Disme A Dozen]
+[17Jan2025 04:00:47.258] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[17Jan2025 04:00:47.283] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[17Jan2025 04:00:59.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa was turned to ice by Ice Dragon
+[17Jan2025 04:01:56.070] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-22, z=241}
+[17Jan2025 04:01:56.071] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-22, z=243}
+[17Jan2025 04:01:56.071] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-22, z=243}
+[17Jan2025 04:01:56.072] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[17Jan2025 04:01:56.072] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[17Jan2025 04:01:56.072] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[17Jan2025 04:01:56.072] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[17Jan2025 04:01:56.092] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=53, y=-22, z=239}
+[17Jan2025 04:01:56.093] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=59, y=-22, z=239}
+[17Jan2025 04:01:56.093] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-21, z=245}
+[17Jan2025 04:01:56.095] [Worker-Main-4/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fishing_rod",tag:{Damage:0,Inventory:{Items:[{Count:1b,Slot:1,id:"aquaculture:worm",tag:{Damage:0}},{Count:1b,Slot:2,id:"aquaculture:fishing_line"},{Count:1b,Slot:3,id:"aquaculture:bobber"}],Size:4}}}
+[17Jan2025 04:01:56.095] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=54, y=-22, z=243}
+[17Jan2025 04:01:56.096] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=54, y=-21, z=242}
+[17Jan2025 04:01:56.096] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=54, y=-22, z=241}
+[17Jan2025 04:01:56.096] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:oak_fish_mount
+[17Jan2025 04:01:56.096] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=57, y=-21, z=245}
+[17Jan2025 04:01:56.097] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=58, y=-22, z=241}
+[17Jan2025 04:01:56.097] [Worker-Main-4/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[17Jan2025 04:01:56.097] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=58, y=-22, z=243}
+[17Jan2025 04:01:56.097] [Worker-Main-4/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:fish_fillet_raw"}
+[17Jan2025 04:01:56.097] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[17Jan2025 04:02:27.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zetreaa moved too quickly! -7.605795671977717,-1.7967356006687112,-6.3648794379479625
+[17Jan2025 04:02:43.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Disme A Dozen]
+[17Jan2025 04:02:53.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Acquire Hardware]
+[17Jan2025 04:03:00.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa was turned to ice by Ice Dragon
+[17Jan2025 04:09:24.971] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player zae_0 is dbf0cfc0-7038-4ea1-828b-c0b5e4537ee4
+[17Jan2025 04:09:32.924] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zae_0[/127.36.36.20:52297] logged in with entity id 12788 at (-46.5, 70.0, -30.5)
+[17Jan2025 04:09:32.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zae_0 joined the game
+[17Jan2025 04:09:32.982] [Server thread/INFO] [Jade/]: Syncing config to zae_0 (dbf0cfc0-7038-4ea1-828b-c0b5e4537ee4)
+[17Jan2025 04:09:33.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zae_0 has made the advancement [Ice and Fire]
+[17Jan2025 04:09:41.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zae_0 to zetreaa]
+[17Jan2025 04:10:18.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zae_0 has made the advancement [Sweet Dreams]
+[17Jan2025 04:10:38.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElJimmyy> zz
+[17Jan2025 04:10:38.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElJimmyy> z
+[17Jan2025 04:10:38.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElJimmyy> z
+[17Jan2025 04:12:20.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Suit Up]
+[17Jan2025 04:12:27.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Isn't It Iron Pick]
+[17Jan2025 04:14:18.521] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElJimmyy lost connection: Disconnected
+[17Jan2025 04:14:18.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy left the game
+[17Jan2025 04:15:52.416] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zetreaa lost connection: Disconnected
+[17Jan2025 04:15:52.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa left the game
+[17Jan2025 04:16:03.766] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zae_0 lost connection: Disconnected
+[17Jan2025 04:16:03.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zae_0 left the game
+[17Jan2025 04:16:03.846] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
