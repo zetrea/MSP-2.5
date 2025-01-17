@@ -358,3 +358,28 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [17Jan2025 04:16:03.766] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zae_0 lost connection: Disconnected
 [17Jan2025 04:16:03.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zae_0 left the game
 [17Jan2025 04:16:03.846] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Jan2025 04:21:04.889] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ElJimmyy is 304df7a8-4fc9-4015-82b1-0b9cd37e279a
+[17Jan2025 04:21:17.141] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElJimmyy[/127.87.97.243:43501] logged in with entity id 14344 at (-657.3059155517639, 83.0, -325.3001582368997)
+[17Jan2025 04:21:17.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy joined the game
+[17Jan2025 04:21:17.181] [Server thread/INFO] [Jade/]: Syncing config to ElJimmyy (304df7a8-4fc9-4015-82b1-0b9cd37e279a)
+[17Jan2025 04:22:29.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Barrel Booty]
+[17Jan2025 04:22:44.336] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player zae_0 is dbf0cfc0-7038-4ea1-828b-c0b5e4537ee4
+[17Jan2025 04:22:52.229] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zae_0[/127.36.36.20:41667] logged in with entity id 14983 at (-696.0853978150432, 76.0, -350.3356429341229)
+[17Jan2025 04:22:52.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zae_0 joined the game
+[17Jan2025 04:22:52.285] [Server thread/INFO] [Jade/]: Syncing config to zae_0 (dbf0cfc0-7038-4ea1-828b-c0b5e4537ee4)
+[17Jan2025 04:23:29.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Not Today, Thank You]
+[17Jan2025 04:24:06.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Spider
+[17Jan2025 04:25:18.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Zombie
+[17Jan2025 04:25:53.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zae_0 was slain by Zombie
+[17Jan2025 04:27:06.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zae_0 has made the advancement ['X' Marks the Spot]
+[17Jan2025 04:27:30.061] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@69fbf084[id=<null>,name=zetreaa,properties={},legacy=false] (/127.231.240.35:45683) lost connection: Disconnected
+[17Jan2025 04:27:31.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zae_0 has made the advancement [Crops of the Wild]
+[17Jan2025 04:27:34.569] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
+[17Jan2025 04:27:44.681] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zetreaa[/127.231.240.35:36757] logged in with entity id 16644 at (-679.9889464498989, 72.0, -374.8433229694384)
+[17Jan2025 04:27:44.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa joined the game
+[17Jan2025 04:27:44.760] [Server thread/INFO] [Jade/]: Syncing config to zetreaa (811bc03d-0045-4319-9d80-c5aa17d161ba)
+[17Jan2025 04:28:27.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zetreaa moved wrongly!
+[17Jan2025 04:28:38.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElJimmyy> duermas
+[17Jan2025 04:28:42.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElJimmyy> duermas
+[17Jan2025 04:28:47.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElJimmyy> duerman hijjos de la perra
+[17Jan2025 04:28:50.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElJimmyy> pornooo
