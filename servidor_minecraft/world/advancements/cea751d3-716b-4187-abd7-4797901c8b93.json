@@ -1779,6 +1779,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-17 07:08:49 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_gloves": "2025-01-17 04:52:55 +0000"
@@ -1788,6 +1794,12 @@
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-01-17 05:41:13 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
+    "criteria": {
+      "has_item": "2025-01-17 07:31:53 +0000"
     },
     "done": true
   },
@@ -2207,6 +2219,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/caramel": {
+    "criteria": {
+      "mussel": "2025-01-17 07:16:58 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/combat/tools/armor/travelers_pants": {
     "criteria": {
       "has_item": "2025-01-17 06:31:00 +0000"
@@ -2222,6 +2240,12 @@
   "vampirism:recipes/combat/leather_from_obi_belt": {
     "criteria": {
       "has_obi_belt": "2025-01-17 05:13:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-01-17 07:31:53 +0000"
     },
     "done": true
   },
@@ -2312,6 +2336,12 @@
   "vampirism:recipes/misc/gold_nugget_from_accessory_smelting": {
     "criteria": {
       "has_ring": "2025-01-17 05:31:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-01-17 07:22:48 +0000"
     },
     "done": true
   },
@@ -2687,6 +2717,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/eat_candy_cane": {
+    "criteria": {
+      "eat_candy_cane": "2025-01-17 07:15:58 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/common/gold_bars": {
     "criteria": {
       "has_ingot": "2025-01-17 06:35:44 +0000"
@@ -2750,6 +2786,12 @@
   "vampirism:recipes/transportation/cursed_spruce_boat": {
     "criteria": {
       "in_water": "2025-01-17 04:49:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves_repairing": {
+    "criteria": {
+      "has_diamond_gloves": "2025-01-17 07:13:26 +0000"
     },
     "done": true
   },
@@ -2951,6 +2993,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/wooden_shovel_repairing": {
+    "criteria": {
+      "has_wooden_shovel": "2025-01-17 07:08:24 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-17 06:26:41 +0000"
@@ -3041,6 +3089,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-01-17 07:31:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-01-17 04:57:11 +0000"
@@ -3056,6 +3110,18 @@
   "aether:recipes/combat/golden_pendant": {
     "criteria": {
       "has_gold_ingot": "2025-01-17 06:35:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2025-01-17 07:08:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-01-17 07:22:48 +0000"
     },
     "done": true
   },

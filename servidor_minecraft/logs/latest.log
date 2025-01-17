@@ -460,3 +460,70 @@ java.lang.Throwable: null
 [17Jan2025 07:07:29.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zetreaa> no eso es de gays
 [17Jan2025 07:07:36.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zae_0 moved wrongly!
 [17Jan2025 07:07:41.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AnbertitoKawaixX> maricon
+[17Jan2025 07:08:49.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnbertitoKawaixX has made the advancement [Take Aim]
+[17Jan2025 07:08:51.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was impaled on a stalagmite
+[17Jan2025 07:08:56.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[17Jan2025 07:10:07.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zae_0> y la cama?=
+[17Jan2025 07:10:37.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zetreaa> estamos
+[17Jan2025 07:10:40.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zetreaa> en mina
+[17Jan2025 07:10:49.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnbertitoKawaixX was shot by Skeleton
+[17Jan2025 07:11:22.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
+[17Jan2025 07:12:57.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Caniac No More]
+[17Jan2025 07:15:58.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnbertitoKawaixX has made the advancement [Tis the Season]
+[17Jan2025 07:16:58.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnbertitoKawaixX has made the advancement [Unwrapped Candy]
+[17Jan2025 07:22:57.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[17Jan2025 07:25:35.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[17Jan2025 07:26:49.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnbertitoKawaixX drowned
+[17Jan2025 07:27:00.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[17Jan2025 07:27:11.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zae_0 has reached the goal [Pure Imagination]
+[17Jan2025 07:27:25.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zae_0 has made the advancement [Suit Up]
+[17Jan2025 07:27:47.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zae_0 lost connection: Disconnected
+[17Jan2025 07:27:47.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zae_0 left the game
+[17Jan2025 07:27:58.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnbertitoKawaixX was slain by Vampire
+[17Jan2025 07:27:59.495] [Server thread/WARN] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/]: Cannot get Faction player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.factions.FactionPlayerHandler.getOpt(FactionPlayerHandler.java:71) ~[Vampirism-1.20.1-1.10.12.jar%23221!/:1.20.1-1.10.12]
+	at de.teamlapen.vampirism.util.Helper.canBecomeVampire(Helper.java:132) ~[Vampirism-1.20.1-1.10.12.jar%23221!/:1.20.1-1.10.12]
+	at de.teamlapen.vampirism.effects.SanguinareEffectInstance.m_19552_(SanguinareEffectInstance.java:24) ~[Vampirism-1.20.1-1.10.12.jar%23221!/:1.20.1-1.10.12]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:758) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:432) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:422) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2259) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[17Jan2025 07:28:08.145] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player zae_0 is dbf0cfc0-7038-4ea1-828b-c0b5e4537ee4
+[17Jan2025 07:28:15.449] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zae_0[/127.36.36.20:54105] logged in with entity id 58556 at (-456.5205696315721, 56.037445941674164, -244.19741718691296)
+[17Jan2025 07:28:15.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zae_0 joined the game
+[17Jan2025 07:28:15.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zae_0 has made the advancement [Rocks Off!]
+[17Jan2025 07:28:15.503] [Server thread/INFO] [Jade/]: Syncing config to zae_0 (dbf0cfc0-7038-4ea1-828b-c0b5e4537ee4)
+[17Jan2025 07:28:25.593] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zae_0 lost connection: Disconnected
+[17Jan2025 07:28:25.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zae_0 left the game
+[17Jan2025 07:28:31.532] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[17Jan2025 07:28:31.743] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[17Jan2025 07:28:31.743] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[17Jan2025 07:28:31.744] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[17Jan2025 07:28:31.744] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[17Jan2025 07:28:38.825] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[17Jan2025 07:28:38.825] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[17Jan2025 07:29:30.322] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[17Jan2025 07:29:47.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2306ms or 46 ticks behind
+[17Jan2025 07:30:37.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has reached the goal [And I'm All Out of Gum]
+[17Jan2025 07:30:45.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[17Jan2025 07:30:48.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Cover Me with Diamonds]
+[17Jan2025 07:32:41.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[17Jan2025 07:33:47.610] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zetreaa lost connection: Disconnected
+[17Jan2025 07:33:47.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa left the game
+[17Jan2025 07:34:44.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnbertitoKawaixX: Set own game mode to Creative Mode]
+[17Jan2025 07:35:23.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnbertitoKawaixX: Set own game mode to Survival Mode]
+[17Jan2025 07:36:11.936] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/57159, l='ServerLevel[world]', x=-1069.30, y=30.00, z=172.64] died, message: 'Unemployed hit the ground too hard'
+[17Jan2025 07:37:30.856] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElJimmyy lost connection: Disconnected
+[17Jan2025 07:37:30.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy left the game
