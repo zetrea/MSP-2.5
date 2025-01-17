@@ -5850,3 +5850,42 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [17Jan2025 03:36:56.715] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@65e44a70 for service interface com.blamejared.clumps.platform.IPlatformHelper
 [17Jan2025 03:37:23.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Stone Age]
 [17Jan2025 03:37:33.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Getting an Upgrade]
+[17Jan2025 03:38:50.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 03:38:50.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 03:39:20.825] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:crow
+[17Jan2025 03:39:40.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Monster Hunter]
+[17Jan2025 03:41:05.365] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:hummingbird
+[17Jan2025 03:41:07.031] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.47 and blood value 3 for entity alexsmobs:skunk
+[17Jan2025 03:41:44.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[17Jan2025 03:41:51.409] [Server thread/DEBUG] [mixin/]: Mixing VibrationSystemListenerMixin from botania_xplat.mixins.json into net.minecraft.world.level.gameevent.vibrations.VibrationSystem$Listener
+[17Jan2025 03:42:06.373] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.52 and blood value 15 for entity alexscaves:gummy_bear
+[17Jan2025 03:42:06.373] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.52 and blood value 15 for entity alexscaves:gummy_bear
+[17Jan2025 03:42:06.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Spider
+[17Jan2025 03:42:07.908] [Server thread/DEBUG] [twilightforest/]: Player ElJimmyy (304df7a8-4fc9-4015-82b1-0b9cd37e279a) respawned and received items held in storage
+[17Jan2025 03:42:11.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[17Jan2025 03:42:25.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Monster Hunter]
+[17Jan2025 03:43:02.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was shot by Skeleton
+[17Jan2025 03:43:04.270] [Server thread/DEBUG] [twilightforest/]: Player ElJimmyy (304df7a8-4fc9-4015-82b1-0b9cd37e279a) respawned and received items held in storage
+[17Jan2025 03:43:05.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[17Jan2025 03:43:10.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Set the time to 1000]
+[17Jan2025 03:43:50.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 03:43:50.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 03:44:04.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa was slain by ElJimmyy
+[17Jan2025 03:44:10.667] [Server thread/DEBUG] [twilightforest/]: Player zetreaa (811bc03d-0045-4319-9d80-c5aa17d161ba) respawned and received items held in storage
+[17Jan2025 03:44:13.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[17Jan2025 03:44:36.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has completed the challenge [Cannibal]
+[17Jan2025 03:44:39.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy withered away
+[17Jan2025 03:44:41.254] [Server thread/DEBUG] [twilightforest/]: Player ElJimmyy (304df7a8-4fc9-4015-82b1-0b9cd37e279a) respawned and received items held in storage
+[17Jan2025 03:44:42.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[17Jan2025 03:46:41.622] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[17Jan2025 03:47:13.127] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.73 and blood value 12 for entity alexsmobs:gelada_monkey
+[17Jan2025 03:47:13.127] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.73 and blood value 12 for entity alexsmobs:gelada_monkey
+[17Jan2025 03:48:05.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [First Age]
+[17Jan2025 03:48:07.626] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[17Jan2025 03:48:23.103] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.24 and blood value 0 for entity alexsmobs:bald_eagle
+[17Jan2025 03:48:39.452] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 12.1 and blood value 15 for entity alexsmobs:bison
+[17Jan2025 03:48:39.452] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 12.1 and blood value 15 for entity alexsmobs:bison
+[17Jan2025 03:48:39.453] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 12.1 and blood value 15 for entity alexsmobs:bison
+[17Jan2025 03:48:40.989] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.5 and blood value 15 for entity alexscaves:candicorn
+[17Jan2025 03:48:50.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 03:48:50.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -278,3 +278,17 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [17Jan2025 03:36:06.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has completed the challenge [Learn to Fart]
 [17Jan2025 03:37:23.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Stone Age]
 [17Jan2025 03:37:33.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Getting an Upgrade]
+[17Jan2025 03:39:40.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Monster Hunter]
+[17Jan2025 03:41:44.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[17Jan2025 03:42:06.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Spider
+[17Jan2025 03:42:11.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[17Jan2025 03:42:25.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Monster Hunter]
+[17Jan2025 03:43:02.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was shot by Skeleton
+[17Jan2025 03:43:05.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[17Jan2025 03:43:10.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Set the time to 1000]
+[17Jan2025 03:44:04.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa was slain by ElJimmyy
+[17Jan2025 03:44:13.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[17Jan2025 03:44:36.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has completed the challenge [Cannibal]
+[17Jan2025 03:44:39.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy withered away
+[17Jan2025 03:44:42.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[17Jan2025 03:48:05.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [First Age]
