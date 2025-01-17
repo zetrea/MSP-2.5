@@ -355,3 +355,23 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [17Jan2025 05:46:26.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
 [17Jan2025 05:46:48.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Rocks Off!]
 [17Jan2025 05:46:54.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Sneak 100]
+[17Jan2025 05:50:50.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy fell from a high place
+[17Jan2025 05:54:26.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Close Quarters]
+[17Jan2025 05:54:28.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnbertitoKawaixX was blown up by Creeper
+[17Jan2025 05:54:39.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-44, y=76, z=-29}
+[17Jan2025 05:54:40.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-44, y=76, z=-29}
+[17Jan2025 05:54:40.581] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-44, y=76, z=-28}
+[17Jan2025 05:54:40.851] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-44, y=76, z=-29}
+[17Jan2025 05:54:41.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Diamonds!]
+[17Jan2025 05:54:41.655] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-45, y=74, z=-27}
+[17Jan2025 05:54:50.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-51, y=71, z=-29}
+[17Jan2025 05:54:50.905] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-51, y=69, z=-34}
+[17Jan2025 05:54:50.955] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-50, y=69, z=-35}
+[17Jan2025 05:54:51.105] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-51, y=69, z=-35}
+[17Jan2025 05:54:53.235] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-61, y=71, z=-44}
+[17Jan2025 05:54:53.329] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-61, y=70, z=-44}
+[17Jan2025 05:54:53.431] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-61, y=71, z=-44}
+[17Jan2025 05:54:53.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-61, y=70, z=-44}
+[17Jan2025 05:54:56.904] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-61, y=70, z=-44}
+[17Jan2025 05:54:57.829] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-61, y=71, z=-44}
+[17Jan2025 05:54:57.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-61, y=69, z=-47}
