@@ -325,3 +325,13 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [17Jan2025 05:25:38.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zetreaa> gg
 [17Jan2025 05:25:40.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AnbertitoKawaixX> GG CAPO
 [17Jan2025 05:26:40.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Tunnel Treasures]
+[17Jan2025 05:30:48.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Enderman
+[17Jan2025 05:32:15.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [A True Source of Evil]
+[17Jan2025 05:33:40.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy fell from a high place
+[17Jan2025 05:34:43.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Close Quarters]
+[17Jan2025 05:35:12.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy fell from a high place
+[17Jan2025 05:35:29.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnbertitoKawaixX was shot by Skeleton
+[17Jan2025 05:36:46.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zetreaa lost connection: Disconnected
+[17Jan2025 05:36:46.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa left the game
+[17Jan2025 05:36:46.886] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Jan2025 05:37:01.626] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba

@@ -842,6 +842,7 @@
       "minecraft:skeleton": "2025-01-17 05:04:34 +0000",
       "minecraft:spider": "2025-01-17 03:42:25 +0000",
       "minecraft:creeper": "2025-01-17 04:39:58 +0000",
+      "minecraft:cave_spider": "2025-01-17 05:28:55 +0000",
       "minecraft:zombie": "2025-01-17 05:03:29 +0000"
     },
     "done": false
@@ -1077,7 +1078,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-01-17 04:57:39 +0000",
-      "opened_chest": "2025-01-17 03:52:31 +0000"
+      "opened_chest": "2025-01-17 03:52:31 +0000",
+      "opened_cart": "2025-01-17 05:26:40 +0000"
     },
     "done": false
   },
@@ -1212,6 +1214,7 @@
       "cooked_porkchop": "2025-01-17 05:20:48 +0000",
       "cooked_mutton": "2025-01-17 05:22:25 +0000",
       "cooked_beef": "2025-01-17 04:04:43 +0000",
+      "baked_potato": "2025-01-17 05:28:23 +0000",
       "bread": "2025-01-17 03:52:52 +0000",
       "rotten_flesh": "2025-01-17 05:05:36 +0000"
     },
@@ -2387,6 +2390,12 @@
     },
     "done": true
   },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2025-01-17 05:32:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-01-17 05:01:22 +0000"
@@ -2408,6 +2417,12 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-01-17 05:07:49 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-01-17 05:26:40 +0000"
     },
     "done": true
   },
@@ -2465,6 +2480,18 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/heart_seeker_enhanced_repair": {
+    "criteria": {
+      "has_heart_seeker": "2025-01-17 05:26:58 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-01-17 05:34:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-01-17 05:01:22 +0000"
@@ -2474,6 +2501,12 @@
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-01-17 04:57:39 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/leather_from_obi_belt": {
+    "criteria": {
+      "has_obi_belt": "2025-01-17 05:26:53 +0000"
     },
     "done": true
   },
@@ -2561,6 +2594,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/holy_water_bottle_enhanced_from_ultimate": {
+    "criteria": {
+      "has_ultimate_holy_water": "2025-01-17 05:26:55 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_jukebox": {
     "criteria": {
       "has_diamond": "2025-01-17 05:01:22 +0000"
@@ -2636,6 +2675,18 @@
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2025-01-17 04:57:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/holy_water_bottle_normal_from_enhanced": {
+    "criteria": {
+      "has_enhanced_holy_water": "2025-01-17 05:26:55 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/crucifix_ultimate": {
+    "criteria": {
+      "holy_water": "2025-01-17 05:26:55 +0000"
     },
     "done": true
   },
