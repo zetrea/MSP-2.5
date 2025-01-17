@@ -375,3 +375,10 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [17Jan2025 05:54:56.904] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-61, y=70, z=-44}
 [17Jan2025 05:54:57.829] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-61, y=71, z=-44}
 [17Jan2025 05:54:57.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-61, y=69, z=-47}
+[17Jan2025 06:00:03.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnbertitoKawaixX has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
+[17Jan2025 06:00:13.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnbertitoKawaixX has made the advancement [Rocks Off!]
+[17Jan2025 06:01:57.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnbertitoKawaixX was blown up by Creeper
+[17Jan2025 06:02:05.435] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[17Jan2025 06:02:05.592] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[17Jan2025 06:02:05.592] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[17Jan2025 06:06:25.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Enderman
