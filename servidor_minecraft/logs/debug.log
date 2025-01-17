@@ -5889,3 +5889,30 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [17Jan2025 03:48:40.989] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.5 and blood value 15 for entity alexscaves:candicorn
 [17Jan2025 03:48:50.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Jan2025 03:48:50.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 03:49:09.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[17Jan2025 03:50:18.723] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[17Jan2025 03:50:18.724] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to md21afb6$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[17Jan2025 03:52:31.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement ['X' Marks the Spot]
+[17Jan2025 03:52:31.819] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[17Jan2025 03:52:42.529] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 0 for entity iceandfire:ice_dragon
+[17Jan2025 03:53:10.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Crops of the Wild]
+[17Jan2025 03:53:24.591] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.61 and blood value 0 for entity alexsmobs:grizzly_bear
+[17Jan2025 03:53:33.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement ['X' Marks the Spot]
+[17Jan2025 03:53:50.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 03:53:50.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 03:55:14.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Sweet Dreams]
+[17Jan2025 03:55:16.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zetreaa> zzz
+[17Jan2025 03:55:16.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zetreaa> zz
+[17Jan2025 03:55:16.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zetreaa> z
+[17Jan2025 03:55:16.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zetreaa> z
+[17Jan2025 03:55:17.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zetreaa> z
+[17Jan2025 03:55:17.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Book of Monsters]
+[17Jan2025 03:55:17.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zetreaa> zz
+[17Jan2025 03:55:17.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zetreaa> z
+[17Jan2025 03:55:25.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Sweet Dreams]
+[17Jan2025 03:55:39.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Amateur Archaeologist]
+[17Jan2025 03:56:46.522] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.68 and blood value 15 for entity alexscaves:subterranodon
+[17Jan2025 03:58:15.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Acquire Hardware]
+[17Jan2025 03:58:50.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 03:58:50.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 03:59:06.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Crops of the Wild]
