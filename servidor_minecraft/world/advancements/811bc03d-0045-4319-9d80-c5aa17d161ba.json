@@ -1209,6 +1209,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-17 05:20:48 +0000",
+      "cooked_mutton": "2025-01-17 05:22:25 +0000",
       "cooked_beef": "2025-01-17 04:04:43 +0000",
       "bread": "2025-01-17 03:52:52 +0000",
       "rotten_flesh": "2025-01-17 05:05:36 +0000"
@@ -2361,9 +2363,27 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/packed_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-01-17 05:17:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-17 05:20:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-01-17 04:59:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-01-17 05:20:08 +0000"
     },
     "done": true
   },
@@ -2427,6 +2447,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-01-17 05:19:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-01-17 05:07:49 +0000"
@@ -2463,6 +2489,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-17 05:17:12 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_helmet_repairing": {
     "criteria": {
       "has_iron_helmet": "2025-01-17 04:56:26 +0000"
@@ -2472,6 +2504,12 @@
   "tconstruct:recipes/decorations/gadgets/frame/diamond": {
     "criteria": {
       "has_item": "2025-01-17 05:01:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-01-17 05:19:24 +0000"
     },
     "done": true
   },
@@ -2529,9 +2567,33 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2025-01-17 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-01-17 05:17:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-01-17 04:53:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_shell": {
+    "criteria": {
+      "soul_heart": "2025-01-17 05:14:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-01-17 05:17:12 +0000"
     },
     "done": true
   },
@@ -2577,6 +2639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-01-17 05:14:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-01-17 05:03:47 +0000"
@@ -2586,6 +2654,18 @@
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-01-17 05:05:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-01-17 05:20:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-01-17 05:19:24 +0000"
     },
     "done": true
   },
