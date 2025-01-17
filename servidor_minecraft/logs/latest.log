@@ -398,3 +398,8 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [17Jan2025 06:25:30.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Set AnbertitoKawaixX's game mode to Survival Mode]
 [17Jan2025 06:25:58.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [17Jan2025 06:25:58.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]
+[17Jan2025 06:32:54.869] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
+[17Jan2025 06:33:04.587] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zetreaa[/127.231.240.35:38159] logged in with entity id 36491 at (-429.30000001192093, 114.3244668071482, 74.73829333685285)
+[17Jan2025 06:33:04.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa joined the game
+[17Jan2025 06:33:04.691] [Server thread/INFO] [Jade/]: Syncing config to zetreaa (811bc03d-0045-4319-9d80-c5aa17d161ba)
+[17Jan2025 06:37:54.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [A Realistical Logical Ideologist]
