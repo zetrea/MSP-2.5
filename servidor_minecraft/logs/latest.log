@@ -672,3 +672,54 @@ java.lang.Throwable: null
 [18Jan2025 05:35:10.781] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17342, l='ServerLevel[world]', x=-1847.60, y=74.00, z=105.36] died, message: 'Unemployed was sucked dry fighting zetreaa'
 [18Jan2025 05:35:55.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to ElJimmyy]
 [18Jan2025 05:36:05.637] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17359, l='ServerLevel[world]', x=-1846.23, y=72.50, z=106.30] died, message: 'Unemployed was slain by Zombie'
+[18Jan2025 05:36:21.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 05:36:25.991] [Server thread/WARN] [tombstone/]: The death event of the player AnbertitoKawaixX was canceled by another mod
+[18Jan2025 05:36:25.994] [Server thread/INFO] [tombstone/]: The player AnbertitoKawaixX has successfully been saved
+[18Jan2025 05:36:27.523] [Server thread/WARN] [tombstone/]: The death event of the player AnbertitoKawaixX was canceled by another mod
+[18Jan2025 05:36:27.578] [Server thread/INFO] [tombstone/]: The player AnbertitoKawaixX has successfully been saved
+[18Jan2025 05:36:34.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After AnbertitoKawaixX was shot by Illusioner, they gave up
+[18Jan2025 05:36:37.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
+[18Jan2025 05:36:55.678] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[18Jan2025 05:36:55.693] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[18Jan2025 05:36:57.514] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[18Jan2025 05:36:57.516] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[18Jan2025 05:36:59.677] [Server thread/WARN] [tombstone/]: The death event of the player AnbertitoKawaixX was canceled by another mod
+[18Jan2025 05:36:59.690] [Server thread/INFO] [tombstone/]: The player AnbertitoKawaixX has successfully been saved
+[18Jan2025 05:37:01.163] [Server thread/WARN] [tombstone/]: The death event of the player AnbertitoKawaixX was canceled by another mod
+[18Jan2025 05:37:01.164] [Server thread/INFO] [tombstone/]: The player AnbertitoKawaixX has successfully been saved
+[18Jan2025 05:37:08.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[18Jan2025 05:37:12.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 05:37:19.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by Vindicator, they gave up
+[18Jan2025 05:37:22.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 05:37:34.027] [Server thread/WARN] [tombstone/]: The death event of the player AnbertitoKawaixX was canceled by another mod
+[18Jan2025 05:37:34.042] [Server thread/INFO] [tombstone/]: The player AnbertitoKawaixX has successfully been saved
+[18Jan2025 05:37:35.512] [Server thread/WARN] [tombstone/]: The death event of the player AnbertitoKawaixX was canceled by another mod
+[18Jan2025 05:37:35.514] [Server thread/INFO] [tombstone/]: The player AnbertitoKawaixX has successfully been saved
+[18Jan2025 05:38:29.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[18Jan2025 05:39:13.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 05:40:23.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[18Jan2025 05:40:25.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 05:41:28.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 05:42:09.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 05:44:13.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 05:44:20.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 05:44:49.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 05:45:24.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnbertitoKawaixX moved wrongly!
+[18Jan2025 05:45:33.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 05:46:04.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnbertitoKawaixX has made the advancement [Best Friends Forever]
+[18Jan2025 05:46:04.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnbertitoKawaixX has reached the goal [Rainbows and Candicorns]
+[18Jan2025 05:46:19.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of AnbertitoKawaixX) moved wrongly! 0.7937457419342877
+[18Jan2025 05:46:19.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of AnbertitoKawaixX) moved wrongly! 1.6191567263291518
+[18Jan2025 05:46:19.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of AnbertitoKawaixX) moved wrongly! 2.450870722798186
+[18Jan2025 05:46:19.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of AnbertitoKawaixX) moved wrongly! 3.285957335359626
+[18Jan2025 05:46:19.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of AnbertitoKawaixX) moved wrongly! 3.771812623709309
+[18Jan2025 05:46:19.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of AnbertitoKawaixX) moved wrongly! 4.244169209023823
+[18Jan2025 05:46:32.409] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 20001
+[18Jan2025 05:46:33.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of AnbertitoKawaixX) moved wrongly! 0.37402369600289376
+[18Jan2025 05:46:33.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of AnbertitoKawaixX) moved wrongly! 0.948180014508921
+[18Jan2025 05:46:33.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of AnbertitoKawaixX) moved wrongly! 1.6277559110432662
+[18Jan2025 05:46:33.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of AnbertitoKawaixX) moved wrongly! 2.354017022290691
+[18Jan2025 05:46:33.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of AnbertitoKawaixX) moved wrongly! 3.0945749450468156
+[18Jan2025 05:46:33.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of AnbertitoKawaixX) moved wrongly! 3.524307955336326
+[18Jan2025 05:46:38.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of AnbertitoKawaixX) moved wrongly! 0.3285562936676456
+[18Jan2025 05:46:38.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of AnbertitoKawaixX) moved wrongly! 1.1439437797705523
