@@ -6160,3 +6160,9 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [18Jan2025 21:25:42.199] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
 [18Jan2025 21:25:42.244] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
 [18Jan2025 21:25:42.516] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[18Jan2025 21:30:21.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 21:30:21.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 21:32:51.506] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.25 and blood value 0 for entity alexsmobs:terrapin
+[18Jan2025 21:33:06.753] [Worker-Main-10/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.0s
+[18Jan2025 21:35:21.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 21:35:21.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

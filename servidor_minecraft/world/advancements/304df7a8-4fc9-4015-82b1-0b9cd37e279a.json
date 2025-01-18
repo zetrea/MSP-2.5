@@ -6487,9 +6487,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-01-18 21:26:25 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_purple": {
     "criteria": {
       "has_wool": "2025-01-18 21:08:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-01-18 21:26:25 +0000"
     },
     "done": true
   },
