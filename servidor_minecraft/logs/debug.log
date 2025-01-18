@@ -6133,3 +6133,19 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [18Jan2025 10:21:00.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [The Soul Forge]
 [18Jan2025 10:21:00.174] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.22 and blood value 0 for entity cataclysm:netherite_ministrosity
 [18Jan2025 10:21:10.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has completed the challenge [Hot Tourist Destinations]
+[18Jan2025 10:25:18.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 10:25:18.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 10:26:05.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Set own game mode to Survival Mode]
+[18Jan2025 10:26:25.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Set own game mode to Creative Mode]
+[18Jan2025 10:27:08.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Set own game mode to Survival Mode]
+[18Jan2025 10:27:58.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Set own game mode to Creative Mode]
+[18Jan2025 10:28:11.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Set own game mode to Survival Mode]
+[18Jan2025 10:28:16.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Set own game mode to Creative Mode]
+[18Jan2025 10:28:21.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Set own game mode to Survival Mode]
+[18Jan2025 10:28:48.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Set own game mode to Creative Mode]
+[18Jan2025 10:28:56.235] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@551b382a for service interface com.blamejared.clumps.platform.IEventHelper
+[18Jan2025 10:28:56.236] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@397de16a for service interface com.blamejared.clumps.platform.IPlatformHelper
+[18Jan2025 10:29:01.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Set own game mode to Survival Mode]
+[18Jan2025 10:29:28.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Set own game mode to Creative Mode]
+[18Jan2025 10:30:18.071] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 10:30:18.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
