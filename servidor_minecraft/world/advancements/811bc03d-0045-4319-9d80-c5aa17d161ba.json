@@ -63,6 +63,7 @@
     "criteria": {
       "minecraft:taiga": "2025-01-18 05:49:52 +0000",
       "minecraft:frozen_river": "2025-01-17 07:28:10 +0000",
+      "minecraft:beach": "2025-01-18 05:57:02 +0000",
       "minecraft:river": "2025-01-17 03:45:09 +0000",
       "minecraft:snowy_plains": "2025-01-17 04:02:35 +0000",
       "minecraft:dripstone_caves": "2025-01-17 03:35:14 +0000",
@@ -849,6 +850,8 @@
       "minecraft:vindicator": "2025-01-17 09:06:27 +0000",
       "minecraft:spider": "2025-01-17 03:42:25 +0000",
       "minecraft:creeper": "2025-01-17 04:39:58 +0000",
+      "minecraft:phantom": "2025-01-18 06:22:47 +0000",
+      "minecraft:wither_skeleton": "2025-01-18 06:22:46 +0000",
       "minecraft:cave_spider": "2025-01-17 05:28:55 +0000",
       "minecraft:enderman": "2025-01-17 11:30:36 +0000",
       "minecraft:stray": "2025-01-17 11:33:39 +0000",
@@ -5431,6 +5434,84 @@
   "dungeons_arise:find_small_blimp": {
     "criteria": {
       "location0": "2025-01-18 05:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-18 06:17:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-01-18 06:23:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-01-18 06:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-18 06:23:04 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/gadgets/frame/gold": {
+    "criteria": {
+      "has_item": "2025-01-18 06:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-18 06:17:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-01-18 06:19:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-01-18 06:19:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-01-18 06:19:10 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-01-18 06:20:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-18 06:23:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-18 06:19:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-01-18 06:19:10 +0000"
     },
     "done": true
   },

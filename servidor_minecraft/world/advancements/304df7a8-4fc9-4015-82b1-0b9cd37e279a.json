@@ -63,6 +63,7 @@
     "criteria": {
       "minecraft:taiga": "2025-01-18 05:49:36 +0000",
       "minecraft:frozen_river": "2025-01-17 07:28:09 +0000",
+      "minecraft:cherry_grove": "2025-01-18 06:02:44 +0000",
       "minecraft:river": "2025-01-17 03:48:05 +0000",
       "minecraft:snowy_plains": "2025-01-17 07:27:00 +0000",
       "minecraft:dripstone_caves": "2025-01-17 05:49:09 +0000",
@@ -743,13 +744,16 @@
     "criteria": {
       "minecraft:pillager": "2025-01-17 04:49:42 +0000",
       "minecraft:skeleton": "2025-01-17 03:39:40 +0000",
+      "minecraft:hoglin": "2025-01-18 06:22:03 +0000",
       "minecraft:vindicator": "2025-01-17 04:55:42 +0000",
       "minecraft:spider": "2025-01-17 03:40:07 +0000",
       "minecraft:creeper": "2025-01-17 07:07:36 +0000",
       "minecraft:evoker": "2025-01-17 09:15:10 +0000",
+      "minecraft:husk": "2025-01-18 06:21:56 +0000",
       "minecraft:cave_spider": "2025-01-17 09:14:33 +0000",
       "minecraft:stray": "2025-01-17 08:25:40 +0000",
-      "minecraft:zombie": "2025-01-17 03:39:44 +0000"
+      "minecraft:zombie": "2025-01-17 03:39:44 +0000",
+      "minecraft:zombie_villager": "2025-01-18 06:30:26 +0000"
     },
     "done": false
   },
@@ -810,6 +814,8 @@
       "golden_apple": "2025-01-17 09:04:28 +0000",
       "rotten_flesh": "2025-01-17 06:46:49 +0000",
       "cookie": "2025-01-17 08:11:43 +0000",
+      "salmon": "2025-01-18 06:12:22 +0000",
+      "melon_slice": "2025-01-18 06:16:41 +0000",
       "golden_carrot": "2025-01-17 09:09:28 +0000",
       "carrot": "2025-01-17 06:11:24 +0000"
     },
@@ -5718,15 +5724,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall": {
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
-      "has_bricks": "2025-01-18 05:24:23 +0000"
+      "has_mutton": "2025-01-18 05:10:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_stairs": {
+  "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
-      "has_bricks": "2025-01-18 05:24:23 +0000"
+      "has_cooked_mutton": "2025-01-18 05:10:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-01-18 05:10:20 +0000"
     },
     "done": true
   },
@@ -5736,99 +5748,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2025-01-18 05:50:43 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_gum_worm": {
-    "criteria": {
-      "killed": "2025-01-18 05:23:52 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
-    "criteria": {
-      "has_sign": "2025-01-18 05:55:30 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/burrowing_arrow": {
-    "criteria": {
-      "burrowing_arrow": "2025-01-18 05:13:30 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_silver_chestplate": {
     "criteria": {
       "has_item": "2025-01-18 05:13:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_door": {
-    "criteria": {
-      "has_planks": "2025-01-18 05:50:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_fence": {
-    "criteria": {
-      "has_planks": "2025-01-18 05:50:43 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-01-18 05:55:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-01-18 05:24:23 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-01-18 05:55:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_sign": {
-    "criteria": {
-      "has_planks": "2025-01-18 05:50:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-01-18 05:50:43 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-01-18 05:55:30 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-01-18 05:55:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_slab": {
-    "criteria": {
-      "has_planks": "2025-01-18 05:50:43 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
-    "criteria": {
-      "has_sign": "2025-01-18 05:55:30 +0000"
     },
     "done": true
   },
@@ -5838,15 +5760,93 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
     "criteria": {
-      "has_sign": "2025-01-18 05:55:30 +0000"
+      "has_silver_ingot": "2025-01-18 05:13:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_stairs": {
+  "iceandfire:recipes/combat/armor_silver_helmet": {
     "criteria": {
-      "has_planks": "2025-01-18 05:50:43 +0000"
+      "has_item": "2025-01-18 05:13:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-18 05:13:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2025-01-18 05:13:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-01-18 05:13:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-01-18 05:13:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-01-18 05:13:27 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2025-01-18 05:13:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-01-18 05:16:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-01-18 05:18:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-01-18 05:18:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-01-18 05:18:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-01-18 05:18:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-01-18 05:18:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-01-18 05:18:46 +0000"
     },
     "done": true
   },
@@ -5868,63 +5868,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2025-01-18 05:10:20 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-01-18 05:55:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab": {
-    "criteria": {
-      "has_bricks": "2025-01-18 05:24:23 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
-    "criteria": {
-      "cooked_mutton_chops": "2025-01-18 05:18:46 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-01-18 05:18:52 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
-    "criteria": {
-      "has_sign": "2025-01-18 05:55:30 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
-    "criteria": {
-      "has_sign": "2025-01-18 05:55:30 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2025-01-18 05:10:20 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "iron_knife": "2025-01-18 05:18:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-01-18 05:55:30 +0000"
     },
     "done": true
   },
@@ -5940,51 +5886,39 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_sign_item": {
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
-      "has_sign": "2025-01-18 05:55:30 +0000"
+      "has_beef": "2025-01-18 05:18:52 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+  "alexscaves:alexscaves/defeat_gum_worm": {
     "criteria": {
-      "has_iron_knife": "2025-01-18 05:18:45 +0000"
+      "killed": "2025-01-18 05:23:52 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+  "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
-      "has_silver_ingot": "2025-01-18 05:13:24 +0000"
+      "has_bricks": "2025-01-18 05:24:23 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
+  "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
-      "has_sign": "2025-01-18 05:55:30 +0000"
+      "has_bricks": "2025-01-18 05:24:23 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
-      "has_iron_knife": "2025-01-18 05:18:45 +0000"
+      "has_bricks": "2025-01-18 05:24:23 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooked_mutton_chops": {
+  "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
-      "cooked_mutton_chops": "2025-01-18 05:18:46 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
-    "criteria": {
-      "has_sign": "2025-01-18 05:55:30 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_silver_helmet": {
-    "criteria": {
-      "has_item": "2025-01-18 05:13:24 +0000"
+      "has_bricks": "2025-01-18 05:24:23 +0000"
     },
     "done": true
   },
@@ -5994,9 +5928,159 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
-      "has_silver_ingot": "2025-01-18 05:13:24 +0000"
+      "has_bricks": "2025-01-18 05:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-01-18 05:25:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-01-18 05:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-01-18 05:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-01-18 05:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-01-18 05:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-18 05:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-01-18 05:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-18 05:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-18 05:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-18 05:50:43 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-01-18 05:50:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-18 05:55:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-18 05:55:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-18 05:55:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-18 05:55:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-18 05:55:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-18 05:55:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-18 05:55:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-18 05:55:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-18 05:55:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-18 05:55:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-18 05:55:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-18 05:55:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-18 05:55:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-18 05:55:30 +0000"
     },
     "done": true
   },
@@ -6012,27 +6096,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_voodoo_poppet": {
-    "criteria": {
-      "has_voodoo_poppet": "2025-01-18 05:13:27 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
-    "criteria": {
-      "cooked_mutton_chops": "2025-01-18 05:18:46 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
     "criteria": {
       "has_sign": "2025-01-18 05:55:30 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
-    "criteria": {
-      "has_sapphire_gem": "2025-01-18 05:13:25 +0000"
     },
     "done": true
   },
@@ -6048,45 +6114,9 @@
     },
     "done": true
   },
-  "dungeons_arise:find_small_blimp": {
-    "criteria": {
-      "location0": "2025-01-18 05:50:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-01-18 05:50:43 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
-    "criteria": {
-      "has_dragonscales_silver": "2025-01-18 05:13:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-01-18 05:24:23 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mutton_wrap": {
-    "criteria": {
-      "has_mutton": "2025-01-18 05:10:20 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
     "criteria": {
       "has_sign": "2025-01-18 05:55:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-01-18 05:50:43 +0000"
     },
     "done": true
   },
@@ -6096,33 +6126,99 @@
     },
     "done": true
   },
-  "tombstone:adventure/ashes_and_bones": {
-    "criteria": {
-      "coded_trigger": "2025-01-18 05:16:11 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/enchant_voodoo_poppet": {
-    "criteria": {
-      "has_enchanted_voodoo_poppet": "2025-01-18 05:13:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-01-18 05:25:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
-    "criteria": {
-      "has_beef": "2025-01-18 05:18:52 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
     "criteria": {
       "has_sign": "2025-01-18 05:55:30 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/world/wood/skyroot/log_to_wood": {
+    "criteria": {
+      "has_log": "2025-01-18 05:58:04 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/world/wood/skyroot/planks": {
+    "criteria": {
+      "has_log": "2025-01-18 05:58:04 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/tools/building/sky_staff": {
+    "criteria": {
+      "has_wood": "2025-01-18 05:58:04 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2025-01-18 05:58:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-01-18 06:00:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-01-18 06:03:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-18 06:12:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-01-18 06:24:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/turntable": {
+    "criteria": {
+      "has_alt_item": "2025-01-18 06:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-01-18 06:12:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel_apple": {
+    "criteria": {
+      "mussel": "2025-01-18 06:13:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-18 06:12:19 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-01-18 06:20:37 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/tools/modifiers/wither_bone_conversion": {
+    "criteria": {
+      "has_bone": "2025-01-18 06:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-01-18 06:12:19 +0000"
     },
     "done": true
   },
