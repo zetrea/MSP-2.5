@@ -64,6 +64,9 @@
       "minecraft:taiga": "2025-01-17 13:18:16 +0000",
       "minecraft:frozen_river": "2025-01-17 08:21:17 +0000",
       "minecraft:cherry_grove": "2025-01-18 06:39:56 +0000",
+      "minecraft:birch_forest": "2025-01-18 07:52:18 +0000",
+      "minecraft:wooded_badlands": "2025-01-18 08:02:30 +0000",
+      "minecraft:badlands": "2025-01-18 08:15:56 +0000",
       "minecraft:beach": "2025-01-18 06:19:52 +0000",
       "minecraft:river": "2025-01-17 04:38:31 +0000",
       "minecraft:snowy_plains": "2025-01-17 08:23:07 +0000",
@@ -72,9 +75,12 @@
       "minecraft:swamp": "2025-01-17 08:58:03 +0000",
       "minecraft:forest": "2025-01-17 04:32:35 +0000",
       "minecraft:frozen_ocean": "2025-01-17 12:11:49 +0000",
+      "minecraft:desert": "2025-01-18 07:54:13 +0000",
       "minecraft:deep_frozen_ocean": "2025-01-17 12:12:16 +0000",
+      "minecraft:ocean": "2025-01-18 07:53:49 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-17 13:14:30 +0000",
       "minecraft:snowy_beach": "2025-01-17 11:18:14 +0000",
+      "minecraft:meadow": "2025-01-18 08:11:58 +0000",
       "minecraft:windswept_gravelly_hills": "2025-01-17 05:36:20 +0000",
       "minecraft:plains": "2025-01-17 04:33:47 +0000"
     },
@@ -1485,6 +1491,7 @@
       "cooked_mutton": "2025-01-17 11:20:34 +0000",
       "cooked_beef": "2025-01-17 05:03:18 +0000",
       "baked_potato": "2025-01-17 05:24:36 +0000",
+      "apple": "2025-01-18 07:39:43 +0000",
       "bread": "2025-01-17 05:52:05 +0000",
       "golden_apple": "2025-01-17 05:34:21 +0000",
       "rotten_flesh": "2025-01-17 05:48:29 +0000",
@@ -5951,6 +5958,114 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-01-18 06:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-01-18 07:21:31 +0000"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2025-01-18 07:22:33 +0000"
+    },
+    "done": true
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2025-01-18 07:22:33 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-01-18 08:02:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-01-18 08:12:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-18 07:59:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+    "criteria": {
+      "has_lava_bucket": "2025-01-18 08:00:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-18 08:00:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_glazed_terracotta": {
+    "criteria": {
+      "has_magenta_terracotta": "2025-01-18 08:11:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-01-18 08:12:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-01-18 08:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-01-18 08:16:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-18 08:12:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bandit_village": {
+    "criteria": {
+      "location0": "2025-01-18 08:09:12 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gelatin": {
+    "criteria": {
+      "gelatin": "2025-01-18 07:32:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+    "criteria": {
+      "has_lime_terracotta": "2025-01-18 08:11:34 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/vampire/garlic_finder": {
+    "criteria": {
+      "has_garlic": "2025-01-18 07:59:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-01-18 08:12:52 +0000"
     },
     "done": true
   },
