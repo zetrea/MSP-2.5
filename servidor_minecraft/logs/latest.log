@@ -1449,3 +1449,78 @@ java.lang.Throwable: null
 [18Jan2025 06:37:44.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from holy damage
 [18Jan2025 06:37:44.092] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
 [18Jan2025 06:37:47.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[18Jan2025 06:38:10.646] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[18Jan2025 06:38:10.649] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[18Jan2025 06:39:02.569] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/54612, l='ServerLevel[world]', x=1002.56, y=66.00, z=-567.06] died, message: 'Weaponsmith was slain by Zombie'
+[18Jan2025 06:39:19.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[18Jan2025 06:39:48.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to ElJimmyy]
+[18Jan2025 06:40:45.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[18Jan2025 06:40:54.112] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-26, z=245}
+[18Jan2025 06:40:54.112] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=78, y=-26, z=245}
+[18Jan2025 06:40:54.113] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=78, y=-20, z=251}
+[18Jan2025 06:40:54.113] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=78, y=-20, z=250}
+[18Jan2025 06:40:54.113] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=78, y=-20, z=252}
+[18Jan2025 06:40:54.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 06:41:20.729] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: vampirism:hunter_outpost/ten
+[18Jan2025 06:41:23.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 06:41:35.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [We Need to Go Deeper]
+[18Jan2025 06:41:37.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElJimmyy moved too quickly! 7.5148389065341235,-1.044812420399012,-6.713802113038128
+[18Jan2025 06:41:37.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3555ms or 71 ticks behind
+[18Jan2025 06:41:40.534] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[18Jan2025 06:41:54.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnbertitoKawaixX has made the advancement [We Need to Go Deeper]
+[18Jan2025 06:42:03.314] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[18Jan2025 06:42:03.315] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[18Jan2025 06:42:16.424] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=27, z=91}
+[18Jan2025 06:42:16.424] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=27, z=91}
+[18Jan2025 06:42:16.424] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=23, z=93}
+[18Jan2025 06:42:16.425] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-15, y=27, z=89}
+[18Jan2025 06:42:16.427] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=23, z=90}
+[18Jan2025 06:42:16.427] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=23, z=92}
+[18Jan2025 06:42:38.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
+[18Jan2025 06:42:46.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnbertitoKawaixX has made the advancement [A Terrible Fortress]
+[18Jan2025 06:42:48.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [A Terrible Fortress]
+[18Jan2025 06:42:58.671] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=27, z=91}
+[18Jan2025 06:42:58.672] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=27, z=91}
+[18Jan2025 06:42:58.672] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=23, z=93}
+[18Jan2025 06:42:58.672] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-15, y=27, z=89}
+[18Jan2025 06:42:58.672] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=23, z=90}
+[18Jan2025 06:42:58.673] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=23, z=92}
+[18Jan2025 06:43:23.955] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=75, y=-25, z=235}
+[18Jan2025 06:43:23.955] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=76, y=-25, z=235}
+[18Jan2025 06:43:23.956] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=78, y=-25, z=235}
+[18Jan2025 06:43:23.957] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-25, z=235}
+[18Jan2025 06:43:23.957] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=74, y=-25, z=233}
+[18Jan2025 06:43:49.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnbertitoKawaixX has reached the goal [Blood Island]
+[18Jan2025 06:44:05.217] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Jan2025 06:45:09.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
+[18Jan2025 06:45:24.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Into Fire]
+[18Jan2025 06:45:46.553] [Server thread/WARN] [tombstone/]: The death event of the player AnbertitoKawaixX was canceled by another mod
+[18Jan2025 06:45:46.556] [Server thread/INFO] [tombstone/]: The player AnbertitoKawaixX has successfully been saved
+[18Jan2025 06:45:48.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 06:46:05.957] [Server thread/WARN] [tombstone/]: The death event of the player AnbertitoKawaixX was canceled by another mod
+[18Jan2025 06:46:05.959] [Server thread/INFO] [tombstone/]: The player AnbertitoKawaixX has successfully been saved
+[18Jan2025 06:47:40.652] [Server thread/WARN] [tombstone/]: The death event of the player AnbertitoKawaixX was canceled by another mod
+[18Jan2025 06:47:40.654] [Server thread/INFO] [tombstone/]: The player AnbertitoKawaixX has successfully been saved
+[18Jan2025 06:47:42.163] [Server thread/WARN] [tombstone/]: The death event of the player AnbertitoKawaixX was canceled by another mod
+[18Jan2025 06:47:42.165] [Server thread/INFO] [tombstone/]: The player AnbertitoKawaixX has successfully been saved
+[18Jan2025 06:47:52.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
+[18Jan2025 06:49:24.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 06:49:54.046] [Server thread/WARN] [tombstone/]: The death event of the player AnbertitoKawaixX was canceled by another mod
+[18Jan2025 06:49:54.049] [Server thread/INFO] [tombstone/]: The player AnbertitoKawaixX has successfully been saved
+[18Jan2025 06:50:00.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 06:50:29.299] [Server thread/WARN] [tombstone/]: The death event of the player AnbertitoKawaixX was canceled by another mod
+[18Jan2025 06:50:29.301] [Server thread/INFO] [tombstone/]: The player AnbertitoKawaixX has successfully been saved
+[18Jan2025 06:50:51.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[18Jan2025 06:51:15.652] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnbertitoKawaixX lost connection: Disconnected
+[18Jan2025 06:51:15.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnbertitoKawaixX left the game
+[18Jan2025 06:51:42.909] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AnbertitoKawaixX is cea751d3-716b-4187-abd7-4797901c8b93
+[18Jan2025 06:52:12.307] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@491dc2bd[id=cea751d3-716b-4187-abd7-4797901c8b93,name=AnbertitoKawaixX,properties={textures=[com.mojang.authlib.properties.Property@432e9e64]},legacy=false] (/127.74.146.3:40769): Took too long to log in
+[18Jan2025 06:52:12.309] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@491dc2bd[id=cea751d3-716b-4187-abd7-4797901c8b93,name=AnbertitoKawaixX,properties={textures=[com.mojang.authlib.properties.Property@432e9e64]},legacy=false] (/127.74.146.3:40769) lost connection: Took too long to log in
+[18Jan2025 06:52:12.356] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Jan2025 06:52:50.650] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6a324e62[id=<null>,name=AnbertitoKawaixX,properties={},legacy=false] (/127.74.146.3:53399) lost connection: Disconnected
+[18Jan2025 06:53:05.413] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AnbertitoKawaixX is cea751d3-716b-4187-abd7-4797901c8b93
+[18Jan2025 06:53:34.552] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7735b449[id=cea751d3-716b-4187-abd7-4797901c8b93,name=AnbertitoKawaixX,properties={textures=[com.mojang.authlib.properties.Property@64201b8c]},legacy=false] (/127.74.146.3:35963): Took too long to log in
+[18Jan2025 06:53:34.553] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7735b449[id=cea751d3-716b-4187-abd7-4797901c8b93,name=AnbertitoKawaixX,properties={textures=[com.mojang.authlib.properties.Property@64201b8c]},legacy=false] (/127.74.146.3:35963) lost connection: Took too long to log in
+[18Jan2025 06:53:34.607] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Jan2025 06:55:00.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[18Jan2025 06:57:07.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
