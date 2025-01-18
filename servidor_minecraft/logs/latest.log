@@ -592,3 +592,67 @@ java.lang.Throwable: null
 [18Jan2025 05:14:57.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa joined the game
 [18Jan2025 05:14:57.861] [Server thread/INFO] [Jade/]: Syncing config to zetreaa (811bc03d-0045-4319-9d80-c5aa17d161ba)
 [18Jan2025 05:14:57.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has reached the goal [Heliomancer]
+[18Jan2025 05:15:38.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 05:15:58.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zetreaa moved wrongly!
+[18Jan2025 05:16:10.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[18Jan2025 05:16:12.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Ashes 'n Bones]
+[18Jan2025 05:16:51.944] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[18Jan2025 05:16:51.947] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[18Jan2025 05:17:04.097] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[18Jan2025 05:17:04.099] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[18Jan2025 05:17:16.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 05:18:02.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 05:18:17.141] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[18Jan2025 05:18:17.167] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[18Jan2025 05:18:18.762] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[18Jan2025 05:18:18.764] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[18Jan2025 05:18:23.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[18Jan2025 05:18:45.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Hunt and Gather]
+[18Jan2025 05:19:19.170] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/6357, l='ServerLevel[world]', x=-307.50, y=74.00, z=-485.50] died, message: 'Shepherd was sucked dry fighting zetreaa'
+[18Jan2025 05:20:29.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[18Jan2025 05:20:49.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[18Jan2025 05:21:09.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 05:21:20.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 05:21:26.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[18Jan2025 05:21:27.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 05:21:31.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 05:21:33.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[18Jan2025 05:21:35.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[18Jan2025 05:21:38.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[18Jan2025 05:21:41.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[18Jan2025 05:22:23.139] [Server thread/WARN] [tombstone/]: The death event of the player AnbertitoKawaixX was canceled by another mod
+[18Jan2025 05:22:23.153] [Server thread/INFO] [tombstone/]: The player AnbertitoKawaixX has successfully been saved
+[18Jan2025 05:22:24.888] [Server thread/WARN] [tombstone/]: The death event of the player AnbertitoKawaixX was canceled by another mod
+[18Jan2025 05:22:24.890] [Server thread/INFO] [tombstone/]: The player AnbertitoKawaixX has successfully been saved
+[18Jan2025 05:22:31.830] [Server thread/WARN] [tombstone/]: The death event of the player AnbertitoKawaixX was canceled by another mod
+[18Jan2025 05:22:31.841] [Server thread/INFO] [tombstone/]: The player AnbertitoKawaixX has successfully been saved
+[18Jan2025 05:22:33.303] [Server thread/WARN] [tombstone/]: The death event of the player AnbertitoKawaixX was canceled by another mod
+[18Jan2025 05:22:33.305] [Server thread/INFO] [tombstone/]: The player AnbertitoKawaixX has successfully been saved
+[18Jan2025 05:22:33.533] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[18Jan2025 05:22:33.545] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[18Jan2025 05:22:35.093] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[18Jan2025 05:22:35.094] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[18Jan2025 05:22:41.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After AnbertitoKawaixX was slain by Gum Worm, they gave up
+[18Jan2025 05:23:09.131] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[18Jan2025 05:23:09.145] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[18Jan2025 05:23:10.940] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[18Jan2025 05:23:10.942] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[18Jan2025 05:23:20.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by Gum Worm, they gave up
+[18Jan2025 05:23:22.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 05:23:52.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [The (Cinnamon) Spice Must Flow]
+[18Jan2025 05:24:58.248] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[18Jan2025 05:24:58.256] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[18Jan2025 05:24:58.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnbertitoKawaixX has made the advancement [Caniac No More]
+[18Jan2025 05:24:59.553] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[18Jan2025 05:24:59.555] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[18Jan2025 05:25:10.012] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-519, y=-45, z=-181}
+[18Jan2025 05:25:16.298] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[18Jan2025 05:25:16.300] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[18Jan2025 05:25:17.600] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[18Jan2025 05:25:17.602] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[18Jan2025 05:25:24.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by AnbertitoKawaixX, they gave up
+[18Jan2025 05:25:27.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 05:25:50.054] [Server thread/WARN] [tombstone/]: The death event of the player AnbertitoKawaixX was canceled by another mod
+[18Jan2025 05:25:50.056] [Server thread/INFO] [tombstone/]: The player AnbertitoKawaixX has successfully been saved
+[18Jan2025 05:25:58.057] [Server thread/WARN] [tombstone/]: The death event of the player AnbertitoKawaixX was canceled by another mod
+[18Jan2025 05:25:58.058] [Server thread/INFO] [tombstone/]: The player AnbertitoKawaixX has successfully been saved
