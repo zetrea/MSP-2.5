@@ -6108,3 +6108,21 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [18Jan2025 21:08:31.471] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.96 and blood value 6 for entity alexscaves:vallumraptor
 [18Jan2025 21:08:31.617] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.96 and blood value 6 for entity alexscaves:vallumraptor
 [18Jan2025 21:08:31.816] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.96 and blood value 6 for entity alexscaves:vallumraptor
+[18Jan2025 21:09:21.217] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 13.22 and blood value 15 for entity alexscaves:grottoceratops
+[18Jan2025 21:10:18.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 21:10:18.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 21:11:42.304] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[18Jan2025 21:11:42.308] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[18Jan2025 21:11:52.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Vex
+[18Jan2025 21:11:52.228] [Server thread/DEBUG] [tombstone/]: A new grave of the player ElJimmyy was created at position [x:-903, y:86, z:1, dim:minecraft:overworld]
+[18Jan2025 21:11:53.962] [Server thread/DEBUG] [twilightforest/]: Player ElJimmyy (304df7a8-4fc9-4015-82b1-0b9cd37e279a) respawned and received items held in storage
+[18Jan2025 21:11:54.508] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[18Jan2025 21:12:07.154] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot barrel in minecraft:overworld at BlockPos{x=-902, y=86, z=-3} as the loot table 'dungeons_arise:chests/illager_fortress_small' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[18Jan2025 21:14:29.900] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[18Jan2025 21:14:29.909] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[18Jan2025 21:14:31.514] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.24 and blood value 0 for entity alexsmobs:bald_eagle
+[18Jan2025 21:14:32.213] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[18Jan2025 21:14:42.615] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 41.43 and blood value 0 for entity alexscaves:relicheirus
+[18Jan2025 21:14:43.229] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 200.0 and blood value 0 for entity alexscaves:atlatitan
+[18Jan2025 21:15:18.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 21:15:18.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

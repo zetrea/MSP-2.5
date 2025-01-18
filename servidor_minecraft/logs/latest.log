@@ -473,3 +473,7 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [18Jan2025 20:53:11.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy joined the game
 [18Jan2025 20:53:12.045] [Server thread/INFO] [Jade/]: Syncing config to ElJimmyy (304df7a8-4fc9-4015-82b1-0b9cd37e279a)
 [18Jan2025 20:53:14.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3283ms or 65 ticks behind
+[18Jan2025 21:11:42.304] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[18Jan2025 21:11:42.308] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[18Jan2025 21:11:52.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Vex
+[18Jan2025 21:12:07.154] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot barrel in minecraft:overworld at BlockPos{x=-902, y=86, z=-3} as the loot table 'dungeons_arise:chests/illager_fortress_small' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
