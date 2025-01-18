@@ -1524,3 +1524,32 @@ java.lang.Throwable: null
 [18Jan2025 06:53:34.607] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [18Jan2025 06:55:00.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
 [18Jan2025 06:57:07.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[18Jan2025 07:04:08.307] [Worker-Main-84/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[18Jan2025 07:04:08.307] [Worker-Main-84/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[18Jan2025 07:04:34.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[18Jan2025 07:05:09.738] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4a95c02c[id=<null>,name=AnbertitoKawaixX,properties={},legacy=false] (/127.24.154.226:46481) lost connection: Disconnected
+[18Jan2025 07:05:14.684] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AnbertitoKawaixX is cea751d3-716b-4187-abd7-4797901c8b93
+[18Jan2025 07:05:28.782] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[18Jan2025 07:05:28.787] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[18Jan2025 07:05:32.001] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnbertitoKawaixX[/127.24.154.226:35403] logged in with entity id 71611 at (122.69999998807907, 62.0, -405.4874134545848)
+[18Jan2025 07:05:32.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnbertitoKawaixX joined the game
+[18Jan2025 07:05:32.039] [Server thread/INFO] [Jade/]: Syncing config to AnbertitoKawaixX (cea751d3-716b-4187-abd7-4797901c8b93)
+[18Jan2025 07:06:12.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 07:06:17.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AnbertitoKawaixX> ASD
+[18Jan2025 07:06:20.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AnbertitoKawaixX> asd
+[18Jan2025 07:06:20.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AnbertitoKawaixX> asd
+[18Jan2025 07:07:43.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 07:09:24.951] [Server thread/WARN] [tombstone/]: The death event of the player AnbertitoKawaixX was canceled by another mod
+[18Jan2025 07:09:24.955] [Server thread/INFO] [tombstone/]: The player AnbertitoKawaixX has successfully been saved
+[18Jan2025 07:09:28.749] [Server thread/WARN] [tombstone/]: The death event of the player AnbertitoKawaixX was canceled by another mod
+[18Jan2025 07:09:28.751] [Server thread/INFO] [tombstone/]: The player AnbertitoKawaixX has successfully been saved
+[18Jan2025 07:09:53.704] [Server thread/WARN] [tombstone/]: The death event of the player AnbertitoKawaixX was canceled by another mod
+[18Jan2025 07:09:53.707] [Server thread/INFO] [tombstone/]: The player AnbertitoKawaixX has successfully been saved
+[18Jan2025 07:10:04.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
+[18Jan2025 07:10:39.397] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[18Jan2025 07:10:39.401] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[18Jan2025 07:10:40.668] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[18Jan2025 07:10:40.701] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[18Jan2025 07:10:46.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[18Jan2025 07:10:56.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElJimmyy> lol
+[18Jan2025 07:11:27.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]

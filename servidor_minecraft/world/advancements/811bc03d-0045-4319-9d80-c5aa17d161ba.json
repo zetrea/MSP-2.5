@@ -5439,9 +5439,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-18 07:14:03 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/blazeblock_deconstruct": {
     "criteria": {
       "has_item": "2025-01-18 06:45:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2025-01-18 07:16:24 +0000"
     },
     "done": true
   },
@@ -5461,6 +5473,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-01-18 06:17:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-01-18 07:16:24 +0000"
     },
     "done": true
   },
@@ -5512,6 +5530,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-18 07:16:24 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
     "criteria": {
       "has_dragonscales_bronze": "2025-01-18 06:19:10 +0000"
@@ -5539,6 +5563,18 @@
   "dungeons_arise:find_heavenly_rider": {
     "criteria": {
       "location0": "2025-01-18 06:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-18 07:14:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-18 07:14:03 +0000"
     },
     "done": true
   },
