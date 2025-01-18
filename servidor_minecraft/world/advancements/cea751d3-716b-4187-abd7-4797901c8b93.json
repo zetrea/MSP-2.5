@@ -5692,6 +5692,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2025-01-18 05:24:58 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:suns_blessing": {
     "criteria": {
       "get_suns_blessing": "2025-01-18 05:08:34 +0000"

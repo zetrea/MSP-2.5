@@ -656,3 +656,19 @@ java.lang.Throwable: null
 [18Jan2025 05:25:50.056] [Server thread/INFO] [tombstone/]: The player AnbertitoKawaixX has successfully been saved
 [18Jan2025 05:25:58.057] [Server thread/WARN] [tombstone/]: The death event of the player AnbertitoKawaixX was canceled by another mod
 [18Jan2025 05:25:58.058] [Server thread/INFO] [tombstone/]: The player AnbertitoKawaixX has successfully been saved
+[18Jan2025 05:26:04.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After AnbertitoKawaixX was slain by zetreaa, they gave up
+[18Jan2025 05:26:09.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
+[18Jan2025 05:27:29.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 05:27:31.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 05:33:07.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 05:33:39.200] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[18Jan2025 05:33:39.218] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[18Jan2025 05:33:40.709] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[18Jan2025 05:33:40.711] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[18Jan2025 05:33:51.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[18Jan2025 05:34:00.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[18Jan2025 05:34:07.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[18Jan2025 05:34:56.831] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17343, l='ServerLevel[world]', x=-1842.51, y=74.56, z=109.24] died, message: 'Unemployed was sucked dry fighting zetreaa'
+[18Jan2025 05:35:10.781] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17342, l='ServerLevel[world]', x=-1847.60, y=74.00, z=105.36] died, message: 'Unemployed was sucked dry fighting zetreaa'
+[18Jan2025 05:35:55.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to ElJimmyy]
+[18Jan2025 05:36:05.637] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17359, l='ServerLevel[world]', x=-1846.23, y=72.50, z=106.30] died, message: 'Unemployed was slain by Zombie'
