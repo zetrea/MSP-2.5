@@ -751,6 +751,7 @@
       "minecraft:creeper": "2025-01-17 07:07:36 +0000",
       "minecraft:evoker": "2025-01-17 09:15:10 +0000",
       "minecraft:phantom": "2025-01-18 08:30:11 +0000",
+      "minecraft:zombified_piglin": "2025-01-19 05:35:04 +0000",
       "minecraft:husk": "2025-01-18 06:21:56 +0000",
       "minecraft:cave_spider": "2025-01-17 09:14:33 +0000",
       "minecraft:piglin": "2025-01-18 10:27:57 +0000",
@@ -6685,6 +6686,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2025-01-19 05:37:23 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/angelic_slab_from_angelic_stone_stonecutting": {
     "criteria": {
       "has_angelic_stone": "2025-01-19 05:25:50 +0000"
@@ -6700,6 +6707,12 @@
   "aether:recipes/building_blocks/icestone_stairs_from_icestone_stonecutting": {
     "criteria": {
       "has_icestone": "2025-01-19 05:25:25 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-01-19 05:36:39 +0000"
     },
     "done": true
   },
@@ -6994,6 +7007,12 @@
   "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-19 05:11:56 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/toxic_paste": {
+    "criteria": {
+      "toxic_paste": "2025-01-19 05:40:51 +0000"
     },
     "done": true
   },

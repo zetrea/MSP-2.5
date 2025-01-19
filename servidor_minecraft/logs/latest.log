@@ -510,3 +510,11 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [19Jan2025 05:25:25.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Cold as Ice]
 [19Jan2025 05:36:39.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has reached the goal [Radiation Vibe]
 [19Jan2025 05:37:23.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Uranium Fever]
+[19Jan2025 05:40:51.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [THE OOOOOOOOZE]
+[19Jan2025 05:43:11.349] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
+[19Jan2025 05:43:22.865] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zetreaa[/127.231.240.35:60843] logged in with entity id 20378 at (1370.699999988079, 108.0, -1080.300000011921)
+[19Jan2025 05:43:22.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa joined the game
+[19Jan2025 05:43:22.930] [Server thread/INFO] [Jade/]: Syncing config to zetreaa (811bc03d-0045-4319-9d80-c5aa17d161ba)
+[19Jan2025 05:47:12.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[19Jan2025 05:47:13.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has reached the goal [Radiation Vibe]
+[19Jan2025 05:47:32.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Crisis Adverted]
