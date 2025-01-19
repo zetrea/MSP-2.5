@@ -508,3 +508,5 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [19Jan2025 05:23:55.651] [Worker-Main-77/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1097, y=81, z=-1063}
 [19Jan2025 05:24:29.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Take Aim]
 [19Jan2025 05:25:25.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Cold as Ice]
+[19Jan2025 05:36:39.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has reached the goal [Radiation Vibe]
+[19Jan2025 05:37:23.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Uranium Fever]
