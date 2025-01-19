@@ -70,6 +70,7 @@
       "minecraft:snowy_taiga": "2025-01-17 07:28:06 +0000",
       "minecraft:swamp": "2025-01-17 05:22:27 +0000",
       "minecraft:forest": "2025-01-17 03:34:55 +0000",
+      "minecraft:snowy_beach": "2025-01-19 06:42:00 +0000",
       "minecraft:meadow": "2025-01-18 06:43:09 +0000",
       "minecraft:plains": "2025-01-17 03:35:31 +0000"
     },
@@ -748,6 +749,7 @@
       "minecraft:hoglin": "2025-01-18 06:22:03 +0000",
       "minecraft:vindicator": "2025-01-17 04:55:42 +0000",
       "minecraft:spider": "2025-01-17 03:40:07 +0000",
+      "minecraft:piglin_brute": "2025-01-19 06:57:31 +0000",
       "minecraft:creeper": "2025-01-17 07:07:36 +0000",
       "minecraft:evoker": "2025-01-17 09:15:10 +0000",
       "minecraft:phantom": "2025-01-18 08:30:11 +0000",
@@ -5331,9 +5333,13 @@
       "amethyst_bronze": "2025-01-17 09:21:45 +0000",
       "string": "2025-01-17 09:22:03 +0000",
       "slimewood": "2025-01-17 09:20:42 +0000",
+      "cobalt": "2025-01-19 06:57:21 +0000",
       "enderslime_vine": "2025-01-17 09:20:42 +0000",
       "copper": "2025-01-17 09:20:42 +0000",
       "slimesteel": "2025-01-17 09:14:03 +0000",
+      "queens_slime": "2025-01-19 06:57:11 +0000",
+      "bone": "2025-01-19 06:54:45 +0000",
+      "hepatizon": "2025-01-19 06:57:11 +0000",
       "pig_iron": "2025-01-17 09:14:03 +0000"
     },
     "done": false
@@ -6626,6 +6632,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-19 06:48:52 +0000"
+    },
+    "done": true
+  },
   "aether:icestone": {
     "criteria": {
       "icestone": "2025-01-19 05:25:25 +0000"
@@ -6668,6 +6680,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-19 06:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-19 06:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-19 06:48:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-19 06:48:58 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-19 05:11:56 +0000"
@@ -6698,6 +6734,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-19 06:48:58 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/uranium": {
     "criteria": {
       "uranium": "2025-01-19 05:37:23 +0000"
@@ -6710,9 +6752,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-19 06:56:22 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/angelic_slab_from_angelic_stone_stonecutting": {
     "criteria": {
       "has_angelic_stone": "2025-01-19 05:25:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-19 06:48:52 +0000"
     },
     "done": true
   },
@@ -6758,6 +6812,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-19 06:56:23 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-19 05:11:56 +0000"
@@ -6767,6 +6827,18 @@
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2025-01-19 06:06:26 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/radon_bottle": {
+    "criteria": {
+      "radon_bottle": "2025-01-19 06:31:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-01-19 06:48:52 +0000"
     },
     "done": true
   },
@@ -6788,6 +6860,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-01-19 06:48:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-01-19 06:56:13 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-19 05:11:56 +0000"
@@ -6797,6 +6881,12 @@
   "securitycraft:recipes/misc/block_pocket_manager": {
     "criteria": {
       "has_redstone_block": "2025-01-19 05:14:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-01-19 06:56:16 +0000"
     },
     "done": true
   },
@@ -6824,9 +6914,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-19 06:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-01-19 06:54:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-01-19 04:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-19 06:48:52 +0000"
     },
     "done": true
   },
@@ -6848,9 +6956,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-01-19 06:48:52 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-19 05:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-19 06:48:52 +0000"
     },
     "done": true
   },
@@ -6866,6 +6986,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-19 06:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-19 06:56:23 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tools/gadgets/throwball/glow_ball": {
     "criteria": {
       "has_item": "2025-01-19 04:36:30 +0000"
@@ -6878,15 +7010,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/smoked_ham": {
+    "criteria": {
+      "has_ham": "2025-01-19 06:56:16 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-19 05:11:56 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-19 06:48:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-01-19 06:48:52 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-19 05:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-01-19 06:56:22 +0000"
     },
     "done": true
   },
@@ -6962,9 +7118,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-19 06:48:52 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/icestone_wall": {
     "criteria": {
       "has_icestone": "2025-01-19 05:25:25 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/hazmat_armor": {
+    "criteria": {
+      "shirt": "2025-01-19 06:36:44 +0000",
+      "pants": "2025-01-19 06:36:46 +0000",
+      "helmet": "2025-01-19 06:36:46 +0000",
+      "boots": "2025-01-19 06:39:25 +0000"
     },
     "done": true
   },
@@ -7004,6 +7175,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-19 06:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-19 06:48:58 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/sulfur_dust": {
     "criteria": {
       "sulfur_dust": "2025-01-19 05:48:56 +0000"
@@ -7013,6 +7196,12 @@
   "aether:enter_aether": {
     "criteria": {
       "enter_aether": "2025-01-19 05:22:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-19 06:48:58 +0000"
     },
     "done": true
   },
@@ -7028,15 +7217,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-19 06:48:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-19 06:56:22 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/light_angelic_stone_from_angelic_stone_stonecutting": {
     "criteria": {
       "has_angelic_stone": "2025-01-19 05:25:50 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-19 06:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-19 06:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-01-19 06:56:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-19 06:48:58 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-19 05:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-19 06:48:58 +0000"
     },
     "done": true
   },
@@ -7055,6 +7286,12 @@
   "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-19 05:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-01-19 06:54:17 +0000"
     },
     "done": true
   },
@@ -7085,6 +7322,24 @@
   "aether:recipes/building_blocks/angelic_stairs_from_angelic_stone_stonecutting": {
     "criteria": {
       "has_angelic_stone": "2025-01-19 05:25:50 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/raygun": {
+    "criteria": {
+      "raygun": "2025-01-19 06:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-19 06:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-19 06:48:58 +0000"
     },
     "done": true
   },
