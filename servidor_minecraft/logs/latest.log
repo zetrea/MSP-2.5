@@ -835,3 +835,68 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [19Jan2025 06:58:16.703] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
 [19Jan2025 06:58:45.584] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
 [19Jan2025 06:58:45.593] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 06:59:09.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[19Jan2025 06:59:15.642] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 06:59:15.644] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 06:59:17.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa burned to ashes, they gave up
+[19Jan2025 06:59:17.142] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 06:59:21.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[19Jan2025 06:59:53.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 06:59:58.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 06:59:59.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[19Jan2025 07:00:21.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Hidden in the Depths]
+[19Jan2025 07:01:59.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:02:13.334] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=27, z=91}
+[19Jan2025 07:02:13.334] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=27, z=91}
+[19Jan2025 07:02:13.335] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=23, z=93}
+[19Jan2025 07:02:13.335] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-15, y=27, z=89}
+[19Jan2025 07:02:13.335] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=23, z=90}
+[19Jan2025 07:02:13.336] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=23, z=92}
+[19Jan2025 07:02:16.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:02:18.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Nightmare Fuel]
+[19Jan2025 07:02:41.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Nightmare Fuel]
+[19Jan2025 07:03:00.844] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 07:03:00.846] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 07:03:11.890] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 07:03:11.892] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 07:03:51.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Mind your Manors]
+[19Jan2025 07:03:58.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:03:58.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Mind your Manors]
+[19Jan2025 07:04:03.110] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 07:04:03.112] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 07:04:04.633] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[19Jan2025 07:04:04.639] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[19Jan2025 07:04:19.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:04:21.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:04:28.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Piglin Hunter
+[19Jan2025 07:04:30.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:05:02.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Dark Horse]
+[19Jan2025 07:05:22.541] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 07:05:22.546] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 07:05:40.891] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 07:05:40.893] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 07:05:50.114] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 07:05:51.365] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 07:05:51.390] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 07:05:56.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by ElJimmyy, they gave up
+[19Jan2025 07:06:01.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[19Jan2025 07:06:55.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:07:54.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:08:01.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:08:20.534] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[19Jan2025 07:08:20.542] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[19Jan2025 07:08:23.833] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 07:08:23.841] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 07:08:42.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Piglin Brute
+[19Jan2025 07:08:45.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:09:00.834] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[19Jan2025 07:09:00.844] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[19Jan2025 07:09:05.436] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 07:09:05.447] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 07:09:13.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Piglin Brute
+[19Jan2025 07:09:16.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:09:22.682] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[19Jan2025 07:09:22.693] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[19Jan2025 07:09:28.935] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 07:09:30.237] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 07:09:30.238] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved

@@ -852,12 +852,16 @@
     "criteria": {
       "minecraft:pillager": "2025-01-17 08:48:35 +0000",
       "minecraft:skeleton": "2025-01-17 05:04:34 +0000",
+      "minecraft:hoglin": "2025-01-19 06:58:50 +0000",
       "minecraft:vindicator": "2025-01-17 09:06:27 +0000",
       "minecraft:spider": "2025-01-17 03:42:25 +0000",
+      "minecraft:piglin_brute": "2025-01-19 07:00:12 +0000",
       "minecraft:creeper": "2025-01-17 04:39:58 +0000",
       "minecraft:phantom": "2025-01-18 06:22:47 +0000",
+      "minecraft:zombified_piglin": "2025-01-19 07:00:34 +0000",
       "minecraft:wither_skeleton": "2025-01-18 06:22:46 +0000",
       "minecraft:cave_spider": "2025-01-17 05:28:55 +0000",
+      "minecraft:piglin": "2025-01-19 06:59:41 +0000",
       "minecraft:enderman": "2025-01-17 11:30:36 +0000",
       "minecraft:stray": "2025-01-17 11:33:39 +0000",
       "minecraft:zombie": "2025-01-17 05:03:29 +0000",
@@ -5835,15 +5839,39 @@
     },
     "done": true
   },
+  "bygonenether:ride_wither_skeleton_horse": {
+    "criteria": {
+      "ride_a_wither_skeleton_horse": "2025-01-19 07:05:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-19 06:46:20 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-19 07:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-01-19 07:06:18 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/uranium": {
     "criteria": {
       "uranium": "2025-01-19 05:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-01-19 07:06:18 +0000"
     },
     "done": true
   },
@@ -5889,6 +5917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-01-19 07:06:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-19 06:46:20 +0000"
@@ -5900,6 +5934,12 @@
       "netheritemonstrosity": "2025-01-19 06:49:48 +0000"
     },
     "done": true
+  },
+  "bygonenether:explore_structures": {
+    "criteria": {
+      "in_piglin_manor": "2025-01-19 07:03:51 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
@@ -5913,15 +5953,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-01-19 07:06:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-19 06:46:20 +0000"
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2025-01-19 07:02:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-01-19 07:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-19 07:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-01-19 06:58:35 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/polymer_plate": {
     "criteria": {
       "cooked_dinosaur_chop": "2025-01-19 06:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-19 07:06:18 +0000"
     },
     "done": true
   },
@@ -5932,6 +6008,12 @@
       "boots": "2025-01-19 06:38:21 +0000"
     },
     "done": false
+  },
+  "bygonenether:piglin_manor": {
+    "criteria": {
+      "in_piglin_manor": "2025-01-19 07:03:51 +0000"
+    },
+    "done": true
   },
   "cataclysm:find_soul_black_smith": {
     "criteria": {
@@ -5966,6 +6048,12 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-01-19 06:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-19 07:06:18 +0000"
     },
     "done": true
   },

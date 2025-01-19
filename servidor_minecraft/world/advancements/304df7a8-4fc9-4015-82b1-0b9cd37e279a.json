@@ -6656,9 +6656,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-19 07:00:21 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/icestone_wall_from_icestone_stonecutting": {
     "criteria": {
       "has_icestone": "2025-01-19 05:25:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_lavender": {
+    "criteria": {
+      "has_item": "2025-01-19 07:00:13 +0000"
     },
     "done": true
   },
@@ -6710,6 +6722,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-01-19 07:00:13 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-19 05:11:56 +0000"
@@ -6758,9 +6776,27 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-01-19 07:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-01-19 07:00:13 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/angelic_slab_from_angelic_stone_stonecutting": {
     "criteria": {
       "has_angelic_stone": "2025-01-19 05:25:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-01-19 07:00:13 +0000"
     },
     "done": true
   },
@@ -6794,6 +6830,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-01-19 07:00:13 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/sugar_rush": {
     "criteria": {
       "all_effects": "2025-01-19 05:16:34 +0000"
@@ -6821,6 +6863,12 @@
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-19 05:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-01-19 07:00:13 +0000"
     },
     "done": true
   },
@@ -6887,6 +6935,12 @@
   "farmersdelight:main/get_ham": {
     "criteria": {
       "ham": "2025-01-19 06:56:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_blaze": {
+    "criteria": {
+      "has_item": "2025-01-19 07:00:13 +0000"
     },
     "done": true
   },
@@ -6986,6 +7040,18 @@
     },
     "done": true
   },
+  "bygonenether:explore_structures": {
+    "criteria": {
+      "in_piglin_manor": "2025-01-19 07:03:58 +0000"
+    },
+    "done": false
+  },
+  "botania:recipes/misc/quartz_dark": {
+    "criteria": {
+      "has_item": "2025-01-19 07:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone": "2025-01-19 06:48:58 +0000"
@@ -7028,6 +7094,24 @@
     },
     "done": true
   },
+  "botania:recipes/misc/quartz_red": {
+    "criteria": {
+      "has_item": "2025-01-19 07:00:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_sunny": {
+    "criteria": {
+      "has_item": "2025-01-19 07:00:13 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2025-01-19 07:02:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_boots": {
     "criteria": {
       "has_item": "2025-01-19 06:48:52 +0000"
@@ -7064,6 +7148,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/common/glass/vanilla/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-01-19 07:00:13 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
     "criteria": {
       "has_upgrade_base": "2025-01-19 05:11:56 +0000"
@@ -7091,6 +7181,18 @@
   "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-19 05:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-19 07:00:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-01-19 07:00:13 +0000"
     },
     "done": true
   },
@@ -7151,6 +7253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-01-19 07:00:13 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/poison_dart": {
     "criteria": {
       "has_golden_dart": "2025-01-19 05:25:25 +0000"
@@ -7160,6 +7268,24 @@
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-19 05:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-01-19 07:00:13 +0000"
+    },
+    "done": true
+  },
+  "bygonenether:piglin_manor": {
+    "criteria": {
+      "in_piglin_manor": "2025-01-19 07:03:58 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/gadgets/shuriken/quartz_shuriken": {
+    "criteria": {
+      "has_item": "2025-01-19 07:00:13 +0000"
     },
     "done": true
   },
@@ -7316,6 +7442,12 @@
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-19 05:11:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_glazed_ham_block": {
+    "criteria": {
+      "has_smoked_ham": "2025-01-19 07:06:08 +0000"
     },
     "done": true
   },
