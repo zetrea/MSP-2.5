@@ -6625,5 +6625,35 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-01-19 04:39:20 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/gadgets/throwball/efln_ball": {
+    "criteria": {
+      "has_item": "2025-01-19 04:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-19 04:36:30 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/gadgets/throwball/glow_ball": {
+    "criteria": {
+      "has_item": "2025-01-19 04:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-19 04:36:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

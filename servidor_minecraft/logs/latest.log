@@ -478,3 +478,8 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [19Jan2025 04:36:06.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElJimmyy moved wrongly!
 [19Jan2025 04:36:07.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElJimmyy moved wrongly!
 [19Jan2025 04:36:10.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElJimmyy moved wrongly!
+[19Jan2025 04:41:15.625] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[19Jan2025 04:41:15.625] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[19Jan2025 04:41:15.626] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[19Jan2025 04:41:15.626] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[19Jan2025 04:41:15.627] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp

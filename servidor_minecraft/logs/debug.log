@@ -6122,3 +6122,15 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [19Jan2025 04:36:06.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElJimmyy moved wrongly!
 [19Jan2025 04:36:07.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElJimmyy moved wrongly!
 [19Jan2025 04:36:10.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElJimmyy moved wrongly!
+[19Jan2025 04:37:54.937] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[19Jan2025 04:37:54.937] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to md86cfb2$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[19Jan2025 04:38:14.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 04:38:14.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 04:40:47.453] [Worker-Main-28/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.0s
+[19Jan2025 04:41:15.625] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[19Jan2025 04:41:15.625] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[19Jan2025 04:41:15.626] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[19Jan2025 04:41:15.626] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[19Jan2025 04:41:15.627] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[19Jan2025 04:43:14.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 04:43:14.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
