@@ -1073,3 +1073,8 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [19Jan2025 07:34:59.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Hidden in the Depths]
 [19Jan2025 07:35:28.246] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElJimmyy lost connection: Disconnected
 [19Jan2025 07:35:28.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy left the game
+[19Jan2025 07:49:06.687] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ElJimmyy is 304df7a8-4fc9-4015-82b1-0b9cd37e279a
+[19Jan2025 07:49:17.065] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElJimmyy[/127.87.97.243:51301] logged in with entity id 78096 at (1310.302360256493, 74.0, -2183.5441949166734)
+[19Jan2025 07:49:17.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy joined the game
+[19Jan2025 07:49:17.131] [Server thread/INFO] [Jade/]: Syncing config to ElJimmyy (304df7a8-4fc9-4015-82b1-0b9cd37e279a)
+[19Jan2025 07:49:57.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
