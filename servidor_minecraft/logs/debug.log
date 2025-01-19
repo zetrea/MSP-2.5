@@ -6587,3 +6587,125 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [19Jan2025 05:56:35.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
 [19Jan2025 05:57:02.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Smelly Situation]
 [19Jan2025 05:57:31.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 05:58:09.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Crisis Adverted]
+[19Jan2025 05:58:14.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 05:58:14.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 05:58:51.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 05:59:23.785] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[19Jan2025 05:59:23.789] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[19Jan2025 05:59:29.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Brainiac
+[19Jan2025 05:59:29.787] [Server thread/DEBUG] [tombstone/]: A new grave of the player ElJimmyy was created at position [x:1613, y:35, z:-943, dim:minecraft:overworld]
+[19Jan2025 05:59:30.969] [Server thread/DEBUG] [twilightforest/]: Player ElJimmyy (304df7a8-4fc9-4015-82b1-0b9cd37e279a) respawned and received items held in storage
+[19Jan2025 05:59:32.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 05:59:51.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [THE OOOOOOOOZE]
+[19Jan2025 06:02:02.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 06:02:32.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Bath Bomb]
+[19Jan2025 06:03:14.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 06:03:14.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 06:03:16.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 06:03:34.035] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[19Jan2025 06:03:34.040] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[19Jan2025 06:03:39.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was shot by Skeleton
+[19Jan2025 06:03:39.988] [Server thread/DEBUG] [tombstone/]: A new grave of the player ElJimmyy was created at position [x:1719, y:43, z:-1009, dim:minecraft:overworld]
+[19Jan2025 06:03:41.147] [Server thread/DEBUG] [twilightforest/]: Player ElJimmyy (304df7a8-4fc9-4015-82b1-0b9cd37e279a) respawned and received items held in storage
+[19Jan2025 06:03:42.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 06:04:21.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 06:04:58.332] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 06:04:58.342] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 06:05:02.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[19Jan2025 06:05:08.583] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 06:05:09.793] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 06:05:09.795] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 06:05:15.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by Brainiac, they gave up
+[19Jan2025 06:05:15.090] [Server thread/DEBUG] [tombstone/]: A new grave of the player zetreaa was created at position [x:1582, y:32, z:-976, dim:minecraft:overworld]
+[19Jan2025 06:05:16.723] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: zetreaa has new faction level vampirism:vampire 5
+[19Jan2025 06:05:16.732] [Server thread/DEBUG] [twilightforest/]: Player zetreaa (811bc03d-0045-4319-9d80-c5aa17d161ba) respawned and received items held in storage
+[19Jan2025 06:05:18.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[19Jan2025 06:06:46.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 06:07:00.079] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 06:07:00.090] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 06:07:11.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Bath Bomb]
+[19Jan2025 06:07:29.679] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[19Jan2025 06:07:29.687] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[19Jan2025 06:07:44.129] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 06:07:44.142] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 06:07:47.579] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[19Jan2025 06:07:47.591] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[19Jan2025 06:07:50.838] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 06:07:52.137] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 06:07:52.139] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 06:07:57.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by Ferrous Wroughtnaut, they gave up
+[19Jan2025 06:07:57.491] [Server thread/DEBUG] [tombstone/]: A new grave of the player zetreaa was created at position [x:1762, y:35, z:-957, dim:minecraft:overworld]
+[19Jan2025 06:07:59.254] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: zetreaa has new faction level vampirism:vampire 5
+[19Jan2025 06:07:59.263] [Server thread/DEBUG] [twilightforest/]: Player zetreaa (811bc03d-0045-4319-9d80-c5aa17d161ba) respawned and received items held in storage
+[19Jan2025 06:08:01.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[19Jan2025 06:08:14.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 06:08:14.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 06:08:41.578] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[19Jan2025 06:08:41.589] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[19Jan2025 06:08:44.178] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 06:08:44.200] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 06:08:52.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Ferrous Wroughtnaut
+[19Jan2025 06:08:52.385] [Server thread/DEBUG] [tombstone/]: A new grave of the player ElJimmyy was created at position [x:1757, y:35, z:-960, dim:minecraft:overworld]
+[19Jan2025 06:08:54.410] [Server thread/DEBUG] [twilightforest/]: Player ElJimmyy (304df7a8-4fc9-4015-82b1-0b9cd37e279a) respawned and received items held in storage
+[19Jan2025 06:08:55.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 06:09:20.780] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 06:09:20.795] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 06:09:23.577] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[19Jan2025 06:09:23.594] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[19Jan2025 06:09:29.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Ferrous Wroughtnaut
+[19Jan2025 06:09:29.591] [Server thread/DEBUG] [tombstone/]: A new grave of the player ElJimmyy was created at position [x:1763, y:35, z:-960, dim:minecraft:overworld]
+[19Jan2025 06:09:30.333] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 06:09:31.699] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 06:09:31.700] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 06:09:45.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by Ferrous Wroughtnaut, they gave up
+[19Jan2025 06:09:45.937] [Server thread/DEBUG] [tombstone/]: A new grave of the player zetreaa was created at position [x:1764, y:35, z:-958, dim:minecraft:overworld]
+[19Jan2025 06:09:47.560] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: zetreaa has new faction level vampirism:vampire 5
+[19Jan2025 06:09:47.571] [Server thread/DEBUG] [twilightforest/]: Player zetreaa (811bc03d-0045-4319-9d80-c5aa17d161ba) respawned and received items held in storage
+[19Jan2025 06:09:49.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[19Jan2025 06:09:50.648] [Server thread/DEBUG] [twilightforest/]: Player ElJimmyy (304df7a8-4fc9-4015-82b1-0b9cd37e279a) respawned and received items held in storage
+[19Jan2025 06:09:51.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 06:10:14.476] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 06:10:14.483] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 06:11:51.676] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[19Jan2025 06:11:51.687] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[19Jan2025 06:11:59.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Ferrous Wroughtnaut
+[19Jan2025 06:11:59.287] [Server thread/DEBUG] [tombstone/]: A new grave of the player ElJimmyy was created at position [x:1757, y:35, z:-952, dim:minecraft:overworld]
+[19Jan2025 06:12:00.667] [Server thread/DEBUG] [twilightforest/]: Player ElJimmyy (304df7a8-4fc9-4015-82b1-0b9cd37e279a) respawned and received items held in storage
+[19Jan2025 06:12:01.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 06:12:26.178] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 06:12:26.190] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 06:12:32.545] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 06:12:33.735] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 06:12:33.737] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 06:12:39.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by Ferrous Wroughtnaut, they gave up
+[19Jan2025 06:12:39.194] [Server thread/DEBUG] [tombstone/]: A new grave of the player zetreaa was created at position [x:1757, y:35, z:-958, dim:minecraft:overworld]
+[19Jan2025 06:12:40.849] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: zetreaa has new faction level vampirism:vampire 5
+[19Jan2025 06:12:40.859] [Server thread/DEBUG] [twilightforest/]: Player zetreaa (811bc03d-0045-4319-9d80-c5aa17d161ba) respawned and received items held in storage
+[19Jan2025 06:12:41.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[19Jan2025 06:13:13.025] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 06:13:13.035] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 06:13:14.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 06:13:14.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 06:13:19.133] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 06:13:20.409] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 06:13:20.411] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 06:13:27.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by Ferrous Wroughtnaut, they gave up
+[19Jan2025 06:13:27.238] [Server thread/DEBUG] [tombstone/]: A new grave of the player zetreaa was created at position [x:1757, y:35, z:-957, dim:minecraft:overworld]
+[19Jan2025 06:13:28.883] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: zetreaa has new faction level vampirism:vampire 5
+[19Jan2025 06:13:28.890] [Server thread/DEBUG] [twilightforest/]: Player zetreaa (811bc03d-0045-4319-9d80-c5aa17d161ba) respawned and received items held in storage
+[19Jan2025 06:13:30.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[19Jan2025 06:13:54.681] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[19Jan2025 06:13:54.692] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[19Jan2025 06:14:13.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has completed the challenge [Just a Flesh Wound]
+[19Jan2025 06:14:34.633] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[19Jan2025 06:14:34.636] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[19Jan2025 06:14:59.879] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[19Jan2025 06:14:59.884] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[19Jan2025 06:16:45.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 06:16:55.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[19Jan2025 06:16:58.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[19Jan2025 06:17:10.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[19Jan2025 06:18:04.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[19Jan2025 06:18:14.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 06:18:14.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

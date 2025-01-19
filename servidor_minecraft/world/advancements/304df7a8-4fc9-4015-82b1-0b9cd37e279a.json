@@ -6638,6 +6638,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-01-19 06:06:26 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/icestone_wall_from_icestone_stonecutting": {
     "criteria": {
       "has_icestone": "2025-01-19 05:25:25 +0000"
@@ -6680,6 +6686,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-01-19 06:10:23 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-19 05:11:56 +0000"
@@ -6689,6 +6701,12 @@
   "alexscaves:alexscaves/uranium": {
     "criteria": {
       "uranium": "2025-01-19 05:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-01-19 06:06:26 +0000"
     },
     "done": true
   },
@@ -6746,6 +6764,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-19 06:06:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-19 05:11:56 +0000"
@@ -6791,6 +6815,12 @@
   "aether:recipes/building_blocks/pillar_top_from_angelic_stone_stonecutting": {
     "criteria": {
       "has_angelic_stone": "2025-01-19 05:25:50 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-01-19 06:02:32 +0000"
     },
     "done": true
   },
@@ -6977,6 +7007,12 @@
   "aether:enter_aether": {
     "criteria": {
       "enter_aether": "2025-01-19 05:22:31 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_nucleeper": {
+    "criteria": {
+      "killed": "2025-01-19 05:58:09 +0000"
     },
     "done": true
   },
