@@ -900,3 +900,176 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [19Jan2025 07:09:28.935] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
 [19Jan2025 07:09:30.237] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
 [19Jan2025 07:09:30.238] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 07:09:35.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by Piglin Brute, they gave up
+[19Jan2025 07:09:39.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[19Jan2025 07:10:07.743] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 07:10:07.759] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 07:10:17.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:10:26.044] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 07:10:26.047] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 07:10:27.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by ElJimmyy, they gave up
+[19Jan2025 07:10:27.691] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 07:10:31.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[19Jan2025 07:10:54.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:12:41.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:13:04.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:13:22.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:13:56.685] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -101], pos: MutableBlockPos{x=1360, y=117, z=-1602}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.686] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -101], pos: MutableBlockPos{x=1360, y=118, z=-1602}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.686] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -101], pos: MutableBlockPos{x=1361, y=118, z=-1602}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.686] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -101], pos: MutableBlockPos{x=1360, y=119, z=-1602}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.690] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -101], pos: MutableBlockPos{x=1360, y=117, z=-1601}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.690] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -101], pos: MutableBlockPos{x=1361, y=117, z=-1601}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.691] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -101], pos: MutableBlockPos{x=1362, y=117, z=-1601}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.691] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -101], pos: MutableBlockPos{x=1360, y=118, z=-1601}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.691] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -101], pos: MutableBlockPos{x=1361, y=118, z=-1601}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.691] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -101], pos: MutableBlockPos{x=1362, y=118, z=-1601}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.692] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -101], pos: MutableBlockPos{x=1360, y=119, z=-1601}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.692] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -101], pos: MutableBlockPos{x=1361, y=119, z=-1601}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.692] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -101], pos: MutableBlockPos{x=1362, y=119, z=-1601}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.692] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -101], pos: MutableBlockPos{x=1360, y=120, z=-1601}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.699] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1360, y=117, z=-1600}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.699] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1361, y=117, z=-1600}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.699] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1362, y=117, z=-1600}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.700] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1360, y=118, z=-1600}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.701] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1361, y=118, z=-1600}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.701] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1362, y=118, z=-1600}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.701] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1363, y=118, z=-1600}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.701] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1360, y=119, z=-1600}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.701] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1361, y=119, z=-1600}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.702] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1362, y=119, z=-1600}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.702] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1360, y=120, z=-1600}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.704] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1360, y=117, z=-1599}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.704] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1361, y=117, z=-1599}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.705] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1360, y=118, z=-1599}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.705] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1361, y=118, z=-1599}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.705] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1362, y=118, z=-1599}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.705] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1360, y=119, z=-1599}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.705] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1361, y=119, z=-1599}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.705] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1362, y=119, z=-1599}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.706] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1360, y=120, z=-1599}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.708] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1360, y=118, z=-1598}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:56.708] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1360, y=119, z=-1598}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jan2025 07:13:57.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:14:04.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Straddle My Ol' Saddle]
+[19Jan2025 07:14:08.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Straddle My Ol' Saddle]
+[19Jan2025 07:14:09.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[19Jan2025 07:14:27.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[19Jan2025 07:15:15.138] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 07:15:15.140] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 07:15:25.290] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 07:15:25.292] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 07:15:47.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:16:09.183] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 07:16:09.184] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 07:16:37.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:16:49.240] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 07:16:49.242] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 07:17:18.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:17:19.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:17:20.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:17:20.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:17:20.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:17:21.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:17:21.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:17:21.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:17:21.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:17:22.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:17:22.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:17:22.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElJimmyy was kicked for floating too long!
+[19Jan2025 07:17:22.491] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElJimmyy lost connection: Flying is not enabled on this server
+[19Jan2025 07:17:22.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy left the game
+[19Jan2025 07:17:22.538] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jan2025 07:17:43.244] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ElJimmyy is 304df7a8-4fc9-4015-82b1-0b9cd37e279a
+[19Jan2025 07:17:54.617] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElJimmyy[/127.87.97.243:58767] logged in with entity id 70953 at (1132.6312891304603, 93.15623246767741, -1616.0752108021916)
+[19Jan2025 07:17:54.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy joined the game
+[19Jan2025 07:17:54.672] [Server thread/INFO] [Jade/]: Syncing config to ElJimmyy (304df7a8-4fc9-4015-82b1-0b9cd37e279a)
+[19Jan2025 07:17:55.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:18:12.998] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[19Jan2025 07:18:13.001] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[19Jan2025 07:18:38.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:18:47.095] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 07:18:47.098] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 07:18:47.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has reached the goal [Blood Island]
+[19Jan2025 07:18:48.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:18:49.544] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[19Jan2025 07:18:49.547] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[19Jan2025 07:18:49.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has reached the goal [Blood Island]
+[19Jan2025 07:18:53.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy tried to swim in lava
+[19Jan2025 07:18:53.746] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[19Jan2025 07:19:12.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:19:12.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[19Jan2025 07:19:20.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa burned to ashes
+[19Jan2025 07:19:35.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[19Jan2025 07:20:01.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:20:06.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[19Jan2025 07:20:08.543] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=27, z=89}
+[19Jan2025 07:20:08.544] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=27, z=88}
+[19Jan2025 07:20:08.544] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=13, y=27, z=89}
+[19Jan2025 07:20:08.544] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=13, y=27, z=88}
+[19Jan2025 07:20:08.545] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=28, z=88}
+[19Jan2025 07:20:08.545] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=13, y=28, z=88}
+[19Jan2025 07:22:04.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:22:04.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[19Jan2025 07:22:42.392] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 07:22:42.396] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 07:22:44.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[19Jan2025 07:22:55.892] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 07:22:57.059] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 07:22:57.061] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 07:23:02.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by Hoglin, they gave up
+[19Jan2025 07:23:06.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[19Jan2025 07:23:14.346] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[19Jan2025 07:23:14.351] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[19Jan2025 07:24:53.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:25:57.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:27:24.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:27:40.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:27:43.546] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[19Jan2025 07:27:43.549] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[19Jan2025 07:27:52.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy burned to death
+[19Jan2025 07:27:52.552] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[19Jan2025 07:27:57.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:28:31.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:28:48.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[19Jan2025 07:29:11.145] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[19Jan2025 07:29:11.162] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[19Jan2025 07:29:16.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[19Jan2025 07:29:36.087] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[19Jan2025 07:29:36.095] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[19Jan2025 07:29:38.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:29:39.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:29:40.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:29:40.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:29:40.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[19Jan2025 07:29:47.601] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[19Jan2025 07:29:47.603] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[19Jan2025 07:30:21.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has completed the challenge [Hot Tourist Destinations]
+[19Jan2025 07:30:38.905] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=27, z=91}
+[19Jan2025 07:30:38.905] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=27, z=91}
+[19Jan2025 07:30:38.905] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=23, z=93}
+[19Jan2025 07:30:38.906] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-15, y=27, z=89}
+[19Jan2025 07:30:38.906] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=23, z=90}
+[19Jan2025 07:30:38.906] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=23, z=92}
+[19Jan2025 07:30:44.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Wither Or Not...]
+[19Jan2025 07:31:27.837] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[19Jan2025 07:31:27.855] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[19Jan2025 07:31:31.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[19Jan2025 07:32:05.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[19Jan2025 07:32:19.045] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 07:32:19.058] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 07:32:22.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[19Jan2025 07:32:31.605] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 07:32:31.607] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 07:33:18.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has reached the goal [Bone Crusher]
+[19Jan2025 07:33:40.489] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 07:33:40.494] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 07:33:52.847] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 07:33:52.849] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 07:34:02.244] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 07:34:02.250] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 07:34:24.643] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[19Jan2025 07:34:24.644] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[19Jan2025 07:34:59.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Hidden in the Depths]
+[19Jan2025 07:35:28.246] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElJimmyy lost connection: Disconnected
+[19Jan2025 07:35:28.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy left the game

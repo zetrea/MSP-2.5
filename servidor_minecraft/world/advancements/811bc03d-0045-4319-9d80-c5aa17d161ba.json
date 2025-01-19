@@ -3274,8 +3274,10 @@
   },
   "tconstruct:tools/material_master": {
     "criteria": {
+      "manyullyn": "2025-01-19 07:35:40 +0000",
       "copper": "2025-01-17 08:53:44 +0000",
-      "rose_gold": "2025-01-17 08:53:44 +0000"
+      "rose_gold": "2025-01-17 08:53:44 +0000",
+      "slimesteel": "2025-01-19 07:34:59 +0000"
     },
     "done": false
   },
@@ -5546,10 +5548,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-01-19 06:53:11 +0000",
       "minecraft:nether_wastes": "2025-01-18 06:41:38 +0000",
+      "minecraft:soul_sand_valley": "2025-01-19 07:30:21 +0000",
       "minecraft:warped_forest": "2025-01-18 06:42:57 +0000",
       "minecraft:basalt_deltas": "2025-01-19 06:44:38 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/find_fortress": {
     "criteria": {
@@ -5833,6 +5836,12 @@
     },
     "done": true
   },
+  "tconstruct:world/blood_island": {
+    "criteria": {
+      "found_island": "2025-01-19 07:18:47 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_ferrous_wroughtnaut": {
     "criteria": {
       "ferrous_wroughtnaut": "2025-01-19 06:14:13 +0000"
@@ -5842,6 +5851,12 @@
   "bygonenether:ride_wither_skeleton_horse": {
     "criteria": {
       "ride_a_wither_skeleton_horse": "2025-01-19 07:05:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-19 07:34:59 +0000"
     },
     "done": true
   },
@@ -5866,6 +5881,18 @@
   "alexscaves:alexscaves/uranium": {
     "criteria": {
       "uranium": "2025-01-19 05:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-19 07:28:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-01-19 07:34:59 +0000"
     },
     "done": true
   },
@@ -5899,6 +5926,18 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-01-19 07:14:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-19 07:28:30 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/enter_acid_with_armor": {
     "criteria": {
       "enter_acid_with_armor": "2025-01-19 06:07:11 +0000"
@@ -5923,9 +5962,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-19 07:28:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-19 06:46:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2025-01-19 07:31:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-19 07:28:30 +0000"
     },
     "done": true
   },
@@ -5937,9 +5994,16 @@
   },
   "bygonenether:explore_structures": {
     "criteria": {
-      "in_piglin_manor": "2025-01-19 07:03:51 +0000"
+      "in_piglin_manor": "2025-01-19 07:03:51 +0000",
+      "in_catacomb": "2025-01-19 07:30:44 +0000"
     },
     "done": false
+  },
+  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
+    "criteria": {
+      "has_stick": "2025-01-19 07:14:47 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
@@ -5989,9 +6053,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-19 07:28:30 +0000"
+    },
+    "done": true
+  },
+  "bygonenether:catacomb": {
+    "criteria": {
+      "in_catacomb": "2025-01-19 07:30:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-19 07:28:30 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/polymer_plate": {
     "criteria": {
       "cooked_dinosaur_chop": "2025-01-19 06:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-19 07:34:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-19 07:28:30 +0000"
     },
     "done": true
   },
@@ -6009,15 +6103,45 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-19 07:28:30 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/tools/modifiers/wither_bone_conversion": {
+    "criteria": {
+      "has_bone": "2025-01-19 07:31:48 +0000"
+    },
+    "done": true
+  },
   "bygonenether:piglin_manor": {
     "criteria": {
       "in_piglin_manor": "2025-01-19 07:03:51 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-19 07:28:30 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_soul_black_smith": {
     "criteria": {
       "blacksmith": "2025-01-19 06:44:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-01-19 07:14:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-01-19 07:33:18 +0000"
     },
     "done": true
   },
@@ -6036,6 +6160,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-19 06:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-19 07:28:30 +0000"
     },
     "done": true
   },
@@ -6060,6 +6190,12 @@
   "alexscaves:alexscaves/defeat_brainiac": {
     "criteria": {
       "killed": "2025-01-19 05:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-19 07:28:30 +0000"
     },
     "done": true
   },
