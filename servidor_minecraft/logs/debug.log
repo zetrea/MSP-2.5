@@ -6165,3 +6165,56 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [19Jan2025 05:16:34.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has reached the goal [Sweet Sweet Speeding Up]
 [19Jan2025 05:16:37.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElJimmyy moved wrongly!
 [19Jan2025 05:16:45.843] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.47 and blood value 15 for entity alexsmobs:crocodile
+[19Jan2025 05:18:14.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 05:18:14.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 05:22:30.578] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [100 absolute-30 below top]
+[19Jan2025 05:22:31.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Hostile Paradise]
+[19Jan2025 05:22:32.025] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.05 and blood value 7 for entity aether:sheepuff
+[19Jan2025 05:22:32.025] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.05 and blood value 7 for entity aether:sheepuff
+[19Jan2025 05:22:32.026] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.05 and blood value 7 for entity aether:sheepuff
+[19Jan2025 05:22:32.026] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.05 and blood value 7 for entity aether:sheepuff
+[19Jan2025 05:22:32.279] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.74 and blood value 12 for entity aether:moa
+[19Jan2025 05:22:32.280] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.74 and blood value 12 for entity aether:moa
+[19Jan2025 05:22:32.477] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.05 and blood value 7 for entity aether:sheepuff
+[19Jan2025 05:22:32.477] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.05 and blood value 7 for entity aether:sheepuff
+[19Jan2025 05:22:32.477] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.05 and blood value 7 for entity aether:sheepuff
+[19Jan2025 05:22:32.477] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.05 and blood value 7 for entity aether:sheepuff
+[19Jan2025 05:22:33.188] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.74 and blood value 12 for entity aether:moa
+[19Jan2025 05:22:33.289] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 5 for entity aether:phyg
+[19Jan2025 05:22:33.289] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 5 for entity aether:phyg
+[19Jan2025 05:22:33.289] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 5 for entity aether:phyg
+[19Jan2025 05:22:33.289] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 5 for entity aether:phyg
+[19Jan2025 05:22:33.290] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.18 and blood value 0 for entity aether:aerbunny
+[19Jan2025 05:22:33.329] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity aether:flying_cow
+[19Jan2025 05:22:33.330] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity aether:flying_cow
+[19Jan2025 05:22:33.330] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity aether:flying_cow
+[19Jan2025 05:22:33.330] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity aether:flying_cow
+[19Jan2025 05:22:33.330] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 5 for entity aether:phyg
+[19Jan2025 05:22:33.330] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 5 for entity aether:phyg
+[19Jan2025 05:22:33.953] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity aether:flying_cow
+[19Jan2025 05:22:33.953] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity aether:flying_cow
+[19Jan2025 05:22:33.954] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity aether:flying_cow
+[19Jan2025 05:22:33.954] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity aether:flying_cow
+[19Jan2025 05:22:34.503] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 5 for entity aether:phyg
+[19Jan2025 05:22:34.503] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 5 for entity aether:phyg
+[19Jan2025 05:22:34.503] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 5 for entity aether:phyg
+[19Jan2025 05:22:35.506] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=72, z=211}
+[19Jan2025 05:22:35.506] [Worker-Main-78/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aetherdelight:swet_syrup"}
+[19Jan2025 05:22:35.508] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=73, z=214}
+[19Jan2025 05:22:35.508] [Worker-Main-78/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aetherdelight:holystone_knife",tag:{Damage:0}}
+[19Jan2025 05:22:35.509] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=69, z=212}
+[19Jan2025 05:22:35.510] [Worker-Main-78/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aetherdelight:ambrosia_dew"}
+[19Jan2025 05:22:35.511] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=69, z=215}
+[19Jan2025 05:22:35.511] [Worker-Main-78/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aetherdelight:holystone_knife",tag:{Damage:0}}
+[19Jan2025 05:22:35.513] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=72, z=211}
+[19Jan2025 05:22:35.514] [Worker-Main-78/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aetherdelight:swet_syrup"}
+[19Jan2025 05:22:35.514] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=73, z=214}
+[19Jan2025 05:22:35.515] [Worker-Main-78/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aetherdelight:ambrosia_dew"}
+[19Jan2025 05:22:35.515] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=69, z=212}
+[19Jan2025 05:22:35.515] [Worker-Main-78/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aetherdelight:ambrosia_dew"}
+[19Jan2025 05:23:14.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 05:23:14.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 05:23:36.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Baby Food]
+[19Jan2025 05:23:55.651] [Worker-Main-77/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1097, y=81, z=-1063}
+[19Jan2025 05:24:29.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Take Aim]
+[19Jan2025 05:25:25.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Cold as Ice]

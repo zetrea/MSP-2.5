@@ -6631,6 +6631,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-01-19 05:14:21 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-19 05:11:56 +0000"
@@ -6652,6 +6658,18 @@
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-01-19 05:11:56 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sugar_rush": {
+    "criteria": {
+      "all_effects": "2025-01-19 05:16:34 +0000"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2025-01-19 05:22:31 +0000"
     },
     "done": true
   },
@@ -6688,6 +6706,12 @@
   "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-19 05:11:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-01-19 05:14:46 +0000"
     },
     "done": true
   },
@@ -6799,6 +6823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-01-19 05:14:46 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-19 05:11:56 +0000"
@@ -6808,6 +6838,18 @@
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-19 05:11:56 +0000"
+    },
+    "done": true
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2025-01-19 05:22:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/enchanted_berry_enchanting": {
+    "criteria": {
+      "has_blue_berry": "2025-01-19 05:23:04 +0000"
     },
     "done": true
   },
