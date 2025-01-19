@@ -6968,6 +6968,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/sulfur_dust": {
+    "criteria": {
+      "sulfur_dust": "2025-01-19 05:48:56 +0000"
+    },
+    "done": true
+  },
   "aether:enter_aether": {
     "criteria": {
       "enter_aether": "2025-01-19 05:22:31 +0000"
@@ -6989,6 +6995,12 @@
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-19 05:11:56 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2025-01-19 05:50:09 +0000"
     },
     "done": true
   },
