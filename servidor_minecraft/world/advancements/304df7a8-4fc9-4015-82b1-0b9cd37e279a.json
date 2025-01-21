@@ -7618,6 +7618,12 @@
     },
     "done": true
   },
+  "bygonenether:catacomb": {
+    "criteria": {
+      "in_catacomb": "2025-01-19 07:51:49 +0000"
+    },
+    "done": true
+  },
   "bygonenether:acquire_wither_waltz": {
     "criteria": {
       "music_disc": "2025-01-19 07:53:55 +0000"
@@ -7630,27 +7636,21 @@
     },
     "done": true
   },
-  "bygonenether:catacomb": {
-    "criteria": {
-      "in_catacomb": "2025-01-19 07:51:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-01-19 07:53:55 +0000"
     },
     "done": true
   },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-01-19 07:58:03 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/discreet_search": {
     "criteria": {
       "coded_trigger": "2025-01-19 07:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-19 07:58:03 +0000"
     },
     "done": true
   },

@@ -1,117 +1,117 @@
-[19Jan2025 04:16:30.193] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[19Jan2025 04:16:30.196] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[19Jan2025 04:16:38.154] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[19Jan2025 04:16:38.237] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSP-2.5/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[19Jan2025 04:16:38.670] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP-2.5/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[19Jan2025 04:16:38.673] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP-2.5/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[19Jan2025 04:16:38.674] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP-2.5/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[19Jan2025 04:16:38.676] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP-2.5/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[19Jan2025 04:16:39.060] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[19Jan2025 04:16:39.061] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/MSP-2.5/servidor_minecraft/mods/curios-forge-5.11.1+1.20.1.jar
-[19Jan2025 04:16:39.061] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
-[19Jan2025 04:16:43.358] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[19Jan2025 04:16:43.391] [main/ERROR] [mixin/]: Mixin config geckoanimfix.forge.mixins.json does not specify "minVersion" property
-[19Jan2025 04:16:43.580] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[19Jan2025 04:16:43.864] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 122 options available, 0 override(s) found
-[19Jan2025 04:16:43.930] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Jan2025 04:16:43.949] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Jan2025 04:16:46.585] [main/WARN] [mixin/]: Error loading class: me/desht/pneumaticcraft/common/upgrades/PNCUpgradeImpl (java.lang.ClassNotFoundException: me.desht.pneumaticcraft.common.upgrades.PNCUpgradeImpl)
-[19Jan2025 04:16:46.585] [main/WARN] [mixin/]: @Mixin target me.desht.pneumaticcraft.common.upgrades.PNCUpgradeImpl was not found ad_astra_giselle_addon.mixin.forge.common.json:pneumaticcraft.PNCUpgradeImplInject
-[19Jan2025 04:16:46.809] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[19Jan2025 04:16:57.564] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[21Jan2025 04:39:06.573] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[21Jan2025 04:39:06.580] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[21Jan2025 04:39:10.059] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[21Jan2025 04:39:10.117] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSP-2.5/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[21Jan2025 04:39:10.863] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP-2.5/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[21Jan2025 04:39:10.865] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP-2.5/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Jan2025 04:39:10.866] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP-2.5/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Jan2025 04:39:10.867] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP-2.5/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Jan2025 04:39:11.445] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[21Jan2025 04:39:11.446] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/MSP-2.5/servidor_minecraft/mods/curios-forge-5.11.1+1.20.1.jar
+[21Jan2025 04:39:11.447] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
+[21Jan2025 04:39:15.107] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[21Jan2025 04:39:15.134] [main/ERROR] [mixin/]: Mixin config geckoanimfix.forge.mixins.json does not specify "minVersion" property
+[21Jan2025 04:39:15.267] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[21Jan2025 04:39:15.451] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 122 options available, 0 override(s) found
+[21Jan2025 04:39:15.494] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Jan2025 04:39:15.512] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Jan2025 04:39:17.852] [main/WARN] [mixin/]: Error loading class: me/desht/pneumaticcraft/common/upgrades/PNCUpgradeImpl (java.lang.ClassNotFoundException: me.desht.pneumaticcraft.common.upgrades.PNCUpgradeImpl)
+[21Jan2025 04:39:17.853] [main/WARN] [mixin/]: @Mixin target me.desht.pneumaticcraft.common.upgrades.PNCUpgradeImpl was not found ad_astra_giselle_addon.mixin.forge.common.json:pneumaticcraft.PNCUpgradeImplInject
+[21Jan2025 04:39:18.072] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[21Jan2025 04:39:25.499] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[19Jan2025 04:16:58.983] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[19Jan2025 04:16:58.985] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[19Jan2025 04:16:58.989] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[19Jan2025 04:16:59.002] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[19Jan2025 04:16:59.003] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[19Jan2025 04:16:59.004] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[19Jan2025 04:16:59.005] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[19Jan2025 04:16:59.006] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[19Jan2025 04:16:59.614] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[19Jan2025 04:16:59.811] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[19Jan2025 04:16:59.813] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[19Jan2025 04:17:00.887] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
-[19Jan2025 04:17:00.896] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
-[19Jan2025 04:17:01.509] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
-[19Jan2025 04:17:01.656] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
-[19Jan2025 04:17:01.656] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
-[19Jan2025 04:17:01.902] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
-[19Jan2025 04:17:01.982] [modloading-worker-0/INFO] [de.teamlapen.vampirism.config.BalanceConfig/]: IceAndFire is loaded -> Adjusting default fire related configuration.
-[19Jan2025 04:17:02.184] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[19Jan2025 04:17:17.711] [main/INFO] [Moonlight/]: Initialized block sets in 25ms
-[19Jan2025 04:17:20.037] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
-[19Jan2025 04:17:21.819] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[19Jan2025 04:17:22.965] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
-[19Jan2025 04:17:23.015] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
-[19Jan2025 04:17:23.031] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: UP_TO_DATE Current: 1.19.5 Target: null
-[19Jan2025 04:17:23.034] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
-[19Jan2025 04:17:23.262] [Thread-6/INFO] [de.teamlapen.lib.lib.util.VersionChecker/]: Starting version check at http://maxanier.de/projects/vampirism/versions_integrations.json
-[19Jan2025 04:17:23.292] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: UP_TO_DATE Current: 1.20.1-1.5.1-neoforge Target: null
-[19Jan2025 04:17:23.292] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[19Jan2025 04:17:23.415] [main/INFO] [journeymap/]: Initializing Packet Registries
-[19Jan2025 04:17:23.590] [main/INFO] [Moonlight/]: Initialized color sets in 63ms
-[19Jan2025 04:17:23.687] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
-[19Jan2025 04:17:23.802] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.aetherteam.aether.integration.jade.AetherJadePlugin
-[19Jan2025 04:17:23.809] [Thread-6/INFO] [de.teamlapen.lib.lib.util.VersionChecker/]: Did not find a version of type RELEASE for 1.20.1 (null)
-[19Jan2025 04:17:23.813] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[19Jan2025 04:17:23.815] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
-[19Jan2025 04:17:23.816] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[19Jan2025 04:17:23.832] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[19Jan2025 04:17:23.838] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[19Jan2025 04:17:23.840] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[19Jan2025 04:17:23.842] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[19Jan2025 04:17:23.843] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.teamlapen.vampirism_integrations.jade.JadePlugin
-[19Jan2025 04:17:23.865] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
-[19Jan2025 04:17:24.107] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
-[19Jan2025 04:17:24.107] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
-[19Jan2025 04:17:24.669] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
-[19Jan2025 04:17:24.669] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[19Jan2025 04:17:24.953] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[19Jan2025 04:17:24.953] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
-[19Jan2025 04:17:24.967] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: UP_TO_DATE Current: 1.2.49 Target: null
-[19Jan2025 04:17:24.967] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[19Jan2025 04:17:25.240] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
-[19Jan2025 04:17:25.240] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Starting version check at https://api.modrinth.com/updates/fgmhI8kH/forge_updates.json
-[19Jan2025 04:17:25.712] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Found status: UP_TO_DATE Current: 3.4.11 Target: null
-[19Jan2025 04:17:25.713] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[19Jan2025 04:17:25.965] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[19Jan2025 04:17:25.965] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[19Jan2025 04:17:25.980] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.49 Target: null
-[19Jan2025 04:17:25.981] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
-[19Jan2025 04:17:26.007] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.3 Target: 2.1.3
-[19Jan2025 04:17:26.007] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[19Jan2025 04:17:26.289] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
-[19Jan2025 04:17:26.290] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[19Jan2025 04:17:26.394] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.0 Target: null
-[19Jan2025 04:17:26.397] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
-[19Jan2025 04:17:26.472] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: UP_TO_DATE Current: 1.20.1-1.0.1-neoforge Target: null
-[19Jan2025 04:17:26.472] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Starting version check at https://api.modrinth.com/updates/vampirism/forge_updates.json
-[19Jan2025 04:17:26.561] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Found status: UP_TO_DATE Current: 1.10.12 Target: null
-[19Jan2025 04:17:26.561] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism_integrations] Starting version check at https://api.modrinth.com/updates/vampirism-integrations/forge_updates.json
-[19Jan2025 04:17:26.793] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism_integrations] Found status: UP_TO_DATE Current: 1.8.0 Target: null
-[19Jan2025 04:17:26.793] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[19Jan2025 04:17:27.582] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[19Jan2025 04:17:27.583] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Starting version check at https://api.modrinth.com/updates/3ufwT9JF/forge_updates.json
-[19Jan2025 04:17:27.674] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Found status: UP_TO_DATE Current: 1.15.19 Target: null
-[19Jan2025 04:17:33.568] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19Jan2025 04:17:40.944] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSP-2.5/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23237!/assets/.mcassetsroot' uses unexpected schema
-[19Jan2025 04:17:40.945] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSP-2.5/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23237!/data/.mcassetsroot' uses unexpected schema
-[19Jan2025 04:17:42.816] [main/INFO] [de.teamlapen.vampirism.world.biome.OverworldModifications/]: Adding biome vampirism:vampire_forest to ParameterPoints [ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[-5666--500], offset=0], ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[500-4000], offset=0]] in Preset.OVERWORLD
-[19Jan2025 04:17:44.058] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[19Jan2025 04:17:44.197] [Worker-Main-4/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag farmers_structures:is_quark_glimer_spawn as it is missing following references: quark:glimmering_weald (from FarmersStructures-1.0.3-1.20.jar)
-[19Jan2025 04:17:44.337] [Worker-Main-4/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.0.jar
-[19Jan2025 04:17:44.408] [Worker-Main-4/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag ctov:wares/cardboard_box as it is missing following references: wares:cardboard_box (from [forge]ctov-3.4.11.jar)
-[19Jan2025 04:17:44.423] [Worker-Main-4/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slab as it is missing following references: bygonenether:withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.20.x.jar), 
+[21Jan2025 04:39:26.763] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[21Jan2025 04:39:26.765] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[21Jan2025 04:39:26.769] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[21Jan2025 04:39:26.773] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[21Jan2025 04:39:26.777] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[21Jan2025 04:39:26.780] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[21Jan2025 04:39:26.782] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[21Jan2025 04:39:26.783] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[21Jan2025 04:39:27.136] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[21Jan2025 04:39:27.219] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[21Jan2025 04:39:27.219] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[21Jan2025 04:39:28.195] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
+[21Jan2025 04:39:28.211] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
+[21Jan2025 04:39:28.563] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
+[21Jan2025 04:39:29.117] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
+[21Jan2025 04:39:29.117] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
+[21Jan2025 04:39:29.152] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
+[21Jan2025 04:39:29.304] [modloading-worker-0/INFO] [de.teamlapen.vampirism.config.BalanceConfig/]: IceAndFire is loaded -> Adjusting default fire related configuration.
+[21Jan2025 04:39:29.399] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[21Jan2025 04:39:39.983] [main/INFO] [Moonlight/]: Initialized block sets in 17ms
+[21Jan2025 04:39:41.547] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
+[21Jan2025 04:39:42.624] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[21Jan2025 04:39:43.171] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
+[21Jan2025 04:39:43.223] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
+[21Jan2025 04:39:43.242] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: UP_TO_DATE Current: 1.19.5 Target: null
+[21Jan2025 04:39:43.244] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
+[21Jan2025 04:39:43.411] [Thread-5/INFO] [de.teamlapen.lib.lib.util.VersionChecker/]: Starting version check at http://maxanier.de/projects/vampirism/versions_integrations.json
+[21Jan2025 04:39:43.479] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: UP_TO_DATE Current: 1.20.1-1.5.1-neoforge Target: null
+[21Jan2025 04:39:43.479] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[21Jan2025 04:39:43.506] [main/INFO] [journeymap/]: Initializing Packet Registries
+[21Jan2025 04:39:43.648] [main/INFO] [Moonlight/]: Initialized color sets in 67ms
+[21Jan2025 04:39:43.737] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
+[21Jan2025 04:39:43.861] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.aetherteam.aether.integration.jade.AetherJadePlugin
+[21Jan2025 04:39:43.871] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[21Jan2025 04:39:43.872] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[21Jan2025 04:39:43.873] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[21Jan2025 04:39:43.884] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[21Jan2025 04:39:43.888] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[21Jan2025 04:39:43.890] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[21Jan2025 04:39:43.891] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[21Jan2025 04:39:43.892] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.teamlapen.vampirism_integrations.jade.JadePlugin
+[21Jan2025 04:39:43.909] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
+[21Jan2025 04:39:44.104] [Thread-5/INFO] [de.teamlapen.lib.lib.util.VersionChecker/]: Did not find a version of type RELEASE for 1.20.1 (null)
+[21Jan2025 04:39:44.273] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
+[21Jan2025 04:39:44.273] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[21Jan2025 04:39:44.769] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[21Jan2025 04:39:44.770] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[21Jan2025 04:39:45.152] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[21Jan2025 04:39:45.152] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
+[21Jan2025 04:39:45.253] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: OUTDATED Current: 1.2.49 Target: 1.2.50
+[21Jan2025 04:39:45.253] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[21Jan2025 04:39:45.396] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[21Jan2025 04:39:45.396] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Starting version check at https://api.modrinth.com/updates/fgmhI8kH/forge_updates.json
+[21Jan2025 04:39:47.979] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Found status: UP_TO_DATE Current: 3.4.11 Target: null
+[21Jan2025 04:39:47.979] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[21Jan2025 04:39:48.433] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[21Jan2025 04:39:48.434] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[21Jan2025 04:39:48.447] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.49 Target: null
+[21Jan2025 04:39:48.447] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[21Jan2025 04:39:48.604] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.3 Target: 2.1.3
+[21Jan2025 04:39:48.604] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[21Jan2025 04:39:48.963] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
+[21Jan2025 04:39:48.963] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[21Jan2025 04:39:48.981] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.0 Target: null
+[21Jan2025 04:39:48.981] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
+[21Jan2025 04:39:49.050] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: UP_TO_DATE Current: 1.20.1-1.0.1-neoforge Target: null
+[21Jan2025 04:39:49.050] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Starting version check at https://api.modrinth.com/updates/vampirism/forge_updates.json
+[21Jan2025 04:39:49.144] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Found status: UP_TO_DATE Current: 1.10.12 Target: null
+[21Jan2025 04:39:49.144] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism_integrations] Starting version check at https://api.modrinth.com/updates/vampirism-integrations/forge_updates.json
+[21Jan2025 04:39:49.248] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism_integrations] Found status: UP_TO_DATE Current: 1.8.0 Target: null
+[21Jan2025 04:39:49.248] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[21Jan2025 04:39:50.807] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[21Jan2025 04:39:50.808] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Starting version check at https://api.modrinth.com/updates/3ufwT9JF/forge_updates.json
+[21Jan2025 04:39:50.907] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Found status: UP_TO_DATE Current: 1.15.19 Target: null
+[21Jan2025 04:39:50.975] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21Jan2025 04:39:57.527] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSP-2.5/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23237!/assets/.mcassetsroot' uses unexpected schema
+[21Jan2025 04:39:57.527] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSP-2.5/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23237!/data/.mcassetsroot' uses unexpected schema
+[21Jan2025 04:39:59.105] [main/INFO] [de.teamlapen.vampirism.world.biome.OverworldModifications/]: Adding biome vampirism:vampire_forest to ParameterPoints [ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[-5666--500], offset=0], ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[500-4000], offset=0]] in Preset.OVERWORLD
+[21Jan2025 04:40:00.147] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[21Jan2025 04:40:00.282] [Worker-Main-3/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.0.jar
+[21Jan2025 04:40:00.301] [Worker-Main-5/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag farmers_structures:is_quark_glimer_spawn as it is missing following references: quark:glimmering_weald (from FarmersStructures-1.0.3-1.20.jar)
+[21Jan2025 04:40:00.355] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag ctov:wares/cardboard_box as it is missing following references: wares:cardboard_box (from [forge]ctov-3.4.11.jar)
+[21Jan2025 04:40:00.369] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slab as it is missing following references: bygonenether:withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.20.x.jar), 
 	bygonenether:cracked_withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.20.x.jar), 
 	bygonenether:warped_nether_brick_vertical_slab (from bygonenether-1.3.2-1.20.x.jar)
-[19Jan2025 04:17:44.427] [Worker-Main-4/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag ctov:wares/sealed_delivery_agreement as it is missing following references: wares:sealed_delivery_agreement (from [forge]ctov-3.4.11.jar)
-[19Jan2025 04:17:44.475] [Worker-Main-5/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:wraith_spawnable as it is missing following references: quark:soul_stone (from bygonenether-1.3.2-1.20.x.jar)
-[19Jan2025 04:17:44.476] [Worker-Main-5/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slab as it is missing following references: bygonenether:withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.20.x.jar), 
+[21Jan2025 04:40:00.374] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag ctov:wares/sealed_delivery_agreement as it is missing following references: wares:sealed_delivery_agreement (from [forge]ctov-3.4.11.jar)
+[21Jan2025 04:40:00.501] [Worker-Main-4/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:wraith_spawnable as it is missing following references: quark:soul_stone (from bygonenether-1.3.2-1.20.x.jar)
+[21Jan2025 04:40:00.501] [Worker-Main-4/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slab as it is missing following references: bygonenether:withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.20.x.jar), 
 	bygonenether:cracked_withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.20.x.jar), 
 	bygonenether:warped_nether_brick_vertical_slab (from bygonenether-1.3.2-1.20.x.jar)
-[19Jan2025 04:17:45.364] [Worker-Main-5/INFO] [Mantle/]: Loaded 17 loot table injectors injecting into 15 tables in 12.535018 ms
-[19Jan2025 04:17:45.921] [Worker-Main-4/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:bygonenether:blocks/withered_blackstone_vertical_slab
+[21Jan2025 04:40:01.145] [Worker-Main-3/INFO] [Mantle/]: Loaded 17 loot table injectors injecting into 15 tables in 8.086043 ms
+[21Jan2025 04:40:01.501] [Worker-Main-5/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:bygonenether:blocks/withered_blackstone_vertical_slab
 java.lang.IllegalArgumentException: Can't find block bygonenether:withered_blackstone_vertical_slab
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81802_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23237!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -183,7 +183,7 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:withered_black
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[19Jan2025 04:17:45.960] [Worker-Main-4/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:ctov:chests/village/village_forager
+[21Jan2025 04:40:01.525] [Worker-Main-5/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:ctov:chests/village/village_forager
 com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 	at net.minecraft.util.GsonHelper.m_13912_(GsonHelper.java:181) ~[server-1.20.1-20230612.114412-srg.jar%23237!/:?]
 	at net.minecraft.world.level.storage.loot.entries.TagEntry$Serializer.m_7267_(TagEntry.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23237!/:?]
@@ -232,7 +232,7 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[19Jan2025 04:17:46.052] [Worker-Main-4/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:bygonenether:blocks/cracked_withered_blackstone_vertical_slab
+[21Jan2025 04:40:01.607] [Worker-Main-5/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:bygonenether:blocks/cracked_withered_blackstone_vertical_slab
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'bygonenether:cracked_withered_blackstone_vertical_slab'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23237!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -284,7 +284,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[19Jan2025 04:17:46.232] [Worker-Main-4/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:bygonenether:blocks/warped_nether_brick_vertical_slab
+[21Jan2025 04:40:01.758] [Worker-Main-5/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:bygonenether:blocks/warped_nether_brick_vertical_slab
 java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_brick_vertical_slab
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81802_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23237!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -356,793 +356,165 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[19Jan2025 04:17:46.442] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[19Jan2025 04:17:46.442] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[19Jan2025 04:17:46.442] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[9].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[19Jan2025 04:17:46.442] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[8].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[19Jan2025 04:17:46.442] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[19Jan2025 04:17:46.443] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[7].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[19Jan2025 04:17:46.443] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[19Jan2025 04:17:46.443] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[19Jan2025 04:17:46.679] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[19Jan2025 04:17:46.709] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[19Jan2025 04:17:46.744] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:vampire/blood_bottle as it's serializer returned null
-[19Jan2025 04:17:46.851] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[19Jan2025 04:17:46.884] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[19Jan2025 04:17:46.973] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[19Jan2025 04:17:47.032] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/guidebook as it's serializer returned null
-[19Jan2025 04:17:47.034] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[19Jan2025 04:17:47.036] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[19Jan2025 04:17:47.047] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[19Jan2025 04:17:47.053] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 62 recipes
-[19Jan2025 04:17:47.405] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 6116 advancements
-[19Jan2025 04:17:47.445] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[19Jan2025 04:17:47.463] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id bygonenether:soul_stone_from_block - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: bygonenether:replace_item
-[19Jan2025 04:17:47.464] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id bygonenether:soul_stone_in_catacombs - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: bygonenether:replace_item
-[19Jan2025 04:17:47.518] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 131 dynamic modifiers and 0 modifier redirects in 52.983627 ms
-[19Jan2025 04:17:47.526] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 39 modifier tags for 138 modifiers in 8.52865 ms
-[19Jan2025 04:17:47.527] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 50 enchantment to modifier mappings in 0.616122 ms
-[19Jan2025 04:17:47.529] [main/INFO] [tconstruct/]: Loaded 49 spilling fluids in 1.268121 ms
-[19Jan2025 04:17:47.539] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 19 curio slots
-[19Jan2025 04:17:47.547] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio entities
-[19Jan2025 04:17:47.548] [main/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 24 dynamic modifiers in 1.054601 ms
-[19Jan2025 04:17:47.550] [main/INFO] [de.teamlapen.vampirism.entity.player.skills.SkillTree/]: Loaded 53 skill nodes
-[19Jan2025 04:17:47.557] [main/INFO] [de.teamlapen.vampirism.entity.converted.VampirismEntityRegistry/]: Registered 14 convertibles
-[19Jan2025 04:17:47.570] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 49 materials in 7.637147 ms
-[19Jan2025 04:17:47.574] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 1 material tags for 19 materials in 3.815491 ms
-[19Jan2025 04:17:47.595] [main/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 347 stats loaded for 59 materials in 20.57371 ms
-[19Jan2025 04:17:47.603] [main/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 184 traits loaded for 59 materials in 7.821129 ms
-[19Jan2025 04:17:47.615] [main/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 37 tool definitions in 11.239246 ms
-[19Jan2025 04:17:47.620] [main/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 19 station slot layouts in 4.708674 ms
-[19Jan2025 04:17:47.628] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: farmers_structures:is_quark_glimer_spawn, quark:has_fallen_jungle
-[19Jan2025 04:17:54.715] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
-[19Jan2025 04:17:55.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[19Jan2025 04:17:55.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[19Jan2025 04:17:55.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[19Jan2025 04:17:55.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[19Jan2025 04:17:55.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[19Jan2025 04:17:55.271] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[19Jan2025 04:17:55.386] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[19Jan2025 04:17:55.387] [Thread-5/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[19Jan2025 04:17:55.389] [Thread-5/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[19Jan2025 04:17:55.848] [Server thread/INFO] [Framework/]: Loading server configs...
-[19Jan2025 04:17:55.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[19Jan2025 04:17:56.709] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:overworld] with concurrent set.
-[19Jan2025 04:18:02.051] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:adrastea] with concurrent set.
-[19Jan2025 04:18:02.106] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:neptune] with concurrent set.
-[19Jan2025 04:18:02.116] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / ad_astra:moon_orbit] with concurrent set.
-[19Jan2025 04:18:02.160] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:saturn] with concurrent set.
-[19Jan2025 04:18:02.186] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:thebe] with concurrent set.
-[19Jan2025 04:18:02.192] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / ad_astra:mercury] with concurrent set.
-[19Jan2025 04:18:02.197] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:the_nether] with concurrent set.
-[19Jan2025 04:18:02.204] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / ad_astra:mars] with concurrent set.
-[19Jan2025 04:18:02.239] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:metis] with concurrent set.
-[19Jan2025 04:18:02.245] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:saturn_orbit] with concurrent set.
-[19Jan2025 04:18:02.277] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:amalthea] with concurrent set.
-[19Jan2025 04:18:02.280] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:phobos_orbit] with concurrent set.
-[19Jan2025 04:18:02.282] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:jupiter_orbit] with concurrent set.
-[19Jan2025 04:18:02.295] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / twilightforest:twilight_forest] with concurrent set.
-[19Jan2025 04:18:02.298] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / ad_astra:mercury_orbit] with concurrent set.
-[19Jan2025 04:18:02.302] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / ad_astra:mars_orbit] with concurrent set.
-[19Jan2025 04:18:02.329] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:phobos] with concurrent set.
-[19Jan2025 04:18:02.332] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / ad_astra:earth_orbit] with concurrent set.
-[19Jan2025 04:18:02.334] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:thebe_orbit] with concurrent set.
-[19Jan2025 04:18:02.346] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:the_end] with concurrent set.
-[19Jan2025 04:18:02.349] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:adrastea_orbit] with concurrent set.
-[19Jan2025 04:18:02.374] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:uranus] with concurrent set.
-[19Jan2025 04:18:02.377] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:metis_orbit] with concurrent set.
-[19Jan2025 04:18:02.382] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / ad_astra:moon] with concurrent set.
-[19Jan2025 04:18:02.386] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:deimos_orbit] with concurrent set.
-[19Jan2025 04:18:02.393] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / ad_astra:glacio] with concurrent set.
-[19Jan2025 04:18:02.399] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / aether:the_aether] with concurrent set.
-[19Jan2025 04:18:02.406] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / ad_astra:venus] with concurrent set.
-[19Jan2025 04:18:02.410] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:neptune_orbit] with concurrent set.
-[19Jan2025 04:18:02.414] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:uranus_orbit] with concurrent set.
-[19Jan2025 04:18:02.419] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:amalthea_orbit] with concurrent set.
-[19Jan2025 04:18:02.421] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / ad_astra:venus_orbit] with concurrent set.
-[19Jan2025 04:18:02.446] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:deimos] with concurrent set.
-[19Jan2025 04:18:02.470] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:jupiter] with concurrent set.
-[19Jan2025 04:18:02.473] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / ad_astra:glacio_orbit] with concurrent set.
-[19Jan2025 04:18:02.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[19Jan2025 04:18:06.356] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 04:18:06.410] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 04:18:06.433] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 04:18:06.448] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 04:18:06.503] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 04:18:06.533] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 04:18:06.543] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 04:18:06.555] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 04:18:06.573] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 04:18:06.980] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 8%
-[19Jan2025 04:18:07.478] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 70%
-[19Jan2025 04:18:07.850] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5373 ms
-[19Jan2025 04:18:07.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.467s)! For help, type "help"
-[19Jan2025 04:18:07.955] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[19Jan2025 04:18:08.028] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
-[19Jan2025 04:18:08.039] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[19Jan2025 04:18:08.040] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[19Jan2025 04:18:08.040] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
-[19Jan2025 04:18:08.092] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
-[19Jan2025 04:18:08.093] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
-[19Jan2025 04:18:08.093] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
-[19Jan2025 04:18:08.093] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
-[19Jan2025 04:18:08.165] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[19Jan2025 04:19:00.945] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ElJimmyy is 304df7a8-4fc9-4015-82b1-0b9cd37e279a
-[19Jan2025 04:19:12.475] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[19Jan2025 04:19:12.640] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElJimmyy[/127.87.97.243:38061] logged in with entity id 1168 at (1388.016081609694, 113.0, -1036.8901939299365)
-[19Jan2025 04:19:12.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy joined the game
-[19Jan2025 04:19:12.929] [Server thread/INFO] [Jade/]: Syncing config to ElJimmyy (304df7a8-4fc9-4015-82b1-0b9cd37e279a)
-[19Jan2025 04:19:15.678] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3112ms or 62 ticks behind
-[19Jan2025 04:35:41.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3186ms or 63 ticks behind
-[19Jan2025 04:35:41.696] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
-[19Jan2025 04:36:06.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElJimmyy moved wrongly!
-[19Jan2025 04:36:07.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElJimmyy moved wrongly!
-[19Jan2025 04:36:10.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElJimmyy moved wrongly!
-[19Jan2025 04:41:15.625] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
-[19Jan2025 04:41:15.625] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
-[19Jan2025 04:41:15.626] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
-[19Jan2025 04:41:15.626] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
-[19Jan2025 04:41:15.627] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
-[19Jan2025 05:16:10.290] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 05:16:10.294] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 05:16:17.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy fell from a high place
-[19Jan2025 05:16:34.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has reached the goal [Sweet Sweet Speeding Up]
-[19Jan2025 05:16:37.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElJimmyy moved wrongly!
-[19Jan2025 05:22:30.578] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [100 absolute-30 below top]
-[19Jan2025 05:22:31.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Hostile Paradise]
-[19Jan2025 05:22:35.506] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=72, z=211}
-[19Jan2025 05:22:35.506] [Worker-Main-78/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aetherdelight:swet_syrup"}
-[19Jan2025 05:22:35.508] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=73, z=214}
-[19Jan2025 05:22:35.508] [Worker-Main-78/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aetherdelight:holystone_knife",tag:{Damage:0}}
-[19Jan2025 05:22:35.509] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=69, z=212}
-[19Jan2025 05:22:35.510] [Worker-Main-78/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aetherdelight:ambrosia_dew"}
-[19Jan2025 05:22:35.511] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=69, z=215}
-[19Jan2025 05:22:35.511] [Worker-Main-78/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aetherdelight:holystone_knife",tag:{Damage:0}}
-[19Jan2025 05:22:35.513] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=72, z=211}
-[19Jan2025 05:22:35.514] [Worker-Main-78/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aetherdelight:swet_syrup"}
-[19Jan2025 05:22:35.514] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=73, z=214}
-[19Jan2025 05:22:35.515] [Worker-Main-78/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aetherdelight:ambrosia_dew"}
-[19Jan2025 05:22:35.515] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=69, z=212}
-[19Jan2025 05:22:35.515] [Worker-Main-78/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aetherdelight:ambrosia_dew"}
-[19Jan2025 05:23:36.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Baby Food]
-[19Jan2025 05:23:55.651] [Worker-Main-77/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1097, y=81, z=-1063}
-[19Jan2025 05:24:29.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Take Aim]
-[19Jan2025 05:25:25.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Cold as Ice]
-[19Jan2025 05:36:39.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has reached the goal [Radiation Vibe]
-[19Jan2025 05:37:23.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Uranium Fever]
-[19Jan2025 05:40:51.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [THE OOOOOOOOZE]
-[19Jan2025 05:43:11.349] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
-[19Jan2025 05:43:22.865] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zetreaa[/127.231.240.35:60843] logged in with entity id 20378 at (1370.699999988079, 108.0, -1080.300000011921)
-[19Jan2025 05:43:22.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa joined the game
-[19Jan2025 05:43:22.930] [Server thread/INFO] [Jade/]: Syncing config to zetreaa (811bc03d-0045-4319-9d80-c5aa17d161ba)
-[19Jan2025 05:47:12.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 05:47:13.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has reached the goal [Radiation Vibe]
-[19Jan2025 05:47:32.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Crisis Adverted]
-[19Jan2025 05:47:48.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Brains and Brawn]
-[19Jan2025 05:48:09.340] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 05:48:09.342] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 05:48:09.419] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 05:48:09.423] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 05:48:09.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa was atomized
-[19Jan2025 05:48:09.902] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 05:48:10.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was atomized
-[19Jan2025 05:48:10.044] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 05:48:37.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Uranium Fever]
-[19Jan2025 05:48:56.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Smelly Situation]
-[19Jan2025 05:50:09.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Brains and Brawn]
-[19Jan2025 05:50:10.081] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/23429, l='ServerLevel[world]', x=1789.30, y=159.39, z=-1184.50] died, message: 'Cartographer froze to death'
-[19Jan2025 05:50:53.537] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 05:50:53.541] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 05:51:00.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 05:51:13.283] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/23490, l='ServerLevel[world]', x=1776.52, y=143.00, z=-1209.50] died, message: 'Librarian froze to death'
-[19Jan2025 05:51:26.081] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 05:51:26.090] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 05:51:28.035] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/23470, l='ServerLevel[world]', x=1796.70, y=159.00, z=-1185.50] died, message: 'Nitwit froze to death'
-[19Jan2025 05:51:34.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Brainiac
-[19Jan2025 05:52:53.630] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 05:52:53.643] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 05:53:00.940] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 05:53:02.195] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 05:53:02.198] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 05:53:07.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by Brainiac, they gave up
-[19Jan2025 05:53:10.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 05:53:21.332] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 05:53:21.344] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 05:53:27.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Brainiac
-[19Jan2025 05:53:30.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 05:55:27.398] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 05:55:27.419] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 05:56:13.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 05:56:25.082] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 05:56:25.089] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 05:56:30.683] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 05:56:31.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Brainiac
-[19Jan2025 05:56:35.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 05:57:02.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Smelly Situation]
-[19Jan2025 05:57:31.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 05:58:09.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Crisis Adverted]
-[19Jan2025 05:58:51.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 05:59:23.785] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 05:59:23.789] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 05:59:29.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Brainiac
-[19Jan2025 05:59:32.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 05:59:51.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [THE OOOOOOOOZE]
-[19Jan2025 06:02:02.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:02:32.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Bath Bomb]
-[19Jan2025 06:03:16.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:03:34.035] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 06:03:34.040] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:03:39.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was shot by Skeleton
-[19Jan2025 06:03:42.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:04:21.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:04:58.332] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:04:58.342] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:05:02.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:05:08.583] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:05:09.793] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:05:09.795] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:05:15.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by Brainiac, they gave up
-[19Jan2025 06:05:18.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:06:46.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:07:00.079] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:07:00.090] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:07:11.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Bath Bomb]
-[19Jan2025 06:07:29.679] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 06:07:29.687] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:07:44.129] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:07:44.142] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:07:47.579] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 06:07:47.591] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:07:50.838] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:07:52.137] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:07:52.139] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:07:57.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by Ferrous Wroughtnaut, they gave up
-[19Jan2025 06:08:01.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:08:41.578] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 06:08:41.589] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:08:44.178] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:08:44.200] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:08:52.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Ferrous Wroughtnaut
-[19Jan2025 06:08:55.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:09:20.780] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:09:20.795] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:09:23.577] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 06:09:23.594] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:09:29.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Ferrous Wroughtnaut
-[19Jan2025 06:09:30.333] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:09:31.699] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:09:31.700] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:09:45.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by Ferrous Wroughtnaut, they gave up
-[19Jan2025 06:09:49.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:09:51.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:10:14.476] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:10:14.483] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:11:51.676] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 06:11:51.687] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:11:59.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Ferrous Wroughtnaut
-[19Jan2025 06:12:01.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:12:26.178] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:12:26.190] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:12:32.545] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:12:33.735] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:12:33.737] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:12:39.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by Ferrous Wroughtnaut, they gave up
-[19Jan2025 06:12:41.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:13:13.025] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:13:13.035] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:13:19.133] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:13:20.409] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:13:20.411] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:13:27.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by Ferrous Wroughtnaut, they gave up
-[19Jan2025 06:13:30.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:13:54.681] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 06:13:54.692] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:14:13.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has completed the challenge [Just a Flesh Wound]
-[19Jan2025 06:14:34.633] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 06:14:34.636] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:14:59.879] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 06:14:59.884] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:16:45.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:16:55.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:16:58.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:17:10.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:18:04.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:18:19.084] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 06:18:19.089] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:18:21.939] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:18:21.947] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:18:30.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was shot by Skeleton
-[19Jan2025 06:18:33.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:19:02.728] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 06:19:02.735] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:19:05.029] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:19:05.035] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:19:09.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Brainiac
-[19Jan2025 06:19:12.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:19:18.085] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:19:19.314] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:19:19.315] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:19:24.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by Brainiac, they gave up
-[19Jan2025 06:19:28.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:19:32.883] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 06:19:32.890] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:19:39.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Brainiac
-[19Jan2025 06:19:41.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:21:18.447] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 06:21:18.457] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:21:24.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Brainiac
-[19Jan2025 06:21:27.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:22:49.597] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 06:22:49.609] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:22:55.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Gammaroach
-[19Jan2025 06:23:01.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:23:31.991] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 06:23:31.998] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:23:47.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Brainiac
-[19Jan2025 06:25:03.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:29:54.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:30:15.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:31:03.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:31:07.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Gassed Up]
-[19Jan2025 06:31:12.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Gassed Up]
-[19Jan2025 06:31:37.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:32:15.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:33:24.738] [Worker-Main-47/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
-[19Jan2025 06:33:24.738] [Worker-Main-47/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
-[19Jan2025 06:33:24.748] [Worker-Main-47/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
-[19Jan2025 06:33:31.556] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8690ms or 173 ticks behind
-[19Jan2025 06:33:53.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:33:54.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Revive Me, I Have a Raygun]
-[19Jan2025 06:34:05.091] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:34:05.093] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:34:53.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Hot Rod]
-[19Jan2025 06:35:11.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Revive Me, I Have a Raygun]
-[19Jan2025 06:35:17.984] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:35:17.986] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:36:07.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:37:09.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Toxic Alloy]
-[19Jan2025 06:38:39.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:38:45.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:39:06.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:39:25.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [The One Who Knocks]
-[19Jan2025 06:40:09.893] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:40:09.896] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:40:56.801] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:40:56.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Killed zetreaa]
-[19Jan2025 06:40:56.805] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:41:03.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa was killed whilst fighting ElJimmyy
-[19Jan2025 06:41:06.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Killed zetreaa]
-[19Jan2025 06:41:09.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:41:34.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:42:56.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:44:38.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:44:50.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [The Soul Forge]
-[19Jan2025 06:45:23.936] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:45:23.939] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:45:25.777] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 06:45:25.785] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:45:25.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:45:28.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:45:34.134] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:45:34.136] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:45:35.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa burned to ashes, they gave up
-[19Jan2025 06:45:35.488] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:45:40.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:46:11.383] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 06:46:11.385] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:46:47.879] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:46:47.891] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:46:49.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:46:58.838] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:46:58.840] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:47:00.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:47:01.745] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 06:47:01.748] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:47:08.541] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:47:09.781] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:47:09.783] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:47:11.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy burned to death
-[19Jan2025 06:47:11.988] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:47:15.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:47:15.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by Netherite Monstrosity, they gave up
-[19Jan2025 06:47:18.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:47:41.083] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:47:41.085] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:47:42.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:47:48.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:47:52.236] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:47:52.238] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:47:53.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa burned to ashes, they gave up
-[19Jan2025 06:47:53.518] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:47:55.358] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 06:47:55.361] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:47:56.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:48:17.782] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 06:48:17.785] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:48:20.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy tried to swim in lava
-[19Jan2025 06:48:20.791] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:48:23.226] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:48:23.239] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:48:23.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:48:27.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa was incinerated by Netherite Monstrosity
-[19Jan2025 06:48:27.290] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:48:30.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:48:56.379] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:48:56.392] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:48:57.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:49:00.280] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 06:49:00.293] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:49:08.537] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:49:09.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Netherite Monstrosity
-[19Jan2025 06:49:09.755] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:49:09.757] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:49:15.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:49:15.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by Netherite Monstrosity, they gave up
-[19Jan2025 06:49:18.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:49:42.486] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 06:49:42.488] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:49:48.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has completed the challenge [The broken Nether's warmachine]
-[19Jan2025 06:49:48.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy burned to death
-[19Jan2025 06:49:51.207] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:49:51.210] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:49:52.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:49:57.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa burned to ashes
-[19Jan2025 06:50:01.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:50:15.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:51:07.088] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 06:51:07.090] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:51:10.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy tried to swim in lava
-[19Jan2025 06:51:10.092] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:51:13.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:52:20.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:52:49.989] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 06:52:49.998] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:53:14.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:54:10.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Those Were the Days]
-[19Jan2025 06:54:16.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:54:17.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Those Were the Days]
-[19Jan2025 06:54:24.991] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 06:54:24.993] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:54:30.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy froze to death
-[19Jan2025 06:54:30.196] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:54:34.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:54:41.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [War Pigs]
-[19Jan2025 06:54:42.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [War Pigs]
-[19Jan2025 06:55:35.439] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:55:35.447] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:55:46.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:55:47.488] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:55:48.791] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:55:48.792] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:56:31.381] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 06:56:31.393] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:56:34.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:57:02.983] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:57:02.990] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:57:11.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:57:14.094] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:57:14.096] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:57:15.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by ElJimmyy, they gave up
-[19Jan2025 06:57:15.751] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:57:19.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:57:27.752] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:57:27.754] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:57:28.836] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 06:57:28.849] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 06:57:48.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Piglin Brute
-[19Jan2025 06:57:51.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:58:16.701] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:58:16.703] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:58:45.584] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:58:45.593] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:59:09.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:59:15.642] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 06:59:15.644] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:59:17.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa burned to ashes, they gave up
-[19Jan2025 06:59:17.142] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 06:59:21.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 06:59:53.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:59:58.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 06:59:59.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 07:00:21.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Hidden in the Depths]
-[19Jan2025 07:01:59.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:02:13.334] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=27, z=91}
-[19Jan2025 07:02:13.334] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=27, z=91}
-[19Jan2025 07:02:13.335] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=23, z=93}
-[19Jan2025 07:02:13.335] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-15, y=27, z=89}
-[19Jan2025 07:02:13.335] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=23, z=90}
-[19Jan2025 07:02:13.336] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=23, z=92}
-[19Jan2025 07:02:16.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:02:18.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Nightmare Fuel]
-[19Jan2025 07:02:41.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Nightmare Fuel]
-[19Jan2025 07:03:00.844] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:03:00.846] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:03:11.890] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:03:11.892] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:03:51.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Mind your Manors]
-[19Jan2025 07:03:58.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:03:58.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Mind your Manors]
-[19Jan2025 07:04:03.110] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:04:03.112] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:04:04.633] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 07:04:04.639] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 07:04:19.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:04:21.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:04:28.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Piglin Hunter
-[19Jan2025 07:04:30.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:05:02.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Dark Horse]
-[19Jan2025 07:05:22.541] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:05:22.546] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:05:40.891] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:05:40.893] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:05:50.114] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:05:51.365] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:05:51.390] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:05:56.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by ElJimmyy, they gave up
-[19Jan2025 07:06:01.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 07:06:55.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:07:54.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:08:01.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:08:20.534] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 07:08:20.542] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 07:08:23.833] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:08:23.841] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:08:42.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Piglin Brute
-[19Jan2025 07:08:45.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:09:00.834] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 07:09:00.844] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 07:09:05.436] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:09:05.447] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:09:13.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Piglin Brute
-[19Jan2025 07:09:16.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:09:22.682] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 07:09:22.693] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 07:09:28.935] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:09:30.237] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:09:30.238] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:09:35.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by Piglin Brute, they gave up
-[19Jan2025 07:09:39.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 07:10:07.743] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:10:07.759] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:10:17.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:10:26.044] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:10:26.047] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:10:27.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by ElJimmyy, they gave up
-[19Jan2025 07:10:27.691] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:10:31.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 07:10:54.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:12:41.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:13:04.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:13:22.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:13:56.685] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -101], pos: MutableBlockPos{x=1360, y=117, z=-1602}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.686] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -101], pos: MutableBlockPos{x=1360, y=118, z=-1602}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.686] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -101], pos: MutableBlockPos{x=1361, y=118, z=-1602}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.686] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -101], pos: MutableBlockPos{x=1360, y=119, z=-1602}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.690] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -101], pos: MutableBlockPos{x=1360, y=117, z=-1601}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.690] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -101], pos: MutableBlockPos{x=1361, y=117, z=-1601}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.691] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -101], pos: MutableBlockPos{x=1362, y=117, z=-1601}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.691] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -101], pos: MutableBlockPos{x=1360, y=118, z=-1601}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.691] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -101], pos: MutableBlockPos{x=1361, y=118, z=-1601}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.691] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -101], pos: MutableBlockPos{x=1362, y=118, z=-1601}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.692] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -101], pos: MutableBlockPos{x=1360, y=119, z=-1601}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.692] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -101], pos: MutableBlockPos{x=1361, y=119, z=-1601}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.692] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -101], pos: MutableBlockPos{x=1362, y=119, z=-1601}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.692] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -101], pos: MutableBlockPos{x=1360, y=120, z=-1601}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.699] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1360, y=117, z=-1600}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.699] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1361, y=117, z=-1600}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.699] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1362, y=117, z=-1600}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.700] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1360, y=118, z=-1600}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.701] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1361, y=118, z=-1600}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.701] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1362, y=118, z=-1600}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.701] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1363, y=118, z=-1600}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.701] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1360, y=119, z=-1600}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.701] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1361, y=119, z=-1600}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.702] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1362, y=119, z=-1600}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.702] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1360, y=120, z=-1600}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.704] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1360, y=117, z=-1599}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.704] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1361, y=117, z=-1599}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.705] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1360, y=118, z=-1599}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.705] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1361, y=118, z=-1599}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.705] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1362, y=118, z=-1599}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.705] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1360, y=119, z=-1599}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.705] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1361, y=119, z=-1599}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.705] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1362, y=119, z=-1599}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.706] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1360, y=120, z=-1599}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.708] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1360, y=118, z=-1598}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:56.708] [Worker-Main-140/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, -100], pos: MutableBlockPos{x=1360, y=119, z=-1598}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:13:57.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:14:04.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Straddle My Ol' Saddle]
-[19Jan2025 07:14:08.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Straddle My Ol' Saddle]
-[19Jan2025 07:14:09.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 07:14:27.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 07:15:15.138] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:15:15.140] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:15:25.290] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:15:25.292] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:15:47.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:16:09.183] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:16:09.184] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:16:37.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:16:49.240] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:16:49.242] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:17:18.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:17:19.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:17:20.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:17:20.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:17:20.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:17:21.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:17:21.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:17:21.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:17:21.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:17:22.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:17:22.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:17:22.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElJimmyy was kicked for floating too long!
-[19Jan2025 07:17:22.491] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElJimmyy lost connection: Flying is not enabled on this server
-[19Jan2025 07:17:22.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy left the game
-[19Jan2025 07:17:22.538] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[19Jan2025 07:17:43.244] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ElJimmyy is 304df7a8-4fc9-4015-82b1-0b9cd37e279a
-[19Jan2025 07:17:54.617] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElJimmyy[/127.87.97.243:58767] logged in with entity id 70953 at (1132.6312891304603, 93.15623246767741, -1616.0752108021916)
-[19Jan2025 07:17:54.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy joined the game
-[19Jan2025 07:17:54.672] [Server thread/INFO] [Jade/]: Syncing config to ElJimmyy (304df7a8-4fc9-4015-82b1-0b9cd37e279a)
-[19Jan2025 07:17:55.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:18:12.998] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 07:18:13.001] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 07:18:38.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:18:47.095] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:18:47.098] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:18:47.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has reached the goal [Blood Island]
-[19Jan2025 07:18:48.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:18:49.544] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 07:18:49.547] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 07:18:49.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has reached the goal [Blood Island]
-[19Jan2025 07:18:53.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy tried to swim in lava
-[19Jan2025 07:18:53.746] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 07:19:12.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:19:12.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 07:19:20.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa burned to ashes
-[19Jan2025 07:19:35.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 07:20:01.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:20:06.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 07:20:08.543] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=27, z=89}
-[19Jan2025 07:20:08.544] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=27, z=88}
-[19Jan2025 07:20:08.544] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=13, y=27, z=89}
-[19Jan2025 07:20:08.544] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=13, y=27, z=88}
-[19Jan2025 07:20:08.545] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=28, z=88}
-[19Jan2025 07:20:08.545] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=13, y=28, z=88}
-[19Jan2025 07:22:04.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:22:04.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 07:22:42.392] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:22:42.396] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:22:44.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 07:22:55.892] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:22:57.059] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:22:57.061] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:23:02.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by Hoglin, they gave up
-[19Jan2025 07:23:06.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 07:23:14.346] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 07:23:14.351] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 07:24:53.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:25:57.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:27:24.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:27:40.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:27:43.546] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 07:27:43.549] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 07:27:52.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy burned to death
-[19Jan2025 07:27:52.552] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 07:27:57.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:28:31.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:28:48.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 07:29:11.145] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 07:29:11.162] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 07:29:16.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 07:29:36.087] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 07:29:36.095] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 07:29:38.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:29:39.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:29:40.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:29:40.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:29:40.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:29:47.601] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 07:29:47.603] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 07:30:21.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has completed the challenge [Hot Tourist Destinations]
-[19Jan2025 07:30:38.905] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=27, z=91}
-[19Jan2025 07:30:38.905] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=27, z=91}
-[19Jan2025 07:30:38.905] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=23, z=93}
-[19Jan2025 07:30:38.906] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-15, y=27, z=89}
-[19Jan2025 07:30:38.906] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=23, z=90}
-[19Jan2025 07:30:38.906] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=23, z=92}
-[19Jan2025 07:30:44.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Wither Or Not...]
-[19Jan2025 07:31:27.837] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 07:31:27.855] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 07:31:31.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 07:32:05.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 07:32:19.045] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:32:19.058] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:32:22.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 07:32:31.605] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:32:31.607] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:33:18.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has reached the goal [Bone Crusher]
-[19Jan2025 07:33:40.489] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:33:40.494] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:33:52.847] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:33:52.849] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:34:02.244] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:34:02.250] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:34:24.643] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:34:24.644] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:34:59.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Hidden in the Depths]
-[19Jan2025 07:35:28.246] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElJimmyy lost connection: Disconnected
-[19Jan2025 07:35:28.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy left the game
-[19Jan2025 07:49:06.687] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ElJimmyy is 304df7a8-4fc9-4015-82b1-0b9cd37e279a
-[19Jan2025 07:49:17.065] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElJimmyy[/127.87.97.243:51301] logged in with entity id 78096 at (1310.302360256493, 74.0, -2183.5441949166734)
-[19Jan2025 07:49:17.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy joined the game
-[19Jan2025 07:49:17.131] [Server thread/INFO] [Jade/]: Syncing config to ElJimmyy (304df7a8-4fc9-4015-82b1-0b9cd37e279a)
-[19Jan2025 07:49:57.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:50:17.949] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:50:17.952] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:50:22.751] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 07:50:22.754] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 07:50:52.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa was zapped with a raygun by ElJimmyy
-[19Jan2025 07:50:56.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 07:51:48.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:51:49.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Wither Or Not...]
-[19Jan2025 07:52:27.731] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:52:27.743] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:52:31.990] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 07:52:31.992] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 07:52:38.789] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:52:40.349] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:52:40.351] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:52:45.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by Wither Skeleton, they gave up
-[19Jan2025 07:52:50.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 07:53:17.093] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 07:53:17.096] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 07:53:55.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Who is Cutting Onions?]
-[19Jan2025 07:53:55.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Here I Waltz]
-[19Jan2025 07:54:29.290] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:54:29.294] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:54:34.636] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:54:36.045] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:54:36.047] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:54:39.443] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:54:39.445] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:54:40.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by ElJimmyy, they gave up
-[19Jan2025 07:54:40.942] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:54:43.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has reached the goal [Discreet Search]
-[19Jan2025 07:54:45.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 07:54:53.248] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:54:53.249] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:55:09.140] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:55:09.142] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:55:10.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by ElJimmyy, they gave up
-[19Jan2025 07:55:10.468] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:55:14.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 07:55:20.639] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 07:55:20.641] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 07:56:56.129] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 07:56:56.143] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
-[19Jan2025 07:56:58.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:57:04.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[19Jan2025 07:57:21.330] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:57:21.341] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:57:49.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 07:58:03.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Spooky Scary Skeleton]
-[19Jan2025 07:58:21.290] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:58:22.788] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:58:22.790] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:58:45.483] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:58:45.495] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:58:54.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 07:59:10.747] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
-[19Jan2025 07:59:10.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Killed zetreaa]
-[19Jan2025 07:59:10.749] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
-[19Jan2025 07:59:17.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa was killed
-[19Jan2025 07:59:22.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[19Jan2025 07:59:45.059] [Worker-Main-22/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [98, -153], pos: MutableBlockPos{x=1580, y=97, z=-2448}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:59:45.060] [Worker-Main-22/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [98, -153], pos: MutableBlockPos{x=1580, y=98, z=-2448}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:59:45.060] [Worker-Main-22/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [98, -153], pos: MutableBlockPos{x=1579, y=99, z=-2448}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:59:45.060] [Worker-Main-22/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [98, -153], pos: MutableBlockPos{x=1580, y=99, z=-2448}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:59:45.060] [Worker-Main-22/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [98, -153], pos: MutableBlockPos{x=1579, y=100, z=-2448}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:59:45.061] [Worker-Main-22/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [98, -153], pos: MutableBlockPos{x=1579, y=101, z=-2448}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[19Jan2025 07:59:55.486] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
-[19Jan2025 07:59:55.495] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[21Jan2025 04:40:01.873] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[21Jan2025 04:40:01.873] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[21Jan2025 04:40:01.874] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[9].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[21Jan2025 04:40:01.874] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[8].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[21Jan2025 04:40:01.874] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[21Jan2025 04:40:01.874] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[7].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[21Jan2025 04:40:01.874] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[21Jan2025 04:40:01.874] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[21Jan2025 04:40:02.083] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[21Jan2025 04:40:02.107] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[21Jan2025 04:40:02.123] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:vampire/blood_bottle as it's serializer returned null
+[21Jan2025 04:40:02.224] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[21Jan2025 04:40:02.250] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[21Jan2025 04:40:02.342] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[21Jan2025 04:40:02.390] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/guidebook as it's serializer returned null
+[21Jan2025 04:40:02.391] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[21Jan2025 04:40:02.393] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[21Jan2025 04:40:02.405] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[21Jan2025 04:40:02.413] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 62 recipes
+[21Jan2025 04:40:02.656] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 6116 advancements
+[21Jan2025 04:40:02.679] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[21Jan2025 04:40:02.692] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id bygonenether:soul_stone_from_block - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: bygonenether:replace_item
+[21Jan2025 04:40:02.692] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id bygonenether:soul_stone_in_catacombs - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: bygonenether:replace_item
+[21Jan2025 04:40:02.740] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 131 dynamic modifiers and 0 modifier redirects in 47.595703 ms
+[21Jan2025 04:40:02.746] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 39 modifier tags for 138 modifiers in 6.45915 ms
+[21Jan2025 04:40:02.747] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 50 enchantment to modifier mappings in 0.580462 ms
+[21Jan2025 04:40:02.749] [main/INFO] [tconstruct/]: Loaded 49 spilling fluids in 1.668621 ms
+[21Jan2025 04:40:02.758] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 19 curio slots
+[21Jan2025 04:40:02.766] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio entities
+[21Jan2025 04:40:02.767] [main/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 24 dynamic modifiers in 0.798098 ms
+[21Jan2025 04:40:02.768] [main/INFO] [de.teamlapen.vampirism.entity.player.skills.SkillTree/]: Loaded 53 skill nodes
+[21Jan2025 04:40:02.773] [main/INFO] [de.teamlapen.vampirism.entity.converted.VampirismEntityRegistry/]: Registered 14 convertibles
+[21Jan2025 04:40:02.781] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 49 materials in 4.44682 ms
+[21Jan2025 04:40:02.783] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 1 material tags for 19 materials in 1.883611 ms
+[21Jan2025 04:40:02.792] [main/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 347 stats loaded for 59 materials in 8.682445 ms
+[21Jan2025 04:40:02.803] [main/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 184 traits loaded for 59 materials in 10.615758 ms
+[21Jan2025 04:40:02.815] [main/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 37 tool definitions in 11.421581 ms
+[21Jan2025 04:40:02.819] [main/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 19 station slot layouts in 3.976893 ms
+[21Jan2025 04:40:02.848] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: farmers_structures:is_quark_glimer_spawn, quark:has_fallen_jungle
+[21Jan2025 04:40:08.145] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
+[21Jan2025 04:40:08.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[21Jan2025 04:40:08.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[21Jan2025 04:40:08.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[21Jan2025 04:40:08.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[21Jan2025 04:40:08.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[21Jan2025 04:40:08.724] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[21Jan2025 04:40:08.811] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[21Jan2025 04:40:08.812] [Thread-4/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[21Jan2025 04:40:08.813] [Thread-4/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[21Jan2025 04:40:09.125] [Server thread/INFO] [Framework/]: Loading server configs...
+[21Jan2025 04:40:09.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[21Jan2025 04:40:09.634] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:overworld] with concurrent set.
+[21Jan2025 04:40:13.935] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:neptune_orbit] with concurrent set.
+[21Jan2025 04:40:13.949] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:saturn_orbit] with concurrent set.
+[21Jan2025 04:40:13.952] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:uranus_orbit] with concurrent set.
+[21Jan2025 04:40:13.982] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:phobos] with concurrent set.
+[21Jan2025 04:40:13.985] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / ad_astra:earth_orbit] with concurrent set.
+[21Jan2025 04:40:13.988] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:amalthea_orbit] with concurrent set.
+[21Jan2025 04:40:13.991] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / ad_astra:mercury_orbit] with concurrent set.
+[21Jan2025 04:40:13.995] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:thebe_orbit] with concurrent set.
+[21Jan2025 04:40:14.002] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / aether:the_aether] with concurrent set.
+[21Jan2025 04:40:14.008] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / ad_astra:venus] with concurrent set.
+[21Jan2025 04:40:14.040] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:deimos] with concurrent set.
+[21Jan2025 04:40:14.049] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / twilightforest:twilight_forest] with concurrent set.
+[21Jan2025 04:40:14.052] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:adrastea_orbit] with concurrent set.
+[21Jan2025 04:40:14.057] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / ad_astra:moon] with concurrent set.
+[21Jan2025 04:40:14.060] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / ad_astra:glacio_orbit] with concurrent set.
+[21Jan2025 04:40:14.062] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / ad_astra:venus_orbit] with concurrent set.
+[21Jan2025 04:40:14.100] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:adrastea] with concurrent set.
+[21Jan2025 04:40:14.105] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / ad_astra:mercury] with concurrent set.
+[21Jan2025 04:40:14.108] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:deimos_orbit] with concurrent set.
+[21Jan2025 04:40:14.110] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:metis_orbit] with concurrent set.
+[21Jan2025 04:40:14.113] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:phobos_orbit] with concurrent set.
+[21Jan2025 04:40:14.124] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:the_end] with concurrent set.
+[21Jan2025 04:40:14.130] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / ad_astra:mars] with concurrent set.
+[21Jan2025 04:40:14.166] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:amalthea] with concurrent set.
+[21Jan2025 04:40:14.201] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:thebe] with concurrent set.
+[21Jan2025 04:40:14.237] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:neptune] with concurrent set.
+[21Jan2025 04:40:14.240] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / ad_astra:moon_orbit] with concurrent set.
+[21Jan2025 04:40:14.242] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / ad_astra:mars_orbit] with concurrent set.
+[21Jan2025 04:40:14.277] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:metis] with concurrent set.
+[21Jan2025 04:40:14.310] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:uranus] with concurrent set.
+[21Jan2025 04:40:14.315] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / ad_astra:glacio] with concurrent set.
+[21Jan2025 04:40:14.317] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:jupiter_orbit] with concurrent set.
+[21Jan2025 04:40:14.347] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:saturn] with concurrent set.
+[21Jan2025 04:40:14.368] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / adastraextra:jupiter] with concurrent set.
+[21Jan2025 04:40:14.372] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:the_nether] with concurrent set.
+[21Jan2025 04:40:14.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[21Jan2025 04:40:18.208] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 04:40:18.214] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 04:40:18.232] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 04:40:18.247] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 04:40:18.269] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 04:40:18.296] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 04:40:18.336] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 04:40:18.363] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 04:40:18.382] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 04:40:18.877] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 8%
+[21Jan2025 04:40:19.376] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 39%
+[21Jan2025 04:40:19.763] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5387 ms
+[21Jan2025 04:40:19.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.956s)! For help, type "help"
+[21Jan2025 04:40:19.861] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[21Jan2025 04:40:19.925] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
+[21Jan2025 04:40:19.935] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[21Jan2025 04:40:19.935] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[21Jan2025 04:40:19.936] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
+[21Jan2025 04:40:19.984] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
+[21Jan2025 04:40:19.984] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
+[21Jan2025 04:40:19.985] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
+[21Jan2025 04:40:19.985] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
+[21Jan2025 04:40:20.059] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[21Jan2025 04:40:25.301] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ElJimmyy is 304df7a8-4fc9-4015-82b1-0b9cd37e279a
+[21Jan2025 04:40:37.719] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[21Jan2025 04:40:37.900] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElJimmyy[/127.87.97.243:36609] logged in with entity id 1165 at (1449.2894021161837, 79.0, -2235.9484592291296)
+[21Jan2025 04:40:38.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy joined the game
+[21Jan2025 04:40:38.200] [Server thread/INFO] [Jade/]: Syncing config to ElJimmyy (304df7a8-4fc9-4015-82b1-0b9cd37e279a)
+[21Jan2025 04:40:40.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2691ms or 53 ticks behind
+[21Jan2025 04:40:40.637] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[21Jan2025 04:41:24.588] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[21Jan2025 04:41:24.612] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[21Jan2025 04:41:26.732] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1d838a38[id=<null>,name=zetreaa,properties={},legacy=false] (/127.231.240.35:53965) lost connection: Disconnected
+[21Jan2025 04:41:35.971] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
+[21Jan2025 04:41:48.118] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zetreaa[/127.231.240.35:38897] logged in with entity id 1507 at (1448.2168678048588, 78.0, -2238.705310897241)
+[21Jan2025 04:41:48.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa joined the game
+[21Jan2025 04:41:48.376] [Server thread/INFO] [Jade/]: Syncing config to zetreaa (811bc03d-0045-4319-9d80-c5aa17d161ba)
+[21Jan2025 04:42:24.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Wither Skeleton
+[21Jan2025 04:42:46.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[21Jan2025 04:43:01.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[21Jan2025 04:43:14.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zetreaa moved wrongly!
+[21Jan2025 04:43:56.981] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[21Jan2025 04:43:56.984] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[21Jan2025 04:43:59.088] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[21Jan2025 04:43:59.091] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[21Jan2025 04:45:05.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[21Jan2025 04:45:07.196] [Worker-Main-5/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [98, -153], pos: MutableBlockPos{x=1580, y=97, z=-2448}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[21Jan2025 04:45:07.196] [Worker-Main-5/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [98, -153], pos: MutableBlockPos{x=1580, y=98, z=-2448}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[21Jan2025 04:45:07.197] [Worker-Main-5/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [98, -153], pos: MutableBlockPos{x=1579, y=99, z=-2448}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[21Jan2025 04:45:07.197] [Worker-Main-5/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [98, -153], pos: MutableBlockPos{x=1580, y=99, z=-2448}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[21Jan2025 04:45:07.197] [Worker-Main-5/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [98, -153], pos: MutableBlockPos{x=1579, y=100, z=-2448}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[21Jan2025 04:45:07.197] [Worker-Main-5/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [98, -153], pos: MutableBlockPos{x=1579, y=101, z=-2448}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[21Jan2025 04:45:46.101] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[21Jan2025 04:45:46.105] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[21Jan2025 04:45:48.046] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[21Jan2025 04:45:48.048] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[21Jan2025 04:45:59.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by ElJimmyy, they gave up
+[21Jan2025 04:46:10.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[21Jan2025 04:46:19.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[21Jan2025 04:46:57.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy has made the advancement [Knowledge raises the soul]
+[21Jan2025 04:47:00.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[21Jan2025 04:47:40.956] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AnbertitoKawaixX is cea751d3-716b-4187-abd7-4797901c8b93
+[21Jan2025 04:47:53.031] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnbertitoKawaixX[/127.56.136.242:39265] logged in with entity id 3954 at (-130.49827887819836, 89.0, -2970.300000011921)
+[21Jan2025 04:47:53.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnbertitoKawaixX joined the game
+[21Jan2025 04:47:53.085] [Server thread/INFO] [Jade/]: Syncing config to AnbertitoKawaixX (cea751d3-716b-4187-abd7-4797901c8b93)
+[21Jan2025 04:47:56.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[21Jan2025 04:48:31.886] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[21Jan2025 04:48:31.894] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[21Jan2025 04:48:33.187] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[21Jan2025 04:48:33.189] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[21Jan2025 04:48:40.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by Mimic, they gave up
+[21Jan2025 04:48:43.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
+[21Jan2025 04:48:45.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[21Jan2025 04:48:51.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
