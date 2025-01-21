@@ -6761,3 +6761,172 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [21Jan2025 04:48:43.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
 [21Jan2025 04:48:45.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
 [21Jan2025 04:48:51.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[21Jan2025 04:49:20.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to ElJimmyy]
+[21Jan2025 04:49:30.371] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=27, z=89}
+[21Jan2025 04:49:30.373] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=27, z=88}
+[21Jan2025 04:49:30.373] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=13, y=27, z=89}
+[21Jan2025 04:49:30.373] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=13, y=27, z=88}
+[21Jan2025 04:49:30.374] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=28, z=88}
+[21Jan2025 04:49:30.374] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=13, y=28, z=88}
+[21Jan2025 04:49:30.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnbertitoKawaixX has completed the challenge [Hot Tourist Destinations]
+[21Jan2025 04:49:38.581] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=27, z=91}
+[21Jan2025 04:49:38.581] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=27, z=91}
+[21Jan2025 04:49:38.582] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=23, z=93}
+[21Jan2025 04:49:38.582] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-15, y=27, z=89}
+[21Jan2025 04:49:38.582] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=23, z=90}
+[21Jan2025 04:49:38.583] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=23, z=92}
+[21Jan2025 04:49:40.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[21Jan2025 04:49:47.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to ElJimmyy]
+[21Jan2025 04:49:48.177] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[21Jan2025 04:49:48.190] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[21Jan2025 04:49:49.678] [Server thread/WARN] [tombstone/]: The death event of the player AnbertitoKawaixX was canceled by another mod
+[21Jan2025 04:49:49.680] [Server thread/INFO] [tombstone/]: The player AnbertitoKawaixX has successfully been saved
+[21Jan2025 04:50:12.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElJimmyy> pq no hablas
+[21Jan2025 04:50:14.176] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[21Jan2025 04:50:14.179] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[21Jan2025 04:50:15.553] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[21Jan2025 04:50:15.555] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[21Jan2025 04:50:19.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Incomplete Wither
+[21Jan2025 04:50:19.384] [Server thread/DEBUG] [tombstone/]: A new grave of the player ElJimmyy was created at position [x:1295, y:34, z:-2660, dim:minecraft:the_nether]
+[21Jan2025 04:50:21.158] [Server thread/DEBUG] [twilightforest/]: Player ElJimmyy (304df7a8-4fc9-4015-82b1-0b9cd37e279a) respawned and received items held in storage
+[21Jan2025 04:50:22.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElJimmyy> pq no hablas
+[21Jan2025 04:50:22.825] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 04:50:22.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 04:50:23.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[21Jan2025 04:50:38.230] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[21Jan2025 04:50:38.233] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[21Jan2025 04:50:41.441] [Server thread/WARN] [tombstone/]: The death event of the player AnbertitoKawaixX was canceled by another mod
+[21Jan2025 04:50:41.443] [Server thread/INFO] [tombstone/]: The player AnbertitoKawaixX has successfully been saved
+[21Jan2025 04:51:01.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AnbertitoKawaixX> TENGO 30 NIVELES
+[21Jan2025 04:51:01.934] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity alexsmobs:warped_toad
+[21Jan2025 04:51:01.934] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity alexsmobs:warped_toad
+[21Jan2025 04:51:01.934] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity alexsmobs:warped_toad
+[21Jan2025 04:51:01.934] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity alexsmobs:warped_toad
+[21Jan2025 04:51:01.935] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity alexsmobs:warped_toad
+[21Jan2025 04:51:01.935] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity alexsmobs:warped_toad
+[21Jan2025 04:51:02.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AnbertitoKawaixX> GELP ME
+[21Jan2025 04:51:06.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zetreaa> nimodo
+[21Jan2025 04:51:09.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AnbertitoKawaixX> JIMMY
+[21Jan2025 04:51:09.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zetreaa> cuando toca toca
+[21Jan2025 04:51:12.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AnbertitoKawaixX> SALVVAME
+[21Jan2025 04:51:15.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by Reinforced Blaze, they gave up
+[21Jan2025 04:51:15.540] [Server thread/DEBUG] [tombstone/]: A new grave of the player zetreaa was created at position [x:1330, y:34, z:-2658, dim:minecraft:the_nether]
+[21Jan2025 04:51:15.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Incomplete Wither
+[21Jan2025 04:51:15.785] [Server thread/DEBUG] [tombstone/]: A new grave of the player ElJimmyy was created at position [x:1311, y:34, z:-2659, dim:minecraft:the_nether]
+[21Jan2025 04:51:17.302] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: zetreaa has new faction level vampirism:vampire 5
+[21Jan2025 04:51:17.311] [Server thread/DEBUG] [twilightforest/]: Player zetreaa (811bc03d-0045-4319-9d80-c5aa17d161ba) respawned and received items held in storage
+[21Jan2025 04:51:17.825] [Server thread/DEBUG] [twilightforest/]: Player ElJimmyy (304df7a8-4fc9-4015-82b1-0b9cd37e279a) respawned and received items held in storage
+[21Jan2025 04:51:19.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[21Jan2025 04:51:19.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zetreaa> cuando toca toca
+[21Jan2025 04:51:28.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to AnbertitoKawaixX]
+[21Jan2025 04:51:28.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AnbertitoKawaixX> HELP
+[21Jan2025 04:51:28.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[21Jan2025 04:51:34.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AnbertitoKawaixX> HELP
+[21Jan2025 04:51:36.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AnbertitoKawaixX> MANOP
+[21Jan2025 04:51:37.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AnbertitoKawaixX> MANO
+[21Jan2025 04:51:39.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AnbertitoKawaixX> MANO
+[21Jan2025 04:51:41.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AnbertitoKawaixX> PIROVOS
+[21Jan2025 04:51:42.075] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[21Jan2025 04:51:42.081] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[21Jan2025 04:51:42.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AnbertitoKawaixX> HP
+[21Jan2025 04:51:42.858] [Server thread/WARN] [tombstone/]: The death event of the player AnbertitoKawaixX was canceled by another mod
+[21Jan2025 04:51:42.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After AnbertitoKawaixX was slain by Incomplete Wither, they gave up
+[21Jan2025 04:51:42.891] [Server thread/DEBUG] [tombstone/]: A new grave of the player AnbertitoKawaixX was created at position [x:1312, y:34, z:-2659, dim:minecraft:the_nether]
+[21Jan2025 04:51:42.894] [Server thread/INFO] [tombstone/]: The player AnbertitoKawaixX has successfully been saved
+[21Jan2025 04:51:44.842] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: AnbertitoKawaixX has new faction level vampirism:vampire 5
+[21Jan2025 04:51:44.852] [Server thread/DEBUG] [twilightforest/]: Player AnbertitoKawaixX (cea751d3-716b-4187-abd7-4797901c8b93) respawned and received items held in storage
+[21Jan2025 04:51:45.384] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.3 and blood value 9 for entity alexsmobs:tarantula_hawk
+[21Jan2025 04:51:46.748] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.51 and blood value 3 for entity iceandfire:deathworm
+[21Jan2025 04:51:49.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy froze to death
+[21Jan2025 04:51:49.044] [Server thread/DEBUG] [tombstone/]: A new grave of the player ElJimmyy was created at position [x:1313, y:34, z:-2660, dim:minecraft:the_nether]
+[21Jan2025 04:51:49.054] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[21Jan2025 04:51:50.485] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.24 and blood value 0 for entity alexsmobs:bald_eagle
+[21Jan2025 04:51:51.975] [Server thread/DEBUG] [twilightforest/]: Player ElJimmyy (304df7a8-4fc9-4015-82b1-0b9cd37e279a) respawned and received items held in storage
+[21Jan2025 04:51:53.258] [Worker-Main-5/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[21Jan2025 04:51:53.259] [Worker-Main-5/DEBUG] [mixin/]: Mixing MixinJigsawPlacer from vampirism.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[21Jan2025 04:51:55.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to AnbertitoKawaixX]
+[21Jan2025 04:52:06.179] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[21Jan2025 04:52:06.190] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[21Jan2025 04:52:08.185] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[21Jan2025 04:52:08.187] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[21Jan2025 04:52:14.229] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[21Jan2025 04:52:14.232] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[21Jan2025 04:52:14.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After zetreaa was slain by Reinforced Blaze, they gave up
+[21Jan2025 04:52:14.679] [Server thread/DEBUG] [tombstone/]: A new grave of the player zetreaa was created at position [x:1331, y:34, z:-2659, dim:minecraft:the_nether]
+[21Jan2025 04:52:16.332] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: zetreaa has new faction level vampirism:vampire 5
+[21Jan2025 04:52:16.341] [Server thread/DEBUG] [twilightforest/]: Player zetreaa (811bc03d-0045-4319-9d80-c5aa17d161ba) respawned and received items held in storage
+[21Jan2025 04:52:19.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[21Jan2025 04:52:24.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Incomplete Wither
+[21Jan2025 04:52:24.631] [Server thread/DEBUG] [tombstone/]: A new grave of the player ElJimmyy was created at position [x:1341, y:34, z:-2660, dim:minecraft:the_nether]
+[21Jan2025 04:52:26.464] [Server thread/DEBUG] [twilightforest/]: Player ElJimmyy (304df7a8-4fc9-4015-82b1-0b9cd37e279a) respawned and received items held in storage
+[21Jan2025 04:52:28.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to AnbertitoKawaixX]
+[21Jan2025 04:52:30.874] [Server thread/WARN] [tombstone/]: The death event of the player AnbertitoKawaixX was canceled by another mod
+[21Jan2025 04:52:30.890] [Server thread/INFO] [tombstone/]: The player AnbertitoKawaixX has successfully been saved
+[21Jan2025 04:52:32.341] [Server thread/WARN] [tombstone/]: The death event of the player AnbertitoKawaixX was canceled by another mod
+[21Jan2025 04:52:32.343] [Server thread/INFO] [tombstone/]: The player AnbertitoKawaixX has successfully been saved
+[21Jan2025 04:52:40.325] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[21Jan2025 04:52:40.331] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[21Jan2025 04:52:43.130] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[21Jan2025 04:52:43.132] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[21Jan2025 04:53:04.478] [Server thread/WARN] [tombstone/]: The death event of the player ElJimmyy was canceled by another mod
+[21Jan2025 04:53:04.480] [Server thread/INFO] [tombstone/]: The player ElJimmyy has successfully been saved
+[21Jan2025 04:53:05.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After AnbertitoKawaixX was slain by Incomplete Wither, they gave up
+[21Jan2025 04:53:05.125] [Server thread/DEBUG] [tombstone/]: A new grave of the player AnbertitoKawaixX was created at position [x:1332, y:33, z:-2654, dim:minecraft:the_nether]
+[21Jan2025 04:53:06.778] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: AnbertitoKawaixX has new faction level vampirism:vampire 5
+[21Jan2025 04:53:06.786] [Server thread/DEBUG] [twilightforest/]: Player AnbertitoKawaixX (cea751d3-716b-4187-abd7-4797901c8b93) respawned and received items held in storage
+[21Jan2025 04:53:08.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[21Jan2025 04:53:18.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Incomplete Wither
+[21Jan2025 04:53:18.908] [Server thread/DEBUG] [tombstone/]: A new grave of the player ElJimmyy was created at position [x:1317, y:36, z:-2645, dim:minecraft:the_nether]
+[21Jan2025 04:53:20.678] [Server thread/DEBUG] [twilightforest/]: Player ElJimmyy (304df7a8-4fc9-4015-82b1-0b9cd37e279a) respawned and received items held in storage
+[21Jan2025 04:53:22.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[21Jan2025 04:53:47.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[21Jan2025 04:54:00.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[21Jan2025 04:54:45.795] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[21Jan2025 04:54:45.802] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[21Jan2025 04:54:47.293] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[21Jan2025 04:54:47.295] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[21Jan2025 04:54:50.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[21Jan2025 04:54:59.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AnbertitoKawaixX> cuando toca
+[21Jan2025 04:55:00.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AnbertitoKawaixX> oca
+[21Jan2025 04:55:02.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[21Jan2025 04:55:19.904] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[21Jan2025 04:55:19.906] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[21Jan2025 04:55:21.924] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[21Jan2025 04:55:21.926] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[21Jan2025 04:55:22.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 04:55:22.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 04:55:36.837] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[21Jan2025 04:55:36.841] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[21Jan2025 04:55:42.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[21Jan2025 04:55:47.650] [Server thread/WARN] [tombstone/]: The death event of the player AnbertitoKawaixX was canceled by another mod
+[21Jan2025 04:55:47.669] [Server thread/INFO] [tombstone/]: The player AnbertitoKawaixX has successfully been saved
+[21Jan2025 04:55:49.389] [Server thread/WARN] [tombstone/]: The death event of the player AnbertitoKawaixX was canceled by another mod
+[21Jan2025 04:55:49.390] [Server thread/INFO] [tombstone/]: The player AnbertitoKawaixX has successfully been saved
+[21Jan2025 04:55:50.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa suffocated in a wall whilst fighting ElJimmyy
+[21Jan2025 04:55:50.682] [Server thread/DEBUG] [tombstone/]: A new grave of the player zetreaa was created at position [x:1329, y:45, z:-2636, dim:minecraft:the_nether]
+[21Jan2025 04:55:51.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AnbertitoKawaixX> JIMMY
+[21Jan2025 04:55:52.516] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: zetreaa has new faction level vampirism:vampire 5
+[21Jan2025 04:55:52.524] [Server thread/DEBUG] [twilightforest/]: Player zetreaa (811bc03d-0045-4319-9d80-c5aa17d161ba) respawned and received items held in storage
+[21Jan2025 04:55:53.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AnbertitoKawaixX> AYUDAME
+[21Jan2025 04:55:54.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AnbertitoKawaixX> BRO
+[21Jan2025 04:55:55.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[21Jan2025 04:55:56.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[21Jan2025 04:56:01.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[21Jan2025 04:56:02.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to ElJimmyy]
+[21Jan2025 04:56:33.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zetreaa moved wrongly!
+[21Jan2025 04:56:35.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[21Jan2025 04:56:45.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[21Jan2025 04:56:52.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[21Jan2025 04:57:11.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[21Jan2025 04:58:06.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[21Jan2025 04:58:43.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[21Jan2025 04:58:52.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[21Jan2025 04:59:03.257] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[21Jan2025 04:59:03.259] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[21Jan2025 04:59:05.139] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[21Jan2025 04:59:05.141] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[21Jan2025 04:59:06.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[21Jan2025 04:59:16.353] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[21Jan2025 04:59:16.354] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
+[21Jan2025 04:59:17.939] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[21Jan2025 04:59:17.941] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved

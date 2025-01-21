@@ -7660,5 +7660,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-21 04:46:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
