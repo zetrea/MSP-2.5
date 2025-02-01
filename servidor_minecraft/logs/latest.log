@@ -520,3 +520,25 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [01Feb2025 09:07:12.409] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
 [01Feb2025 09:07:12.409] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
 [01Feb2025 09:07:12.409] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[01Feb2025 09:10:57.784] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[01Feb2025 09:10:57.786] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[01Feb2025 09:10:57.786] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[01Feb2025 09:10:57.787] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[01Feb2025 09:10:57.787] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[01Feb2025 09:10:57.787] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[01Feb2025 09:10:57.787] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[01Feb2025 09:10:57.788] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[01Feb2025 09:10:57.788] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[01Feb2025 09:12:47.508] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=171, y=-25, z=234}
+[01Feb2025 09:12:47.509] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=171, y=-24, z=239}
+[01Feb2025 09:12:49.847] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=76, y=-24, z=219}
+[01Feb2025 09:12:49.848] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=76, y=-24, z=218}
+[01Feb2025 09:12:49.856] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=157, y=-25, z=237}
+[01Feb2025 09:12:49.856] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=157, y=-25, z=238}
+[01Feb2025 09:12:49.857] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=162, y=-25, z=234}
+[01Feb2025 09:12:49.857] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=162, y=-25, z=233}
+[01Feb2025 09:12:49.857] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=163, y=-25, z=232}
+[01Feb2025 09:12:49.858] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=164, y=-25, z=232}
+[01Feb2025 09:12:49.858] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=165, y=-25, z=232}
+[01Feb2025 09:19:36.247] [Server thread/WARN] [tombstone/]: The death event of the player zetreaa was canceled by another mod
+[01Feb2025 09:19:36.264] [Server thread/INFO] [tombstone/]: The player zetreaa has successfully been saved
