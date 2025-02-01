@@ -3286,7 +3286,8 @@
       "scorched_stone": "2025-01-21 04:52:23 +0000",
       "copper": "2025-01-17 08:53:44 +0000",
       "rose_gold": "2025-01-17 08:53:44 +0000",
-      "slimesteel": "2025-01-19 07:34:59 +0000"
+      "slimesteel": "2025-01-19 07:34:59 +0000",
+      "hepatizon": "2025-02-01 08:56:04 +0000"
     },
     "done": false
   },
@@ -6667,6 +6668,30 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-21 06:46:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-02-01 08:45:56 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_striker_enhanced_repair": {
+    "criteria": {
+      "has_heart_striker": "2025-02-01 09:02:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-02-01 08:45:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-02-01 08:45:56 +0000"
     },
     "done": true
   },

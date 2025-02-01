@@ -6091,3 +6091,77 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [01Feb2025 08:45:40.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Feb2025 08:45:40.965] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@344b16da for service interface com.blamejared.clumps.platform.IEventHelper
 [01Feb2025 08:45:40.967] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@273fa07e for service interface com.blamejared.clumps.platform.IPlatformHelper
+[01Feb2025 08:49:39.048] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.13 and blood value 0 for entity iceandfire:sea_serpent
+[01Feb2025 08:50:40.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 08:50:40.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 08:51:49.806] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.47 and blood value 3 for entity alexsmobs:skunk
+[01Feb2025 08:52:51.065] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.61 and blood value 0 for entity alexsmobs:grizzly_bear
+[01Feb2025 08:52:57.615] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=110, y=-24, z=245}
+[01Feb2025 08:52:57.616] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=110, y=-24, z=244}
+[01Feb2025 08:52:57.617] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=111, y=-24, z=244}
+[01Feb2025 08:52:57.619] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=114, y=-25, z=248}
+[01Feb2025 08:52:57.620] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=113, y=-23, z=244}
+[01Feb2025 08:52:57.621] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=112, y=-24, z=244}
+[01Feb2025 08:53:05.479] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[01Feb2025 08:53:05.826] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[01Feb2025 08:53:05.827] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[01Feb2025 08:53:07.650] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[01Feb2025 08:53:07.651] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[01Feb2025 08:53:07.687] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[01Feb2025 08:53:07.688] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[01Feb2025 08:53:07.688] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[01Feb2025 08:53:07.688] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[01Feb2025 08:53:07.689] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[01Feb2025 08:53:07.703] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[01Feb2025 08:53:07.704] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[01Feb2025 08:53:07.704] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[01Feb2025 08:53:31.737] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.17 and blood value 0 for entity alexsmobs:flutter
+[01Feb2025 08:53:48.149] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[01Feb2025 08:53:49.886] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[01Feb2025 08:53:54.522] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-9093, y=-2, z=4366}
+[01Feb2025 08:53:54.671] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-9128, y=-7, z=4390}
+[01Feb2025 08:54:58.345] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.04 and blood value 0 for entity alexsmobs:fly
+[01Feb2025 08:55:09.730] [Worker-Main-3/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[01Feb2025 08:55:09.731] [Worker-Main-3/DEBUG] [mixin/]: Mixing MixinJigsawPlacer from vampirism.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[01Feb2025 08:55:19.110] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.25 and blood value 0 for entity alexsmobs:terrapin
+[01Feb2025 08:55:40.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 08:55:40.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 08:55:45.598] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.26 and blood value 0 for entity alexsmobs:banana_slug
+[01Feb2025 08:56:56.513] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[01Feb2025 08:56:56.513] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to md26d211$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[01Feb2025 08:59:06.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zetreaa moved wrongly!
+[01Feb2025 08:59:10.633] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[01Feb2025 08:59:10.634] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[01Feb2025 08:59:10.634] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[01Feb2025 08:59:10.635] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[01Feb2025 08:59:11.337] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[01Feb2025 09:00:40.673] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 09:00:40.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 09:01:26.757] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[01Feb2025 09:01:26.757] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/swamp
+[01Feb2025 09:01:26.758] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[01Feb2025 09:01:36.687] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[01Feb2025 09:04:06.649] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.52 and blood value 15 for entity alexsmobs:tiger
+[01Feb2025 09:04:06.649] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.52 and blood value 15 for entity alexsmobs:tiger
+[01Feb2025 09:04:10.146] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.52 and blood value 15 for entity alexsmobs:tiger
+[01Feb2025 09:04:16.644] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 12.1 and blood value 15 for entity alexsmobs:bison
+[01Feb2025 09:04:16.645] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 12.1 and blood value 15 for entity alexsmobs:bison
+[01Feb2025 09:04:16.645] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 12.1 and blood value 15 for entity alexsmobs:bison
+[01Feb2025 09:04:16.645] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 12.1 and blood value 15 for entity alexsmobs:bison
+[01Feb2025 09:04:16.645] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 12.1 and blood value 15 for entity alexsmobs:bison
+[01Feb2025 09:04:16.646] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 12.1 and blood value 15 for entity alexsmobs:bison
+[01Feb2025 09:04:20.403] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.96 and blood value 6 for entity alexsmobs:shoebill
+[01Feb2025 09:04:27.877] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:hummingbird
+[01Feb2025 09:04:28.120] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.47 and blood value 15 for entity alexsmobs:crocodile
+[01Feb2025 09:05:40.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 09:05:40.688] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 09:07:01.057] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[01Feb2025 09:07:02.135] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[01Feb2025 09:07:02.136] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[01Feb2025 09:07:02.149] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[01Feb2025 09:07:02.150] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[01Feb2025 09:07:02.150] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[01Feb2025 09:07:02.150] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[01Feb2025 09:07:12.409] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[01Feb2025 09:07:12.409] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[01Feb2025 09:07:12.409] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem

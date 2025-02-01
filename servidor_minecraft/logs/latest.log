@@ -480,3 +480,43 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [01Feb2025 08:41:36.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3503ms or 70 ticks behind
 [01Feb2025 08:45:18.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zetreaa moved too quickly! 9.697021241780021,0.0,3.1482069839894393
 [01Feb2025 08:45:18.805] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[01Feb2025 08:52:57.615] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=110, y=-24, z=245}
+[01Feb2025 08:52:57.616] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=110, y=-24, z=244}
+[01Feb2025 08:52:57.617] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=111, y=-24, z=244}
+[01Feb2025 08:52:57.619] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=114, y=-25, z=248}
+[01Feb2025 08:52:57.620] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=113, y=-23, z=244}
+[01Feb2025 08:52:57.621] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=112, y=-24, z=244}
+[01Feb2025 08:53:05.479] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[01Feb2025 08:53:05.826] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[01Feb2025 08:53:05.827] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[01Feb2025 08:53:07.650] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[01Feb2025 08:53:07.651] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[01Feb2025 08:53:07.687] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[01Feb2025 08:53:07.688] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[01Feb2025 08:53:07.688] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[01Feb2025 08:53:07.688] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[01Feb2025 08:53:07.689] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[01Feb2025 08:53:07.703] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[01Feb2025 08:53:07.704] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[01Feb2025 08:53:07.704] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[01Feb2025 08:53:54.522] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-9093, y=-2, z=4366}
+[01Feb2025 08:53:54.671] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-9128, y=-7, z=4390}
+[01Feb2025 08:59:06.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zetreaa moved wrongly!
+[01Feb2025 08:59:10.633] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[01Feb2025 08:59:10.634] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[01Feb2025 08:59:10.634] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[01Feb2025 08:59:10.635] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[01Feb2025 08:59:11.337] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[01Feb2025 09:01:26.757] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[01Feb2025 09:01:26.757] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/swamp
+[01Feb2025 09:01:26.758] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[01Feb2025 09:07:01.057] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[01Feb2025 09:07:02.135] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[01Feb2025 09:07:02.136] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[01Feb2025 09:07:02.149] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[01Feb2025 09:07:02.150] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[01Feb2025 09:07:02.150] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[01Feb2025 09:07:02.150] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[01Feb2025 09:07:12.409] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[01Feb2025 09:07:12.409] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[01Feb2025 09:07:12.409] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
