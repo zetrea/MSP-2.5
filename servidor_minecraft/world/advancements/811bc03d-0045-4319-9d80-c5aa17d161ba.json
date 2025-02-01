@@ -3019,24 +3019,12 @@
     },
     "done": true
   },
-  "vampirism:vampire/freeze_kill": {
-    "criteria": {
-      "main": "2025-01-17 08:07:46 +0000"
-    },
-    "done": false
-  },
   "vampirism:vampire/first_blood": {
     "criteria": {
       "main": "2025-01-17 08:07:46 +0000",
       "flower": "2025-01-17 08:11:17 +0000"
     },
     "done": true
-  },
-  "vampirism:vampire/kill_mother": {
-    "criteria": {
-      "main": "2025-01-17 08:07:46 +0000"
-    },
-    "done": false
   },
   "vampirism:vampire/resurrect": {
     "criteria": {
@@ -3051,24 +3039,6 @@
       "main": "2025-01-17 08:07:46 +0000"
     },
     "done": true
-  },
-  "vampirism:vampire/extra_storage": {
-    "criteria": {
-      "main": "2025-01-17 08:07:46 +0000"
-    },
-    "done": false
-  },
-  "vampirism:vampire/yuck": {
-    "criteria": {
-      "main": "2025-01-17 08:07:46 +0000"
-    },
-    "done": false
-  },
-  "vampirism:vampire/sniped": {
-    "criteria": {
-      "main": "2025-01-17 08:07:46 +0000"
-    },
-    "done": false
   },
   "vampirism:vampire/become_vampire": {
     "criteria": {
@@ -3159,12 +3129,6 @@
       "has_blue_orchid": "2025-01-17 08:20:14 +0000"
     },
     "done": true
-  },
-  "vampirism:hunter/betrayal": {
-    "criteria": {
-      "kill": "2025-01-17 08:21:46 +0000"
-    },
-    "done": false
   },
   "vampirism:recipes/combat/vampire/vampire_clothing_crown": {
     "criteria": {
@@ -6671,9 +6635,57 @@
     },
     "done": true
   },
+  "immersiveores:recipes/tools/vibranium_axe": {
+    "criteria": {
+      "has_vibranium_ingot": "2025-02-01 09:17:56 +0000"
+    },
+    "done": true
+  },
+  "immersiveores:recipes/combat/vibranium_boots": {
+    "criteria": {
+      "has_vibranium_ingot": "2025-02-01 09:17:56 +0000"
+    },
+    "done": true
+  },
+  "immersiveores:recipes/building_blocks/vibranium_block": {
+    "criteria": {
+      "has_vibranium_ingot": "2025-02-01 09:17:56 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
     "criteria": {
       "has_item": "2025-02-01 08:45:56 +0000"
+    },
+    "done": true
+  },
+  "immersiveores:recipes/tools/vibranium_hoe": {
+    "criteria": {
+      "has_vibranium_ingot": "2025-02-01 09:17:56 +0000"
+    },
+    "done": true
+  },
+  "immersiveores:recipes/combat/vibranium_horse_armor": {
+    "criteria": {
+      "has_vibranium_ingot": "2025-02-01 09:17:56 +0000"
+    },
+    "done": true
+  },
+  "immersiveores:recipes/combat/vibranium_chestplate": {
+    "criteria": {
+      "has_vibranium_ingot": "2025-02-01 09:17:56 +0000"
+    },
+    "done": true
+  },
+  "immersiveores:recipes/tools/vibranium_hammer": {
+    "criteria": {
+      "has_vibranium_ingot": "2025-02-01 09:17:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-02-01 09:16:04 +0000"
     },
     "done": true
   },
@@ -6683,15 +6695,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-01 09:23:06 +0000"
+    },
+    "done": true
+  },
+  "immersiveores:recipes/tools/vibranium_excavator": {
+    "criteria": {
+      "has_vibranium_ingot": "2025-02-01 09:17:56 +0000"
+    },
+    "done": true
+  },
+  "immersiveores:recipes/combat/vibranium_leggings": {
+    "criteria": {
+      "has_vibranium_ingot": "2025-02-01 09:17:56 +0000"
+    },
+    "done": true
+  },
+  "immersiveores:recipes/combat/vibranium_sword": {
+    "criteria": {
+      "has_vibranium_ingot": "2025-02-01 09:17:56 +0000"
+    },
+    "done": true
+  },
+  "immersiveores:recipes/tools/vibranium_shovel": {
+    "criteria": {
+      "has_vibranium_ingot": "2025-02-01 09:17:56 +0000"
+    },
+    "done": true
+  },
+  "immersiveores:recipes/misc/vibranium_stick": {
+    "criteria": {
+      "has_vibranium_ingot": "2025-02-01 09:17:56 +0000"
+    },
+    "done": true
+  },
+  "immersiveores:recipes/tools/vibranium_pickaxe": {
+    "criteria": {
+      "has_vibranium_ingot": "2025-02-01 09:17:56 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/frost_troll_leather_helmet": {
     "criteria": {
       "has_item": "2025-02-01 08:45:56 +0000"
     },
     "done": true
   },
+  "immersiveores:recipes/combat/vibranium_helmet": {
+    "criteria": {
+      "has_vibranium_ingot": "2025-02-01 09:17:56 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/forest_troll_leather_helmet": {
     "criteria": {
       "has_item": "2025-02-01 08:45:56 +0000"
+    },
+    "done": true
+  },
+  "immersiveores:recipes/misc/vibranium_nugget": {
+    "criteria": {
+      "has_vibranium_ingot": "2025-02-01 09:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-01 09:23:06 +0000"
+    },
+    "done": true
+  },
+  "immersiveores:recipes/tools/vibranium_paxel": {
+    "criteria": {
+      "has_vibranium_stick": "2025-02-01 09:18:30 +0000"
+    },
+    "done": true
+  },
+  "immersiveores:recipes/combat/vibranium_bow": {
+    "criteria": {
+      "has_vibranium_ingot": "2025-02-01 09:17:56 +0000"
     },
     "done": true
   },
