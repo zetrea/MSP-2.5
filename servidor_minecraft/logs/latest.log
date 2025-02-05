@@ -590,3 +590,86 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [05Feb2025 05:52:57.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AnbertitoKawaixX> te amo
 [05Feb2025 05:52:59.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnbertitoKawaixX lost connection: Disconnected
 [05Feb2025 05:52:59.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnbertitoKawaixX left the game
+[05Feb2025 05:55:08.544] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zetreaa lost connection: Disconnected
+[05Feb2025 05:55:08.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa left the game
+[05Feb2025 05:55:40.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05Feb2025 05:55:40.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Feb2025 05:55:40.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Feb2025 05:55:40.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Feb2025 05:55:41.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Feb2025 05:55:43.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[05Feb2025 05:55:43.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:phobos_orbit
+[05Feb2025 05:55:43.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:amalthea_orbit
+[05Feb2025 05:55:43.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[05Feb2025 05:55:43.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:jupiter_orbit
+[05Feb2025 05:55:43.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Feb2025 05:55:43.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:saturn
+[05Feb2025 05:55:43.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:adrastea
+[05Feb2025 05:55:43.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[05Feb2025 05:55:43.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[05Feb2025 05:55:43.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[05Feb2025 05:55:43.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:phobos
+[05Feb2025 05:55:43.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:thebe
+[05Feb2025 05:55:43.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[05Feb2025 05:55:43.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:thebe_orbit
+[05Feb2025 05:55:43.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:metis_orbit
+[05Feb2025 05:55:43.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:amalthea
+[05Feb2025 05:55:43.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:uranus_orbit
+[05Feb2025 05:55:43.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[05Feb2025 05:55:43.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:adrastea_orbit
+[05Feb2025 05:55:43.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[05Feb2025 05:55:43.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Feb2025 05:55:43.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:metis
+[05Feb2025 05:55:43.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[05Feb2025 05:55:43.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:saturn_orbit
+[05Feb2025 05:55:43.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[05Feb2025 05:55:43.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:neptune_orbit
+[05Feb2025 05:55:43.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:deimos_orbit
+[05Feb2025 05:55:43.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:jupiter
+[05Feb2025 05:55:43.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:deimos
+[05Feb2025 05:55:43.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[05Feb2025 05:55:43.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[05Feb2025 05:55:43.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:uranus
+[05Feb2025 05:55:43.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:neptune
+[05Feb2025 05:55:43.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[05Feb2025 05:55:43.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Feb2025 05:55:43.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[05Feb2025 05:55:43.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (phobos_orbit): All chunks are saved
+[05Feb2025 05:55:43.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (amalthea_orbit): All chunks are saved
+[05Feb2025 05:55:43.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[05Feb2025 05:55:43.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (jupiter_orbit): All chunks are saved
+[05Feb2025 05:55:43.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Feb2025 05:55:43.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (saturn): All chunks are saved
+[05Feb2025 05:55:43.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (adrastea): All chunks are saved
+[05Feb2025 05:55:43.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[05Feb2025 05:55:43.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[05Feb2025 05:55:43.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[05Feb2025 05:55:43.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (phobos): All chunks are saved
+[05Feb2025 05:55:43.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (thebe): All chunks are saved
+[05Feb2025 05:55:43.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[05Feb2025 05:55:43.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (thebe_orbit): All chunks are saved
+[05Feb2025 05:55:44.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (metis_orbit): All chunks are saved
+[05Feb2025 05:55:44.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (amalthea): All chunks are saved
+[05Feb2025 05:55:44.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (uranus_orbit): All chunks are saved
+[05Feb2025 05:55:44.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[05Feb2025 05:55:44.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (adrastea_orbit): All chunks are saved
+[05Feb2025 05:55:44.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[05Feb2025 05:55:44.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Feb2025 05:55:44.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (metis): All chunks are saved
+[05Feb2025 05:55:44.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[05Feb2025 05:55:44.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (saturn_orbit): All chunks are saved
+[05Feb2025 05:55:44.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[05Feb2025 05:55:44.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (neptune_orbit): All chunks are saved
+[05Feb2025 05:55:44.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deimos_orbit): All chunks are saved
+[05Feb2025 05:55:44.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (jupiter): All chunks are saved
+[05Feb2025 05:55:44.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deimos): All chunks are saved
+[05Feb2025 05:55:44.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[05Feb2025 05:55:44.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[05Feb2025 05:55:44.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (uranus): All chunks are saved
+[05Feb2025 05:55:44.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (neptune): All chunks are saved
+[05Feb2025 05:55:44.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[05Feb2025 05:55:44.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05Feb2025 05:55:45.484] [Server thread/INFO] [Framework/]: Unloading server configs...
+[05Feb2025 05:55:45.500] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[05Feb2025 05:55:45.518] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[05Feb2025 05:55:45.519] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

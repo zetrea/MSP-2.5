@@ -6221,7 +6221,8 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
-      "magma_cream": "2025-01-21 05:13:39 +0000"
+      "magma_cream": "2025-01-21 05:13:39 +0000",
+      "earth": "2025-02-05 05:53:57 +0000"
     },
     "done": false
   },
@@ -7141,6 +7142,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/food/food/smelted_meef": {
+    "criteria": {
+      "has_food": "2025-02-05 05:54:26 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_glacier": {
     "criteria": {
       "previous_progression": "2025-02-05 05:36:49 +0000",
@@ -7148,9 +7155,33 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tools/common/slime/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-05 05:53:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smoked_meef": {
+    "criteria": {
+      "has_food": "2025-02-05 05:54:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-05 05:53:57 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/arctic_chestplate": {
     "criteria": {
       "has_item": "2025-02-05 05:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-02-05 05:53:57 +0000"
     },
     "done": true
   },
@@ -7166,9 +7197,39 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/common/slime/earth/congealed": {
+    "criteria": {
+      "has_item": "2025-02-05 05:53:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/campfired_meef": {
+    "criteria": {
+      "has_food": "2025-02-05 05:54:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-05 05:53:57 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/arctic_boots": {
     "criteria": {
       "has_item": "2025-02-05 05:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-05 05:53:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-05 05:50:56 +0000"
     },
     "done": true
   },
@@ -7184,6 +7245,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-05 05:53:57 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/tools/charm_of_keeping_2": {
     "criteria": {
       "has_item": "2025-02-05 05:44:57 +0000"
@@ -7195,6 +7262,12 @@
       "plateau": "2025-02-05 05:26:05 +0000"
     },
     "done": false
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "hedge_spider": "2025-02-05 05:52:08 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
