@@ -8193,5 +8193,35 @@
     },
     "done": true
   },
+  "iammusicplayer:recipes/misc/music_manager": {
+    "criteria": {
+      "has_diamond": "2025-02-05 02:44:47 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/listen_to_remote_music": {
+    "criteria": {
+      "listen_to_remote_music": "2025-02-05 02:46:43 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/listen_to_music": {
+    "criteria": {
+      "listen_to_music": "2025-02-05 02:46:43 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/root": {
+    "criteria": {
+      "iammusicplayer": "2025-02-05 02:46:43 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/add_music": {
+    "criteria": {
+      "add_music": "2025-02-05 03:02:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

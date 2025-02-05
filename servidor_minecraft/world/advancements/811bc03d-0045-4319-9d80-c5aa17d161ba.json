@@ -66,6 +66,7 @@
       "minecraft:cherry_grove": "2025-01-18 06:40:54 +0000",
       "minecraft:wooded_badlands": "2025-01-18 08:02:19 +0000",
       "minecraft:beach": "2025-01-18 05:57:02 +0000",
+      "minecraft:dark_forest": "2025-02-05 04:30:25 +0000",
       "minecraft:river": "2025-01-17 03:45:09 +0000",
       "minecraft:snowy_plains": "2025-01-17 04:02:35 +0000",
       "minecraft:dripstone_caves": "2025-01-17 03:35:14 +0000",
@@ -867,11 +868,14 @@
       "minecraft:creeper": "2025-01-17 04:39:58 +0000",
       "minecraft:phantom": "2025-01-18 06:22:47 +0000",
       "minecraft:zombified_piglin": "2025-01-19 07:00:34 +0000",
+      "minecraft:witch": "2025-02-05 04:35:48 +0000",
       "minecraft:wither_skeleton": "2025-01-18 06:22:46 +0000",
       "minecraft:cave_spider": "2025-01-17 05:28:55 +0000",
       "minecraft:piglin": "2025-01-19 06:59:41 +0000",
       "minecraft:enderman": "2025-01-17 11:30:36 +0000",
       "minecraft:stray": "2025-01-17 11:33:39 +0000",
+      "minecraft:silverfish": "2025-02-05 05:31:43 +0000",
+      "minecraft:vex": "2025-02-05 04:36:27 +0000",
       "minecraft:zombie": "2025-01-17 05:03:29 +0000",
       "minecraft:zombie_villager": "2025-01-17 06:09:42 +0000"
     },
@@ -1245,11 +1249,14 @@
       "cooked_mutton": "2025-01-17 05:22:25 +0000",
       "cooked_beef": "2025-01-17 04:04:43 +0000",
       "baked_potato": "2025-01-17 05:28:23 +0000",
+      "apple": "2025-02-05 04:25:46 +0000",
       "spider_eye": "2025-01-17 09:09:15 +0000",
       "pumpkin_pie": "2025-01-17 07:26:02 +0000",
       "bread": "2025-01-17 03:52:52 +0000",
       "golden_apple": "2025-01-17 09:01:16 +0000",
       "rotten_flesh": "2025-01-17 05:05:36 +0000",
+      "melon_slice": "2025-02-05 04:15:38 +0000",
+      "enchanted_golden_apple": "2025-02-05 05:08:36 +0000",
       "carrot": "2025-01-17 06:14:46 +0000"
     },
     "done": false
@@ -3246,11 +3253,14 @@
   },
   "tconstruct:tools/material_master": {
     "criteria": {
+      "slimewood": "2025-02-05 04:37:14 +0000",
       "manyullyn": "2025-01-19 07:35:40 +0000",
       "scorched_stone": "2025-01-21 04:52:23 +0000",
       "copper": "2025-01-17 08:53:44 +0000",
       "rose_gold": "2025-01-17 08:53:44 +0000",
+      "vine": "2025-02-05 04:37:14 +0000",
       "slimesteel": "2025-01-19 07:34:59 +0000",
+      "bone": "2025-02-05 04:37:14 +0000",
       "hepatizon": "2025-02-01 08:56:04 +0000"
     },
     "done": false
@@ -6635,6 +6645,36 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-02-01 08:45:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-02-01 08:45:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-02-01 08:45:56 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_striker_enhanced_repair": {
+    "criteria": {
+      "has_heart_striker": "2025-02-01 09:02:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-02-01 09:16:04 +0000"
+    },
+    "done": true
+  },
   "immersiveores:recipes/tools/vibranium_axe": {
     "criteria": {
       "has_vibranium_ingot": "2025-02-01 09:17:56 +0000"
@@ -6650,12 +6690,6 @@
   "immersiveores:recipes/building_blocks/vibranium_block": {
     "criteria": {
       "has_vibranium_ingot": "2025-02-01 09:17:56 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
-    "criteria": {
-      "has_item": "2025-02-01 08:45:56 +0000"
     },
     "done": true
   },
@@ -6680,24 +6714,6 @@
   "immersiveores:recipes/tools/vibranium_hammer": {
     "criteria": {
       "has_vibranium_ingot": "2025-02-01 09:17:56 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/ash": {
-    "criteria": {
-      "has_item": "2025-02-01 09:16:04 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/heart_striker_enhanced_repair": {
-    "criteria": {
-      "has_heart_striker": "2025-02-01 09:02:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-02-01 09:23:06 +0000"
     },
     "done": true
   },
@@ -6737,21 +6753,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
-    "criteria": {
-      "has_item": "2025-02-01 08:45:56 +0000"
-    },
-    "done": true
-  },
   "immersiveores:recipes/combat/vibranium_helmet": {
     "criteria": {
       "has_vibranium_ingot": "2025-02-01 09:17:56 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
-    "criteria": {
-      "has_item": "2025-02-01 08:45:56 +0000"
     },
     "done": true
   },
@@ -6761,9 +6765,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+  "immersiveores:recipes/combat/vibranium_bow": {
     "criteria": {
-      "has_oxeye_daisy": "2025-02-01 09:23:06 +0000"
+      "has_vibranium_ingot": "2025-02-01 09:17:56 +0000"
     },
     "done": true
   },
@@ -6773,11 +6777,374 @@
     },
     "done": true
   },
-  "immersiveores:recipes/combat/vibranium_bow": {
+  "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
-      "has_vibranium_ingot": "2025-02-01 09:17:56 +0000"
+      "has_oxeye_daisy": "2025-02-01 09:23:06 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-01 09:23:06 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-02-05 02:38:25 +0000"
+    },
+    "done": false
+  },
+  "iammusicplayer:iammusicplayer/root": {
+    "criteria": {
+      "iammusicplayer": "2025-02-05 02:39:08 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/add_music": {
+    "criteria": {
+      "add_music": "2025-02-05 02:40:48 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/listen_to_remote_music": {
+    "criteria": {
+      "listen_to_remote_music": "2025-02-05 02:41:41 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/listen_to_music": {
+    "criteria": {
+      "listen_to_music": "2025-02-05 02:41:41 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/music_manager": {
+    "criteria": {
+      "has_diamond": "2025-02-05 03:13:29 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-02-05 03:31:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_pickaxe_repairing": {
+    "criteria": {
+      "has_zanite_pickaxe": "2025-02-05 03:37:14 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_radiation_foods": {
+    "criteria": {
+      "slam": "2025-02-05 03:41:31 +0000",
+      "spelunkie": "2025-02-05 04:05:29 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-02-05 04:08:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-02-05 04:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-02-05 04:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-02-05 04:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-02-05 04:08:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/transportation/pool_minecart": {
+    "criteria": {
+      "has_item": "2025-02-05 04:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-05 04:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-02-05 04:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-05 04:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-05 04:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-05 04:16:53 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/parabolic_antenna": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-05 04:28:35 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/radio_antenna": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-05 04:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-02-05 04:28:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-02-05 04:28:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2025-02-05 04:28:58 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-02-05 04:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-02-05 04:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-05 04:45:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-02-05 04:57:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2025-02-05 05:00:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "mangrove_sapling": "2025-02-05 05:01:27 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "deer": "2025-02-05 05:04:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smelted_venison": {
+    "criteria": {
+      "has_food": "2025-02-05 05:04:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/campfired_venison": {
+    "criteria": {
+      "has_food": "2025-02-05 05:04:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smoked_venison": {
+    "criteria": {
+      "has_food": "2025-02-05 05:04:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "raw_venison": "2025-02-05 05:05:22 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_lich": "2025-02-05 05:14:51 +0000",
+      "kill_naga": "2025-02-05 05:06:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2025-02-05 05:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-05 05:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-05 05:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-05 05:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-05 05:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-05 05:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-05 05:08:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-02-05 05:14:51 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2025-02-05 05:14:51 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-02-05 05:14:51 +0000",
+      "was_in_fight": "2025-02-05 05:36:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fortification_scepter": {
+    "criteria": {
+      "has_item": "2025-02-05 05:15:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-02-05 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-02-05 05:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-02-05 05:16:19 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/brown_flag": {
+    "criteria": {
+      "has_brown_flag": "2025-02-05 05:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-02-05 05:16:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_brown": {
+    "criteria": {
+      "has_wool": "2025-02-05 05:16:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map_focus": {
+    "criteria": {
+      "has_berries": "2025-02-05 05:35:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2025-02-05 05:36:49 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:hill1": {
+    "criteria": {
+      "redcap": "2025-02-05 05:29:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/berry_torch": {
+    "criteria": {
+      "has_item": "2025-02-05 05:35:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progression_end": {
+    "criteria": {
+      "plateau": "2025-02-05 05:26:05 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
