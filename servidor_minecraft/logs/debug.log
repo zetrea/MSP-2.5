@@ -6998,3 +6998,30 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [05Feb2025 05:40:05.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lala0223: Teleported Lala0223 to AnbertitoKawaixX]
 [05Feb2025 05:42:14.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnbertitoKawaixX has reached the goal [A little cleaning is necessary]
 [05Feb2025 05:42:14.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lala0223 has made the advancement [The Silence of the Forest]
+[05Feb2025 05:43:55.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[05Feb2025 05:44:27.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[05Feb2025 05:44:55.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 05:44:55.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 05:46:21.167] [Server thread/WARN] [tombstone/]: The death event of the player Lala0223 was canceled by another mod
+[05Feb2025 05:46:21.169] [Server thread/INFO] [tombstone/]: The player Lala0223 has successfully been saved
+[05Feb2025 05:46:21.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[05Feb2025 05:46:30.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lala0223: Teleported Lala0223 to zetreaa]
+[05Feb2025 05:46:43.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[05Feb2025 05:46:56.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lala0223: Teleported Lala0223 to zetreaa]
+[05Feb2025 05:47:05.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lala0223: Teleported Lala0223 to zetreaa]
+[05Feb2025 05:47:21.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[05Feb2025 05:47:35.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnbertitoKawaixX has reached the goal [Clear Skies]
+[05Feb2025 05:47:35.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has reached the goal [Clear Skies]
+[05Feb2025 05:48:04.513] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8061ms or 161 ticks behind
+[05Feb2025 05:49:51.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[05Feb2025 05:50:03.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 05:50:03.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 05:50:22.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[05Feb2025 05:51:09.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lala0223 lost connection: Disconnected
+[05Feb2025 05:51:09.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lala0223 left the game
+[05Feb2025 05:51:14.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[05Feb2025 05:51:17.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[05Feb2025 05:52:08.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Bug Stomper]
+[05Feb2025 05:52:57.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AnbertitoKawaixX> te amo
+[05Feb2025 05:52:59.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnbertitoKawaixX lost connection: Disconnected
+[05Feb2025 05:52:59.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnbertitoKawaixX left the game

@@ -2929,9 +2929,27 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/vanilla_to_tf_moss": {
+    "criteria": {
+      "has_item": "2025-02-05 05:41:15 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-02-05 05:38:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/aurora_slab_slab": {
+    "criteria": {
+      "has_item": "2025-02-05 05:42:02 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/vanilla_to_tf_lilypad": {
+    "criteria": {
+      "has_item": "2025-02-05 05:41:15 +0000"
     },
     "done": true
   },
@@ -2971,9 +2989,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/tf_moss_to_vanilla": {
+    "criteria": {
+      "has_item": "2025-02-05 05:41:15 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/twilight_oak_wood": {
     "criteria": {
       "has_item": "2025-02-05 05:29:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "kobold": "2025-02-05 05:42:14 +0000"
     },
     "done": true
   },
@@ -3040,6 +3070,12 @@
   "twilightforest:recipes/combat/equipment/arctic_helmet": {
     "criteria": {
       "has_item": "2025-02-05 05:37:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/tf_to_vanilla_lilypad": {
+    "criteria": {
+      "has_item": "2025-02-05 05:41:15 +0000"
     },
     "done": true
   },

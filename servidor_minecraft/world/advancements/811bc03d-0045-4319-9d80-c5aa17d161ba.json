@@ -7002,7 +7002,8 @@
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
-      "raw_venison": "2025-02-05 05:05:22 +0000"
+      "raw_venison": "2025-02-05 05:05:22 +0000",
+      "maze_wafer": "2025-02-05 05:46:34 +0000"
     },
     "done": false
   },
@@ -7116,17 +7117,42 @@
     },
     "done": true
   },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "snow_queen": "2025-02-05 05:47:35 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
+    "criteria": {
+      "has_item": "2025-02-05 05:49:46 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/magic_map_focus": {
     "criteria": {
       "has_berries": "2025-02-05 05:35:54 +0000"
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/arctic_leggings": {
+    "criteria": {
+      "has_item": "2025-02-05 05:49:46 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_glacier": {
     "criteria": {
-      "previous_progression": "2025-02-05 05:36:49 +0000"
+      "previous_progression": "2025-02-05 05:36:49 +0000",
+      "was_in_fight": "2025-02-05 05:47:35 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-05 05:49:46 +0000"
+    },
+    "done": true
   },
   "twilightforest:hill1": {
     "criteria": {
@@ -7134,9 +7160,33 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/compressed_blocks/ironwood_block": {
+    "criteria": {
+      "has_item": "2025-02-05 05:40:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_boots": {
+    "criteria": {
+      "has_item": "2025-02-05 05:49:46 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/berry_torch": {
     "criteria": {
       "has_item": "2025-02-05 05:35:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_helmet": {
+    "criteria": {
+      "has_item": "2025-02-05 05:49:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/charm_of_keeping_2": {
+    "criteria": {
+      "has_item": "2025-02-05 05:44:57 +0000"
     },
     "done": true
   },

@@ -7445,9 +7445,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-02-05 05:40:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "snow_queen": "2025-02-05 05:47:35 +0000"
+    },
+    "done": false
+  },
   "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
     "criteria": {
       "has_item": "2025-02-05 05:34:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-02-05 05:40:09 +0000"
     },
     "done": true
   },
@@ -7457,17 +7475,54 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-02-05 05:40:09 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/arctic_leggings": {
     "criteria": {
       "has_item": "2025-02-05 05:34:56 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-02-05 05:40:09 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_glacier": {
     "criteria": {
-      "previous_progression": "2025-02-05 05:36:49 +0000"
+      "previous_progression": "2025-02-05 05:36:49 +0000",
+      "queen": "2025-02-05 05:47:35 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-05 05:40:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/snow_queen_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-05 05:47:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-02-05 05:40:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-05 05:40:09 +0000"
+    },
+    "done": true
   },
   "twilightforest:recipes/decorations/vanilla_to_tf_moss": {
     "criteria": {
@@ -7478,6 +7533,12 @@
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-02-05 05:28:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/aurora_slab_slab": {
+    "criteria": {
+      "has_item": "2025-02-05 05:48:40 +0000"
     },
     "done": true
   },
@@ -7553,9 +7614,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-05 05:40:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_purification": {
+    "criteria": {
+      "has_magic_scroll": "2025-02-05 05:42:14 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/arctic_helmet": {
     "criteria": {
       "has_item": "2025-02-05 05:34:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-05 05:40:09 +0000"
     },
     "done": true
   },
