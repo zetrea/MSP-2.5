@@ -1,7 +1,13 @@
 [
   {
-    "uuid": "2aa5c70f-8abd-3240-a7a5-86cfbd3f89bf",
+    "uuid": "811bc03d-0045-4319-9d80-c5aa17d161ba",
     "name": "zetreaa",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "64a4039a-4dc5-4817-88ab-826da54941db",
+    "name": "feelinghervoice",
     "level": 4,
     "bypassesPlayerLimit": false
   }
