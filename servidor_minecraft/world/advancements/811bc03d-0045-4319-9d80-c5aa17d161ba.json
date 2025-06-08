@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-06-08 19:45:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-08 19:33:37 +0000"
@@ -674,6 +680,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-08 19:30:52 +0000",
+      "minecraft:creeper": "2025-06-08 19:50:44 +0000",
+      "minecraft:slime": "2025-06-08 19:50:31 +0000",
       "minecraft:zombie": "2025-06-08 19:30:13 +0000"
     },
     "done": false
@@ -916,6 +924,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-08 19:50:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-08 19:25:06 +0000"
@@ -952,6 +966,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-08 19:32:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-08 19:50:46 +0000"
     },
     "done": true
   },
