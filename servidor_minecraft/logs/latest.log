@@ -106,3 +106,23 @@
 [01:07:17] [Server thread/INFO]: <feelinghervoice> asd
 [01:07:22] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 17igvnaciojaja]
 [01:10:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-442, y=69, z=-527} class_2338{x=-442, y=70, z=-527}
+[01:12:05] [Server thread/INFO]: feelinghervoice has made the advancement [We Need to Go Deeper]
+[01:13:50] [Server thread/INFO]: feelinghervoice has made the advancement [Not Today, Thank You]
+[01:15:17] [User Authenticator #3/INFO]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
+[01:15:17] [Server thread/INFO]: zetreaa[/127.185.209.139:58355] logged in with entity id 4052 at (-196.30000001192093, 83.0, -503.32235296032604)
+[01:15:17] [Server thread/INFO]: zetreaa joined the game
+[01:17:17] [Server thread/INFO]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[01:18:05] [Server thread/INFO]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
+[01:19:27] [Server thread/INFO]: feelinghervoice has made the advancement [Those Were the Days]
+[01:19:32] [Server thread/INFO]: zetreaa lost connection: Disconnected
+[01:19:32] [Server thread/INFO]: zetreaa left the game
+[01:19:50] [Server thread/INFO]: 17igvnaciojaja has made the advancement [We Need to Go Deeper]
+[01:19:50] [Server thread/INFO]: [17igvnaciojaja: Teleported 17igvnaciojaja to feelinghervoice]
+[01:19:51] [Server thread/INFO]: 17igvnaciojaja has made the advancement [Those Were the Days]
+[01:20:33] [User Authenticator #4/INFO]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
+[01:20:34] [Server thread/INFO]: zetreaa[/127.185.209.139:33913] logged in with entity id 6100 at (-65.69998776912689, 61.0, -61.5)
+[01:20:34] [Server thread/INFO]: zetreaa joined the game
+[01:21:06] [Server thread/INFO]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[01:21:14] [Server thread/INFO]: zetreaa has made the advancement [Those Were the Days]
+[01:21:20] [Server thread/INFO]: zetreaa lost connection: Disconnected
+[01:21:20] [Server thread/INFO]: zetreaa left the game
