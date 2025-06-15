@@ -1,5 +1,5 @@
-[01:01:14] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.10
-[01:01:14] [main/INFO]: Loading 47 mods:
+[01:27:49] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.10
+[01:27:49] [main/INFO]: Loading 47 mods:
 	- cloth-config 11.1.136
 	   \-- cloth-basic-math 0.6.1
 	- fabric-api 0.92.6+1.20.1
@@ -60,69 +60,70 @@
 	- java 17
 	- minecraft 1.20.1
 	- revive 1.0.7
-[01:01:14] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MSP-2.5/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[01:01:14] [main/INFO]: Compatibility level set to JAVA_16
-[01:01:14] [main/INFO]: Compatibility level set to JAVA_17
-[01:01:15] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[01:01:24] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01:01:25] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[01:01:26] [main/INFO]: Loaded 7 recipes
-[01:01:26] [main/INFO]: Loaded 1271 advancements
-[01:01:27] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.860 ms
-[01:01:27] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[01:01:27] [Server thread/INFO]: Loading properties
-[01:01:27] [Server thread/INFO]: Default game type: SURVIVAL
-[01:01:27] [Server thread/INFO]: Generating keypair
-[01:01:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:01:27] [Server thread/INFO]: Using epoll channel type
-[01:01:28] [Server thread/INFO]: Preparing level "world"
-[01:01:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:01:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:01:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:01:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:01:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:01:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:01:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:01:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:01:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:01:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:01:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:01:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:01:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:01:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:01:38] [Worker-Main-1/INFO]: Preparing spawn area: 4%
-[01:01:39] [Worker-Main-3/INFO]: Preparing spawn area: 64%
-[01:01:39] [Server thread/INFO]: Time elapsed: 7363 ms
-[01:01:39] [Server thread/INFO]: Done (11.739s)! For help, type "help"
-[01:01:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:01:39] [Server thread/INFO]: <--[HERE]
-[01:02:40] [User Authenticator #1/INFO]: UUID of player 17igvnaciojaja is 73e1a612-5acf-495d-b71a-db50d17d74bc
-[01:02:41] [Server thread/INFO]: 17igvnaciojaja[/127.23.103.32:41419] logged in with entity id 116 at (-185.9391693446151, 71.0, -499.74730831200316)
-[01:02:41] [Server thread/INFO]: 17igvnaciojaja joined the game
-[01:02:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[01:06:56] [User Authenticator #2/INFO]: UUID of player feelinghervoice is 64a4039a-4dc5-4817-88ab-826da54941db
-[01:06:56] [Server thread/INFO]: feelinghervoice[/127.0.215.48:59175] logged in with entity id 1210 at (-186.27178360710636, 71.0, -500.226188014674)
-[01:06:56] [Server thread/INFO]: feelinghervoice joined the game
-[01:07:17] [Server thread/INFO]: <feelinghervoice> asd
-[01:07:22] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 17igvnaciojaja]
-[01:10:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-442, y=69, z=-527} class_2338{x=-442, y=70, z=-527}
-[01:12:05] [Server thread/INFO]: feelinghervoice has made the advancement [We Need to Go Deeper]
-[01:13:50] [Server thread/INFO]: feelinghervoice has made the advancement [Not Today, Thank You]
-[01:15:17] [User Authenticator #3/INFO]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
-[01:15:17] [Server thread/INFO]: zetreaa[/127.185.209.139:58355] logged in with entity id 4052 at (-196.30000001192093, 83.0, -503.32235296032604)
-[01:15:17] [Server thread/INFO]: zetreaa joined the game
-[01:17:17] [Server thread/INFO]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
-[01:18:05] [Server thread/INFO]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
-[01:19:27] [Server thread/INFO]: feelinghervoice has made the advancement [Those Were the Days]
-[01:19:32] [Server thread/INFO]: zetreaa lost connection: Disconnected
-[01:19:32] [Server thread/INFO]: zetreaa left the game
-[01:19:50] [Server thread/INFO]: 17igvnaciojaja has made the advancement [We Need to Go Deeper]
-[01:19:50] [Server thread/INFO]: [17igvnaciojaja: Teleported 17igvnaciojaja to feelinghervoice]
-[01:19:51] [Server thread/INFO]: 17igvnaciojaja has made the advancement [Those Were the Days]
-[01:20:33] [User Authenticator #4/INFO]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
-[01:20:34] [Server thread/INFO]: zetreaa[/127.185.209.139:33913] logged in with entity id 6100 at (-65.69998776912689, 61.0, -61.5)
-[01:20:34] [Server thread/INFO]: zetreaa joined the game
-[01:21:06] [Server thread/INFO]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
-[01:21:14] [Server thread/INFO]: zetreaa has made the advancement [Those Were the Days]
-[01:21:20] [Server thread/INFO]: zetreaa lost connection: Disconnected
-[01:21:20] [Server thread/INFO]: zetreaa left the game
+[01:27:49] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MSP-2.5/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[01:27:49] [main/INFO]: Compatibility level set to JAVA_16
+[01:27:49] [main/INFO]: Compatibility level set to JAVA_17
+[01:27:49] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[01:27:55] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:27:55] [main/INFO]: Found new data pack fabric, loading it automatically
+[01:27:57] [main/INFO]: Loaded 7 recipes
+[01:27:57] [main/INFO]: Loaded 1271 advancements
+[01:27:58] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.918 ms
+[01:27:58] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[01:27:58] [Server thread/INFO]: Loading properties
+[01:27:58] [Server thread/INFO]: Default game type: SURVIVAL
+[01:27:58] [Server thread/INFO]: Generating keypair
+[01:27:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:27:58] [Server thread/INFO]: Using epoll channel type
+[01:27:58] [Server thread/INFO]: Preparing level "world"
+[01:28:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:28:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:28:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:28:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:28:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:28:05] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[01:28:06] [Worker-Main-3/INFO]: Preparing spawn area: 1%
+[01:28:06] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[01:28:07] [Worker-Main-3/INFO]: Preparing spawn area: 3%
+[01:28:07] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[01:28:08] [Worker-Main-3/INFO]: Preparing spawn area: 5%
+[01:28:08] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[01:28:09] [Worker-Main-3/INFO]: Preparing spawn area: 7%
+[01:28:10] [Worker-Main-1/INFO]: Preparing spawn area: 9%
+[01:28:10] [Worker-Main-2/INFO]: Preparing spawn area: 9%
+[01:28:10] [Worker-Main-3/INFO]: Preparing spawn area: 9%
+[01:28:11] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[01:28:11] [Worker-Main-2/INFO]: Preparing spawn area: 12%
+[01:28:12] [Worker-Main-2/INFO]: Preparing spawn area: 15%
+[01:28:12] [Worker-Main-3/INFO]: Preparing spawn area: 16%
+[01:28:13] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[01:28:13] [Worker-Main-2/INFO]: Preparing spawn area: 21%
+[01:28:14] [Worker-Main-3/INFO]: Preparing spawn area: 23%
+[01:28:14] [Worker-Main-1/INFO]: Preparing spawn area: 26%
+[01:28:15] [Worker-Main-2/INFO]: Preparing spawn area: 29%
+[01:28:15] [Worker-Main-2/INFO]: Preparing spawn area: 32%
+[01:28:16] [Worker-Main-3/INFO]: Preparing spawn area: 34%
+[01:28:16] [Worker-Main-3/INFO]: Preparing spawn area: 36%
+[01:28:17] [Worker-Main-3/INFO]: Preparing spawn area: 40%
+[01:28:17] [Worker-Main-2/INFO]: Preparing spawn area: 42%
+[01:28:18] [Worker-Main-1/INFO]: Preparing spawn area: 45%
+[01:28:18] [Worker-Main-2/INFO]: Preparing spawn area: 48%
+[01:28:19] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:28:19] [Worker-Main-1/INFO]: Preparing spawn area: 55%
+[01:28:20] [Worker-Main-3/INFO]: Preparing spawn area: 57%
+[01:28:20] [Worker-Main-1/INFO]: Preparing spawn area: 60%
+[01:28:21] [Worker-Main-3/INFO]: Preparing spawn area: 64%
+[01:28:21] [Worker-Main-3/INFO]: Preparing spawn area: 67%
+[01:28:22] [Worker-Main-3/INFO]: Preparing spawn area: 69%
+[01:28:23] [Worker-Main-2/INFO]: Preparing spawn area: 72%
+[01:28:23] [Worker-Main-2/INFO]: Preparing spawn area: 72%
+[01:28:23] [Worker-Main-2/INFO]: Preparing spawn area: 74%
+[01:28:24] [Worker-Main-3/INFO]: Preparing spawn area: 76%
+[01:28:24] [Worker-Main-1/INFO]: Preparing spawn area: 80%
+[01:28:25] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[01:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 85%
+[01:28:26] [Worker-Main-1/INFO]: Preparing spawn area: 89%
+[01:28:26] [Worker-Main-1/INFO]: Preparing spawn area: 94%
+[01:28:27] [Worker-Main-3/INFO]: Preparing spawn area: 96%
+[01:28:27] [Server thread/INFO]: Time elapsed: 23840 ms
+[01:28:27] [Server thread/INFO]: Done (29.289s)! For help, type "help"
