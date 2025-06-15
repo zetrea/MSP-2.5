@@ -519,3 +519,17 @@
 [07:35:34] [Server thread/INFO]: [feelinghervoice: Set own game mode to Creative Mode]
 [07:36:53] [Server thread/INFO]: Villager class_1646['Villager'/27171, l='ServerLevel[world]', x=-553.75, y=78.00, z=-3.73] died, message: 'Villager was slain by Zombie'
 [07:38:02] [Server thread/INFO]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[07:38:43] [Server thread/INFO]: zetreaa lost connection: Disconnected
+[07:38:43] [Server thread/INFO]: zetreaa left the game
+[07:38:58] [Server thread/INFO]: ElJimmyy lost connection: Disconnected
+[07:38:58] [Server thread/INFO]: ElJimmyy left the game
+[07:39:53] [Server thread/INFO]: Villager class_1646['Villager'/27114, l='ServerLevel[world]', x=-517.30, y=85.00, z=-39.30] died, message: 'Villager was slain by Zombie'
+[07:43:15] [User Authenticator #18/INFO]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
+[07:43:15] [Server thread/INFO]: zetreaa[/127.185.209.139:40285] logged in with entity id 44307 at (-574.3000000119209, 65.0, -30.952862005733316)
+[07:43:15] [Server thread/INFO]: zetreaa joined the game
+[07:43:52] [User Authenticator #19/INFO]: UUID of player ElJimmyy is 304df7a8-4fc9-4015-82b1-0b9cd37e279a
+[07:43:52] [Server thread/INFO]: ElJimmyy[/127.64.242.226:39481] logged in with entity id 44476 at (-510.0419703902673, 78.49520087700593, -3.3070427009187107)
+[07:43:52] [Server thread/INFO]: ElJimmyy joined the game
+[07:43:54] [Server thread/INFO]: [zetreaa: Teleported zetreaa to 7Pakass]
+[07:44:05] [Server thread/INFO]: [ElJimmyy: Teleported ElJimmyy to 7Pakass]
+[07:46:04] [Server thread/INFO]: [ElJimmyy: Teleported ElJimmyy to 7Pakass]
