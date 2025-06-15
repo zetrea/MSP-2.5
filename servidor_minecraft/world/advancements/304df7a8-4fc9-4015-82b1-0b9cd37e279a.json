@@ -506,7 +506,8 @@
       "cooked_mutton": "2025-06-15 06:23:09 +0000",
       "cooked_beef": "2025-06-15 05:10:50 +0000",
       "beef": "2025-06-15 07:48:21 +0000",
-      "bread": "2025-06-15 05:13:13 +0000"
+      "bread": "2025-06-15 05:13:13 +0000",
+      "carrot": "2025-06-15 07:58:03 +0000"
     },
     "done": false
   },
@@ -1991,6 +1992,24 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-06-15 07:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-06-15 08:05:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-15 07:57:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-15 08:05:30 +0000"
     },
     "done": true
   },
