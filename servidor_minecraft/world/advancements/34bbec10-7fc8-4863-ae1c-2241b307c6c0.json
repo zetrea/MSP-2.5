@@ -532,6 +532,7 @@
       "minecraft:skeleton": "2025-06-15 05:17:30 +0000",
       "minecraft:ghast": "2025-06-15 05:46:00 +0000",
       "minecraft:piglin_brute": "2025-06-15 06:10:20 +0000",
+      "minecraft:spider": "2025-06-15 06:52:56 +0000",
       "minecraft:creeper": "2025-06-15 05:11:10 +0000",
       "minecraft:wither_skeleton": "2025-06-15 06:40:30 +0000",
       "minecraft:piglin": "2025-06-15 06:04:51 +0000",
@@ -1199,6 +1200,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-06-15 06:55:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-06-15 05:38:32 +0000"
@@ -1627,6 +1634,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-06-15 06:50:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-15 06:13:39 +0000"
@@ -1654,6 +1667,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-06-15 05:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-15 06:54:23 +0000"
     },
     "done": true
   },
@@ -1900,6 +1919,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-15 05:38:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-06-15 06:50:30 +0000"
     },
     "done": true
   },
