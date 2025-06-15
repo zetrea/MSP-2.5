@@ -242,3 +242,46 @@
 [05:34:56] [Server thread/INFO]: <7Pakass> chi?
 [05:34:59] [Server thread/INFO]: <feelinghervoice> shi nwn
 [05:35:27] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 7Pakass]
+[05:37:20] [Server thread/INFO]: feelinghervoice was shot by Skeleton
+[05:37:39] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 7Pakass]
+[05:37:41] [Server thread/INFO]: <ElJimmyy> reset
+[05:37:42] [Server thread/INFO]: [feelinghervoice: Set own game mode to Survival Mode]
+[05:37:51] [Server thread/INFO]: feelinghervoice was killed
+[05:37:51] [Server thread/INFO]: [feelinghervoice: Killed feelinghervoice]
+[05:37:56] [User Authenticator #10/INFO]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
+[05:37:57] [Server thread/INFO]: zetreaa[/127.185.209.139:60765] logged in with entity id 15069 at (-508.4894275632331, -59.0, -84.60537187578879)
+[05:37:57] [Server thread/INFO]: zetreaa joined the game
+[05:38:11] [Server thread/INFO]: [7Pakass: Teleported zetreaa to 7Pakass]
+[05:38:14] [Server thread/INFO]: feelinghervoice lost connection: Disconnected
+[05:38:14] [Server thread/INFO]: feelinghervoice left the game
+[05:38:18] [User Authenticator #11/INFO]: UUID of player feelinghervoice is 64a4039a-4dc5-4817-88ab-826da54941db
+[05:38:18] [Server thread/INFO]: feelinghervoice[/127.0.215.48:48627] logged in with entity id 15190 at (-474.2589867577092, -45.0, -52.969795455291425)
+[05:38:18] [Server thread/INFO]: feelinghervoice joined the game
+[05:38:19] [Server thread/INFO]: ElJimmyy has made the advancement [Suit Up]
+[05:38:23] [Server thread/INFO]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[05:39:03] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 7Pakass]
+[05:39:53] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 7Pakass]
+[05:40:02] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to ElJimmyy]
+[05:40:19] [Server thread/INFO]: 7Pakass has made the advancement [Cover Me with Diamonds]
+[05:40:35] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to ElJimmyy]
+[05:40:49] [Server thread/INFO]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[05:41:06] [Server thread/INFO]: zetreaa lost connection: Disconnected
+[05:41:06] [Server thread/INFO]: zetreaa left the game
+[05:41:09] [User Authenticator #12/INFO]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
+[05:41:09] [Server thread/INFO]: zetreaa[/127.185.209.139:54739] logged in with entity id 15773 at (-533.5911649644697, 86.02012754725963, 7.072027612511516)
+[05:41:09] [Server thread/INFO]: zetreaa joined the game
+[05:41:25] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 7Pakass]
+[05:42:21] [Server thread/INFO]: [zetreaa: Teleported zetreaa to 7Pakass]
+[05:43:15] [Server thread/INFO]: [zetreaa: Teleported feelinghervoice to zetreaa]
+[05:44:08] [Server thread/INFO]: 7Pakass has made the advancement [Ice Bucket Challenge]
+[05:44:13] [Server thread/INFO]: ElJimmyy has made the advancement [Ice Bucket Challenge]
+[05:45:06] [Server thread/INFO]: 7Pakass has made the advancement [Who is Cutting Onions?]
+[05:45:37] [Server thread/INFO]: ElJimmyy has made the advancement [We Need to Go Deeper]
+[05:45:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2153ms or 43 ticks behind
+[05:45:42] [Server thread/INFO]: 7Pakass has made the advancement [We Need to Go Deeper]
+[05:45:43] [Server thread/INFO]: feelinghervoice has made the advancement [We Need to Go Deeper]
+[05:45:43] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 7Pakass]
+[05:45:49] [Server thread/INFO]: zetreaa has made the advancement [We Need to Go Deeper]
+[05:45:49] [Server thread/INFO]: [zetreaa: Teleported zetreaa to 7Pakass]
+[05:46:00] [Server thread/INFO]: 7Pakass has completed the challenge [Return to Sender]
+[05:46:47] [Server thread/INFO]: ElJimmyy has made the advancement [Not Today, Thank You]
