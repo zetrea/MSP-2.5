@@ -1,5 +1,5 @@
-[19:06:39] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.10
-[19:06:39] [main/INFO]: Loading 47 mods:
+[01:01:14] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.10
+[01:01:14] [main/INFO]: Loading 47 mods:
 	- cloth-config 11.1.136
 	   \-- cloth-basic-math 0.6.1
 	- fabric-api 0.92.6+1.20.1
@@ -60,194 +60,49 @@
 	- java 17
 	- minecraft 1.20.1
 	- revive 1.0.7
-[19:06:40] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MSP-2.5/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[19:06:40] [main/INFO]: Compatibility level set to JAVA_16
-[19:06:40] [main/INFO]: Compatibility level set to JAVA_17
-[19:06:41] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[19:06:49] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:06:51] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[19:06:52] [main/INFO]: Loaded 7 recipes
-[19:06:52] [main/INFO]: Loaded 1271 advancements
-[19:06:53] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.552 ms
-[19:06:53] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[19:06:53] [Server thread/INFO]: Loading properties
-[19:06:53] [Server thread/INFO]: Default game type: SURVIVAL
-[19:06:53] [Server thread/INFO]: Generating keypair
-[19:06:53] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:06:53] [Server thread/INFO]: Using epoll channel type
-[19:06:53] [Server thread/INFO]: Preparing level "world"
-[19:06:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:07:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:07:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:07:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:07:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:07:00] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:07:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:07:00] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:07:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:07:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:07:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:07:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:07:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:07:03] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[19:07:03] [Worker-Main-2/INFO]: Preparing spawn area: 50%
-[19:07:04] [Server thread/INFO]: Time elapsed: 6922 ms
-[19:07:04] [Server thread/INFO]: Done (10.724s)! For help, type "help"
-[19:08:24] [Server thread/INFO]: That player does not exist
-[19:08:27] [Server thread/INFO]: Nothing changed. The player already is an operator
-[19:08:55] [User Authenticator #1/INFO]: UUID of player feelinghervoice is 64a4039a-4dc5-4817-88ab-826da54941db
-[19:08:56] [Server thread/INFO]: feelinghervoice[/127.0.215.48:52585] logged in with entity id 92 at (-9.5, 78.0, -4.5)
-[19:08:56] [Server thread/INFO]: feelinghervoice joined the game
-[19:09:00] [User Authenticator #2/INFO]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
-[19:09:00] [Server thread/INFO]: zetreaa[/127.185.209.139:39963] logged in with entity id 213 at (6.5, 78.0, -1.5)
-[19:09:00] [Server thread/INFO]: zetreaa joined the game
-[19:09:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-4, y=77, z=-15}
-[19:09:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-5, y=76, z=-15}
-[19:09:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-3, y=73, z=-16}
-[19:09:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-3, y=72, z=-16}
-[19:10:02] [Server thread/INFO]: zetreaa was killed
-[19:10:02] [Server thread/INFO]: [zetreaa: Killed zetreaa]
-[19:10:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-1, y=70, z=-12}
-[19:10:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=0, y=70, z=-12}
-[19:10:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-1, y=69, z=-12}
-[19:10:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-1, y=70, z=-12}
-[19:10:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=0, y=71, z=-13}
-[19:10:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1, y=71, z=-14}
-[19:10:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1, y=71, z=-13}
-[19:10:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=2, y=71, z=-13}
-[19:10:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=2, y=71, z=-13}
-[19:10:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1, y=71, z=-13}
-[19:10:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=0, y=71, z=-13}
-[19:11:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-9, y=71, z=-17} class_2338{x=-8, y=71, z=-16}
-[19:11:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-9, y=71, z=-17} class_2338{x=-7, y=71, z=-15}
-[19:11:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-9, y=71, z=-17} class_2338{x=-6, y=71, z=-15}
-[19:11:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-9, y=71, z=-17} class_2338{x=-6, y=71, z=-14}
-[19:11:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-9, y=71, z=-17} class_2338{x=-6, y=71, z=-15}
-[19:11:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-9, y=71, z=-17} class_2338{x=-6, y=71, z=-14}
-[19:11:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-9, y=71, z=-17} class_2338{x=-6, y=71, z=-13}
-[19:11:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-9, y=71, z=-17} class_2338{x=-5, y=71, z=-13}
-[19:11:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-9, y=71, z=-17} class_2338{x=-4, y=71, z=-13}
-[19:11:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-9, y=71, z=-17} class_2338{x=-3, y=71, z=-13}
-[19:11:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-9, y=71, z=-17} class_2338{x=-2, y=70, z=-12}
-[19:11:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-9, y=71, z=-17} class_2338{x=-3, y=70, z=-12}
-[19:11:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-9, y=71, z=-17} class_2338{x=-3, y=70, z=-11}
-[19:11:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-9, y=71, z=-17} class_2338{x=-3, y=70, z=-10}
-[19:11:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-9, y=71, z=-17} class_2338{x=-3, y=70, z=-9}
-[19:11:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-9, y=71, z=-17} class_2338{x=-4, y=70, z=-9}
-[19:11:30] [Server thread/INFO]: [zetreaa: Made feelinghervoice a server operator]
-[19:11:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-9, y=71, z=-17} class_2338{x=-3, y=70, z=-10}
-[19:11:38] [Server thread/INFO]: [feelinghervoice: Set own game mode to Creative Mode]
-[19:11:44] [Server thread/INFO]: [zetreaa: Set own game mode to Survival Mode]
-[19:11:54] [Server thread/INFO]: [feelinghervoice: Set own game mode to Survival Mode]
-[19:12:08] [Server thread/INFO]: [zetreaa: Set own game mode to Creative Mode]
-[19:13:12] [Server thread/INFO]: zetreaa has made the advancement [Into Fire]
-[19:14:33] [Server thread/INFO]: feelinghervoice has made the advancement [Stone Age]
-[19:14:53] [Server thread/INFO]: zetreaa has made the advancement [Local Brewery]
-[19:15:13] [Server thread/INFO]: feelinghervoice has made the advancement [Getting an Upgrade]
-[19:15:17] [Server thread/INFO]: [zetreaa: Set own game mode to Survival Mode]
-[19:15:19] [Server thread/INFO]: zetreaa was killed
-[19:15:19] [Server thread/INFO]: [zetreaa: Killed zetreaa]
-[19:15:28] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to zetreaa]
-[19:15:40] [Server thread/INFO]: [zetreaa: Teleported zetreaa to feelinghervoice]
-[19:15:44] [Server thread/INFO]: [zetreaa: Set own game mode to Survival Mode]
-[19:15:55] [Server thread/INFO]: zetreaa was killed whilst fighting feelinghervoice
-[19:15:55] [Server thread/INFO]: [zetreaa: Killed zetreaa]
-[19:16:03] [Server thread/INFO]: feelinghervoice has made the advancement [Into Fire]
-[19:16:17] [Server thread/INFO]: zetreaa was killed
-[19:16:17] [Server thread/INFO]: [zetreaa: Killed zetreaa]
-[19:16:24] [Server thread/INFO]: [zetreaa: Teleported zetreaa to feelinghervoice]
-[19:16:37] [Server thread/INFO]: [zetreaa: Set own game mode to Survival Mode]
-[19:16:43] [Server thread/INFO]: [zetreaa: Set the time to 1000]
-[19:17:48] [Server thread/INFO]: zetreaa has made the advancement [Stone Age]
-[19:18:05] [Server thread/INFO]: zetreaa has made the advancement [Getting an Upgrade]
-[19:22:34] [User Authenticator #3/INFO]: UUID of player 17igvnaciojaja is 73e1a612-5acf-495d-b71a-db50d17d74bc
-[19:22:34] [Server thread/INFO]: 17igvnaciojaja[/127.54.175.239:53613] logged in with entity id 3749 at (1.5, 75.0, -5.5)
-[19:22:34] [Server thread/INFO]: 17igvnaciojaja joined the game
-[19:22:39] [Server thread/INFO]: [zetreaa: Made 17igvnaciojaja a server operator]
-[19:23:24] [Server thread/INFO]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
-[19:23:48] [Server thread/INFO]: 17igvnaciojaja has made the advancement [Stone Age]
-[19:24:09] [Server thread/INFO]: 17igvnaciojaja has made the advancement [Getting an Upgrade]
-[19:26:18] [Server thread/INFO]: <17igvnaciojaja> ñ
-[19:27:15] [Server thread/INFO]: 17igvnaciojaja has made the advancement [Monster Hunter]
-[19:28:53] [Server thread/INFO]: 17igvnaciojaja has made the advancement [Acquire Hardware]
-[19:30:13] [Server thread/INFO]: zetreaa has made the advancement [Monster Hunter]
-[19:30:48] [Server thread/INFO]: 17igvnaciojaja has made the advancement [Not Today, Thank You]
-[19:30:49] [Server thread/INFO]: zetreaa has made the advancement [Not Today, Thank You]
-[19:31:11] [Server thread/INFO]: [17igvnaciojaja: Teleported zetreaa to 17igvnaciojaja]
-[19:32:21] [Server thread/INFO]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
-[19:32:52] [Server thread/INFO]: zetreaa has made the advancement [Acquire Hardware]
-[19:33:03] [Server thread/INFO]: zetreaa has made the advancement [Isn't It Iron Pick]
-[19:33:36] [Server thread/INFO]: zetreaa has made the advancement [Diamonds!]
-[19:33:51] [Server thread/INFO]: 17igvnaciojaja has made the advancement [Isn't It Iron Pick]
-[19:34:11] [Server thread/INFO]: 17igvnaciojaja has made the advancement [Suit Up]
-[19:34:40] [Server thread/INFO]: 17igvnaciojaja has made the advancement [Diamonds!]
-[19:35:47] [Server thread/INFO]: feelinghervoice has made the advancement [Acquire Hardware]
-[19:36:05] [Server thread/INFO]: feelinghervoice has made the advancement [Isn't It Iron Pick]
-[19:37:30] [Server thread/INFO]: feelinghervoice has made the advancement [Suit Up]
-[19:40:09] [Server thread/INFO]: feelinghervoice has made the advancement [Diamonds!]
-[19:45:01] [Server thread/INFO]: zetreaa has made the advancement [Suit Up]
-[19:45:39] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 17igvnaciojaja]
-[19:46:25] [Server thread/INFO]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
-[19:46:38] [Server thread/INFO]: feelinghervoice has made the advancement [Monster Hunter]
-[19:46:44] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 17igvnaciojaja]
-[19:47:54] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 17igvnaciojaja]
-[19:48:11] [Server thread/INFO]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
-[19:48:51] [Server thread/INFO]: [17igvnaciojaja: Teleported zetreaa to 17igvnaciojaja]
-[19:49:05] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 17igvnaciojaja]
-[19:49:41] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 17igvnaciojaja]
-[19:50:35] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 17igvnaciojaja]
-[19:51:38] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 17igvnaciojaja]
-[19:51:46] [Server thread/INFO]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
-[19:52:20] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 17igvnaciojaja]
-[19:52:39] [Server thread/INFO]: <feelinghervoice> LAS CAMAS
-[19:52:42] [Server thread/INFO]: <feelinghervoice> CHILENO BOBO
-[19:52:59] [Server thread/INFO]: <17igvnaciojaja> no tengo madera
-[19:53:00] [Server thread/INFO]: <17igvnaciojaja> down
-[19:53:12] [Server thread/INFO]: [zetreaa: Gamerule playersSleepingPercentage is now set to: 50]
-[19:53:29] [Server thread/INFO]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
-[19:53:33] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 17igvnaciojaja]
-[19:53:42] [Server thread/INFO]: feelinghervoice has made the advancement [Sweet Dreams]
-[19:53:49] [Server thread/INFO]: 17igvnaciojaja has made the advancement [Sweet Dreams]
-[19:54:49] [Server thread/INFO]: zetreaa has made the advancement [Ice Bucket Challenge]
-[19:55:20] [Server thread/INFO]: feelinghervoice has made the advancement [Cover Me with Diamonds]
-[19:55:35] [Server thread/INFO]: zetreaa has made the advancement [Hot Stuff]
-[19:56:08] [Server thread/INFO]: feelinghervoice has made the advancement [Fishy Business]
-[19:57:29] [Server thread/INFO]: 17igvnaciojaja has made the advancement [Fishy Business]
-[19:58:26] [Server thread/INFO]: zetreaa has made the advancement [We Need to Go Deeper]
-[19:58:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2457ms or 49 ticks behind
-[19:59:03] [Server thread/INFO]: feelinghervoice has made the advancement [Ice Bucket Challenge]
-[19:59:07] [Server thread/INFO]: feelinghervoice lost connection: Disconnected
-[19:59:07] [Server thread/INFO]: feelinghervoice left the game
-[19:59:10] [User Authenticator #4/INFO]: UUID of player feelinghervoice is 64a4039a-4dc5-4817-88ab-826da54941db
-[19:59:11] [Server thread/INFO]: feelinghervoice[/127.0.215.48:51543] logged in with entity id 15353 at (-481.30000001192093, 64.0, -490.21639654255034)
-[19:59:11] [Server thread/INFO]: feelinghervoice joined the game
-[19:59:47] [Server thread/INFO]: 17igvnaciojaja has made the advancement [Cover Me with Diamonds]
-[20:00:45] [Server thread/INFO]: 17igvnaciojaja has made the advancement [Ice Bucket Challenge]
-[20:01:35] [Server thread/INFO]: zetreaa lost connection: Timed out
-[20:01:35] [Server thread/INFO]: zetreaa left the game
-[20:01:48] [Server thread/INFO]: <feelinghervoice> aca
-[20:01:51] [Server thread/INFO]: <feelinghervoice> XDDD
-[20:02:10] [Server thread/INFO]: 17igvnaciojaja has made the advancement [Hot Stuff]
-[20:02:44] [Server thread/INFO]: feelinghervoice has made the advancement [Hot Stuff]
-[20:03:10] [Server thread/INFO]: <17igvnaciojaja> tengamos uno de agua en la mano
-[20:03:13] [Server thread/INFO]: <17igvnaciojaja> xsiacaso
-[20:03:19] [Server thread/INFO]: <feelinghervoice> sise
-[20:08:13] [User Authenticator #5/INFO]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
-[20:08:13] [Server thread/INFO]: zetreaa[/127.185.209.139:57301] logged in with entity id 16859 at (-471.82325163557255, 66.0, -489.30000001192093)
-[20:08:13] [Server thread/INFO]: zetreaa joined the game
-[20:12:33] [Server thread/INFO]: zetreaa fell from a high place
-[20:13:09] [Server thread/INFO]: [feelinghervoice: Set own game mode to Creative Mode]
-[20:13:15] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to zetreaa]
-[20:13:44] [Server thread/INFO]: zetreaa was shot by Skeleton
-[20:14:05] [Server thread/INFO]: zetreaa hit the ground too hard
-[20:14:19] [Server thread/INFO]: zetreaa was slain by Zombie
-[20:14:38] [Server thread/INFO]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
-[20:14:44] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 17igvnaciojaja]
-[20:15:09] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 17igvnaciojaja]
-[20:15:14] [Server thread/INFO]: [feelinghervoice: Set own game mode to Survival Mode]
-[20:16:11] [Server thread/INFO]: zetreaa lost connection: Disconnected
-[20:16:11] [Server thread/INFO]: zetreaa left the game
-[20:16:40] [Server thread/INFO]: feelinghervoice lost connection: Disconnected
-[20:16:40] [Server thread/INFO]: feelinghervoice left the game
-[20:16:48] [Server thread/INFO]: 17igvnaciojaja lost connection: Disconnected
-[20:16:48] [Server thread/INFO]: 17igvnaciojaja left the game
+[01:01:14] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MSP-2.5/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[01:01:14] [main/INFO]: Compatibility level set to JAVA_16
+[01:01:14] [main/INFO]: Compatibility level set to JAVA_17
+[01:01:15] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[01:01:24] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:01:25] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[01:01:26] [main/INFO]: Loaded 7 recipes
+[01:01:26] [main/INFO]: Loaded 1271 advancements
+[01:01:27] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.860 ms
+[01:01:27] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[01:01:27] [Server thread/INFO]: Loading properties
+[01:01:27] [Server thread/INFO]: Default game type: SURVIVAL
+[01:01:27] [Server thread/INFO]: Generating keypair
+[01:01:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:01:27] [Server thread/INFO]: Using epoll channel type
+[01:01:28] [Server thread/INFO]: Preparing level "world"
+[01:01:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:01:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:01:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:01:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:01:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:01:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:01:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:01:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:01:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:01:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:01:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:01:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:01:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:01:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:01:38] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[01:01:39] [Worker-Main-3/INFO]: Preparing spawn area: 64%
+[01:01:39] [Server thread/INFO]: Time elapsed: 7363 ms
+[01:01:39] [Server thread/INFO]: Done (11.739s)! For help, type "help"
+[01:01:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:01:39] [Server thread/INFO]: <--[HERE]
+[01:02:40] [User Authenticator #1/INFO]: UUID of player 17igvnaciojaja is 73e1a612-5acf-495d-b71a-db50d17d74bc
+[01:02:41] [Server thread/INFO]: 17igvnaciojaja[/127.23.103.32:41419] logged in with entity id 116 at (-185.9391693446151, 71.0, -499.74730831200316)
+[01:02:41] [Server thread/INFO]: 17igvnaciojaja joined the game
+[01:02:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01:06:56] [User Authenticator #2/INFO]: UUID of player feelinghervoice is 64a4039a-4dc5-4817-88ab-826da54941db
+[01:06:56] [Server thread/INFO]: feelinghervoice[/127.0.215.48:59175] logged in with entity id 1210 at (-186.27178360710636, 71.0, -500.226188014674)
+[01:06:56] [Server thread/INFO]: feelinghervoice joined the game
+[01:07:17] [Server thread/INFO]: <feelinghervoice> asd
+[01:07:22] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 17igvnaciojaja]
+[01:10:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-442, y=69, z=-527} class_2338{x=-442, y=70, z=-527}
