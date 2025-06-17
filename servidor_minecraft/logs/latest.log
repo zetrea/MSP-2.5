@@ -1,5 +1,5 @@
-[03:45:27] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.10
-[03:45:27] [main/INFO]: Loading 47 mods:
+[21:38:19] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.10
+[21:38:19] [main/INFO]: Loading 47 mods:
 	- cloth-config 11.1.136
 	   \-- cloth-basic-math 0.6.1
 	- fabric-api 0.92.6+1.20.1
@@ -60,336 +60,47 @@
 	- java 17
 	- minecraft 1.20.1
 	- revive 1.0.7
-[03:45:27] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MSP-2.5/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[03:45:27] [main/INFO]: Compatibility level set to JAVA_16
-[03:45:27] [main/INFO]: Compatibility level set to JAVA_17
-[03:45:28] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[03:45:36] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03:45:38] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[03:45:39] [main/INFO]: Loaded 7 recipes
-[03:45:39] [main/INFO]: Loaded 1271 advancements
-[03:45:40] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.846 ms
-[03:45:40] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[03:45:40] [Server thread/INFO]: Loading properties
-[03:45:40] [Server thread/INFO]: Default game type: SURVIVAL
-[03:45:40] [Server thread/INFO]: Generating keypair
-[03:45:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:45:40] [Server thread/INFO]: Using epoll channel type
-[03:45:40] [Server thread/INFO]: Preparing level "world"
-[03:45:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:45:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:45:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:45:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:45:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:45:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:45:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:45:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:45:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:45:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:45:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:45:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:45:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:45:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:45:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:45:51] [Worker-Main-3/INFO]: Preparing spawn area: 1%
-[03:45:51] [Worker-Main-1/INFO]: Preparing spawn area: 29%
-[03:45:52] [Worker-Main-2/INFO]: Preparing spawn area: 90%
-[03:45:52] [Server thread/INFO]: Time elapsed: 8052 ms
-[03:45:52] [Server thread/INFO]: Done (11.476s)! For help, type "help"
-[03:45:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[03:45:52] [Server thread/INFO]: <--[HERE]
-[03:47:23] [User Authenticator #1/INFO]: UUID of player feelinghervoice is 64a4039a-4dc5-4817-88ab-826da54941db
-[03:47:23] [Server thread/INFO]: feelinghervoice[/127.0.215.48:47931] logged in with entity id 79 at (-478.69999998807907, -48.0, -96.69999998807907)
-[03:47:23] [Server thread/INFO]: feelinghervoice joined the game
-[03:49:38] [User Authenticator #2/INFO]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
-[03:49:38] [Server thread/INFO]: zetreaa[/127.185.209.139:57699] logged in with entity id 521 at (-486.03818163161196, 89.0, 18.67822424514309)
-[03:49:38] [Server thread/INFO]: zetreaa joined the game
-[03:49:56] [User Authenticator #3/INFO]: UUID of player ElJimmyy is 304df7a8-4fc9-4015-82b1-0b9cd37e279a
-[03:49:56] [Server thread/INFO]: ElJimmyy[/127.64.242.226:34889] logged in with entity id 659 at (-480.02057107678115, 90.0, 26.791185350339592)
-[03:49:56] [Server thread/INFO]: ElJimmyy joined the game
-[03:50:00] [Server thread/INFO]: <zetreaa> REVIVANME
-[03:50:09] [User Authenticator #4/INFO]: UUID of player 7Pakass is 34bbec10-7fc8-4863-ae1c-2241b307c6c0
-[03:50:10] [Server thread/INFO]: 7Pakass[/127.68.74.238:54629] logged in with entity id 700 at (-489.7294643506725, 89.17675927506424, 25.722143168059286)
-[03:50:10] [Server thread/INFO]: 7Pakass joined the game
-[03:50:20] [Server thread/INFO]: <zetreaa> LOL
-[03:51:15] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 7Pakass]
-[03:51:30] [Server thread/INFO]: [feelinghervoice: Set own game mode to Creative Mode]
-[03:51:34] [Server thread/INFO]: [feelinghervoice: Set own game mode to Survival Mode]
-[03:53:22] [Server thread/INFO]: feelinghervoice has made the advancement [A Seedy Place]
-[03:57:05] [Server thread/INFO]: [feelinghervoice: Teleported zetreaa to feelinghervoice]
-[03:59:44] [Server thread/INFO]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[04:00:04] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to ElJimmyy]
-[04:00:23] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to ElJimmyy]
-[04:00:30] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to ElJimmyy]
-[04:00:43] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to ElJimmyy]
-[04:00:47] [Server thread/INFO]: [7Pakass: Teleported zetreaa to 7Pakass]
-[04:00:49] [Server thread/WARN]: 7Pakass moved too quickly! -0.010468079784288875,-15.52856988794842,0.0
-[04:00:52] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to ElJimmyy]
-[04:00:55] [Server thread/INFO]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[04:02:43] [Server thread/INFO]: <zetreaa> ,/tp gaymarikon
-[04:02:50] [Server thread/INFO]: [zetreaa: Teleported zetreaa to feelinghervoice]
-[04:02:56] [Server thread/INFO]: <feelinghervoice> ./tp nobioderosi
-[04:02:58] [Server thread/INFO]: [zetreaa: Teleported zetreaa to 7Pakass]
-[04:03:14] [Server thread/INFO]: <zetreaa> SI BRO Y Q
-[04:03:21] [Server thread/INFO]: <7Pakass> XD
-[04:03:24] [Server thread/INFO]: <feelinghervoice> ok
-[04:03:37] [Server thread/INFO]: <zetreaa> ./tp noviodeliluzivert
-[04:03:43] [Server thread/INFO]: <feelinghervoice> ESE SOI YO
-[04:05:57] [Server thread/INFO]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[04:07:09] [Server thread/INFO]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[04:09:30] [Server thread/INFO]: feelinghervoice has completed the challenge [Hot Tourist Destinations]
-[04:10:32] [Server thread/INFO]: feelinghervoice was slain by Piglin Brute
-[04:10:58] [Server thread/INFO]: [7Pakass: Teleported feelinghervoice to 7Pakass]
-[04:17:54] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 339.500000, 80.000000, 288.500000]
-[04:20:26] [Server thread/INFO]: feelinghervoice has made the advancement [War Pigs]
-[04:20:46] [Server thread/INFO]: feelinghervoice has made the advancement [Ice Bucket Challenge]
-[04:26:27] [Server thread/INFO]: zetreaa lost connection: Timed out
-[04:26:27] [Server thread/INFO]: zetreaa left the game
-[04:31:40] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 7Pakass]
-[04:33:01] [Server thread/INFO]: feelinghervoice lost connection: Disconnected
-[04:33:01] [Server thread/INFO]: feelinghervoice left the game
-[04:33:04] [User Authenticator #5/INFO]: UUID of player feelinghervoice is 64a4039a-4dc5-4817-88ab-826da54941db
-[04:33:05] [Server thread/INFO]: feelinghervoice[/127.0.215.48:40715] logged in with entity id 16119 at (-494.25053295167976, 88.875, 35.58769430398482)
-[04:33:05] [Server thread/INFO]: feelinghervoice joined the game
-[04:33:44] [Server thread/INFO]: feelinghervoice lost connection: Disconnected
-[04:33:44] [Server thread/INFO]: feelinghervoice left the game
-[04:33:47] [User Authenticator #6/INFO]: UUID of player feelinghervoice is 64a4039a-4dc5-4817-88ab-826da54941db
-[04:33:48] [Server thread/INFO]: feelinghervoice[/127.0.215.48:36433] logged in with entity id 16209 at (-498.5646157872041, 92.0, 37.54473812496587)
-[04:33:48] [Server thread/INFO]: feelinghervoice joined the game
-[04:34:43] [User Authenticator #7/INFO]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
-[04:34:44] [Server thread/INFO]: zetreaa[/127.185.209.139:47129] logged in with entity id 16347 at (-303.7949204271667, -54.0, 27.69999998807907)
-[04:34:44] [Server thread/INFO]: zetreaa joined the game
-[04:35:32] [Server thread/INFO]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[04:36:06] [Server thread/INFO]: zetreaa lost connection: Disconnected
-[04:36:06] [Server thread/INFO]: zetreaa left the game
-[04:36:15] [User Authenticator #8/INFO]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
-[04:36:16] [Server thread/INFO]: zetreaa[/127.185.209.139:53849] logged in with entity id 16760 at (-366.28512709413525, -52.0, 26.69999998807907)
-[04:36:16] [Server thread/INFO]: zetreaa joined the game
-[04:36:55] [Server thread/INFO]: [ElJimmyy: Teleported ElJimmyy to 7Pakass]
-[04:38:40] [Server thread/INFO]: feelinghervoice has made the advancement [Who is Cutting Onions?]
-[04:43:05] [Server thread/INFO]: 7Pakass has made the advancement [Take Aim]
-[04:43:06] [Server thread/INFO]: [ElJimmyy: Teleported ElJimmyy to -733.900000, 58.770000, -26.010000]
-[04:43:19] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to ElJimmyy]
-[04:43:21] [Server thread/INFO]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[04:43:56] [Server thread/INFO]: [zetreaa: Teleported zetreaa to feelinghervoice]
-[04:43:58] [Server thread/INFO]: [feelinghervoice: Teleported zetreaa to feelinghervoice]
-[04:44:06] [Server thread/INFO]: [zetreaa: Teleported zetreaa to -487.670000, 88.000000, 19.290000]
-[04:44:09] [Server thread/INFO]: [feelinghervoice: Teleported zetreaa to feelinghervoice]
-[04:44:17] [Server thread/INFO]: [feelinghervoice: Teleported zetreaa to feelinghervoice]
-[04:44:31] [Server thread/INFO]: [zetreaa: Teleported zetreaa to -487.670000, 88.000000, 19.290000]
-[04:46:53] [Server thread/INFO]: <ElJimmyy> pq no hablas w
-[04:46:57] [Server thread/INFO]: [feelinghervoice: Teleported zetreaa to feelinghervoice]
-[04:47:27] [Server thread/INFO]: [feelinghervoice: Teleported zetreaa to feelinghervoice]
-[04:48:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-383, y=88, z=1317} class_2338{x=-383, y=87, z=1316}
-[04:50:09] [Server thread/INFO]: ElJimmyy has made the advancement [Ol' Betsy]
-[04:50:33] [Server thread/INFO]: ElJimmyy has made the advancement [Take Aim]
-[04:53:02] [Server thread/INFO]: zetreaa was slain by Zombie
-[04:53:14] [Server thread/INFO]: 7Pakass has made the advancement [Ol' Betsy]
-[04:53:29] [Server thread/INFO]: 7Pakass was slain by Piglin Brute
-[04:53:35] [Server thread/INFO]: Villager class_1646['Villager'/21624, l='ServerLevel[world]', x=-368.29, y=96.95, z=1315.69] died, message: 'Villager was slain by Zombie'
-[04:53:50] [Server thread/INFO]: [feelinghervoice: Teleported ElJimmyy to feelinghervoice]
-[04:54:15] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to ElJimmyy]
-[04:54:19] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to ElJimmyy]
-[04:54:19] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to ElJimmyy]
-[04:54:19] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to ElJimmyy]
-[04:54:20] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to ElJimmyy]
-[04:54:20] [Server thread/INFO]: <7Pakass> t
-[04:54:20] [Server thread/INFO]: <7Pakass> t
-[04:54:21] [Server thread/INFO]: <7Pakass> t
-[04:54:29] [Server thread/INFO]: ElJimmyy burned to death
-[04:55:03] [Server thread/INFO]: Villager class_1646['Leatherworker'/21625, l='ServerLevel[world]', x=-340.34, y=84.00, z=1239.14] died, message: 'Leatherworker was slain by Zombie'
-[04:55:08] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:55:10] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:55:10] [Server thread/INFO]: <7Pakass> t
-[04:55:10] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to -499.500000, 75.000000, 30.500000]
-[04:55:12] [Server thread/INFO]: <7Pakass> t
-[04:55:15] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:55:26] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to ElJimmyy]
-[04:55:29] [Server thread/INFO]: Villager class_1646['Leatherworker'/21657, l='ServerLevel[world]', x=-382.70, y=89.00, z=1258.32] died, message: 'Leatherworker was slain by Zombie'
-[04:55:42] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to -499.500000, 75.000000, 48.500000]
-[04:55:59] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to -479.500000, 80.000000, 19.500000]
-[04:56:05] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to -479.500000, 88.000000, 19.500000]
-[04:56:08] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:56:11] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:56:11] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:56:12] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:56:13] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:56:13] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:56:14] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:56:15] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:56:15] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:56:16] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:56:16] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:56:18] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:56:19] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:56:20] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:56:20] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:56:21] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:56:21] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:56:22] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:56:43] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:56:44] [Server thread/INFO]: Villager class_1646['Villager'/25805, l='ServerLevel[world]', x=-532.86, y=69.00, z=-20.66] died, message: 'Villager was slain by Zombie'
-[04:56:50] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to ElJimmyy]
-[04:56:51] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to ElJimmyy]
-[04:56:52] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:56:53] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:56:54] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:56:54] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:56:59] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:57:02] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:57:17] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:57:20] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:57:21] [Server thread/INFO]: <7Pakass> t
-[04:57:23] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:57:24] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:57:25] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:57:27] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:57:58] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:57:58] [Server thread/INFO]: Villager class_1646['Leatherworker'/21764, l='ServerLevel[world]', x=-358.70, y=85.00, z=1333.30] died, message: 'Leatherworker was slain by Zombie'
-[04:59:25] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:59:31] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:59:33] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:59:36] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:59:38] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:59:42] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:59:44] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:59:45] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:59:46] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:59:47] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:59:48] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[04:59:48] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:01] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:04] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:04] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:05] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:05] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:05] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:07] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:07] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:08] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:09] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:09] [Server thread/INFO]: <7Pakass> t
-[05:01:10] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:11] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:11] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:12] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:12] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:23] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:24] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:24] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:25] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:25] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:25] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:26] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:26] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:27] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:28] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:28] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:29] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:29] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:30] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:30] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:31] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:31] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:32] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:33] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:34] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:35] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:35] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:36] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:36] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:37] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:37] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:38] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:47] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:01:49] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to -479.500000, 88.000000, 19.500000]
-[05:01:55] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 7Pakass]
-[05:02:02] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:02:03] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:02:03] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:02:04] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:02:05] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:02:05] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:02:06] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:02:06] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:02:07] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:02:07] [Server thread/INFO]: <7Pakass> tt
-[05:02:09] [Server thread/INFO]: <7Pakass> tt
-[05:02:09] [Server thread/INFO]: <7Pakass> t
-[05:02:12] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:02:12] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:02:12] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:02:13] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:02:13] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:02:15] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:02:26] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:02:27] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:02:31] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to -479.500000, 88.000000, 19.500000]
-[05:02:32] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:02:35] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:02:35] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:02:37] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:02:38] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:02:39] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:02:39] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[05:02:55] [Server thread/INFO]: [7Pakass: Teleported ElJimmyy to 7Pakass]
-[05:03:12] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:03:13] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:03:13] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:03:15] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:03:16] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:03:16] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:03:17] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:03:18] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:03:19] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:03:19] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:03:20] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:03:21] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:03:22] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:03:22] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:03:23] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:03:24] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:03:24] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:03:25] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:03:32] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:03:33] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:03:34] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:03:35] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:03:35] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:03:36] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:03:39] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:03:45] [Server thread/INFO]: feelinghervoice has made the advancement [Into Fire]
-[05:03:51] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:04:18] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:04:19] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:04:20] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:04:21] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:04:21] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:04:22] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:04:29] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:04:29] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:04:30] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:04:36] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:04:37] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:04:37] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:04:40] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:04:40] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:04:40] [Server thread/INFO]: <7Pakass> t
-[05:04:41] [Server thread/INFO]: <7Pakass> t
-[05:04:43] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:04:43] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:04:44] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:04:44] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:04:45] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:04:48] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:04:55] [Server thread/INFO]: feelinghervoice has made the advancement [Local Brewery]
-[05:05:24] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:05:24] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:05:25] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:05:39] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:05:54] [Server thread/INFO]: [7Pakass: Teleported 4 entities to feelinghervoice]
-[05:06:11] [Server thread/INFO]: [7Pakass: Kicked ElJimmyy: Kicked by an operator]
-[05:06:11] [Server thread/INFO]: ElJimmyy lost connection: Kicked by an operator
-[05:06:11] [Server thread/INFO]: ElJimmyy left the game
-[05:06:22] [Server thread/INFO]: feelinghervoice lost connection: Disconnected
-[05:06:22] [Server thread/INFO]: feelinghervoice left the game
+[21:38:20] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MSP-2.5/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:38:20] [main/INFO]: Compatibility level set to JAVA_16
+[21:38:20] [main/INFO]: Compatibility level set to JAVA_17
+[21:38:20] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[21:38:29] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:38:30] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[21:38:31] [main/INFO]: Loaded 7 recipes
+[21:38:31] [main/INFO]: Loaded 1271 advancements
+[21:38:32] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.768 ms
+[21:38:32] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[21:38:32] [Server thread/INFO]: Loading properties
+[21:38:32] [Server thread/INFO]: Default game type: SURVIVAL
+[21:38:32] [Server thread/INFO]: Generating keypair
+[21:38:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:38:32] [Server thread/INFO]: Using epoll channel type
+[21:38:33] [Server thread/INFO]: Preparing level "world"
+[21:38:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:38:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:38:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:38:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:38:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:38:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:38:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:38:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:38:41] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:38:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:38:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:38:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:38:43] [Worker-Main-2/INFO]: Preparing spawn area: 5%
+[21:38:44] [Worker-Main-2/INFO]: Preparing spawn area: 57%
+[21:38:44] [Server thread/INFO]: Time elapsed: 7779 ms
+[21:38:44] [Server thread/INFO]: Done (11.237s)! For help, type "help"
+[21:39:22] [User Authenticator #1/INFO]: UUID of player feelinghervoice is 64a4039a-4dc5-4817-88ab-826da54941db
+[21:39:23] [Server thread/INFO]: feelinghervoice[/127.0.215.48:38607] logged in with entity id 66 at (-484.24925161498123, 91.5, 31.51205620228331)
+[21:39:23] [Server thread/INFO]: feelinghervoice joined the game
+[21:43:02] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 224.500000, 80.000000, 1104.500000]
+[21:43:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4919ms or 98 ticks behind
+[21:43:16] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 224.500000, 90.000000, 1104.500000]
+[21:45:58] [User Authenticator #2/INFO]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
+[21:45:58] [Server thread/INFO]: zetreaa[/127.185.209.139:53389] logged in with entity id 1639 at (-490.66457290878543, 88.0, 27.487127827075614)
+[21:45:59] [Server thread/INFO]: zetreaa joined the game
