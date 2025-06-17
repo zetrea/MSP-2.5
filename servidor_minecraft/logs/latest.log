@@ -307,3 +307,13 @@
 [22:38:55] [User Authenticator #10/INFO]: UUID of player 7Pakass is 34bbec10-7fc8-4863-ae1c-2241b307c6c0
 [22:38:55] [Server thread/INFO]: 7Pakass[/127.68.74.238:53313] logged in with entity id 27553 at (-496.8977951641061, 93.9375, 43.46100262360799)
 [22:38:55] [Server thread/INFO]: 7Pakass joined the game
+[22:41:05] [User Authenticator #11/INFO]: UUID of player ElJimmyy is 304df7a8-4fc9-4015-82b1-0b9cd37e279a
+[22:41:06] [Server thread/INFO]: ElJimmyy[/127.64.242.226:39335] logged in with entity id 27858 at (-490.49826670969424, 90.0, 31.07499998807907)
+[22:41:06] [Server thread/INFO]: ElJimmyy joined the game
+[22:41:38] [Server thread/INFO]: feelinghervoice was slain by Iron Golem
+[22:43:26] [Server thread/INFO]: feelinghervoice lost connection: Disconnected
+[22:43:26] [Server thread/INFO]: feelinghervoice left the game
+[22:43:31] [User Authenticator #12/INFO]: UUID of player feelinghervoice is 64a4039a-4dc5-4817-88ab-826da54941db
+[22:43:31] [Server thread/INFO]: feelinghervoice[/127.0.215.48:35277] logged in with entity id 28195 at (-489.6041639309739, 88.0, 33.88367922668511)
+[22:43:31] [Server thread/INFO]: feelinghervoice joined the game
+[22:48:10] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to ElJimmyy]
