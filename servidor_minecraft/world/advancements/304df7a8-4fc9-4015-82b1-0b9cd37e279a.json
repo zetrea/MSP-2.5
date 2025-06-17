@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-06-15 06:44:56 +0000",
+      "minecraft:dark_forest": "2025-06-17 22:01:13 +0000",
       "minecraft:river": "2025-06-15 05:43:13 +0000",
       "minecraft:forest": "2025-06-15 05:43:26 +0000",
       "minecraft:savanna": "2025-06-17 04:53:51 +0000",
