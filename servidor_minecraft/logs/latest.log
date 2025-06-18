@@ -1,5 +1,5 @@
-[21:38:19] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.10
-[21:38:19] [main/INFO]: Loading 47 mods:
+[23:27:49] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.10
+[23:27:49] [main/INFO]: Loading 47 mods:
 	- cloth-config 11.1.136
 	   \-- cloth-basic-math 0.6.1
 	- fabric-api 0.92.6+1.20.1
@@ -60,271 +60,64 @@
 	- java 17
 	- minecraft 1.20.1
 	- revive 1.0.7
-[21:38:20] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MSP-2.5/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[21:38:20] [main/INFO]: Compatibility level set to JAVA_16
-[21:38:20] [main/INFO]: Compatibility level set to JAVA_17
-[21:38:20] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[21:38:29] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:38:30] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[21:38:31] [main/INFO]: Loaded 7 recipes
-[21:38:31] [main/INFO]: Loaded 1271 advancements
-[21:38:32] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.768 ms
-[21:38:32] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[21:38:32] [Server thread/INFO]: Loading properties
-[21:38:32] [Server thread/INFO]: Default game type: SURVIVAL
-[21:38:32] [Server thread/INFO]: Generating keypair
-[21:38:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:38:32] [Server thread/INFO]: Using epoll channel type
-[21:38:33] [Server thread/INFO]: Preparing level "world"
-[21:38:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:38:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:38:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:38:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:38:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:38:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:38:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:38:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:38:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:38:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:38:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:38:41] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:38:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:38:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:38:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:38:43] [Worker-Main-2/INFO]: Preparing spawn area: 5%
-[21:38:44] [Worker-Main-2/INFO]: Preparing spawn area: 57%
-[21:38:44] [Server thread/INFO]: Time elapsed: 7779 ms
-[21:38:44] [Server thread/INFO]: Done (11.237s)! For help, type "help"
-[21:39:22] [User Authenticator #1/INFO]: UUID of player feelinghervoice is 64a4039a-4dc5-4817-88ab-826da54941db
-[21:39:23] [Server thread/INFO]: feelinghervoice[/127.0.215.48:38607] logged in with entity id 66 at (-484.24925161498123, 91.5, 31.51205620228331)
-[21:39:23] [Server thread/INFO]: feelinghervoice joined the game
-[21:43:02] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 224.500000, 80.000000, 1104.500000]
-[21:43:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4919ms or 98 ticks behind
-[21:43:16] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 224.500000, 90.000000, 1104.500000]
-[21:45:58] [User Authenticator #2/INFO]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
-[21:45:58] [Server thread/INFO]: zetreaa[/127.185.209.139:53389] logged in with entity id 1639 at (-490.66457290878543, 88.0, 27.487127827075614)
-[21:45:59] [Server thread/INFO]: zetreaa joined the game
-[21:50:45] [User Authenticator #3/INFO]: UUID of player 7Pakass is 34bbec10-7fc8-4863-ae1c-2241b307c6c0
-[21:50:45] [Server thread/INFO]: 7Pakass[/127.68.74.238:46297] logged in with entity id 3090 at (-508.08676019631633, 92.43270087700593, 21.81042614369885)
-[21:50:45] [Server thread/INFO]: 7Pakass joined the game
-[21:52:18] [User Authenticator #4/INFO]: UUID of player 17igvnaciojaja is 73e1a612-5acf-495d-b71a-db50d17d74bc
-[21:52:19] [Server thread/INFO]: 17igvnaciojaja[/127.199.170.153:45435] logged in with entity id 3811 at (-242.5, 69.0, -148.5)
-[21:52:19] [Server thread/INFO]: 17igvnaciojaja joined the game
-[21:52:28] [Server thread/INFO]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
-[21:52:38] [Server thread/INFO]: [17igvnaciojaja: Teleported 17igvnaciojaja to feelinghervoice]
-[21:52:48] [Server thread/INFO]: [7Pakass: Teleported 17igvnaciojaja to 7Pakass]
-[21:53:10] [Server thread/INFO]: 17igvnaciojaja has made the advancement [Stone Age]
-[21:53:21] [Server thread/INFO]: 17igvnaciojaja has made the advancement [Getting an Upgrade]
-[21:53:42] [Server thread/INFO]: 17igvnaciojaja has made the advancement [Acquire Hardware]
-[21:53:48] [Server thread/INFO]: 17igvnaciojaja has made the advancement [Isn't It Iron Pick]
-[21:53:55] [Server thread/INFO]: 17igvnaciojaja has made the advancement [Suit Up]
-[21:54:30] [Server thread/INFO]: 17igvnaciojaja has made the advancement [A Seedy Place]
-[21:55:06] [Server thread/INFO]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
-[21:57:32] [Server thread/INFO]: [zetreaa: Teleported zetreaa to 7Pakass]
-[21:57:39] [Server thread/INFO]: [zetreaa: Teleported zetreaa to feelinghervoice]
-[21:57:47] [Server thread/INFO]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
-[21:58:13] [Server thread/INFO]: [17igvnaciojaja: Teleported 17igvnaciojaja to feelinghervoice]
-[21:58:15] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[21:59:01] [Server thread/INFO]: [17igvnaciojaja: Teleported 17igvnaciojaja to feelinghervoice]
-[21:59:49] [Server thread/INFO]: 17igvnaciojaja has made the advancement [Monster Hunter]
-[22:00:30] [User Authenticator #5/INFO]: UUID of player ElJimmyy is 304df7a8-4fc9-4015-82b1-0b9cd37e279a
-[22:00:30] [Server thread/INFO]: ElJimmyy[/127.64.242.226:44451] logged in with entity id 9385 at (-518.7144487831804, 97.15310793487474, 21.011897891662)
-[22:00:30] [Server thread/INFO]: ElJimmyy joined the game
-[22:00:36] [Server thread/INFO]: 17igvnaciojaja was slain by Vex
-[22:00:36] [Server thread/INFO]: [zetreaa: Teleported zetreaa to feelinghervoice]
-[22:00:39] [Server thread/INFO]: [7Pakass: Teleported feelinghervoice to 7Pakass]
-[22:00:42] [Server thread/INFO]: <ElJimmyy> XDDD
-[22:00:49] [Server thread/INFO]: [17igvnaciojaja: Teleported 17igvnaciojaja to feelinghervoice]
-[22:00:52] [Server thread/INFO]: zetreaa has made the advancement [Cover Me with Diamonds]
-[22:00:53] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 7Pakass]
-[22:01:00] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[22:01:12] [Server thread/INFO]: [ElJimmyy: Teleported ElJimmyy to 7Pakass]
-[22:01:33] [Server thread/INFO]: [17igvnaciojaja: Teleported 17igvnaciojaja to feelinghervoice]
-[22:01:43] [Server thread/INFO]: [17igvnaciojaja: Set own game mode to Survival Mode]
-[22:01:48] [Server thread/INFO]: ElJimmyy was killed by Evoker using magic
-[22:02:20] [Server thread/INFO]: 17igvnaciojaja was slain by feelinghervoice
-[22:02:22] [Server thread/INFO]: 17igvnaciojaja lost connection: Disconnected
-[22:02:22] [Server thread/INFO]: 17igvnaciojaja left the game
-[22:02:36] [User Authenticator #6/INFO]: UUID of player 17igvnaciojaja is 73e1a612-5acf-495d-b71a-db50d17d74bc
-[22:02:37] [Server thread/INFO]: 17igvnaciojaja[/127.199.170.153:33313] logged in with entity id 10066 at (443.30000001192093, 75.0, 483.69999998807907)
-[22:02:37] [Server thread/INFO]: 17igvnaciojaja joined the game
-[22:03:31] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to -499.500000, 80.000000, 30.500000]
-[22:03:49] [Server thread/INFO]: [ElJimmyy: Teleported ElJimmyy to -64.560000, 60.630000, 57.750000]
-[22:03:57] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 7Pakass]
-[22:03:59] [Server thread/INFO]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
-[22:04:06] [Server thread/INFO]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
-[22:04:21] [Server thread/INFO]: [ElJimmyy: Teleported ElJimmyy to feelinghervoice]
-[22:04:30] [Server thread/INFO]: [ElJimmyy: Teleported ElJimmyy to 7Pakass]
-[22:04:59] [Server thread/INFO]: <ElJimmyy> t/e revivir
-[22:05:17] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 17igvnaciojaja]
-[22:05:21] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to ElJimmyy]
-[22:05:27] [Server thread/INFO]: [17igvnaciojaja: Teleported 17igvnaciojaja to 7Pakass]
-[22:05:28] [Server thread/INFO]: [feelinghervoice: Teleported 17igvnaciojaja to feelinghervoice]
-[22:05:35] [Server thread/INFO]: [feelinghervoice: Teleported 17igvnaciojaja to feelinghervoice]
-[22:05:39] [Server thread/INFO]: [feelinghervoice: Teleported ElJimmyy to feelinghervoice]
-[22:05:39] [Server thread/INFO]: [17igvnaciojaja: Set own game mode to Survival Mode]
-[22:05:44] [Server thread/INFO]: 17igvnaciojaja was killed
-[22:05:44] [Server thread/INFO]: [feelinghervoice: Killed 17igvnaciojaja]
-[22:06:50] [Server thread/INFO]: zetreaa was slain by Vindicator
-[22:06:51] [Server thread/INFO]: 17igvnaciojaja was shot by ElJimmyy
-[22:06:59] [Server thread/INFO]: [17igvnaciojaja: Teleported 17igvnaciojaja to 7Pakass]
-[22:07:07] [Server thread/INFO]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
-[22:07:16] [Server thread/INFO]: [17igvnaciojaja: Teleported 17igvnaciojaja to 7Pakass]
-[22:07:30] [Server thread/INFO]: zetreaa lost connection: Timed out
-[22:07:30] [Server thread/INFO]: zetreaa left the game
-[22:07:35] [Server thread/INFO]: feelinghervoice has made the advancement [Hidden in the Depths]
-[22:07:43] [User Authenticator #7/INFO]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
-[22:07:44] [Server thread/INFO]: zetreaa[/127.185.209.139:35363] logged in with entity id 12027 at (488.93528748064875, 71.0625, 467.05261315630486)
-[22:07:44] [Server thread/INFO]: zetreaa joined the game
-[22:07:54] [Server thread/INFO]: <zetreaa> FALLING DOWN DE LILPIP
-[22:07:57] [Server thread/INFO]: <zetreaa> LA MEJOR CANCION
-[22:08:04] [Server thread/INFO]: <zetreaa> REVIVANME
-[22:08:10] [Server thread/INFO]: <zetreaa> Y MUESTRAME LAS TETAS IGNACIO
-[22:08:12] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:13] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:13] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:14] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:14] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:15] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 443.960000, 69.000000, 487.960000]
-[22:08:15] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:15] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:16] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:16] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:17] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:17] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:17] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:18] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:18] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:18] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:19] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:19] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:20] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:20] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:20] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:21] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:21] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:22] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:22] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:22] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:23] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:24] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:24] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:25] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:25] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:26] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:26] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:26] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:27] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:27] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:28] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:28] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:28] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:29] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:29] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:30] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:30] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:31] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:31] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:31] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:33] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:08:48] [Server thread/INFO]: [7Pakass: Teleported zetreaa to 10000.500000, 50.000000, 20000.500000]
-[22:08:49] [Server thread/WARN]: 17igvnaciojaja moved too quickly! 8.171414674416951,-6.000000238418579,-1.085904918003493
-[22:09:05] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:09:31] [Server thread/INFO]: [7Pakass: Teleported zetreaa to 7Pakass]
-[22:09:34] [Server thread/INFO]: [7Pakass: Teleported zetreaa to 7Pakass]
-[22:09:47] [Server thread/INFO]: [17igvnaciojaja: Set own game mode to Survival Mode]
-[22:09:51] [Server thread/INFO]: 17igvnaciojaja was slain by 7Pakass
-[22:10:01] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to feelinghervoice]
-[22:10:01] [Server thread/INFO]: <zetreaa> ./el pepe
-[22:10:10] [Server thread/INFO]: [7Pakass: Teleported zetreaa to ElJimmyy]
-[22:10:12] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to ElJimmyy]
-[22:10:17] [User Authenticator #8/INFO]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
-[22:10:18] [Server thread/INFO]: zetreaa lost connection: You logged in from another location
-[22:10:18] [Server thread/INFO]: zetreaa left the game
-[22:10:18] [Server thread/INFO]: zetreaa[/127.185.209.139:42875] logged in with entity id 13578 at (-496.0267179096416, 89.875, 35.30000001192093)
-[22:10:18] [Server thread/INFO]: zetreaa joined the game
-[22:10:25] [Server thread/INFO]: <zetreaa> ./e dance
-[22:11:15] [Server thread/INFO]: [7Pakass: Teleported 17igvnaciojaja to 7Pakass]
-[22:11:20] [Server thread/INFO]: [7Pakass: Teleported zetreaa to 7Pakass]
-[22:11:32] [Server thread/INFO]: 17igvnaciojaja has made the advancement [Sweet Dreams]
-[22:12:01] [Server thread/INFO]: <17igvnaciojaja> ./e dance2
-[22:12:09] [Server thread/INFO]: [zetreaa: Teleported zetreaa to feelinghervoice]
-[22:12:12] [Server thread/INFO]: [7Pakass: Kicked 17igvnaciojaja: Kicked by an operator]
-[22:12:12] [Server thread/INFO]: 17igvnaciojaja lost connection: Kicked by an operator
-[22:12:12] [Server thread/INFO]: 17igvnaciojaja left the game
-[22:16:33] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to ElJimmyy]
-[22:19:30] [Server thread/INFO]: feelinghervoice has reached the goal [Postmortal]
-[22:19:32] [Server thread/INFO]: feelinghervoice was slain by Vindicator
-[22:19:54] [Server thread/INFO]: [7Pakass: Teleported feelinghervoice to ElJimmyy]
-[22:22:03] [Server thread/INFO]: [ElJimmyy: Teleported ElJimmyy to feelinghervoice]
-[22:22:17] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to ElJimmyy]
-[22:25:20] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to ElJimmyy]
-[22:26:31] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to ElJimmyy]
-[22:28:13] [Server thread/INFO]: <7Pakass> zzzz
-[22:28:18] [Server thread/INFO]: <ElJimmyy> z
-[22:28:18] [Server thread/INFO]: <ElJimmyy> z
-[22:28:18] [Server thread/INFO]: <ElJimmyy> z
-[22:28:18] [Server thread/INFO]: <ElJimmyy> z
-[22:28:18] [Server thread/INFO]: <ElJimmyy> z
-[22:28:18] [Server thread/INFO]: <ElJimmyy> z
-[22:28:19] [Server thread/INFO]: <ElJimmyy> z
-[22:28:19] [Server thread/INFO]: <ElJimmyy> z
-[22:28:19] [Server thread/INFO]: <ElJimmyy> z
-[22:28:19] [Server thread/INFO]: <ElJimmyy> z
-[22:28:19] [Server thread/INFO]: <ElJimmyy> z
-[22:28:20] [Server thread/INFO]: <ElJimmyy> z
-[22:28:20] [Server thread/INFO]: <ElJimmyy> z
-[22:28:20] [Server thread/INFO]: <ElJimmyy> z
-[22:28:20] [Server thread/INFO]: <ElJimmyy> z
-[22:28:20] [Server thread/INFO]: <ElJimmyy> z
-[22:28:20] [Server thread/INFO]: <ElJimmyy> z
-[22:28:20] [Server thread/INFO]: <ElJimmyy> z
-[22:28:21] [Server thread/INFO]: <ElJimmyy> z
-[22:28:21] [Server thread/INFO]: <ElJimmyy> z
-[22:28:21] [Server thread/INFO]: <ElJimmyy> z
-[22:28:57] [User Authenticator #9/INFO]: UUID of player 17igvnaciojaja is 73e1a612-5acf-495d-b71a-db50d17d74bc
-[22:28:57] [Server thread/INFO]: 17igvnaciojaja[/127.199.170.153:57873] logged in with entity id 25276 at (-487.44501623607545, 88.0, 26.27844486200847)
-[22:28:57] [Server thread/INFO]: 17igvnaciojaja joined the game
-[22:29:16] [Server thread/INFO]: <feelinghervoice> XD
-[22:29:37] [Server thread/INFO]: 17igvnaciojaja was shot by feelinghervoice
-[22:29:44] [Server thread/INFO]: <zetreaa> XDDD
-[22:29:47] [Server thread/INFO]: <7Pakass> JAJAJAJAJ
-[22:30:14] [Server thread/INFO]: Villager class_1646['Villager'/10263, l='ServerLevel[world]', x=-493.66, y=88.00, z=24.42] died, message: 'Villager was shot by feelinghervoice'
-[22:30:20] [Server thread/INFO]: <feelinghervoice> XD
-[22:30:41] [Server thread/INFO]: [zetreaa: Teleported zetreaa to 7Pakass]
-[22:30:56] [Server thread/INFO]: 17igvnaciojaja was slain by feelinghervoice
-[22:31:01] [Server thread/INFO]: 17igvnaciojaja lost connection: Disconnected
-[22:31:01] [Server thread/INFO]: 17igvnaciojaja left the game
-[22:31:02] [Server thread/INFO]: <zetreaa> SYBAU
-[22:31:06] [Server thread/INFO]: feelinghervoice was slain by Iron Golem
-[22:32:52] [Server thread/INFO]: zetreaa was doomed to fall by feelinghervoice
-[22:33:01] [Server thread/INFO]: zetreaa lost connection: Disconnected
-[22:33:01] [Server thread/INFO]: zetreaa left the game
-[22:34:33] [Server thread/INFO]: 7Pakass lost connection: Disconnected
-[22:34:33] [Server thread/INFO]: 7Pakass left the game
-[22:38:51] [Server thread/INFO]: ElJimmyy lost connection: Disconnected
-[22:38:51] [Server thread/INFO]: ElJimmyy left the game
-[22:38:55] [User Authenticator #10/INFO]: UUID of player 7Pakass is 34bbec10-7fc8-4863-ae1c-2241b307c6c0
-[22:38:55] [Server thread/INFO]: 7Pakass[/127.68.74.238:53313] logged in with entity id 27553 at (-496.8977951641061, 93.9375, 43.46100262360799)
-[22:38:55] [Server thread/INFO]: 7Pakass joined the game
-[22:41:05] [User Authenticator #11/INFO]: UUID of player ElJimmyy is 304df7a8-4fc9-4015-82b1-0b9cd37e279a
-[22:41:06] [Server thread/INFO]: ElJimmyy[/127.64.242.226:39335] logged in with entity id 27858 at (-490.49826670969424, 90.0, 31.07499998807907)
-[22:41:06] [Server thread/INFO]: ElJimmyy joined the game
-[22:41:38] [Server thread/INFO]: feelinghervoice was slain by Iron Golem
-[22:43:26] [Server thread/INFO]: feelinghervoice lost connection: Disconnected
-[22:43:26] [Server thread/INFO]: feelinghervoice left the game
-[22:43:31] [User Authenticator #12/INFO]: UUID of player feelinghervoice is 64a4039a-4dc5-4817-88ab-826da54941db
-[22:43:31] [Server thread/INFO]: feelinghervoice[/127.0.215.48:35277] logged in with entity id 28195 at (-489.6041639309739, 88.0, 33.88367922668511)
-[22:43:31] [Server thread/INFO]: feelinghervoice joined the game
-[22:48:10] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to ElJimmyy]
-[22:51:09] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to ElJimmyy]
-[23:00:56] [Server thread/INFO]: <ElJimmyy> alguien tiene una hacha de diamante?
-[23:01:51] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to ElJimmyy]
-[23:02:33] [Server thread/INFO]: feelinghervoice lost connection: Disconnected
-[23:02:33] [Server thread/INFO]: feelinghervoice left the game
-[23:10:39] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to ElJimmyy]
-[23:16:13] [Server thread/INFO]: <ElJimmyy> -239 -144
-[23:16:18] [Server thread/INFO]: [7Pakass: Teleported 7Pakass to ElJimmyy]
-[23:33:27] [Server thread/INFO]: ElJimmyy has made the advancement [What a Deal!]
-[23:48:40] [Server thread/INFO]: ElJimmyy has made the advancement [Cover Me with Diamonds]
-[23:50:10] [Server thread/INFO]: [7Pakass: Teleported ElJimmyy to 7Pakass]
+[23:27:49] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MSP-2.5/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[23:27:49] [main/INFO]: Compatibility level set to JAVA_16
+[23:27:49] [main/INFO]: Compatibility level set to JAVA_17
+[23:27:50] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[23:27:59] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:28:01] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[23:28:01] [main/INFO]: Loaded 7 recipes
+[23:28:02] [main/INFO]: Loaded 1271 advancements
+[23:28:02] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 2.058 ms
+[23:28:02] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[23:28:02] [Server thread/INFO]: Loading properties
+[23:28:02] [Server thread/INFO]: Default game type: SURVIVAL
+[23:28:02] [Server thread/INFO]: Generating keypair
+[23:28:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:28:02] [Server thread/INFO]: Using epoll channel type
+[23:28:03] [Server thread/INFO]: Preparing level "world"
+[23:28:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:28:12] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:28:13] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:28:13] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:28:13] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:28:13] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:28:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:28:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:28:13] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:28:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:28:13] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:28:13] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:28:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:28:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:28:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:28:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:28:14] [Worker-Main-1/INFO]: Preparing spawn area: 28%
+[23:28:14] [Worker-Main-1/INFO]: Preparing spawn area: 83%
+[23:28:14] [Server thread/INFO]: Time elapsed: 8130 ms
+[23:28:14] [Server thread/INFO]: Done (11.844s)! For help, type "help"
+[23:28:15] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:28:15] [Server thread/INFO]: <--[HERE]
+[23:28:15] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:28:15] [Server thread/INFO]: <--[HERE]
+[23:31:22] [User Authenticator #1/INFO]: UUID of player ElJimmyy is 304df7a8-4fc9-4015-82b1-0b9cd37e279a
+[23:31:22] [Server thread/INFO]: ElJimmyy[/127.64.242.226:38633] logged in with entity id 64 at (-495.69999998807907, 87.0, 38.41155733762532)
+[23:31:22] [Server thread/INFO]: ElJimmyy joined the game
+[23:41:48] [Server thread/INFO]: [ElJimmyy: Teleported ElJimmyy to -733.900000, 58.770000, -26.010000]
+[23:42:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@79f360ea[id=<null>,name=zetreaa,properties={},legacy=false] (/127.185.209.139:57225) lost connection: Disconnected
+[23:42:27] [User Authenticator #2/INFO]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
+[23:42:28] [Server thread/INFO]: zetreaa[/127.185.209.139:39773] logged in with entity id 2032 at (-515.4584954439734, 86.9375, 77.4364123717089)
+[23:42:28] [Server thread/INFO]: zetreaa joined the game
+[23:42:37] [Server thread/INFO]: <zetreaa> REVIVE
+[23:42:43] [Server thread/INFO]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[23:42:59] [Server thread/INFO]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[23:43:12] [Server thread/INFO]: [ElJimmyy: Teleported ElJimmyy to -64.560000, 60.630000, 57.750000]
+[23:43:47] [Server thread/INFO]: [zetreaa: Teleported zetreaa to -460.070000, 102.000000, 13.300000]
+[23:44:01] [Server thread/INFO]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[23:44:26] [Server thread/INFO]: ElJimmyy has made the advancement [Local Brewery]
+[23:45:06] [Server thread/INFO]: [ElJimmyy: Teleported ElJimmyy to -733.900000, 58.770000, -26.010000]
+[23:47:32] [User Authenticator #3/INFO]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
+[23:47:32] [Server thread/INFO]: zetreaa lost connection: You logged in from another location
+[23:47:32] [Server thread/INFO]: zetreaa left the game
+[23:47:32] [Server thread/INFO]: zetreaa[/127.185.209.139:59561] logged in with entity id 4014 at (-493.7613729279972, 79.9375, 76.62986740731854)
+[23:47:32] [Server thread/INFO]: zetreaa joined the game
