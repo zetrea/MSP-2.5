@@ -1,5 +1,5 @@
-[00:17:00] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.10
-[00:17:00] [main/INFO]: Loading 47 mods:
+[01:35:54] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.10
+[01:35:55] [main/INFO]: Loading 47 mods:
 	- cloth-config 11.1.136
 	   \-- cloth-basic-math 0.6.1
 	- fabric-api 0.92.6+1.20.1
@@ -60,128 +60,58 @@
 	- java 17
 	- minecraft 1.20.1
 	- revive 1.0.7
-[00:17:01] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MSP-2.5/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[00:17:01] [main/INFO]: Compatibility level set to JAVA_16
-[00:17:01] [main/INFO]: Compatibility level set to JAVA_17
-[00:17:01] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[00:17:09] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[00:17:11] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[00:17:12] [main/INFO]: Loaded 7 recipes
-[00:17:12] [main/INFO]: Loaded 1271 advancements
-[00:17:13] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 2.432 ms
-[00:17:13] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[00:17:13] [Server thread/INFO]: Loading properties
-[00:17:13] [Server thread/INFO]: Default game type: SURVIVAL
-[00:17:13] [Server thread/INFO]: Generating keypair
-[00:17:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:17:13] [Server thread/INFO]: Using epoll channel type
-[00:17:13] [Server thread/INFO]: Preparing level "world"
-[00:17:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:17:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:17:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:17:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:17:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:17:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:17:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:17:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:17:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:17:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:17:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:17:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:17:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:17:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:17:23] [Worker-Main-3/INFO]: Preparing spawn area: 38%
-[00:17:24] [Server thread/INFO]: Time elapsed: 7013 ms
-[00:17:24] [Server thread/INFO]: Done (10.500s)! For help, type "help"
-[00:17:24] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:17:24] [Server thread/INFO]: <--[HERE]
-[00:17:26] [User Authenticator #1/INFO]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
-[00:17:27] [Server thread/INFO]: zetreaa[/127.185.209.139:49797] logged in with entity id 67 at (-484.83401859822055, 90.0, -12.475506136315337)
-[00:17:27] [Server thread/INFO]: zetreaa joined the game
-[00:17:35] [User Authenticator #2/INFO]: UUID of player ElJimmyy is 304df7a8-4fc9-4015-82b1-0b9cd37e279a
-[00:17:36] [Server thread/INFO]: ElJimmyy[/127.64.242.226:57143] logged in with entity id 294 at (-484.10797679348707, 88.0, 11.470933839437842)
-[00:17:36] [Server thread/INFO]: ElJimmyy joined the game
-[00:25:51] [User Authenticator #3/INFO]: UUID of player 7Pakass is 34bbec10-7fc8-4863-ae1c-2241b307c6c0
-[00:25:52] [Server thread/INFO]: 7Pakass[/127.68.74.238:40469] logged in with entity id 2395 at (-489.04388146435144, 88.5625, 30.69999998807907)
-[00:25:52] [Server thread/INFO]: 7Pakass joined the game
-[00:33:35] [Server thread/INFO]: <7Pakass> szzzzzzzzz
-[00:42:43] [User Authenticator #4/INFO]: UUID of player feelinghervoice is 64a4039a-4dc5-4817-88ab-826da54941db
-[00:42:43] [Server thread/INFO]: feelinghervoice[/127.0.215.48:49537] logged in with entity id 6758 at (-499.5891406537968, 95.0, 47.258998165166474)
-[00:42:44] [Server thread/INFO]: feelinghervoice joined the game
-[00:43:06] [Server thread/INFO]: <feelinghervoice> 17 A;O
-[00:43:19] [Server thread/INFO]: <feelinghervoice> traiganme una menor
-[00:43:34] [Server thread/INFO]: <feelinghervoice> shikitina?
-[00:43:38] [Server thread/INFO]: <ElJimmyy> mmmm
-[00:43:38] [Server thread/INFO]: <7Pakass> RICO
-[00:43:39] [Server thread/INFO]: <feelinghervoice> le escupo la boca a esa si quiere
-[00:43:44] [Server thread/INFO]: <7Pakass> XD
-[00:44:02] [Server thread/INFO]: <feelinghervoice> codigo 90kg es esa
-[00:46:28] [User Authenticator #5/INFO]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
-[00:46:28] [Server thread/INFO]: zetreaa lost connection: Disconnected
-[00:46:28] [Server thread/INFO]: zetreaa left the game
-[00:46:28] [Server thread/WARN]: handleDisconnection() called twice
-[00:46:28] [Server thread/INFO]: zetreaa[/127.185.209.139:57087] logged in with entity id 7626 at (-474.69999998807907, 98.0, -17.640871602405767)
-[00:46:28] [Server thread/INFO]: zetreaa joined the game
-[00:47:35] [Server thread/INFO]: <ElJimmyy> zzz
-[00:47:35] [Server thread/INFO]: <ElJimmyy> z
-[00:47:35] [Server thread/INFO]: <ElJimmyy> z
-[00:47:35] [Server thread/INFO]: <ElJimmyy> z
-[00:47:35] [Server thread/INFO]: <ElJimmyy> z
-[00:47:35] [Server thread/INFO]: <ElJimmyy> z
-[00:47:36] [Server thread/INFO]: <ElJimmyy> z
-[00:54:30] [Server thread/INFO]: [zetreaa: Teleported zetreaa to feelinghervoice]
-[00:57:41] [Server thread/INFO]: zetreaa lost connection: Disconnected
-[00:57:41] [Server thread/INFO]: zetreaa left the game
-[01:16:27] [User Authenticator #6/INFO]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
-[01:16:28] [Server thread/INFO]: zetreaa[/127.185.209.139:36871] logged in with entity id 11734 at (-484.3806797486426, -36.0, 66.30000001192093)
-[01:16:28] [Server thread/INFO]: zetreaa joined the game
-[01:16:38] [Server thread/INFO]: [zetreaa: Teleported zetreaa to feelinghervoice]
-[01:16:43] [Server thread/INFO]: [ElJimmyy: Teleported ElJimmyy to feelinghervoice]
-[01:16:52] [Server thread/INFO]: [ElJimmyy: Teleported ElJimmyy to 7Pakass]
-[01:16:59] [Server thread/INFO]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[01:23:17] [Server thread/INFO]: [ElJimmyy: Teleported ElJimmyy to 7Pakass]
-[01:23:33] [Server thread/INFO]: <7Pakass> EEE
-[01:23:36] [Server thread/INFO]: <ElJimmyy> e
-[01:23:59] [Server thread/INFO]: <ElJimmyy> ?
-[01:24:00] [Server thread/INFO]: <7Pakass> creo q asu bni era
-[01:24:03] [Server thread/INFO]: <7Pakass> XD
-[01:24:05] [Server thread/INFO]: <ElJimmyy> XD
-[01:24:18] [Server thread/INFO]: <ElJimmyy> No es con carteles?
-[01:24:22] [Server thread/INFO]: <7Pakass> TRAE 1
-[01:24:31] [Server thread/INFO]: <7Pakass> 5
-[01:24:38] [Server thread/INFO]: <zetreaa> 5
-[01:24:41] [Server thread/INFO]: <ElJimmyy> no ha mandera...
-[01:24:48] [Server thread/INFO]: <7Pakass> 9
-[01:24:52] [Server thread/INFO]: <7Pakass> son 9
-[01:25:13] [Server thread/INFO]: <ElJimmyy> carteles?
-[01:25:29] [Server thread/INFO]: <7Pakass> '
-[01:25:31] [Server thread/INFO]: <7Pakass> SI
-[01:26:20] [Server thread/INFO]: <ElJimmyy> OMGGG
-[01:26:29] [Server thread/INFO]: <7Pakass> AGUA
-[01:26:33] [Server thread/INFO]: <7Pakass> FDAME 1 BARCO
-[01:26:39] [Server thread/INFO]: [7Pakass: Teleported ElJimmyy to 7Pakass]
-[01:27:04] [Server thread/INFO]: <ElJimmyy> ORA
-[01:27:10] [Server thread/INFO]: <ElJimmyy> nooooooooooo
-[01:27:12] [Server thread/INFO]: <7Pakass> XDDDDDDDDDD
-[01:27:20] [Server thread/INFO]: [zetreaa: Teleported zetreaa to ElJimmyy]
-[01:27:25] [Server thread/INFO]: <ElJimmyy> A DONDE VAA
-[01:27:32] [Server thread/INFO]: <7Pakass> COMIDAAA
-[01:27:36] [Server thread/INFO]: <zetreaa> pongan bloques de hojas de arbol
-[01:27:55] [Server thread/INFO]: <zetreaa> para q los aldeanos no se salgan a fuera cuando se salgan de dormir
-[01:28:13] [Server thread/INFO]: <7Pakass> comida
-[01:28:15] [Server thread/INFO]: <7Pakass> COMIDA
-[01:28:19] [Server thread/INFO]: <zetreaa> ROBAR
-[01:28:21] [Server thread/INFO]: <zetreaa> ROBARRR
-[01:28:23] [Server thread/INFO]: <zetreaa> ROBAAAARRR
-[01:28:25] [Server thread/INFO]: <ElJimmyy> Es lo unico que me queda
-[01:28:49] [Server thread/INFO]: <7Pakass> XD
-[01:28:53] [Server thread/INFO]: <7Pakass> AGUAAAAAA
-[01:28:55] [Server thread/INFO]: <ElJimmyy> XDDD
-[01:28:55] [Server thread/INFO]: <zetreaa> La hago yo?
-[01:29:52] [Server thread/INFO]: zetreaa lost connection: Disconnected
-[01:29:52] [Server thread/INFO]: zetreaa left the game
-[01:30:17] [Server thread/INFO]: <ElJimmyy> XD
-[01:31:42] [Server thread/INFO]: ElJimmyy lost connection: Timed out
-[01:31:42] [Server thread/INFO]: ElJimmyy left the game
-[01:36:11] [Server thread/INFO]: 7Pakass lost connection: Disconnected
-[01:36:11] [Server thread/INFO]: 7Pakass left the game
+[01:35:55] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MSP-2.5/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[01:35:55] [main/INFO]: Compatibility level set to JAVA_16
+[01:35:55] [main/INFO]: Compatibility level set to JAVA_17
+[01:35:57] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[01:36:06] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:36:07] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[01:36:08] [main/INFO]: Loaded 7 recipes
+[01:36:08] [main/INFO]: Loaded 1271 advancements
+[01:36:09] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.719 ms
+[01:36:09] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[01:36:09] [Server thread/INFO]: Loading properties
+[01:36:09] [Server thread/INFO]: Default game type: SURVIVAL
+[01:36:09] [Server thread/INFO]: Generating keypair
+[01:36:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:36:09] [Server thread/INFO]: Using epoll channel type
+[01:36:10] [Server thread/INFO]: Preparing level "world"
+[01:36:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:36:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:36:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:36:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:36:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:36:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:36:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:36:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:36:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:36:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:36:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:36:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:36:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:36:19] [Worker-Main-3/INFO]: Preparing spawn area: 3%
+[01:36:20] [Worker-Main-1/INFO]: Preparing spawn area: 46%
+[01:36:20] [Server thread/INFO]: Time elapsed: 6912 ms
+[01:36:20] [Server thread/INFO]: Done (10.495s)! For help, type "help"
+[01:36:20] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:36:20] [Server thread/INFO]: <--[HERE]
+[01:36:20] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:36:20] [Server thread/INFO]: <--[HERE]
+[01:36:20] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:36:20] [Server thread/INFO]: <--[HERE]
+[01:38:18] [User Authenticator #1/INFO]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
+[01:38:18] [Server thread/INFO]: zetreaa[/127.185.209.139:39685] logged in with entity id 58 at (-495.46561286518767, 88.85489329934836, 30.46695907527692)
+[01:38:18] [Server thread/INFO]: zetreaa joined the game
+[01:38:19] [User Authenticator #2/INFO]: UUID of player ElJimmyy is 304df7a8-4fc9-4015-82b1-0b9cd37e279a
+[01:38:20] [Server thread/INFO]: ElJimmyy[/127.64.242.226:44749] logged in with entity id 145 at (-493.4153022785799, 79.9375, 76.22926000233757)
+[01:38:20] [Server thread/INFO]: ElJimmyy joined the game
+[01:38:33] [Server thread/INFO]: zetreaa lost connection: Disconnected
+[01:38:33] [Server thread/INFO]: zetreaa left the game
+[01:40:03] [Server thread/INFO]: ElJimmyy was slain by Zombie
+[01:40:24] [User Authenticator #3/INFO]: UUID of player feelinghervoice is 64a4039a-4dc5-4817-88ab-826da54941db
+[01:40:24] [Server thread/INFO]: feelinghervoice[/127.0.215.48:47049] logged in with entity id 611 at (-477.93856752561214, -57.0, 66.30000001192093)
+[01:40:24] [Server thread/INFO]: feelinghervoice joined the game
+[01:40:38] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to ElJimmyy]
+[01:43:30] [User Authenticator #4/INFO]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
+[01:43:31] [Server thread/INFO]: zetreaa[/127.185.209.139:51365] logged in with entity id 1337 at (-493.30000001192093, 88.0, 29.074133458449143)
+[01:43:31] [Server thread/INFO]: zetreaa joined the game
