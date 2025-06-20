@@ -115,3 +115,71 @@
 [01:43:30] [User Authenticator #4/INFO]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
 [01:43:31] [Server thread/INFO]: zetreaa[/127.185.209.139:51365] logged in with entity id 1337 at (-493.30000001192093, 88.0, 29.074133458449143)
 [01:43:31] [Server thread/INFO]: zetreaa joined the game
+[01:46:37] [Server thread/INFO]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[01:48:22] [Server thread/INFO]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[01:51:11] [User Authenticator #5/INFO]: UUID of player 17igvnaciojaja is 73e1a612-5acf-495d-b71a-db50d17d74bc
+[01:51:11] [Server thread/INFO]: 17igvnaciojaja[/127.199.170.153:41451] logged in with entity id 3246 at (-500.69999998807907, 95.0, 42.93922841689163)
+[01:51:11] [Server thread/INFO]: 17igvnaciojaja joined the game
+[01:51:12] [Server thread/INFO]: zetreaa has made the advancement [Enchanter]
+[01:51:36] [Server thread/INFO]: feelinghervoice has made the advancement [What a Deal!]
+[01:52:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-505, y=88, z=-23} class_2338{x=-505, y=88, z=-24}
+[01:52:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-505, y=89, z=-23} class_2338{x=-505, y=88, z=-24}
+[01:52:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-504, y=89, z=-23} class_2338{x=-505, y=88, z=-24}
+[01:52:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-504, y=89, z=-23} class_2338{x=-504, y=89, z=-24}
+[01:52:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-505, y=89, z=-23} class_2338{x=-504, y=89, z=-24}
+[01:52:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-504, y=90, z=-23} class_2338{x=-504, y=89, z=-24}
+[01:52:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-504, y=90, z=-24} class_2338{x=-504, y=89, z=-24}
+[01:52:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-504, y=91, z=-24} class_2338{x=-504, y=89, z=-24}
+[01:52:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-503, y=91, z=-24} class_2338{x=-504, y=89, z=-24}
+[01:52:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-503, y=90, z=-23} class_2338{x=-503, y=90, z=-24}
+[01:52:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-504, y=90, z=-23} class_2338{x=-503, y=90, z=-24}
+[01:52:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-503, y=91, z=-23} class_2338{x=-503, y=90, z=-24}
+[01:52:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-502, y=91, z=-24} class_2338{x=-503, y=90, z=-24}
+[01:52:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-502, y=91, z=-23} class_2338{x=-503, y=90, z=-24}
+[01:52:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-502, y=91, z=-23} class_2338{x=-502, y=90, z=-23}
+[01:52:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-502, y=92, z=-23} class_2338{x=-502, y=90, z=-23}
+[01:52:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-501, y=92, z=-23} class_2338{x=-502, y=90, z=-23}
+[01:52:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-505, y=88, z=-23} class_2338{x=-504, y=89, z=-24}
+[01:52:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-505, y=88, z=-23} class_2338{x=-505, y=88, z=-24}
+[01:52:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-505, y=88, z=-23} class_2338{x=-505, y=88, z=-24}
+[01:52:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-505, y=89, z=-23} class_2338{x=-505, y=88, z=-24}
+[01:52:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-505, y=89, z=-24} class_2338{x=-505, y=88, z=-24}
+[01:52:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-505, y=89, z=-23} class_2338{x=-505, y=88, z=-24}
+[01:52:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-505, y=88, z=-23} class_2338{x=-504, y=88, z=-24}
+[01:52:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-505, y=89, z=-23} class_2338{x=-504, y=88, z=-24}
+[01:52:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-505, y=88, z=-23} class_2338{x=-504, y=88, z=-24}
+[01:52:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-505, y=89, z=-23} class_2338{x=-503, y=88, z=-24}
+[01:52:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-505, y=89, z=-23} class_2338{x=-504, y=88, z=-24}
+[01:52:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-505, y=89, z=-23} class_2338{x=-504, y=88, z=-24}
+[01:54:42] [Server thread/INFO]: [17igvnaciojaja: Set own game mode to Survival Mode]
+[01:57:11] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to zetreaa]
+[01:58:01] [Server thread/INFO]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[01:58:19] [Server thread/INFO]: [ElJimmyy: Teleported ElJimmyy to feelinghervoice]
+[01:58:31] [Server thread/INFO]: [ElJimmyy: Teleported ElJimmyy to -411.300000, 8.000000, -60.700000]
+[02:00:40] [Server thread/INFO]: [ElJimmyy: Teleported ElJimmyy to feelinghervoice]
+[02:02:33] [User Authenticator #6/INFO]: UUID of player 7Pakass is 34bbec10-7fc8-4863-ae1c-2241b307c6c0
+[02:02:34] [Server thread/INFO]: 7Pakass[/127.68.74.238:37149] logged in with entity id 7444 at (-481.10359232313095, 91.02442408821369, 21.733951914496284)
+[02:02:34] [Server thread/INFO]: 7Pakass joined the game
+[02:03:17] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 7Pakass]
+[02:03:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-488, y=94, z=-23} class_2338{x=-489, y=93, z=-23}
+[02:03:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-489, y=95, z=-24} class_2338{x=-487, y=94, z=-23}
+[02:03:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-488, y=95, z=-24} class_2338{x=-487, y=94, z=-23}
+[02:03:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-487, y=95, z=-23} class_2338{x=-487, y=95, z=-24}
+[02:03:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-484, y=98, z=-25} class_2338{x=-485, y=98, z=-24}
+[02:03:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-486, y=97, z=-25} class_2338{x=-485, y=98, z=-24}
+[02:03:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-484, y=99, z=-24} class_2338{x=-484, y=98, z=-24}
+[02:03:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-484, y=99, z=-24} class_2338{x=-482, y=98, z=-24}
+[02:03:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-483, y=99, z=-23} class_2338{x=-482, y=98, z=-24}
+[02:03:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-482, y=99, z=-23} class_2338{x=-482, y=98, z=-24}
+[02:03:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-483, y=98, z=-24} class_2338{x=-482, y=98, z=-24}
+[02:03:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-483, y=98, z=-24} class_2338{x=-482, y=98, z=-25}
+[02:03:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-484, y=98, z=-24} class_2338{x=-482, y=98, z=-25}
+[02:03:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-484, y=99, z=-24} class_2338{x=-483, y=97, z=-25}
+[02:03:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-483, y=98, z=-24} class_2338{x=-483, y=97, z=-24}
+[02:03:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-484, y=98, z=-23} class_2338{x=-484, y=97, z=-24}
+[02:03:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-485, y=98, z=-23} class_2338{x=-484, y=97, z=-24}
+[02:03:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-484, y=98, z=-23} class_2338{x=-485, y=97, z=-23}
+[02:05:08] [Server thread/INFO]: zetreaa has made the advancement [Take Aim]
+[02:05:26] [Server thread/INFO]: [feelinghervoice: Teleported feelinghervoice to 7Pakass]
+[02:05:40] [Server thread/INFO]: 17igvnaciojaja lost connection: Disconnected
+[02:05:40] [Server thread/INFO]: 17igvnaciojaja left the game
