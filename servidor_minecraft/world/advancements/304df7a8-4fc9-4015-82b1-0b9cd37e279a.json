@@ -118,6 +118,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-07-06 05:29:21 +0000",
       "minecraft:snowy_slopes": "2025-07-06 02:53:39 +0000",
+      "minecraft:beach": "2025-07-06 05:52:05 +0000",
       "minecraft:dark_forest": "2025-07-06 01:56:18 +0000",
       "minecraft:forest": "2025-07-06 02:27:40 +0000",
       "minecraft:taiga": "2025-07-06 05:31:12 +0000",
@@ -152,17 +153,18 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:cika_woods": "2025-07-06 05:43:58 +0000",
-      "biomeswevegone:maple_taiga": "2025-07-06 03:35:50 +0000",
       "biomeswevegone:orchard": "2025-07-06 01:46:36 +0000",
-      "biomeswevegone:prairie": "2025-07-06 02:45:43 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-07-06 02:09:42 +0000",
       "biomeswevegone:skyrise_vale": "2025-07-06 05:43:02 +0000",
+      "biomeswevegone:allium_shrubland": "2025-07-06 02:28:17 +0000",
+      "biomeswevegone:coconino_meadow": "2025-07-06 03:35:59 +0000",
+      "biomeswevegone:maple_taiga": "2025-07-06 03:35:50 +0000",
+      "biomeswevegone:prairie": "2025-07-06 02:45:43 +0000",
       "biomeswevegone:temperate_grove": "2025-07-06 01:42:39 +0000",
       "biomeswevegone:zelkova_forest": "2025-07-06 05:26:17 +0000",
-      "biomeswevegone:allium_shrubland": "2025-07-06 02:28:17 +0000",
       "biomeswevegone:forgotten_forest": "2025-07-06 01:47:56 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-06 02:08:44 +0000",
-      "biomeswevegone:coconino_meadow": "2025-07-06 03:35:59 +0000"
+      "biomeswevegone:dacite_ridges": "2025-07-06 05:51:41 +0000"
     },
     "done": false
   },
@@ -2624,6 +2626,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-07-06 02:22:32 +0000",
+      "apple": "2025-07-06 05:53:17 +0000",
       "bread": "2025-07-06 02:44:50 +0000",
       "cooked_beef": "2025-07-06 02:56:32 +0000"
     },
@@ -5296,9 +5299,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-06 05:52:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
     "criteria": {
       "has_minecraft:oak_planks": "2025-07-06 05:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-07-06 05:58:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-06 05:52:42 +0000"
     },
     "done": true
   },
@@ -5308,9 +5329,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-06 05:52:37 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_drawer": {
     "criteria": {
       "has_minecraft:spruce_planks": "2025-07-06 05:21:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-07-06 05:52:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-06 05:52:37 +0000"
     },
     "done": true
   },
@@ -5332,9 +5371,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-07-06 05:52:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-06 05:22:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_corner_trim": {
+    "criteria": {
+      "has_sandstone_corner_trim": "2025-07-06 05:52:37 +0000"
     },
     "done": true
   },
@@ -5353,6 +5404,12 @@
   "handcrafted:recipes/misc/oak_drawer": {
     "criteria": {
       "has_oak_drawer": "2025-07-06 05:17:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-06 05:52:42 +0000"
     },
     "done": true
   },
@@ -5384,6 +5441,24 @@
   "handcrafted:recipes/misc/spruce_dining_bench": {
     "criteria": {
       "has_spruce_dining_bench": "2025-07-06 05:21:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-07-06 05:52:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-06 05:52:42 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/sandy_dirt": {
+    "criteria": {
+      "has_sand": "2025-07-06 05:52:28 +0000"
     },
     "done": true
   },
@@ -5435,6 +5510,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-06 05:52:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-06 05:52:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-07-06 05:21:04 +0000"
@@ -5453,6 +5540,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-06 05:52:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-06 05:18:30 +0000"
@@ -5462,6 +5555,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-07-06 05:17:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_pillar_trim": {
+    "criteria": {
+      "has_granite_pillar_trim": "2025-07-06 05:52:42 +0000"
     },
     "done": true
   },
@@ -5483,15 +5582,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-06 05:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-06 05:52:37 +0000"
+    },
+    "done": true
+  },
   "sootychimneys:recipe/decorations/brick_chimney": {
     "criteria": {
       "has_brick": "2025-07-06 05:47:22 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-06 05:52:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_corner_trim": {
+    "criteria": {
+      "has_granite_corner_trim": "2025-07-06 05:52:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
     "criteria": {
       "has_minecraft:oak_planks": "2025-07-06 05:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-06 05:52:37 +0000"
     },
     "done": true
   },
@@ -5519,6 +5648,18 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/black_sand": {
+    "criteria": {
+      "has_sand": "2025-07-06 05:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-06 05:52:28 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
     "criteria": {
       "has_minecraft:oak_planks": "2025-07-06 05:17:32 +0000"
@@ -5534,6 +5675,18 @@
   "exposure:recipes/tools/album": {
     "criteria": {
       "has_book": "2025-07-06 05:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-07-06 05:52:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-06 05:52:28 +0000"
     },
     "done": true
   },
@@ -5576,6 +5729,18 @@
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-07-06 05:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-06 05:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-07-06 05:52:37 +0000"
     },
     "done": true
   },
@@ -5675,6 +5840,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-06 05:52:37 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/safety_net": {
     "criteria": {
       "has_rope": "2025-07-06 05:12:14 +0000"
@@ -5708,6 +5879,12 @@
   "constructionstick:recipes/misc/template_battery": {
     "criteria": {
       "has_item": "2025-07-06 05:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-06 05:52:28 +0000"
     },
     "done": true
   },
@@ -5768,6 +5945,18 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-06 05:18:30 +0000"
+    },
+    "done": true
+  },
+  "ubesdelight:farmersdelight/recipes/cooking/bangsilog_extra": {
+    "criteria": {
+      "has_fishes": "2025-07-06 05:54:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-06 05:52:42 +0000"
     },
     "done": true
   },
@@ -5885,6 +6074,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-06 05:52:42 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:adventure/complete_hide_and_seek_game": {
     "criteria": {
       "friendsandfoes:complete_hide_and_seek_game": "2025-07-06 05:16:45 +0000"
@@ -5894,6 +6089,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-07-06 05:04:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-06 05:52:42 +0000"
     },
     "done": true
   },
@@ -5933,9 +6134,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-07-06 05:52:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-06 05:21:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-06 05:52:28 +0000"
     },
     "done": true
   },
@@ -5948,6 +6161,12 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-07-06 05:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-06 05:52:28 +0000"
     },
     "done": true
   },
@@ -5978,6 +6197,12 @@
   "connectedglass:recipes/misc/scratched_glass_white2": {
     "criteria": {
       "recipe_condition2": "2025-07-06 05:17:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-07-06 05:55:04 +0000"
     },
     "done": true
   },
@@ -6083,6 +6308,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-06 05:52:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-07-06 05:12:19 +0000"
@@ -6101,9 +6332,27 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/food/blueberry_pie": {
+    "criteria": {
+      "has_blueberries": "2025-07-06 05:58:20 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/white_sand": {
+    "criteria": {
+      "has_sand": "2025-07-06 05:52:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-07-06 05:32:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-06 05:52:28 +0000"
     },
     "done": true
   },
@@ -6116,6 +6365,24 @@
   "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-06 05:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-06 05:52:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
+    "criteria": {
+      "has_minecraft:granite": "2025-07-06 05:52:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-06 05:52:42 +0000"
     },
     "done": true
   },
@@ -6197,6 +6464,12 @@
     },
     "done": true
   },
+  "garnished:lustrous_pearl": {
+    "criteria": {
+      "obtain_lustrous_pearl": "2025-07-06 05:55:02 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/clear_glass_light_gray_pane2": {
     "criteria": {
       "recipe_condition2": "2025-07-06 05:17:41 +0000"
@@ -6233,6 +6506,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-07-06 05:52:42 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/clear_glass_light_gray2": {
     "criteria": {
       "recipe_condition2": "2025-07-06 05:17:41 +0000"
@@ -6257,6 +6536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-07-06 05:54:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/spruce_window": {
     "criteria": {
       "has_ingredient": "2025-07-06 05:21:04 +0000"
@@ -6266,6 +6551,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-06 05:18:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-07-06 05:52:37 +0000"
     },
     "done": true
   },
@@ -6293,6 +6584,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-06 05:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-07-06 05:52:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-07-06 05:32:32 +0000"
@@ -6302,6 +6605,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-06 05:21:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-07-06 05:52:42 +0000"
     },
     "done": true
   },
@@ -6353,6 +6662,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-07-06 05:52:42 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/oak_chest": {
     "criteria": {
       "has_oak_plank": "2025-07-06 05:17:32 +0000"
@@ -6368,6 +6683,12 @@
   "handcrafted:recipes/misc/oak_desk": {
     "criteria": {
       "has_oak_desk": "2025-07-06 05:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-07-06 05:52:42 +0000"
     },
     "done": true
   },
@@ -6395,9 +6716,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-06 05:52:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-06 05:52:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_desk": {
     "criteria": {
       "has_minecraft:oak_planks": "2025-07-06 05:17:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-06 05:52:42 +0000"
     },
     "done": true
   },
@@ -6425,6 +6764,24 @@
     },
     "done": true
   },
+  "ubesdelight:farmersdelight/recipes/cooking/fish_sauce_bottle_from_water_bucket_extra": {
+    "criteria": {
+      "has_fishes": "2025-07-06 05:54:57 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/bleached_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-06 05:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-06 05:52:28 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oven": {
     "criteria": {
       "has_oven": "2025-07-06 05:47:22 +0000"
@@ -6449,6 +6806,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-06 05:52:28 +0000"
+    },
+    "done": true
+  },
   "comforts:recipes/building_blocks/dye_hammock_white": {
     "criteria": {
       "has_needed_dye": "2025-07-06 05:17:41 +0000"
@@ -6458,6 +6821,24 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-07-06 05:12:19 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/gabbro_from_granite_smelting": {
+    "criteria": {
+      "has_granite": "2025-07-06 05:52:42 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/berrily_alive": {
+    "criteria": {
+      "blue_berry": "2025-07-06 05:58:20 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/stonecutting/white_chalk_stick_from_white_chalk_stonecutting": {
+    "criteria": {
+      "has_white_chalk": "2025-07-06 05:52:45 +0000"
     },
     "done": true
   },
@@ -6473,6 +6854,30 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-06 05:52:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-06 05:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-06 05:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-07-06 05:52:28 +0000"
+    },
+    "done": true
+  },
   "ubesdelight:recipes/food/minecraft/crafting/kinilaw_extra": {
     "criteria": {
       "has_any_ingredient": "2025-07-06 05:37:20 +0000"
@@ -6485,6 +6890,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/sandstone_pillar_trim": {
+    "criteria": {
+      "has_sandstone_pillar_trim": "2025-07-06 05:52:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-06 05:52:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-07-06 05:45:45 +0000"
@@ -6494,6 +6911,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-07-06 05:46:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-06 05:52:42 +0000"
     },
     "done": true
   },
@@ -6551,6 +6974,24 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-06 05:52:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-06 05:52:37 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/purple_sand": {
+    "criteria": {
+      "has_sand": "2025-07-06 05:52:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-07-06 05:47:13 +0000"
@@ -6560,6 +7001,12 @@
   "handcrafted:recipes/misc/spruce_couch": {
     "criteria": {
       "has_spruce_couch": "2025-07-06 05:21:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-06 05:52:42 +0000"
     },
     "done": true
   },
@@ -6617,6 +7064,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/blue_sand": {
+    "criteria": {
+      "has_sand": "2025-07-06 05:52:28 +0000"
+    },
+    "done": true
+  },
   "simplyswords:simplyswords": {
     "criteria": {
       "requirement": "2025-07-06 05:49:01 +0000"
@@ -6641,11 +7094,23 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-06 05:52:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/salvage_sherd": {
     "criteria": {
       "has_sherd": "2025-07-06 05:46:56 +0000"
     },
     "done": false
+  },
+  "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-06 05:52:42 +0000"
+    },
+    "done": true
   },
   "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
@@ -6701,9 +7166,21 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/pink_sand": {
+    "criteria": {
+      "has_sand": "2025-07-06 05:52:28 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_chair": {
     "criteria": {
       "has_minecraft:spruce_planks": "2025-07-06 05:21:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-06 05:52:28 +0000"
     },
     "done": true
   },
@@ -6734,6 +7211,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-07-06 05:47:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-07-06 05:52:37 +0000"
     },
     "done": true
   },
