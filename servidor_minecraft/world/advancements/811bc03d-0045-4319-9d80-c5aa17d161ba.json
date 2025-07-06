@@ -5569,6 +5569,12 @@
     },
     "done": true
   },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "0": "2025-07-06 06:38:39 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/bloom_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-06 06:14:47 +0000"
@@ -5767,9 +5773,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
+    "criteria": {
+      "has_item": "2025-07-06 06:38:39 +0000"
+    },
+    "done": true
+  },
   "armoroftheages:recipes/decordations/raijin_armor_chest": {
     "criteria": {
       "has_base_armor": "2025-07-06 06:28:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_block": {
+    "criteria": {
+      "has_item": "2025-07-06 06:38:39 +0000"
     },
     "done": true
   },
