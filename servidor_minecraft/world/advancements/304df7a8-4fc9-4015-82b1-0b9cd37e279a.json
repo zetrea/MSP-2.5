@@ -156,6 +156,8 @@
     "criteria": {
       "biomeswevegone:cika_woods": "2025-07-06 05:43:58 +0000",
       "biomeswevegone:orchard": "2025-07-06 01:46:36 +0000",
+      "biomeswevegone:howling_peaks": "2025-07-06 07:58:28 +0000",
+      "biomeswevegone:fragment_jungle": "2025-07-06 08:09:25 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-07-06 02:09:42 +0000",
       "biomeswevegone:skyrise_vale": "2025-07-06 05:43:02 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-06 02:28:17 +0000",
@@ -163,6 +165,7 @@
       "biomeswevegone:maple_taiga": "2025-07-06 03:35:50 +0000",
       "biomeswevegone:sakura_grove": "2025-07-06 07:51:47 +0000",
       "biomeswevegone:prairie": "2025-07-06 02:45:43 +0000",
+      "biomeswevegone:enchanted_tangle": "2025-07-06 08:09:19 +0000",
       "biomeswevegone:basalt_barrera": "2025-07-06 07:23:13 +0000",
       "biomeswevegone:temperate_grove": "2025-07-06 01:42:39 +0000",
       "biomeswevegone:zelkova_forest": "2025-07-06 05:26:17 +0000",
@@ -1831,11 +1834,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-07-06 02:31:38 +0000",
+      "minecraft:cave_spider": "2025-07-06 08:14:33 +0000",
       "minecraft:skeleton": "2025-07-06 01:56:53 +0000",
       "minecraft:piglin": "2025-07-06 02:56:13 +0000",
       "minecraft:vindicator": "2025-07-06 03:05:43 +0000",
       "minecraft:enderman": "2025-07-06 06:57:17 +0000",
       "minecraft:spider": "2025-07-06 02:03:40 +0000",
+      "minecraft:wither_skeleton": "2025-07-06 08:10:03 +0000",
       "minecraft:zombie": "2025-07-06 02:03:32 +0000",
       "minecraft:creeper": "2025-07-06 03:18:57 +0000",
       "minecraft:drowned": "2025-07-06 05:48:32 +0000"
@@ -2634,6 +2639,7 @@
       "apple": "2025-07-06 05:53:17 +0000",
       "bread": "2025-07-06 02:44:50 +0000",
       "golden_apple": "2025-07-06 07:41:47 +0000",
+      "cooked_chicken": "2025-07-06 08:26:50 +0000",
       "enchanted_golden_apple": "2025-07-06 07:43:49 +0000",
       "cooked_mutton": "2025-07-06 07:45:17 +0000",
       "cooked_cod": "2025-07-06 05:59:55 +0000",
@@ -8084,9 +8090,45 @@
     },
     "done": true
   },
-  "minecraft:husbandry/allay_deliver_item_to_player": {
+  "dungeons_arise:find_mushroom_mines": {
     "criteria": {
-      "allay_deliver_item_to_player": "2025-07-06 07:49:25 +0000"
+      "location0": "2025-07-06 06:26:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-07-06 06:28:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-07-06 06:28:18 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/centurion_armor_head": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:28:36 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/japanese_light_armor_head": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:28:36 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/centurion_armor_legs": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:28:37 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/japanese_light_armor_legs": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:28:37 +0000"
     },
     "done": true
   },
@@ -8096,33 +8138,141 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/grilled_salmon": {
+  "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
-      "has_salmon": "2025-07-06 06:49:49 +0000"
+      "has_any_ingredient": "2025-07-06 06:29:19 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/foragers_table": {
+    "criteria": {
+      "has_mushrooms": "2025-07-06 06:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-06 06:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-07-06 06:29:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-07-06 06:29:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_timer": {
+    "criteria": {
+      "has_item": "2025-07-06 06:32:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-07-06 06:32:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-07-06 06:32:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-06 06:32:28 +0000"
+    },
+    "done": true
+  },
+  "createaddition:recipes/misc/crafting/festive_spool": {
+    "criteria": {
+      "has_redstone": "2025-07-06 06:32:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-07-06 06:32:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-07-06 06:32:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-07-06 06:32:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-07-06 06:32:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-07-06 06:32:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-07-06 06:32:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-07-06 06:32:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-07-06 06:32:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-07-06 06:32:28 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "0": "2025-07-06 06:36:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
+    "criteria": {
+      "has_item": "2025-07-06 06:36:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_block": {
+    "criteria": {
+      "has_item": "2025-07-06 06:36:03 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-06 06:42:49 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_wishing_well": {
-    "criteria": {
-      "location0": "2025-07-06 07:24:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-07-06 06:53:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-07-06 06:53:20 +0000"
     },
     "done": true
   },
@@ -8138,63 +8288,9 @@
     },
     "done": true
   },
-  "repurposed_structures:igloos": {
-    "criteria": {
-      "in_igloo_grassy": "2025-07-06 07:31:25 +0000"
-    },
-    "done": false
-  },
-  "betterarcheology:loot_vase_broken": {
-    "criteria": {
-      "criteria": "2025-07-06 07:35:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-07-06 06:53:20 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/witch_hazel_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-06 07:12:50 +0000"
-    },
-    "done": true
-  },
-  "armoroftheages:recipes/decordations/quetzalcoatl_armor_chest": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:55:56 +0000"
-    },
-    "done": true
-  },
-  "exposure:recipes/tools/black_and_white_film": {
-    "criteria": {
-      "has_camera": "2025-07-06 06:44:01 +0000"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:experienced_engineer": {
-    "criteria": {
-      "0": "2025-07-06 06:36:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-06 06:42:49 +0000"
-    },
-    "done": true
-  },
-  "armoroftheages:recipes/decordations/holy_armor_head": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:55:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2025-07-06 07:34:15 +0000"
     },
     "done": true
   },
@@ -8204,63 +8300,9 @@
     },
     "done": true
   },
-  "betterarcheology:recipes/misc/unidentified_artifact": {
-    "criteria": {
-      "has_artifact_shards": "2025-07-06 07:35:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2025-07-06 06:49:49 +0000"
-    },
-    "done": true
-  },
-  "armoroftheages:recipes/decordations/o_yoroi_armor_chest": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:55:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-07-06 06:53:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-07-06 06:53:20 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/witch_hazel_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-06 07:12:50 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
     "criteria": {
       "has_minecraft:glass": "2025-07-06 06:42:49 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/horizontal_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
-    "criteria": {
-      "has_glass_panes_colorless": "2025-07-06 06:53:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/purple_dye_from_bwg_dye_tag": {
-    "criteria": {
-      "has_dye_tag": "2025-07-06 07:21:24 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/witch_hazel_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-07-06 07:20:28 +0000"
     },
     "done": true
   },
@@ -8282,24 +8324,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/logistics/pulse_timer": {
-    "criteria": {
-      "has_item": "2025-07-06 06:32:28 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_mushroom_mines": {
-    "criteria": {
-      "location0": "2025-07-06 06:26:59 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:obtain_orb_of_prophecy": {
-    "criteria": {
-      "has_item": "2025-07-06 07:45:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-06 06:42:49 +0000"
@@ -8312,87 +8336,9 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/witch_hazel_slab": {
-    "criteria": {
-      "has_planks": "2025-07-06 07:12:50 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/witch_hazel_planks": {
-    "criteria": {
-      "has_log": "2025-07-06 07:12:45 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cabbage_rolls": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-06 07:28:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-07-06 07:34:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-06 06:42:49 +0000"
-    },
-    "done": true
-  },
-  "ubesdelight:farmersdelight/recipes/cooking/leche_flan": {
-    "criteria": {
-      "has_eggs": "2025-07-06 07:39:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-07-06 06:53:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/powered_latch": {
-    "criteria": {
-      "has_item": "2025-07-06 06:32:28 +0000"
-    },
-    "done": true
-  },
-  "betterarcheology:recipes/misc/archeology_table": {
-    "criteria": {
-      "has_artifact_shards": "2025-07-06 07:35:23 +0000"
-    },
-    "done": true
-  },
-  "armoroftheages:recipes/decordations/centurion_armor_legs": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:28:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2025-07-06 06:32:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-07-06 06:53:20 +0000"
-    },
-    "done": true
-  },
-  "armoroftheages:recipes/decordations/raijin_armor_head": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:55:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-07-06 06:53:20 +0000"
     },
     "done": true
   },
@@ -8402,45 +8348,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2025-07-06 07:02:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
-    "criteria": {
-      "has_wild_armor_trim_smithing_template": "2025-07-06 07:35:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-07-06 07:35:10 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:challenge_gatekeeper": {
-    "criteria": {
-      "challenged": "2025-07-06 07:44:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-07-06 06:49:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-07-06 06:42:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/allium_petal_block": {
-    "criteria": {
-      "has_allium": "2025-07-06 07:02:43 +0000"
     },
     "done": true
   },
@@ -8450,45 +8360,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cabbage": {
-    "criteria": {
-      "has_cabbage_crate": "2025-07-06 07:28:28 +0000"
-    },
-    "done": true
-  },
   "phantasm:recipes/building_blocks/void_crystal_glass": {
     "criteria": {
       "has_glass": "2025-07-06 06:42:49 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/framed_glass_pane_from_glass_panes_colorless_stonecutting": {
-    "criteria": {
-      "has_glass_panes_colorless": "2025-07-06 06:53:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-07-06 06:53:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dropper": {
-    "criteria": {
-      "has_redstone": "2025-07-06 06:32:28 +0000"
-    },
-    "done": true
-  },
-  "exposure:recipes/tools/camera_stand": {
-    "criteria": {
-      "has_camera": "2025-07-06 06:44:01 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/pumpkin_seeds_from_slice": {
-    "criteria": {
-      "has_pumpkin_slice": "2025-07-06 07:28:44 +0000"
     },
     "done": true
   },
@@ -8498,129 +8372,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-07-06 06:53:20 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mutton_wrap": {
-    "criteria": {
-      "has_mutton": "2025-07-06 07:34:15 +0000"
-    },
-    "done": true
-  },
-  "lootr:100loot": {
-    "criteria": {
-      "opened_100": "2025-07-06 07:35:13 +0000"
-    },
-    "done": true
-  },
-  "ubesdelight:farmersdelight/recipes/cooking/fish_sauce_bottle_from_water_bucket": {
-    "criteria": {
-      "has_water_bucket": "2025-07-06 06:49:29 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/cabbage_crate": {
-    "criteria": {
-      "has_cabbage": "2025-07-06 07:28:24 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:obtain_seeking_eye": {
-    "criteria": {
-      "has_item": "2025-07-06 07:45:45 +0000"
-    },
-    "done": true
-  },
-  "createaddition:recipes/misc/crafting/festive_spool": {
-    "criteria": {
-      "has_redstone": "2025-07-06 06:32:28 +0000"
-    },
-    "done": true
-  },
-  "armoroftheages:recipes/decordations/anubis_armor_chest": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:55:56 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/rose_quartz": {
-    "criteria": {
-      "has_item": "2025-07-06 06:32:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2025-07-06 06:53:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/piston": {
-    "criteria": {
-      "has_redstone": "2025-07-06 06:32:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-07-06 06:53:20 +0000"
-    },
-    "done": true
-  },
-  "armoroftheages:recipes/decordations/anubis_armor_head": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:55:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-07-06 06:28:18 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/borderless_glass1": {
     "criteria": {
       "recipe_condition": "2025-07-06 06:42:49 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-06 06:29:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2025-07-06 06:32:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/pulse_extender": {
-    "criteria": {
-      "has_item": "2025-07-06 06:32:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
-    "criteria": {
-      "has_gold_ore": "2025-07-06 06:29:31 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/witch_hazel_sign": {
-    "criteria": {
-      "has_planks": "2025-07-06 07:12:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-07-06 06:53:20 +0000"
     },
     "done": true
   },
@@ -8642,51 +8396,9 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/witch_hazel_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-06 07:12:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/tiled_glass_pane_from_glass_panes_colorless_stonecutting": {
-    "criteria": {
-      "has_glass_panes_colorless": "2025-07-06 06:53:20 +0000"
-    },
-    "done": true
-  },
-  "armoroftheages:recipes/decordations/centurion_armor_head": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:28:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/carrot_from_crate": {
-    "criteria": {
-      "has_carrot_crate": "2025-07-06 07:28:11 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/pulse_repeater": {
-    "criteria": {
-      "has_item": "2025-07-06 06:32:28 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2025-07-06 07:02:43 +0000"
-    },
-    "done": true
-  },
   "phantasm:recipes/building_blocks/crystal_glass": {
     "criteria": {
       "has_glass": "2025-07-06 06:42:49 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/witch_hazel_door": {
-    "criteria": {
-      "has_planks": "2025-07-06 07:12:50 +0000"
     },
     "done": true
   },
@@ -8696,105 +8408,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2025-07-06 06:32:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/ol_betsy": {
-    "criteria": {
-      "shot_crossbow": "2025-07-06 07:39:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-07-06 06:53:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
-    "criteria": {
-      "has_gold_ore": "2025-07-06 06:29:31 +0000"
-    },
-    "done": true
-  },
-  "armoroftheages:recipes/decordations/japanese_light_armor_head": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:28:36 +0000"
-    },
-    "done": true
-  },
-  "armoroftheages:recipes/decordations/holy_armor_chest": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:55:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-06 06:42:49 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
-    "criteria": {
-      "has_item": "2025-07-06 06:36:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-07-06 06:49:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2025-07-06 06:32:28 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/foragers_table": {
-    "criteria": {
-      "has_mushrooms": "2025-07-06 06:29:19 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2025-07-06 07:34:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/vertical_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
-    "criteria": {
-      "has_glass_panes_colorless": "2025-07-06 06:53:20 +0000"
-    },
-    "done": true
-  },
-  "armoroftheages:recipes/decordations/raijin_armor_chest": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:55:56 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/experience_block": {
-    "criteria": {
-      "has_item": "2025-07-06 06:36:03 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/witch_hazel_crafting_table": {
-    "criteria": {
-      "has_witch_hazel_planks": "2025-07-06 07:12:50 +0000"
-    },
-    "done": true
-  },
-  "ubesdelight:farmersdelight/recipes/cooking/bangsilog": {
-    "criteria": {
-      "has_foods_safe_raw_fish": "2025-07-06 06:49:49 +0000"
     },
     "done": true
   },
@@ -8804,27 +8420,105 @@
     },
     "done": true
   },
+  "createaddition:recipes/misc/crafting/small_light_connector": {
+    "criteria": {
+      "has_glass_block": "2025-07-06 06:42:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_storage_jar": {
+    "criteria": {
+      "has_minecraft:glass": "2025-07-06 06:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-07-06 06:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-06 06:42:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_glass_blocks_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_blocks_colorless": "2025-07-06 06:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-06 06:42:49 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/black_and_white_film": {
+    "criteria": {
+      "has_camera": "2025-07-06 06:44:01 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/camera_stand": {
+    "criteria": {
+      "has_camera": "2025-07-06 06:44:01 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/color_film": {
+    "criteria": {
+      "has_camera": "2025-07-06 06:44:01 +0000"
+    },
+    "done": true
+  },
+  "ubesdelight:farmersdelight/recipes/cooking/fish_sauce_bottle_from_water_bucket": {
+    "criteria": {
+      "has_water_bucket": "2025-07-06 06:49:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-06 06:49:29 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/brewing/cauldron_from_swamp_silver_ingot": {
     "criteria": {
       "has_water_bucket": "2025-07-06 06:49:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
+  "refurbished_furniture:recipes/food/dough": {
     "criteria": {
-      "has_brown_mushroom": "2025-07-06 06:29:19 +0000"
+      "has_water": "2025-07-06 06:49:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/clock": {
+  "farmersdelight:recipes/food/grilled_salmon": {
     "criteria": {
-      "has_redstone": "2025-07-06 06:32:28 +0000"
+      "has_salmon": "2025-07-06 06:49:49 +0000"
     },
     "done": true
   },
-  "armoroftheages:recipes/decordations/quetzalcoatl_armor_head": {
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
-      "has_base_armor": "2025-07-06 06:55:56 +0000"
+      "has_salmon": "2025-07-06 06:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-07-06 06:49:49 +0000"
+    },
+    "done": true
+  },
+  "ubesdelight:farmersdelight/recipes/cooking/bangsilog": {
+    "criteria": {
+      "has_foods_safe_raw_fish": "2025-07-06 06:49:49 +0000"
     },
     "done": true
   },
@@ -8834,21 +8528,273 @@
     },
     "done": true
   },
-  "createaddition:recipes/misc/crafting/small_light_connector": {
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "has_glass_block": "2025-07-06 06:42:49 +0000"
+      "has_glass_pane": "2025-07-06 06:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-06 06:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-06 06:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-06 06:53:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_panes_colorless": "2025-07-06 06:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-06 06:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-06 06:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-06 06:53:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_pane_from_glass_panes_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_panes_colorless": "2025-07-06 06:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-06 06:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-06 06:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-06 06:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-06 06:53:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_pane_from_glass_panes_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_panes_colorless": "2025-07-06 06:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-06 06:53:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/vertical_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_panes_colorless": "2025-07-06 06:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-06 06:53:20 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pane1": {
+    "criteria": {
+      "recipe_condition": "2025-07-06 06:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-06 06:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-06 06:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-06 06:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-06 06:53:27 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/quetzalcoatl_armor_chest": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:55:56 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/holy_armor_head": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:55:56 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/o_yoroi_armor_chest": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:55:56 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/raijin_armor_head": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:55:56 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/anubis_armor_chest": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:55:56 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/anubis_armor_head": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:55:56 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/holy_armor_chest": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:55:56 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/raijin_armor_chest": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:55:56 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/quetzalcoatl_armor_head": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:55:56 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/o_yoroi_armor_head": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:55:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-07-06 07:02:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/allium_petal_block": {
+    "criteria": {
+      "has_allium": "2025-07-06 07:02:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-07-06 07:02:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_planks": {
+    "criteria": {
+      "has_log": "2025-07-06 07:12:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_wood": {
+    "criteria": {
+      "has_log": "2025-07-06 07:12:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-06 07:12:50 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-06 07:12:50 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_slab": {
+    "criteria": {
+      "has_planks": "2025-07-06 07:12:50 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/witch_hazel_sign": {
+    "criteria": {
+      "has_planks": "2025-07-06 07:12:50 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-06 07:12:50 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_door": {
+    "criteria": {
+      "has_planks": "2025-07-06 07:12:50 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/witch_hazel_crafting_table": {
+    "criteria": {
+      "has_witch_hazel_planks": "2025-07-06 07:12:50 +0000"
     },
     "done": true
   },
   "biomeswevegone:recipes/building_blocks/witch_hazel_bookshelf": {
     "criteria": {
       "has_witch_hazel_planks": "2025-07-06 07:12:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cherry_storage_jar": {
-    "criteria": {
-      "has_minecraft:glass": "2025-07-06 06:42:49 +0000"
     },
     "done": true
   },
@@ -8864,45 +8810,15 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/witch_hazel_wood": {
+  "biomeswevegone:recipes/redstone/witch_hazel_pressure_plate": {
     "criteria": {
-      "has_log": "2025-07-06 07:12:45 +0000"
+      "has_planks": "2025-07-06 07:12:50 +0000"
     },
     "done": true
   },
-  "adventuredungeons:adventuredungeons/adventure_only_begins": {
+  "biomeswevegone:recipes/decorations/witch_hazel_hanging_sign": {
     "criteria": {
-      "adventuredungeons:ruins_standard": "2025-07-06 07:30:37 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/glass_pane": {
-    "criteria": {
-      "has_glass": "2025-07-06 06:42:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-07-06 06:42:49 +0000"
-    },
-    "done": true
-  },
-  "armoroftheages:recipes/decordations/o_yoroi_armor_head": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:55:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-07-06 06:53:20 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/food/dough": {
-    "criteria": {
-      "has_water": "2025-07-06 06:49:29 +0000"
+      "has_stripped_logs": "2025-07-06 07:20:28 +0000"
     },
     "done": true
   },
@@ -8911,6 +8827,60 @@
       "has_log": "2025-07-06 07:20:28 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/purple_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-07-06 07:21:24 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-07-06 07:24:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/carrot_from_crate": {
+    "criteria": {
+      "has_carrot_crate": "2025-07-06 07:28:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-06 07:28:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-07-06 07:28:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cabbage": {
+    "criteria": {
+      "has_cabbage_crate": "2025-07-06 07:28:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/pumpkin_seeds_from_slice": {
+    "criteria": {
+      "has_pumpkin_slice": "2025-07-06 07:28:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/pumpkin_from_slices": {
+    "criteria": {
+      "has_pumpkin_slice": "2025-07-06 07:28:44 +0000"
+    },
+    "done": true
+  },
+  "adventuredungeons:adventuredungeons/adventure_only_begins": {
+    "criteria": {
+      "adventuredungeons:ruins_standard": "2025-07-06 07:30:37 +0000"
+    },
+    "done": false
   },
   "adventuredungeons:adventuredungeons/ruinification": {
     "criteria": {
@@ -8924,75 +8894,219 @@
     },
     "done": true
   },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2025-07-06 07:31:25 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-07-06 07:34:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-07-06 07:34:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-07-06 07:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-06 07:34:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-07-06 07:35:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-06 07:35:10 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "opened_100": "2025-07-06 07:35:13 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:loot_vase_broken": {
+    "criteria": {
+      "criteria": "2025-07-06 07:35:22 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/misc/unidentified_artifact": {
+    "criteria": {
+      "has_artifact_shards": "2025-07-06 07:35:23 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/misc/archeology_table": {
+    "criteria": {
+      "has_artifact_shards": "2025-07-06 07:35:23 +0000"
+    },
+    "done": true
+  },
   "betterarcheology:artifact_shards": {
     "criteria": {
       "has_shards": "2025-07-06 07:35:23 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/tiled_glass_from_glass_blocks_colorless_stonecutting": {
+  "minecraft:adventure/ol_betsy": {
     "criteria": {
-      "has_glass_blocks_colorless": "2025-07-06 06:42:49 +0000"
+      "shot_crossbow": "2025-07-06 07:39:20 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+  "ubesdelight:farmersdelight/recipes/cooking/leche_flan": {
     "criteria": {
-      "has_item": "2025-07-06 06:32:28 +0000"
+      "has_eggs": "2025-07-06 07:39:40 +0000"
     },
     "done": true
   },
-  "connectedglass:recipes/misc/borderless_glass_pane1": {
+  "eternal_starlight:challenge_gatekeeper": {
     "criteria": {
-      "recipe_condition": "2025-07-06 06:53:20 +0000"
+      "challenged": "2025-07-06 07:44:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+  "eternal_starlight:obtain_orb_of_prophecy": {
     "criteria": {
-      "has_glass": "2025-07-06 06:42:49 +0000"
+      "has_item": "2025-07-06 07:45:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+  "eternal_starlight:obtain_seeking_eye": {
     "criteria": {
-      "has_glass_pane": "2025-07-06 06:53:20 +0000"
+      "has_item": "2025-07-06 07:45:45 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/stuffed_potato": {
+  "minecraft:husbandry/allay_deliver_item_to_player": {
     "criteria": {
-      "has_baked_potato": "2025-07-06 06:28:18 +0000"
+      "allay_deliver_item_to_player": "2025-07-06 07:49:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
     "criteria": {
-      "has_glass_pane": "2025-07-06 06:53:20 +0000"
+      "has_sentry_armor_trim_smithing_template": "2025-07-06 07:56:57 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/redstone/witch_hazel_pressure_plate": {
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_planks": "2025-07-06 07:12:50 +0000"
+      "has_smithing_trim_template": "2025-07-06 07:56:57 +0000"
     },
     "done": true
   },
-  "armoroftheages:recipes/decordations/japanese_light_armor_legs": {
+  "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
-      "has_base_armor": "2025-07-06 06:28:37 +0000"
+      "has_gravel": "2025-07-06 07:58:45 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/pumpkin_from_slices": {
+  "waystones:recipes/decorations/mossy_waystone_from_vines": {
     "criteria": {
-      "has_pumpkin_slice": "2025-07-06 07:28:44 +0000"
+      "has_waystone": "2025-07-06 08:01:58 +0000"
     },
     "done": true
   },
-  "exposure:recipes/tools/color_film": {
+  "waystones:recipes/decorations/mossy_waystone_from_moss_blocks": {
     "criteria": {
-      "has_camera": "2025-07-06 06:44:01 +0000"
+      "has_waystone": "2025-07-06 08:01:58 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2025-07-06 08:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-07-06 08:11:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-07-06 08:11:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-07-06 08:13:34 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipe/decorations/glass_bells": {
+    "criteria": {
+      "has_bottle": "2025-07-06 08:21:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-07-06 08:25:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-07-06 08:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-07-06 08:26:32 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/anubis_armor_feet": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 08:45:16 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/quetzalcoatl_armor_feet": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 08:45:16 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/o_yoroi_armor_feet": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 08:45:16 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/holy_armor_feet": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 08:45:16 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/raijin_armor_feet": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 08:45:16 +0000"
     },
     "done": true
   },
