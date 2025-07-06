@@ -1,0 +1,15 @@
+[01:29:30] [INIT] KubeJS 2101.7.0-build.131; MC 2006 NeoForge
+[01:29:30] [INIT] Loaded plugins:
+[01:29:30] [INIT] - dev.latvian.mods.kubejs.BuiltinKubeJSPlugin
+[01:29:30] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[01:29:30] [INIT] - io.github.mortuusars.exposure.neoforge.integration.kubejs.ExposureKubeJSPlugin
+[01:29:30] [INIT] - com.oierbravo.mechanicals.compat.kubejs.MechanicalsJsPlugin
+[01:29:30] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[01:29:30] [INIT] - com.oierbravo.create_mechanical_extruder.compat.kubejs.KubeJSCreateMechanicalExtruderPlugin
+[01:29:30] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
+[01:29:30] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[01:29:30] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[01:29:30] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[01:29:31] [INFO] startup_scripts:main.js#2: Hello, World! (Loaded startup example script)
+[01:29:31] [INFO] Loaded script startup_scripts:main.js in 0.102 s
+[01:29:31] [INFO] Loaded 1/1 KubeJS startup scripts in 0.793 s with 0 errors and 0 warnings
