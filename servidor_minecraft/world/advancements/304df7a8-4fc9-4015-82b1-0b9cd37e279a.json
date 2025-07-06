@@ -132,7 +132,8 @@
       "minecraft:cherry_grove": "2025-07-06 02:52:56 +0000",
       "minecraft:grove": "2025-07-06 02:51:31 +0000",
       "minecraft:meadow": "2025-07-06 05:12:00 +0000",
-      "minecraft:birch_forest": "2025-07-06 02:21:21 +0000"
+      "minecraft:birch_forest": "2025-07-06 02:21:21 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-06 05:43:30 +0000"
     },
     "done": false
   },
@@ -150,10 +151,12 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:cika_woods": "2025-07-06 05:43:58 +0000",
       "biomeswevegone:maple_taiga": "2025-07-06 03:35:50 +0000",
       "biomeswevegone:orchard": "2025-07-06 01:46:36 +0000",
       "biomeswevegone:prairie": "2025-07-06 02:45:43 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-07-06 02:09:42 +0000",
+      "biomeswevegone:skyrise_vale": "2025-07-06 05:43:02 +0000",
       "biomeswevegone:temperate_grove": "2025-07-06 01:42:39 +0000",
       "biomeswevegone:zelkova_forest": "2025-07-06 05:26:17 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-06 02:28:17 +0000",
@@ -1827,7 +1830,8 @@
       "minecraft:vindicator": "2025-07-06 03:05:43 +0000",
       "minecraft:spider": "2025-07-06 02:03:40 +0000",
       "minecraft:zombie": "2025-07-06 02:03:32 +0000",
-      "minecraft:creeper": "2025-07-06 03:18:57 +0000"
+      "minecraft:creeper": "2025-07-06 03:18:57 +0000",
+      "minecraft:drowned": "2025-07-06 05:48:32 +0000"
     },
     "done": false
   },
@@ -5370,6 +5374,13 @@
     },
     "done": true
   },
+  "hopo:minecraft/adventure/locate_all_underwater_structures": {
+    "criteria": {
+      "locate_underwater_small_ruins": "2025-07-06 05:46:52 +0000",
+      "locate_ruin_cold": "2025-07-06 05:48:26 +0000"
+    },
+    "done": false
+  },
   "handcrafted:recipes/misc/spruce_dining_bench": {
     "criteria": {
       "has_spruce_dining_bench": "2025-07-06 05:21:04 +0000"
@@ -5472,6 +5483,12 @@
     },
     "done": true
   },
+  "sootychimneys:recipe/decorations/brick_chimney": {
+    "criteria": {
+      "has_brick": "2025-07-06 05:47:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
     "criteria": {
       "has_minecraft:oak_planks": "2025-07-06 05:17:32 +0000"
@@ -5562,6 +5579,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-07-06 05:48:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-06 05:45:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_cabinetry": {
     "criteria": {
       "has_minecraft:spruce_planks": "2025-07-06 05:21:04 +0000"
@@ -5607,6 +5636,12 @@
   "sophisticatedstorage:recipes/misc/oak_limited_barrel_4": {
     "criteria": {
       "has_oak_plank": "2025-07-06 05:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-07-06 05:48:36 +0000"
     },
     "done": true
   },
@@ -5670,6 +5705,12 @@
     },
     "done": false
   },
+  "constructionstick:recipes/misc/template_battery": {
+    "criteria": {
+      "has_item": "2025-07-06 05:45:45 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_bench": {
     "criteria": {
       "has_oak_bench": "2025-07-06 05:17:32 +0000"
@@ -5718,6 +5759,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-07-06 05:47:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-06 05:18:30 +0000"
@@ -5727,6 +5774,12 @@
   "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-06 05:22:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-07-06 05:47:22 +0000"
     },
     "done": true
   },
@@ -5751,6 +5804,12 @@
   "connectedglass:recipes/misc/tinted_borderless_glass_light_gray2": {
     "criteria": {
       "recipe_condition2": "2025-07-06 05:17:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-07-06 05:46:56 +0000"
     },
     "done": true
   },
@@ -5847,6 +5906,12 @@
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-07-06 05:37:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-06 05:45:45 +0000"
     },
     "done": true
   },
@@ -6024,6 +6089,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-07-06 05:47:13 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_chair": {
     "criteria": {
       "has_planks": "2025-07-06 05:17:32 +0000"
@@ -6063,6 +6134,12 @@
   "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
     "criteria": {
       "has_glow_berries": "2025-07-06 05:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-06 05:46:52 +0000"
     },
     "done": true
   },
@@ -6189,6 +6266,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-06 05:18:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-07-06 05:48:36 +0000"
     },
     "done": true
   },
@@ -6342,6 +6425,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oven": {
+    "criteria": {
+      "has_oven": "2025-07-06 05:47:22 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_white_pane2": {
     "criteria": {
       "recipe_condition2": "2025-07-06 05:17:41 +0000"
@@ -6396,9 +6485,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-06 05:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-06 05:46:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_stairs": {
     "criteria": {
       "has_tuff": "2025-07-06 05:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-07-06 05:47:22 +0000"
     },
     "done": true
   },
@@ -6441,6 +6548,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-07-06 05:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-07-06 05:47:13 +0000"
     },
     "done": true
   },
@@ -6504,6 +6617,12 @@
     },
     "done": true
   },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-07-06 05:49:01 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_nightstand": {
     "criteria": {
       "has_spruce_nightstand": "2025-07-06 05:21:04 +0000"
@@ -6521,6 +6640,12 @@
       "has_cobbled_deepslate": "2025-07-06 05:18:30 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-07-06 05:46:56 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
@@ -6603,6 +6728,12 @@
   "handcrafted:recipes/misc/spruce_chair": {
     "criteria": {
       "has_spruce_chair": "2025-07-06 05:21:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-07-06 05:47:22 +0000"
     },
     "done": true
   },

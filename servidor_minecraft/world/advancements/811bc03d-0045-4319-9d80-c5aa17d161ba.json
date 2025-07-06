@@ -104,17 +104,19 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
-      "biomeswevegone:maple_taiga": "2025-07-06 03:35:34 +0000",
+      "biomeswevegone:cika_woods": "2025-07-06 05:43:23 +0000",
       "biomeswevegone:orchard": "2025-07-06 01:46:49 +0000",
-      "biomeswevegone:sakura_grove": "2025-07-06 02:55:41 +0000",
-      "biomeswevegone:prairie": "2025-07-06 02:46:44 +0000",
       "biomeswevegone:howling_peaks": "2025-07-06 02:53:57 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-07-06 02:11:18 +0000",
+      "biomeswevegone:skyrise_vale": "2025-07-06 05:42:59 +0000",
+      "biomeswevegone:allium_shrubland": "2025-07-06 02:28:30 +0000",
+      "biomeswevegone:coconino_meadow": "2025-07-06 03:36:00 +0000",
+      "biomeswevegone:maple_taiga": "2025-07-06 03:35:34 +0000",
+      "biomeswevegone:sakura_grove": "2025-07-06 02:55:41 +0000",
+      "biomeswevegone:prairie": "2025-07-06 02:46:44 +0000",
       "biomeswevegone:temperate_grove": "2025-07-06 01:39:18 +0000",
       "biomeswevegone:zelkova_forest": "2025-07-06 05:20:03 +0000",
-      "biomeswevegone:allium_shrubland": "2025-07-06 02:28:30 +0000",
-      "biomeswevegone:aspen_boreal": "2025-07-06 02:09:19 +0000",
-      "biomeswevegone:coconino_meadow": "2025-07-06 03:36:00 +0000"
+      "biomeswevegone:aspen_boreal": "2025-07-06 02:09:19 +0000"
     },
     "done": false
   },
@@ -160,7 +162,8 @@
       "minecraft:cherry_grove": "2025-07-06 02:55:42 +0000",
       "minecraft:grove": "2025-07-06 02:52:51 +0000",
       "minecraft:meadow": "2025-07-06 03:37:58 +0000",
-      "minecraft:birch_forest": "2025-07-06 02:27:15 +0000"
+      "minecraft:birch_forest": "2025-07-06 02:27:15 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-06 05:43:24 +0000"
     },
     "done": false
   },
@@ -1824,7 +1827,8 @@
       "minecraft:spider": "2025-07-06 01:56:58 +0000",
       "minecraft:vex": "2025-07-06 03:05:16 +0000",
       "minecraft:zombie": "2025-07-06 02:12:52 +0000",
-      "minecraft:creeper": "2025-07-06 03:18:57 +0000"
+      "minecraft:creeper": "2025-07-06 03:18:57 +0000",
+      "minecraft:drowned": "2025-07-06 05:47:32 +0000"
     },
     "done": false
   },
@@ -4848,6 +4852,13 @@
     },
     "done": true
   },
+  "hopo:minecraft/adventure/locate_all_underwater_structures": {
+    "criteria": {
+      "locate_underwater_small_ruins": "2025-07-06 05:45:55 +0000",
+      "locate_ruin_cold": "2025-07-06 05:47:26 +0000"
+    },
+    "done": false
+  },
   "connectedglass:recipes/misc/clear_glass_black_pane2": {
     "criteria": {
       "recipe_condition2": "2025-07-06 05:20:44 +0000"
@@ -4869,6 +4880,12 @@
   "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-07-06 05:18:04 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "opened_50": "2025-07-06 05:44:27 +0000"
     },
     "done": true
   },
@@ -5016,6 +5033,12 @@
     },
     "done": true
   },
+  "ubesdelight:farmersdelight/recipes/cooking/fish_sauce_bottle_from_water_bucket": {
+    "criteria": {
+      "has_water_bucket": "2025-07-06 05:46:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/raw_zinc_block": {
     "criteria": {
       "has_item": "2025-07-06 05:30:12 +0000"
@@ -5067,6 +5090,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-06 05:17:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-06 05:46:39 +0000"
     },
     "done": true
   },
@@ -5136,15 +5165,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-06 05:46:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-06 05:17:55 +0000"
     },
     "done": true
   },
+  "ubesdelight:farmersdelight/recipes/cooking/fish_sauce_bottle_from_water_bucket_extra": {
+    "criteria": {
+      "has_water_bucket": "2025-07-06 05:46:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-06 05:17:55 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/brewing/cauldron_from_swamp_silver_ingot": {
+    "criteria": {
+      "has_water_bucket": "2025-07-06 05:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-06 05:46:39 +0000"
     },
     "done": true
   },
@@ -5199,6 +5252,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-06 05:17:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-07-06 05:46:03 +0000"
     },
     "done": true
   },
