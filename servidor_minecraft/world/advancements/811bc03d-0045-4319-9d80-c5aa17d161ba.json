@@ -5948,9 +5948,39 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-07-06 23:30:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-06 23:30:15 +0000"
+    },
+    "done": true
+  },
   "betterarcheology:recipes/misc/archeology_table": {
     "criteria": {
       "has_artifact_shards": "2025-07-06 23:16:25 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_flower_box": {
+    "criteria": {
+      "has_slab": "2025-07-06 23:30:15 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_bench": {
+    "criteria": {
+      "has_slab": "2025-07-06 23:30:15 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_shutter": {
+    "criteria": {
+      "has_slab": "2025-07-06 23:30:15 +0000"
     },
     "done": true
   },
@@ -5963,6 +5993,18 @@
   "minecraft:recipes/misc/white_dye_from_bwg_dye_tag": {
     "criteria": {
       "has_dye_tag": "2025-07-06 23:20:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-07-06 23:30:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-07-06 23:30:15 +0000"
     },
     "done": true
   },
