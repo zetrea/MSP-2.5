@@ -131,10 +131,12 @@
       "minecraft:deep_dark": "2025-07-06 02:58:26 +0000",
       "minecraft:ocean": "2025-07-06 01:45:22 +0000",
       "minecraft:cherry_grove": "2025-07-06 02:52:56 +0000",
+      "minecraft:sunflower_plains": "2025-07-06 07:27:22 +0000",
       "minecraft:grove": "2025-07-06 02:51:31 +0000",
       "minecraft:meadow": "2025-07-06 05:12:00 +0000",
       "minecraft:birch_forest": "2025-07-06 02:21:21 +0000",
-      "minecraft:old_growth_spruce_taiga": "2025-07-06 05:43:30 +0000"
+      "minecraft:old_growth_spruce_taiga": "2025-07-06 05:43:30 +0000",
+      "minecraft:plains": "2025-07-06 07:25:15 +0000"
     },
     "done": false
   },
@@ -8126,6 +8128,12 @@
     },
     "done": true
   },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2025-07-06 07:31:25 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-06 06:53:20 +0000"
@@ -8165,6 +8173,12 @@
   "armoroftheages:recipes/decordations/holy_armor_head": {
     "criteria": {
       "has_base_armor": "2025-07-06 06:55:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-07-06 07:34:15 +0000"
     },
     "done": true
   },
@@ -8282,6 +8296,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-06 07:28:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-06 06:42:49 +0000"
@@ -8366,6 +8386,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cabbage": {
+    "criteria": {
+      "has_cabbage_crate": "2025-07-06 07:28:28 +0000"
+    },
+    "done": true
+  },
   "phantasm:recipes/building_blocks/void_crystal_glass": {
     "criteria": {
       "has_glass": "2025-07-06 06:42:49 +0000"
@@ -8396,6 +8422,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/pumpkin_seeds_from_slice": {
+    "criteria": {
+      "has_pumpkin_slice": "2025-07-06 07:28:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-06 06:42:49 +0000"
@@ -8408,9 +8440,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-07-06 07:34:15 +0000"
+    },
+    "done": true
+  },
   "ubesdelight:farmersdelight/recipes/cooking/fish_sauce_bottle_from_water_bucket": {
     "criteria": {
       "has_water_bucket": "2025-07-06 06:49:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-07-06 07:28:24 +0000"
     },
     "done": true
   },
@@ -8540,6 +8584,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/carrot_from_crate": {
+    "criteria": {
+      "has_carrot_crate": "2025-07-06 07:28:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2025-07-06 06:32:28 +0000"
@@ -8627,6 +8677,12 @@
   "biomeswevegone:recipes/decorations/foragers_table": {
     "criteria": {
       "has_mushrooms": "2025-07-06 06:29:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-07-06 07:34:15 +0000"
     },
     "done": true
   },
@@ -8732,6 +8788,12 @@
     },
     "done": true
   },
+  "adventuredungeons:adventuredungeons/adventure_only_begins": {
+    "criteria": {
+      "adventuredungeons:ruins_standard": "2025-07-06 07:30:37 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-07-06 06:42:49 +0000"
@@ -8765,6 +8827,18 @@
   "biomeswevegone:recipes/building_blocks/stripped_witch_hazel_wood": {
     "criteria": {
       "has_log": "2025-07-06 07:20:28 +0000"
+    },
+    "done": true
+  },
+  "adventuredungeons:adventuredungeons/ruinification": {
+    "criteria": {
+      "adventuredungeons:ruins_standard": "2025-07-06 07:30:37 +0000"
+    },
+    "done": false
+  },
+  "adventuredungeons:adventuredungeons/ruins_past": {
+    "criteria": {
+      "ruins_of_past": "2025-07-06 07:30:37 +0000"
     },
     "done": true
   },
@@ -8819,6 +8893,12 @@
   "armoroftheages:recipes/decordations/japanese_light_armor_legs": {
     "criteria": {
       "has_base_armor": "2025-07-06 06:28:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/pumpkin_from_slices": {
+    "criteria": {
+      "has_pumpkin_slice": "2025-07-06 07:28:44 +0000"
     },
     "done": true
   },
