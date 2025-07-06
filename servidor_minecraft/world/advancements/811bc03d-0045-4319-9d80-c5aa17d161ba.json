@@ -5509,6 +5509,12 @@
     },
     "done": true
   },
+  "armoroftheages:recipes/decordations/o_yoroi_armor_legs": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:54:32 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-06 06:14:47 +0000"
@@ -5575,6 +5581,12 @@
     },
     "done": true
   },
+  "armoroftheages:recipes/decordations/holy_armor_head": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:54:39 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/bloom_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-06 06:14:47 +0000"
@@ -5596,6 +5608,12 @@
   "biomeswevegone:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-06 06:14:47 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/anubis_armor_legs": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:54:32 +0000"
     },
     "done": true
   },
@@ -5626,6 +5644,12 @@
   "biomeswevegone:recipes/transportation/florus_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-06 06:14:47 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/raijin_armor_head": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:54:39 +0000"
     },
     "done": true
   },
@@ -5671,6 +5695,12 @@
     },
     "done": true
   },
+  "armoroftheages:recipes/decordations/holy_armor_legs": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:54:32 +0000"
+    },
+    "done": true
+  },
   "armoroftheages:recipes/decordations/anubis_armor_chest": {
     "criteria": {
       "has_base_armor": "2025-07-06 06:28:06 +0000"
@@ -5692,6 +5722,12 @@
   "armoroftheages:recipes/decordations/holy_armor_feet": {
     "criteria": {
       "has_base_armor": "2025-07-06 06:28:08 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/anubis_armor_head": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:54:39 +0000"
     },
     "done": true
   },
@@ -5722,6 +5758,12 @@
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-06 06:14:47 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/quetzalcoatl_armor_legs": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:54:32 +0000"
     },
     "done": true
   },
@@ -5803,6 +5845,12 @@
     },
     "done": true
   },
+  "armoroftheages:recipes/decordations/quetzalcoatl_armor_head": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:54:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-06 06:14:47 +0000"
@@ -5827,6 +5875,12 @@
     },
     "done": true
   },
+  "armoroftheages:recipes/decordations/o_yoroi_armor_head": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:54:39 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/baobab_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-06 06:14:47 +0000"
@@ -5848,6 +5902,12 @@
   "biomeswevegone:recipes/transportation/witch_hazel_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-06 06:14:47 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/raijin_armor_legs": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:54:32 +0000"
     },
     "done": true
   },

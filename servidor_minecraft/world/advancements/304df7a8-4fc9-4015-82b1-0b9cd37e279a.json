@@ -1830,6 +1830,7 @@
       "minecraft:skeleton": "2025-07-06 01:56:53 +0000",
       "minecraft:piglin": "2025-07-06 02:56:13 +0000",
       "minecraft:vindicator": "2025-07-06 03:05:43 +0000",
+      "minecraft:enderman": "2025-07-06 06:57:17 +0000",
       "minecraft:spider": "2025-07-06 02:03:40 +0000",
       "minecraft:zombie": "2025-07-06 02:03:32 +0000",
       "minecraft:creeper": "2025-07-06 03:18:57 +0000",
@@ -8124,6 +8125,12 @@
     },
     "done": true
   },
+  "armoroftheages:recipes/decordations/quetzalcoatl_armor_chest": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:55:56 +0000"
+    },
+    "done": true
+  },
   "exposure:recipes/tools/black_and_white_film": {
     "criteria": {
       "has_camera": "2025-07-06 06:44:01 +0000"
@@ -8142,6 +8149,12 @@
     },
     "done": true
   },
+  "armoroftheages:recipes/decordations/holy_armor_head": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:55:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-06 06:42:49 +0000"
@@ -8151,6 +8164,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-07-06 06:49:49 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/o_yoroi_armor_chest": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:55:56 +0000"
     },
     "done": true
   },
@@ -8256,6 +8275,12 @@
     },
     "done": true
   },
+  "armoroftheages:recipes/decordations/raijin_armor_head": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:55:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-06 06:53:20 +0000"
@@ -8268,6 +8293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-07-06 07:02:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-07-06 06:49:49 +0000"
@@ -8277,6 +8308,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-07-06 06:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/allium_petal_block": {
+    "criteria": {
+      "has_allium": "2025-07-06 07:02:43 +0000"
     },
     "done": true
   },
@@ -8340,6 +8377,12 @@
     },
     "done": true
   },
+  "armoroftheages:recipes/decordations/anubis_armor_chest": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:55:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2025-07-06 06:32:28 +0000"
@@ -8361,6 +8404,12 @@
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-06 06:53:20 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/anubis_armor_head": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:55:56 +0000"
     },
     "done": true
   },
@@ -8442,6 +8491,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-07-06 07:02:43 +0000"
+    },
+    "done": true
+  },
   "phantasm:recipes/building_blocks/crystal_glass": {
     "criteria": {
       "has_glass": "2025-07-06 06:42:49 +0000"
@@ -8475,6 +8530,12 @@
   "armoroftheages:recipes/decordations/japanese_light_armor_head": {
     "criteria": {
       "has_base_armor": "2025-07-06 06:28:36 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/holy_armor_chest": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:55:56 +0000"
     },
     "done": true
   },
@@ -8514,6 +8575,12 @@
     },
     "done": true
   },
+  "armoroftheages:recipes/decordations/raijin_armor_chest": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:55:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/experience_block": {
     "criteria": {
       "has_item": "2025-07-06 06:36:03 +0000"
@@ -8550,6 +8617,12 @@
     },
     "done": true
   },
+  "armoroftheages:recipes/decordations/quetzalcoatl_armor_head": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:55:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-07-06 06:49:49 +0000"
@@ -8577,6 +8650,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-06 06:42:49 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/o_yoroi_armor_head": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:55:56 +0000"
     },
     "done": true
   },
