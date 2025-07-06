@@ -5960,9 +5960,45 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/creeper_trophy": {
+    "criteria": {
+      "has_creeper_trophy": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_stone_brick_stairs_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-06 23:55:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-06 23:42:30 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_stone_bricks_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_stone_bricks_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-06 23:45:06 +0000"
     },
     "done": true
   },
@@ -5972,15 +6008,63 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/vindicator_trophy": {
+    "criteria": {
+      "has_vindicator_trophy": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
   "betterarcheology:recipes/misc/unidentified_artifact": {
     "criteria": {
       "has_artifact_shards": "2025-07-06 23:16:25 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
+    "criteria": {
+      "has_minecraft:stone": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-06 23:55:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
     "criteria": {
       "has_minecraft:glass": "2025-07-06 23:42:30 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_stone_stairs_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_trophy": {
+    "criteria": {
+      "has_skeleton_trophy": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_stone_brick_stairs_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-07-06 23:47:12 +0000"
     },
     "done": true
   },
@@ -6008,6 +6092,12 @@
     },
     "done": true
   },
+  "eternal_starlight:obtain_orb_of_prophecy": {
+    "criteria": {
+      "has_item": "2025-07-06 23:45:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-06 23:42:30 +0000"
@@ -6020,9 +6110,39 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/polished_cut_stone_slab_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_slab": {
+    "criteria": {
+      "has_planks": "2025-07-06 23:55:22 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_stone_stairs_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-07-06 23:30:15 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_planks": {
+    "criteria": {
+      "has_log": "2025-07-06 23:48:08 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/stone_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-06 23:45:06 +0000"
     },
     "done": true
   },
@@ -6032,15 +6152,51 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/stone_pillar_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
   "betterarcheology:recipes/misc/archeology_table": {
     "criteria": {
       "has_artifact_shards": "2025-07-06 23:16:25 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-06 23:45:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-06 23:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-06 23:45:06 +0000"
     },
     "done": true
   },
@@ -6056,6 +6212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
   "phantasm:recipes/building_blocks/void_crystal_glass": {
     "criteria": {
       "has_glass": "2025-07-06 23:42:30 +0000"
@@ -6068,9 +6230,57 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/cut_stone_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/layered_stone_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-06 23:45:20 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass1": {
     "criteria": {
       "recipe_condition": "2025-07-06 23:42:30 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_stone_wall_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/witch_hazel_sign": {
+    "criteria": {
+      "has_planks": "2025-07-06 23:55:22 +0000"
     },
     "done": true
   },
@@ -6092,9 +6302,27 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-06 23:55:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
     "criteria": {
       "has_minecraft:glass": "2025-07-06 23:42:30 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_stone_brick_wall_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-07-06 23:45:06 +0000"
     },
     "done": true
   },
@@ -6110,9 +6338,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_door": {
+    "criteria": {
+      "has_planks": "2025-07-06 23:55:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_storage_jar": {
     "criteria": {
       "has_minecraft:glass": "2025-07-06 23:42:30 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_stone_wall_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_stone_brick_slab_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-06 23:45:06 +0000"
     },
     "done": true
   },
@@ -6122,9 +6374,39 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/evoker_trophy": {
+    "criteria": {
+      "has_evoker_trophy": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_stone_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pillager_trophy": {
+    "criteria": {
+      "has_pillager_trophy": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/witch_hazel_crafting_table": {
+    "criteria": {
+      "has_witch_hazel_planks": "2025-07-06 23:55:22 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/spruce_flower_box": {
     "criteria": {
       "has_slab": "2025-07-06 23:30:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_corner_trim": {
+    "criteria": {
+      "has_stone_corner_trim": "2025-07-06 23:45:06 +0000"
     },
     "done": true
   },
@@ -6134,9 +6416,21 @@
     },
     "done": true
   },
+  "sootychimneys:recipe/decorations/stone_brick_chimney": {
+    "criteria": {
+      "has_stone": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
   "createaddition:recipes/misc/crafting/small_light_connector": {
     "criteria": {
       "has_glass_block": "2025-07-06 23:42:30 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_bookshelf": {
+    "criteria": {
+      "has_witch_hazel_planks": "2025-07-06 23:55:22 +0000"
     },
     "done": true
   },
@@ -6146,9 +6440,33 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/decorations/witch_hazel_fence": {
+    "criteria": {
+      "has_planks": "2025-07-06 23:55:22 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/spruce_bench": {
     "criteria": {
       "has_slab": "2025-07-06 23:30:15 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_button": {
+    "criteria": {
+      "has_planks": "2025-07-06 23:55:22 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_wood": {
+    "criteria": {
+      "has_log": "2025-07-06 23:48:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-07-06 23:45:06 +0000"
     },
     "done": true
   },
@@ -6164,9 +6482,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-06 23:45:20 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/spruce_shutter": {
     "criteria": {
       "has_slab": "2025-07-06 23:30:15 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_stone_brick_slab_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_stone_slab_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-06 23:45:06 +0000"
     },
     "done": true
   },
@@ -6182,6 +6518,24 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/witch_trophy": {
+    "criteria": {
+      "has_witch_trophy": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_pillar_trim": {
+    "criteria": {
+      "has_stone_pillar_trim": "2025-07-06 23:45:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-06 23:42:30 +0000"
@@ -6191,6 +6545,18 @@
   "minecraft:recipes/misc/white_dye_from_bwg_dye_tag": {
     "criteria": {
       "has_dye_tag": "2025-07-06 23:20:32 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-06 23:55:22 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_stone_brick_wall_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-06 23:45:06 +0000"
     },
     "done": true
   },

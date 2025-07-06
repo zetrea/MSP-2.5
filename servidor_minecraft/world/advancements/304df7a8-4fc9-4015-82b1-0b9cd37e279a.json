@@ -9111,5 +9111,23 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-06 23:49:32 +0000"
+    },
+    "done": true
+  },
+  "escalated:recipes/misc/wooden_walkway_steps": {
+    "criteria": {
+      "has_chain": "2025-07-06 23:49:34 +0000"
+    },
+    "done": true
+  },
+  "escalated:recipes/misc/metal_walkway_steps": {
+    "criteria": {
+      "has_chain": "2025-07-06 23:49:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
