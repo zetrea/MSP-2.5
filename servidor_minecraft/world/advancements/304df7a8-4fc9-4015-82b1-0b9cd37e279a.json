@@ -161,6 +161,7 @@
       "biomeswevegone:allium_shrubland": "2025-07-06 02:28:17 +0000",
       "biomeswevegone:coconino_meadow": "2025-07-06 03:35:59 +0000",
       "biomeswevegone:maple_taiga": "2025-07-06 03:35:50 +0000",
+      "biomeswevegone:sakura_grove": "2025-07-06 07:51:47 +0000",
       "biomeswevegone:prairie": "2025-07-06 02:45:43 +0000",
       "biomeswevegone:basalt_barrera": "2025-07-06 07:23:13 +0000",
       "biomeswevegone:temperate_grove": "2025-07-06 01:42:39 +0000",
@@ -2634,6 +2635,7 @@
       "bread": "2025-07-06 02:44:50 +0000",
       "golden_apple": "2025-07-06 07:41:47 +0000",
       "enchanted_golden_apple": "2025-07-06 07:43:49 +0000",
+      "cooked_mutton": "2025-07-06 07:45:17 +0000",
       "cooked_cod": "2025-07-06 05:59:55 +0000",
       "cooked_beef": "2025-07-06 02:56:32 +0000",
       "baked_potato": "2025-07-06 06:31:25 +0000",
@@ -8082,6 +8084,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2025-07-06 07:49:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_rice": {
     "criteria": {
       "has_any_ingredient": "2025-07-06 06:29:19 +0000"
@@ -8286,6 +8294,12 @@
     },
     "done": true
   },
+  "eternal_starlight:obtain_orb_of_prophecy": {
+    "criteria": {
+      "has_item": "2025-07-06 07:45:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-06 06:42:49 +0000"
@@ -8406,6 +8420,12 @@
     },
     "done": true
   },
+  "eternal_starlight:challenge_gatekeeper": {
+    "criteria": {
+      "challenged": "2025-07-06 07:44:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-07-06 06:49:49 +0000"
@@ -8505,6 +8525,12 @@
   "farmersdelight:recipes/building_blocks/cabbage_crate": {
     "criteria": {
       "has_cabbage": "2025-07-06 07:28:24 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:obtain_seeking_eye": {
+    "criteria": {
+      "has_item": "2025-07-06 07:45:45 +0000"
     },
     "done": true
   },
