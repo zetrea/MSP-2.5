@@ -2632,6 +2632,8 @@
       "cooked_porkchop": "2025-07-06 02:22:32 +0000",
       "apple": "2025-07-06 05:53:17 +0000",
       "bread": "2025-07-06 02:44:50 +0000",
+      "golden_apple": "2025-07-06 07:41:47 +0000",
+      "enchanted_golden_apple": "2025-07-06 07:43:49 +0000",
       "cooked_cod": "2025-07-06 05:59:55 +0000",
       "cooked_beef": "2025-07-06 02:56:32 +0000",
       "baked_potato": "2025-07-06 06:31:25 +0000",
@@ -8134,6 +8136,12 @@
     },
     "done": false
   },
+  "betterarcheology:loot_vase_broken": {
+    "criteria": {
+      "criteria": "2025-07-06 07:35:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-06 06:53:20 +0000"
@@ -8185,6 +8193,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-06 06:42:49 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/misc/unidentified_artifact": {
+    "criteria": {
+      "has_artifact_shards": "2025-07-06 07:35:23 +0000"
     },
     "done": true
   },
@@ -8302,9 +8316,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-06 07:34:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-06 06:42:49 +0000"
+    },
+    "done": true
+  },
+  "ubesdelight:farmersdelight/recipes/cooking/leche_flan": {
+    "criteria": {
+      "has_eggs": "2025-07-06 07:39:40 +0000"
     },
     "done": true
   },
@@ -8317,6 +8343,12 @@
   "create:recipes/misc/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2025-07-06 06:32:28 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/misc/archeology_table": {
+    "criteria": {
+      "has_artifact_shards": "2025-07-06 07:35:23 +0000"
     },
     "done": true
   },
@@ -8359,6 +8391,18 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-07-06 07:02:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-07-06 07:35:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-06 07:35:10 +0000"
     },
     "done": true
   },
@@ -8443,6 +8487,12 @@
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-07-06 07:34:15 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "opened_100": "2025-07-06 07:35:13 +0000"
     },
     "done": true
   },
@@ -8623,6 +8673,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-07-06 06:32:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-07-06 07:39:20 +0000"
     },
     "done": true
   },
@@ -8839,6 +8895,12 @@
   "adventuredungeons:adventuredungeons/ruins_past": {
     "criteria": {
       "ruins_of_past": "2025-07-06 07:30:37 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:artifact_shards": {
+    "criteria": {
+      "has_shards": "2025-07-06 07:35:23 +0000"
     },
     "done": true
   },
