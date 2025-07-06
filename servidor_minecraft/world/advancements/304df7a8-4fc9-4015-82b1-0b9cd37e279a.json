@@ -116,11 +116,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-07-06 05:29:21 +0000",
       "minecraft:snowy_slopes": "2025-07-06 02:53:39 +0000",
       "minecraft:dark_forest": "2025-07-06 01:56:18 +0000",
       "minecraft:forest": "2025-07-06 02:27:40 +0000",
+      "minecraft:taiga": "2025-07-06 05:31:12 +0000",
       "minecraft:river": "2025-07-06 02:08:39 +0000",
       "minecraft:stony_shore": "2025-07-06 01:41:54 +0000",
+      "minecraft:lush_caves": "2025-07-06 05:32:34 +0000",
       "minecraft:dripstone_caves": "2025-07-06 03:00:35 +0000",
       "minecraft:frozen_peaks": "2025-07-06 02:52:23 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-06 01:42:49 +0000",
@@ -5271,6 +5274,12 @@
     },
     "done": true
   },
+  "chimes:recipe/decorations/amethyst_chimes": {
+    "criteria": {
+      "has_planks": "2025-07-06 05:29:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-06 05:22:44 +0000"
@@ -5325,6 +5334,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-07-06 05:30:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-07-06 05:22:44 +0000"
@@ -5358,6 +5373,12 @@
   "handcrafted:recipes/misc/spruce_dining_bench": {
     "criteria": {
       "has_spruce_dining_bench": "2025-07-06 05:21:04 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-06 05:29:17 +0000"
     },
     "done": true
   },
@@ -5409,6 +5430,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-06 05:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-06 05:29:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-06 05:18:30 +0000"
@@ -5424,6 +5457,12 @@
   "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-06 05:22:44 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "opened_50": "2025-07-06 05:34:13 +0000"
     },
     "done": true
   },
@@ -5469,6 +5508,12 @@
     },
     "done": true
   },
+  "createaddition:recipes/misc/crafting/spool": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-06 05:32:27 +0000"
+    },
+    "done": true
+  },
   "exposure:recipes/tools/album": {
     "criteria": {
       "has_book": "2025-07-06 05:04:28 +0000"
@@ -5496,6 +5541,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-07-06 05:12:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-06 05:32:27 +0000"
     },
     "done": true
   },
@@ -5571,6 +5622,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-07-06 05:30:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-07-06 05:16:48 +0000"
@@ -5598,6 +5655,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_mail_box": {
     "criteria": {
       "has_minecraft:oak_planks": "2025-07-06 05:17:32 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_yellow2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-06 05:36:43 +0000"
     },
     "done": true
   },
@@ -5781,11 +5844,23 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-07-06 05:37:20 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_drawer": {
     "criteria": {
       "has_spruce_drawer": "2025-07-06 05:21:04 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "vegetable_noodles": "2025-07-06 05:37:20 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
@@ -5811,6 +5886,18 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/scratched_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-06 05:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-06 05:29:17 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_fancy_bed": {
     "criteria": {
       "has_spruce_fancy_bed": "2025-07-06 05:21:04 +0000"
@@ -5829,6 +5916,18 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-07-06 05:33:24 +0000"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/food/minecraft/crafting/kinilaw": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-06 05:37:20 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-07-06 05:17:42 +0000"
@@ -5841,15 +5940,45 @@
     },
     "done": true
   },
+  "comforts:recipes/building_blocks/dye_hammock_yellow": {
+    "criteria": {
+      "has_needed_dye": "2025-07-06 05:36:43 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_yellow2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-06 05:36:43 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_cupboard": {
     "criteria": {
       "has_spruce_cupboard": "2025-07-06 05:21:04 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-07-06 05:37:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-07-06 05:30:44 +0000"
+    },
+    "done": true
+  },
   "comforts:recipes/building_blocks/dye_hammock_light_gray": {
     "criteria": {
       "has_needed_dye": "2025-07-06 05:17:41 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/service_bell": {
+    "criteria": {
+      "has_nugget": "2025-07-06 05:32:27 +0000"
     },
     "done": true
   },
@@ -5901,6 +6030,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-06 05:32:32 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_fancy_bed": {
     "criteria": {
       "has_oak_fancy_bed": "2025-07-06 05:17:32 +0000"
@@ -5919,6 +6054,12 @@
     },
     "done": true
   },
+  "comforts:recipes/building_blocks/dye_sleeping_bag_yellow": {
+    "criteria": {
+      "has_needed_dye": "2025-07-06 05:36:43 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
     "criteria": {
       "has_glow_berries": "2025-07-06 05:12:20 +0000"
@@ -5934,6 +6075,12 @@
   "handcrafted:recipes/misc/spruce_shelf": {
     "criteria": {
       "has_spruce_shelf": "2025-07-06 05:21:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-06 05:29:17 +0000"
     },
     "done": true
   },
@@ -5982,6 +6129,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
     "criteria": {
       "has_minecraft:spruce_planks": "2025-07-06 05:21:04 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-06 05:36:43 +0000"
     },
     "done": true
   },
@@ -6045,9 +6198,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-06 05:32:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-06 05:18:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-07-06 05:32:32 +0000"
     },
     "done": true
   },
@@ -6078,6 +6243,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-06 05:18:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-06 05:32:27 +0000"
     },
     "done": true
   },
@@ -6129,6 +6300,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/tinted_borderless_glass_yellow2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-06 05:36:43 +0000"
+    },
+    "done": true
+  },
   "comforts:recipes/building_blocks/dye_sleeping_bag_white": {
     "criteria": {
       "has_needed_dye": "2025-07-06 05:17:41 +0000"
@@ -6177,6 +6354,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-07-06 05:37:20 +0000"
+    },
+    "done": true
+  },
   "comforts:recipes/building_blocks/dye_hammock_white": {
     "criteria": {
       "has_needed_dye": "2025-07-06 05:17:41 +0000"
@@ -6198,6 +6381,18 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-06 05:18:30 +0000"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/food/minecraft/crafting/kinilaw_extra": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-06 05:37:20 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_yellow2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-06 05:36:43 +0000"
     },
     "done": true
   },
@@ -6345,6 +6540,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-07-06 05:37:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-07-06 05:21:04 +0000"
@@ -6354,6 +6555,12 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-06 05:21:04 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-06 05:36:43 +0000"
     },
     "done": true
   },
