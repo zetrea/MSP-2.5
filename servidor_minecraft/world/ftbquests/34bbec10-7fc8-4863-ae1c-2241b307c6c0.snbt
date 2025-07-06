@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "34bbec107fc84863ae1c2241b307c6c0"
+	name: "7Pakass#34bbec10"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

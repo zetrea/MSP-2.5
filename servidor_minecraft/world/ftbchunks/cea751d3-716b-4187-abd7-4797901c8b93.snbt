@@ -1,0 +1,13 @@
+{
+	max_claim_chunks: 200
+	max_force_load_chunks: 10
+	last_login_time: 1751772715170L
+	chunks: { }
+	member_data: {
+		cea751d3-716b-4187-abd7-4797901c8b93: {
+			max_force_loaded_chunks: 10
+			max_claimed_chunks: 200
+			offline_force_loader: 0b
+		}
+	}
+}

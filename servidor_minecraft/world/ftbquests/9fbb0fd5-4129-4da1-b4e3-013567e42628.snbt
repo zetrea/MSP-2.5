@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "9fbb0fd541294da1b4e3013567e42628"
+	name: "Lauurawr_#9fbb0fd5"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

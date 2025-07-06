@@ -1,0 +1,19 @@
+{
+	version: 1
+	uuid: "cea751d3716b4187abd74797901c8b93"
+	name: "AnbertitoKawaixX#cea751d3"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		3AD71C6EC344C7F7: 5
+	}
+	started: {
+		3AD71C6EC344C7F7: 1751770671460L
+		0000000000000001: 1751770671460L
+		3D0F9F9B2B945E7A: 1751770671460L
+		19BE083ACF488E0F: 1751770671460L
+	}
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
