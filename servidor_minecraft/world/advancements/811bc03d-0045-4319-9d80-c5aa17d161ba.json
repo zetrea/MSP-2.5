@@ -5509,12 +5509,6 @@
     },
     "done": true
   },
-  "armoroftheages:recipes/decordations/o_yoroi_armor_legs": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:54:32 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-06 06:14:47 +0000"
@@ -5539,12 +5533,6 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2025-07-06 06:28:06 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/transportation/ebony_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-06 06:14:47 +0000"
@@ -5563,27 +5551,9 @@
     },
     "done": true
   },
-  "armoroftheages:recipes/decordations/quetzalcoatl_armor_chest": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:28:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-06 06:14:47 +0000"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:experienced_engineer": {
-    "criteria": {
-      "0": "2025-07-06 06:38:39 +0000"
-    },
-    "done": true
-  },
-  "armoroftheages:recipes/decordations/holy_armor_head": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:54:39 +0000"
     },
     "done": true
   },
@@ -5593,39 +5563,9 @@
     },
     "done": true
   },
-  "armoroftheages:recipes/decordations/anubis_armor_feet": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:28:08 +0000"
-    },
-    "done": true
-  },
-  "armoroftheages:recipes/decordations/o_yoroi_armor_chest": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:28:06 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-06 06:14:47 +0000"
-    },
-    "done": true
-  },
-  "armoroftheages:recipes/decordations/anubis_armor_legs": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:54:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-07-06 06:28:34 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_mushroom_mines": {
-    "criteria": {
-      "location0": "2025-07-06 06:26:53 +0000"
     },
     "done": true
   },
@@ -5644,12 +5584,6 @@
   "biomeswevegone:recipes/transportation/florus_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-06 06:14:47 +0000"
-    },
-    "done": true
-  },
-  "armoroftheages:recipes/decordations/raijin_armor_head": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:54:39 +0000"
     },
     "done": true
   },
@@ -5683,33 +5617,9 @@
     },
     "done": true
   },
-  "armoroftheages:recipes/decordations/quetzalcoatl_armor_feet": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:28:08 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/transportation/rainbow_eucalyptus_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-06 06:14:47 +0000"
-    },
-    "done": true
-  },
-  "armoroftheages:recipes/decordations/holy_armor_legs": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:54:32 +0000"
-    },
-    "done": true
-  },
-  "armoroftheages:recipes/decordations/anubis_armor_chest": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:28:06 +0000"
-    },
-    "done": true
-  },
-  "armoroftheages:recipes/decordations/o_yoroi_armor_feet": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:28:08 +0000"
     },
     "done": true
   },
@@ -5719,33 +5629,9 @@
     },
     "done": true
   },
-  "armoroftheages:recipes/decordations/holy_armor_feet": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:28:08 +0000"
-    },
-    "done": true
-  },
-  "armoroftheages:recipes/decordations/anubis_armor_head": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:54:39 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-06 06:29:08 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/transportation/sakura_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-06 06:14:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-07-06 06:29:08 +0000"
     },
     "done": true
   },
@@ -5758,12 +5644,6 @@
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-06 06:14:47 +0000"
-    },
-    "done": true
-  },
-  "armoroftheages:recipes/decordations/quetzalcoatl_armor_legs": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:54:32 +0000"
     },
     "done": true
   },
@@ -5809,30 +5689,6 @@
     },
     "done": true
   },
-  "armoroftheages:recipes/decordations/holy_armor_chest": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:28:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
-    "criteria": {
-      "has_item": "2025-07-06 06:38:39 +0000"
-    },
-    "done": true
-  },
-  "armoroftheages:recipes/decordations/raijin_armor_chest": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:28:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/experience_block": {
-    "criteria": {
-      "has_item": "2025-07-06 06:38:39 +0000"
-    },
-    "done": true
-  },
   "eternal_starlight:recipes/transportation/northland_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-06 06:14:47 +0000"
@@ -5842,12 +5698,6 @@
   "biomeswevegone:recipes/transportation/spirit_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-06 06:14:47 +0000"
-    },
-    "done": true
-  },
-  "armoroftheages:recipes/decordations/quetzalcoatl_armor_head": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:54:39 +0000"
     },
     "done": true
   },
@@ -5875,12 +5725,6 @@
     },
     "done": true
   },
-  "armoroftheages:recipes/decordations/o_yoroi_armor_head": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:54:39 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/transportation/baobab_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-06 06:14:47 +0000"
@@ -5905,27 +5749,9 @@
     },
     "done": true
   },
-  "armoroftheages:recipes/decordations/raijin_armor_legs": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:54:32 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-06 06:14:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/stuffed_potato": {
-    "criteria": {
-      "has_baked_potato": "2025-07-06 06:29:08 +0000"
-    },
-    "done": true
-  },
-  "armoroftheages:recipes/decordations/raijin_armor_feet": {
-    "criteria": {
-      "has_base_armor": "2025-07-06 06:28:08 +0000"
     },
     "done": true
   },
@@ -5938,6 +5764,180 @@
   "biomeswevegone:recipes/transportation/holly_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-06 06:14:47 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2025-07-06 06:26:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-07-06 06:28:06 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/quetzalcoatl_armor_chest": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:28:06 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/o_yoroi_armor_chest": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:28:06 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/anubis_armor_chest": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:28:06 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/holy_armor_chest": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:28:06 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/raijin_armor_chest": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:28:06 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/anubis_armor_feet": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:28:08 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/quetzalcoatl_armor_feet": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:28:08 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/o_yoroi_armor_feet": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:28:08 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/holy_armor_feet": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:28:08 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/raijin_armor_feet": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:28:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-06 06:28:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-06 06:29:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-07-06 06:29:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-07-06 06:29:08 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "0": "2025-07-06 06:38:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
+    "criteria": {
+      "has_item": "2025-07-06 06:38:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_block": {
+    "criteria": {
+      "has_item": "2025-07-06 06:38:39 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/o_yoroi_armor_legs": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:54:32 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/anubis_armor_legs": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:54:32 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/holy_armor_legs": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:54:32 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/quetzalcoatl_armor_legs": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:54:32 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/raijin_armor_legs": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:54:32 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/holy_armor_head": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:54:39 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/raijin_armor_head": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:54:39 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/anubis_armor_head": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:54:39 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/quetzalcoatl_armor_head": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:54:39 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/o_yoroi_armor_head": {
+    "criteria": {
+      "has_base_armor": "2025-07-06 06:54:39 +0000"
     },
     "done": true
   },

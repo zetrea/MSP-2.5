@@ -8125,6 +8125,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/witch_hazel_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-06 07:12:50 +0000"
+    },
+    "done": true
+  },
   "armoroftheages:recipes/decordations/quetzalcoatl_armor_chest": {
     "criteria": {
       "has_base_armor": "2025-07-06 06:55:56 +0000"
@@ -8185,6 +8191,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/witch_hazel_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-06 07:12:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
     "criteria": {
       "has_minecraft:glass": "2025-07-06 06:42:49 +0000"
@@ -8236,6 +8248,18 @@
   "create:recipes/building_blocks/framed_glass_from_glass_blocks_colorless_stonecutting": {
     "criteria": {
       "has_glass_blocks_colorless": "2025-07-06 06:42:49 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_slab": {
+    "criteria": {
+      "has_planks": "2025-07-06 07:12:50 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_planks": {
+    "criteria": {
+      "has_log": "2025-07-06 07:12:45 +0000"
     },
     "done": true
   },
@@ -8449,6 +8473,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/decorations/witch_hazel_sign": {
+    "criteria": {
+      "has_planks": "2025-07-06 07:12:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-06 06:53:20 +0000"
@@ -8470,6 +8500,12 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-06 06:42:49 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-06 07:12:50 +0000"
     },
     "done": true
   },
@@ -8500,6 +8536,12 @@
   "phantasm:recipes/building_blocks/crystal_glass": {
     "criteria": {
       "has_glass": "2025-07-06 06:42:49 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_door": {
+    "criteria": {
+      "has_planks": "2025-07-06 07:12:50 +0000"
     },
     "done": true
   },
@@ -8587,6 +8629,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/decorations/witch_hazel_crafting_table": {
+    "criteria": {
+      "has_witch_hazel_planks": "2025-07-06 07:12:50 +0000"
+    },
+    "done": true
+  },
   "ubesdelight:farmersdelight/recipes/cooking/bangsilog": {
     "criteria": {
       "has_foods_safe_raw_fish": "2025-07-06 06:49:49 +0000"
@@ -8635,9 +8683,33 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_bookshelf": {
+    "criteria": {
+      "has_witch_hazel_planks": "2025-07-06 07:12:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_jar": {
     "criteria": {
       "has_minecraft:glass": "2025-07-06 06:42:49 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/witch_hazel_fence": {
+    "criteria": {
+      "has_planks": "2025-07-06 07:12:50 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_button": {
+    "criteria": {
+      "has_planks": "2025-07-06 07:12:50 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_wood": {
+    "criteria": {
+      "has_log": "2025-07-06 07:12:45 +0000"
     },
     "done": true
   },
@@ -8710,6 +8782,12 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-06 06:53:20 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-06 07:12:50 +0000"
     },
     "done": true
   },
