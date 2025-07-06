@@ -153,27 +153,14 @@
 				id: "eternal_starlight:loot_bag"
 			}
 			id: "490B9CE61B5F7D4A"
-			rewards: [
-				{
-					id: "1469AE97868CFAAF"
-					item: {
-						components: {
-							"ftbquests:missing_item": "kubejs:heart_container"
-						}
-						count: 1
-						id: "ftbquests:missing_item"
-					}
-					type: "item"
+			rewards: [{
+				id: "3A9D321AF57FAFE3"
+				item: {
+					count: 1
+					id: "magic_coins:gold_coin"
 				}
-				{
-					id: "3A9D321AF57FAFE3"
-					item: {
-						count: 1
-						id: "magic_coins:gold_coin"
-					}
-					type: "item"
-				}
-			]
+				type: "item"
+			}]
 			shape: "hexagon"
 			size: 2.5d
 			tasks: [{
