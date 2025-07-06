@@ -160,6 +160,7 @@
       "biomeswevegone:coconino_meadow": "2025-07-06 03:35:59 +0000",
       "biomeswevegone:maple_taiga": "2025-07-06 03:35:50 +0000",
       "biomeswevegone:prairie": "2025-07-06 02:45:43 +0000",
+      "biomeswevegone:basalt_barrera": "2025-07-06 07:23:13 +0000",
       "biomeswevegone:temperate_grove": "2025-07-06 01:42:39 +0000",
       "biomeswevegone:zelkova_forest": "2025-07-06 05:26:17 +0000",
       "biomeswevegone:forgotten_forest": "2025-07-06 01:47:56 +0000",
@@ -8095,6 +8096,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-07-06 07:24:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-06 06:53:20 +0000"
@@ -8206,6 +8213,18 @@
   "create:recipes/building_blocks/horizontal_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
     "criteria": {
       "has_glass_panes_colorless": "2025-07-06 06:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-07-06 07:21:24 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/witch_hazel_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-06 07:20:28 +0000"
     },
     "done": true
   },
@@ -8740,6 +8759,12 @@
   "refurbished_furniture:recipes/food/dough": {
     "criteria": {
       "has_water": "2025-07-06 06:49:29 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/stripped_witch_hazel_wood": {
+    "criteria": {
+      "has_log": "2025-07-06 07:20:28 +0000"
     },
     "done": true
   },
