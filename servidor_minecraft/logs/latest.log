@@ -7767,3 +7767,569 @@ io.netty.handler.codec.CodecException: Codec failure for type apothic_augments, 
 [06Jul2025 22:56:29.759] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
 [06Jul2025 22:56:44.110] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElJimmyy lost connection: Disconnected
 [06Jul2025 22:56:44.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy left the game
+[06Jul2025 22:57:38.889] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zetreaa lost connection: Disconnected
+[06Jul2025 22:57:38.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa left the game
+[06Jul2025 22:57:48.733] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
+[06Jul2025 22:57:56.702] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zetreaa[/127.185.209.139:57381] logged in with entity id 2311 at (1918.300000011921, 78.0, -159.69999998807907)
+[06Jul2025 22:57:56.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa joined the game
+[06Jul2025 22:57:56.825] [Server thread/INFO] [Treasure Bags/]: Sending 33 bag types to zetreaa
+[06Jul2025 22:57:56.872] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
+[06Jul2025 23:04:36.923] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ElJimmyy is 304df7a8-4fc9-4015-82b1-0b9cd37e279a
+[06Jul2025 23:04:42.734] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElJimmyy[/127.44.79.251:39867] logged in with entity id 2765 at (2352.670011821535, 136.0, -2311.459479624852)
+[06Jul2025 23:04:42.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy joined the game
+[06Jul2025 23:04:42.844] [Server thread/INFO] [Treasure Bags/]: Sending 33 bag types to ElJimmyy
+[06Jul2025 23:04:42.902] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
+[06Jul2025 23:04:48.457] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:swim_speed'
+[06Jul2025 23:04:48.458] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:04:49.106] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:04:49.110] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:04:49.339] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:swim_speed'
+[06Jul2025 23:04:49.340] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:04:49.340] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:swim_speed'
+[06Jul2025 23:04:49.341] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:04:49.342] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:swim_speed'
+[06Jul2025 23:04:49.342] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:04:49.342] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:swim_speed'
+[06Jul2025 23:04:49.342] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:04:58.755] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:04:58.757] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:05:20.667] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:20.668] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:20.670] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:20.670] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:20.671] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:20.679] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:20.680] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:20.680] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:20.681] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:20.682] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:20.682] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:20.683] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:20.684] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:20.684] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:20.685] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:20.685] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:21.057] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:swim_speed'
+[06Jul2025 23:05:21.058] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:21.061] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:swim_speed'
+[06Jul2025 23:05:21.061] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:21.118] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:swim_speed'
+[06Jul2025 23:05:21.118] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:21.118] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:swim_speed'
+[06Jul2025 23:05:21.119] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:21.121] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:swim_speed'
+[06Jul2025 23:05:21.121] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:21.121] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:swim_speed'
+[06Jul2025 23:05:21.122] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:21.322] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:swim_speed'
+[06Jul2025 23:05:21.323] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:21.323] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:swim_speed'
+[06Jul2025 23:05:21.324] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:21.324] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:swim_speed'
+[06Jul2025 23:05:21.324] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:44.159] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:05:45.740] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:45.741] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:45.741] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:45.742] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:45.742] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:45.742] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:45.744] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:45.744] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:45.749] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:45.750] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:45.751] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:45.751] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[06Jul2025 23:05:46.010] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:05:46.010] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:06:12.306] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:06:14.102] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:06:14.307] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:06:31.450] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:06:33.298] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:06:33.298] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:07:01.155] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:07:01.156] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:07:22.113] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:07:23.952] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:07:23.953] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:08:02.456] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:08:04.251] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:08:04.251] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:08:04.449] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:08:04.450] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:08:07.202] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:08:07.203] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:08:08.149] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:08:10.212] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:08:10.456] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:08:10.656] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:08:10.825] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:08:19.501] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:08:21.311] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:08:21.501] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:08:28.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[06Jul2025 23:08:30.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was doomed to fall
+[06Jul2025 23:08:34.530] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.531] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.531] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.536] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.536] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.536] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: crazy_chambers:spawner/breeze_spawner
+[06Jul2025 23:08:34.536] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.537] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.537] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.537] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.537] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.541] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.543] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.544] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.544] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.548] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.548] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.548] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.552] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.552] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.555] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.558] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.558] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.558] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.562] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.562] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: crazy_chambers:spawner/breeze_spawner
+[06Jul2025 23:08:34.562] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.566] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.566] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.569] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.573] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.573] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.578] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.581] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.582] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.586] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.587] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.593] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.603] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.606] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.607] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.608] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.610] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.610] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.612] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.612] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.622] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.623] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.629] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.631] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.635] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.640] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.650] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.650] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.653] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.658] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.659] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.676] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.676] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.679] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:34.681] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:35.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[06Jul2025 23:08:48.841] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:08:50.990] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:08:51.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Ice Spider
+[06Jul2025 23:08:55.299] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.300] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.300] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.304] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.304] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.304] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: crazy_chambers:spawner/breeze_spawner
+[06Jul2025 23:08:55.304] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.304] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.304] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.304] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.305] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.308] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.309] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.309] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.309] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.312] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.312] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.312] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.315] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.315] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.318] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.319] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.319] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.319] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.322] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.322] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: crazy_chambers:spawner/breeze_spawner
+[06Jul2025 23:08:55.322] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.325] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.325] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.330] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.333] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.333] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.336] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.339] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.340] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.345] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.345] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.348] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.355] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.358] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.359] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.360] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.362] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.362] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.363] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.363] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.373] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.374] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.378] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.380] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.385] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.388] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.394] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.394] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.397] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.403] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.405] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.422] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.422] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.425] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:55.427] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:08:56.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[06Jul2025 23:09:00.879] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:02.741] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:04.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Ice Spider
+[06Jul2025 23:09:06.644] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:08.416] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.416] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.416] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.421] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.421] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.421] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: crazy_chambers:spawner/breeze_spawner
+[06Jul2025 23:09:08.421] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.421] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.421] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.421] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.421] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.424] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.426] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.426] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.426] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.429] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.429] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.429] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.432] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.432] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.434] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.436] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.436] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.436] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.438] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.439] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: crazy_chambers:spawner/breeze_spawner
+[06Jul2025 23:09:08.439] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.442] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.442] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.446] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.450] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.451] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.454] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.457] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.459] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.462] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.463] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.467] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.473] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.477] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.478] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.480] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.482] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.482] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.484] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.484] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.495] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.497] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.500] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.502] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.504] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:08.507] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.510] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.516] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.516] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.519] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.525] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.526] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.543] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.543] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.547] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.549] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:08.742] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:09.096] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:09.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[06Jul2025 23:09:10.385] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:19.943] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:21.633] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:23.532] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:25.646] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:27.599] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:27.599] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:29.450] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:31.340] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:31.650] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:31.848] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:34.094] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:34.355] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:34.543] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:35.678] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:36.345] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:37.333] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:37.533] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:38.849] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:41.346] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:41.700] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:41.842] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:43.794] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:45.018] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:48.690] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:48.790] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:09:55.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy was slain by Ice Spider
+[06Jul2025 23:09:55.809] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[06Jul2025 23:09:55.810] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[06Jul2025 23:09:55.810] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 minecraft:air
+[06Jul2025 23:09:55.810] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 minecraft:air
+[06Jul2025 23:09:55.810] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[06Jul2025 23:09:59.566] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.566] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.566] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.570] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.570] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.570] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: crazy_chambers:spawner/breeze_spawner
+[06Jul2025 23:09:59.570] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.571] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.571] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.571] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.571] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.573] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.576] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.576] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.576] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.580] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.580] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.580] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.584] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.584] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.586] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.588] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.588] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.588] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.590] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.590] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: crazy_chambers:spawner/breeze_spawner
+[06Jul2025 23:09:59.591] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.594] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.594] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.597] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.600] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.601] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.604] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.606] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.609] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.614] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.614] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.620] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.626] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.631] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.631] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.633] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.634] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.634] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.636] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.636] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.648] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.649] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.655] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.657] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.661] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.664] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.671] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.671] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.673] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.680] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.680] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.699] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.699] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.702] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:09:59.704] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:10:00.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[06Jul2025 23:10:06.201] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:10:06.394] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:10:17.993] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:10:17.994] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:10:29.047] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:10:29.048] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:10:31.691] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:10:32.094] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:10:32.094] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:10:33.493] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:10:33.494] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:10:33.548] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:10:33.744] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:10:56.608] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:10:58.417] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:10:58.418] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:12:34.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to ElJimmyy]
+[06Jul2025 23:12:35.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[06Jul2025 23:12:47.642] [Server thread/INFO] [journeymap/]: zetreaa teleported to 2892.5 115.0 -1248.5 minecraft:overworld
+[06Jul2025 23:12:50.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElJimmyy: Teleported ElJimmyy to zetreaa]
+[06Jul2025 23:12:54.147] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:12:56.051] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:12:58.709] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:13:09.478] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:13:16.493] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:13:16.975] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:13:41.491] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:13:41.920] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:13:50.795] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:13:51.243] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:13:59.950] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:14:03.290] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:14:03.290] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:14:03.748] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:14:03.748] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:14:04.104] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:14:04.105] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:14:04.343] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:14:04.344] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:14:16.793] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:14:25.141] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:14:35.944] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:14:36.605] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:14:49.341] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:14:49.342] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:15:51.018] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:15:51.822] [Server thread/INFO] [journeymap/]: ElJimmyy teleported to 4044.0 76.0 -3202.0 minecraft:overworld
+[06Jul2025 23:15:55.896] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.896] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.896] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.900] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.900] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.901] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: crazy_chambers:spawner/breeze_spawner
+[06Jul2025 23:15:55.901] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.901] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.901] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.901] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.901] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.904] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.905] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.905] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.905] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.908] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.908] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.908] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.910] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.910] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.912] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.914] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.914] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.914] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.917] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.917] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: crazy_chambers:spawner/breeze_spawner
+[06Jul2025 23:15:55.918] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.920] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.920] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.923] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.926] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.926] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.930] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.932] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.934] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.937] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.938] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.941] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.950] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.954] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.955] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.956] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.957] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.957] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.959] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.959] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.968] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.970] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.973] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.975] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.979] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.982] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.989] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.989] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.991] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.995] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:55.997] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:56.015] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:56.015] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:56.019] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:56.021] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:15:58.626] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:16:06.655] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.655] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.656] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.660] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.660] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.660] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: crazy_chambers:spawner/breeze_spawner
+[06Jul2025 23:16:06.660] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.660] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.660] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.660] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.661] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.663] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.664] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.665] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.665] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.667] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.667] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.667] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.670] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.670] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.672] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.673] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.674] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.674] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.676] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.676] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: crazy_chambers:spawner/breeze_spawner
+[06Jul2025 23:16:06.677] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.679] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.679] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.682] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.686] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.687] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.690] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.692] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.694] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.698] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.699] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.702] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.708] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.711] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.712] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.713] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.715] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.715] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.716] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.716] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.725] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.726] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.732] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.734] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.740] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.742] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.749] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.750] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.753] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.757] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.759] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.776] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.776] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.780] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:06.782] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:south
+[06Jul2025 23:16:24.276] [Server thread/INFO] [journeymap/]: ElJimmyy teleported to 1891.0 94.0 -372.0 minecraft:overworld
+[06Jul2025 23:16:52.500] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[06Jul2025 23:17:19.921] [Server thread/INFO] [journeymap/]: ElJimmyy teleported to 1977.0 99.0 -365.0 minecraft:overworld
