@@ -111,6 +111,7 @@
       "biomeswevegone:howling_peaks": "2025-07-06 02:53:57 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-07-06 02:11:18 +0000",
       "biomeswevegone:temperate_grove": "2025-07-06 01:39:18 +0000",
+      "biomeswevegone:zelkova_forest": "2025-07-06 05:20:03 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-06 02:28:30 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-06 02:09:19 +0000",
       "biomeswevegone:coconino_meadow": "2025-07-06 03:36:00 +0000"
@@ -4837,6 +4838,18 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/clear_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-06 05:20:44 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-06 05:20:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-06 05:17:55 +0000"
@@ -4855,9 +4868,27 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/scratched_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-06 05:20:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-07-06 05:16:15 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-06 05:20:44 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-06 05:20:44 +0000"
     },
     "done": true
   },
@@ -4882,6 +4913,12 @@
   "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-07-06 05:18:04 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_sleeping_bag_black": {
+    "criteria": {
+      "has_needed_dye": "2025-07-06 05:20:44 +0000"
     },
     "done": true
   },
@@ -4984,6 +5021,12 @@
   "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-07-06 05:18:04 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-06 05:20:44 +0000"
     },
     "done": true
   },
@@ -5098,6 +5141,18 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-06 05:17:55 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-06 05:20:44 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_hammock_black": {
+    "criteria": {
+      "has_needed_dye": "2025-07-06 05:20:44 +0000"
     },
     "done": true
   },
