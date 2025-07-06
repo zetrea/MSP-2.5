@@ -5942,5 +5942,29 @@
     },
     "done": true
   },
+  "betterarcheology:recipes/misc/unidentified_artifact": {
+    "criteria": {
+      "has_artifact_shards": "2025-07-06 23:16:25 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/misc/archeology_table": {
+    "criteria": {
+      "has_artifact_shards": "2025-07-06 23:16:25 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:artifact_shards": {
+    "criteria": {
+      "has_shards": "2025-07-06 23:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-07-06 23:20:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
