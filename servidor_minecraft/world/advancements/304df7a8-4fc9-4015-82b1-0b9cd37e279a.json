@@ -9556,13 +9556,52 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/raw_aethersent_block": {
+    "criteria": {
+      "has_raw_aethersent": "2025-07-07 02:11:04 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:all_starlight_biomes": {
     "criteria": {
       "in_scarlet_forest": "2025-07-07 02:06:19 +0000",
+      "in_starlight_forest": "2025-07-07 02:14:00 +0000",
+      "in_shimmer_river": "2025-07-07 02:14:03 +0000",
+      "in_ether_river": "2025-07-07 02:15:43 +0000",
       "in_torreya_forest": "2025-07-07 02:06:52 +0000",
       "in_dark_swamp": "2025-07-07 02:08:18 +0000"
     },
     "done": false
+  },
+  "eternal_starlight:recipes/misc/shapeless/shadow_snail_shell_powder": {
+    "criteria": {
+      "has_item": "2025-07-07 02:16:41 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/nebulaite": {
+    "criteria": {
+      "has_item": "2025-07-07 02:11:04 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/redstone/comparator_from_nightfall_spider_eye": {
+    "criteria": {
+      "has_nightfall_spider_eye": "2025-07-07 02:14:40 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:in_ether_fluid": {
+    "criteria": {
+      "in_fluid": "2025-07-07 02:09:34 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/aethersent_ingot_smelting_from_raw_aethersent": {
+    "criteria": {
+      "has_item": "2025-07-07 02:11:04 +0000"
+    },
+    "done": true
   },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
@@ -9582,9 +9621,99 @@
     },
     "done": true
   },
+  "eternal_starlight:kill_creteor": {
+    "criteria": {
+      "kill": "2025-07-07 02:11:10 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/food/cooked_ratlin_meat_from_campfire_cooking": {
+    "criteria": {
+      "has_ratlin_meat": "2025-07-07 02:10:18 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/food/cooked_ratlin_meat_from_smoking": {
+    "criteria": {
+      "has_ratlin_meat": "2025-07-07 02:10:18 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/redstone/observer_from_nightfall_spider_eye": {
+    "criteria": {
+      "has_nightfall_spider_eye": "2025-07-07 02:14:40 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:enter_starlight": {
     "criteria": {
       "in_dim": "2025-07-07 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/shapeless/aetherstrike_rocket": {
+    "criteria": {
+      "has_item": "2025-07-07 02:11:11 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/redstone/comparator_from_cinder_brick_and_nightfall_spider_eye": {
+    "criteria": {
+      "has_nightfall_spider_eye": "2025-07-07 02:14:40 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/food/cooked_shadow_snail_meat_from_campfire_cooking": {
+    "criteria": {
+      "has_shadow_snail_meat": "2025-07-07 02:16:42 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/wreath": {
+    "criteria": {
+      "has_leaves": "2025-07-07 02:09:07 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/food/cooked_shadow_snail_meat_from_smoking": {
+    "criteria": {
+      "has_shadow_snail_meat": "2025-07-07 02:16:42 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/redstone/daylight_detector_from_nightfall_spider_eye": {
+    "criteria": {
+      "has_nightfall_spider_eye": "2025-07-07 02:14:40 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/cooked_ratlin_meat_smelting_from_ratlin_meat": {
+    "criteria": {
+      "has_item": "2025-07-07 02:10:18 +0000"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/misc/minecraft/crafting/leaf_feast": {
+    "criteria": {
+      "has_leaves": "2025-07-07 02:09:07 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/redstone/observer_from_cinder_brick_and_nightfall_spider_eye": {
+    "criteria": {
+      "has_nightfall_spider_eye": "2025-07-07 02:14:40 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/cooked_shadow_snail_meat_smelting_from_shadow_snail_meat": {
+    "criteria": {
+      "has_item": "2025-07-07 02:16:42 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/aethersent_ingot_blasting_from_raw_aethersent": {
+    "criteria": {
+      "has_item": "2025-07-07 02:11:04 +0000"
     },
     "done": true
   },
