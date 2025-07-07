@@ -12000,6 +12000,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/storage_output_from_input": {
+    "criteria": {
+      "has_storage_input": "2025-07-07 23:47:26 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_output": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-07-07 23:43:18 +0000"
+    },
+    "done": true
+  },
   "constructionstick:recipes/tools/smithing_upgrade/wooden_stick_with_template_unbreakable": {
     "criteria": {
       "has_addition": "2025-07-07 23:28:11 +0000"
@@ -12024,9 +12036,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/iron_chest": {
+    "criteria": {
+      "has_chest": "2025-07-07 23:43:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-07-07 23:28:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_copper_chest": {
+    "criteria": {
+      "has_chest": "2025-07-07 23:43:18 +0000"
     },
     "done": true
   },
@@ -12072,6 +12096,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/double_iron_chest": {
+    "criteria": {
+      "has_chest": "2025-07-07 23:43:18 +0000"
+    },
+    "done": true
+  },
   "constructionstick:recipes/tools/smithing_upgrade/copper_stick_with_template_unbreakable": {
     "criteria": {
       "has_addition": "2025-07-07 23:28:11 +0000"
@@ -12081,6 +12111,12 @@
   "constructionstick:recipes/tools/smithing_upgrade/netherite_stick_with_template_unbreakable": {
     "criteria": {
       "has_addition": "2025-07-07 23:28:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/paintbrush": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-07-07 23:43:18 +0000"
     },
     "done": true
   },
@@ -12102,6 +12138,18 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/controller": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-07-07 23:43:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_input": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-07-07 23:43:18 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/misc/keeper_armor_trim_smithing_template": {
     "criteria": {
       "has_keeper_armor_trim_smithing_template": "2025-07-07 23:38:48 +0000"
@@ -12114,15 +12162,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/storage_input_from_io": {
+    "criteria": {
+      "has_storage_io": "2025-07-07 23:49:44 +0000"
+    },
+    "done": true
+  },
   "constructionstick:recipes/tools/smithing_upgrade/diamond_stick_with_template_unbreakable": {
     "criteria": {
       "has_addition": "2025-07-07 23:28:11 +0000"
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/shulker_from_chest": {
+    "criteria": {
+      "has_chest": "2025-07-07 23:43:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_link": {
+    "criteria": {
+      "has_repeater": "2025-07-07 23:47:06 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_chest": {
+    "criteria": {
+      "has_chest": "2025-07-07 23:43:18 +0000"
+    },
+    "done": true
+  },
   "constructionstick:recipes/misc/template_destruction": {
     "criteria": {
       "has_item": "2025-07-07 23:29:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_io": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-07-07 23:43:18 +0000"
     },
     "done": true
   },

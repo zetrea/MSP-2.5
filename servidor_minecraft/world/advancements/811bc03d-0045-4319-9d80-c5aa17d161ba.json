@@ -9808,6 +9808,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-07 23:48:06 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/misc/keeper_armor_trim_smithing_template": {
     "criteria": {
       "has_keeper_armor_trim_smithing_template": "2025-07-07 23:39:41 +0000"
