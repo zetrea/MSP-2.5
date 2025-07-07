@@ -11370,6 +11370,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
+    "criteria": {
+      "has_void_thorn": "2025-07-07 08:11:02 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/netherite_flat_bolt_from_ingots_netherite_stonecutting": {
     "criteria": {
       "has_ingots_netherite": "2025-07-07 07:04:30 +0000"
@@ -11436,6 +11442,12 @@
     },
     "done": true
   },
+  "simplyswords:twisted_blade": {
+    "criteria": {
+      "requirement": "2025-07-07 08:11:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-07 07:42:29 +0000"
@@ -11469,6 +11481,12 @@
   "minecraft:recipes/building_blocks/mossy_dacite_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-07-07 08:01:00 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/earthdive_spear": {
+    "criteria": {
+      "has_void_thorn": "2025-07-07 08:11:02 +0000"
     },
     "done": true
   },
