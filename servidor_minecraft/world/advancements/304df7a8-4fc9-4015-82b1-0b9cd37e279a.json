@@ -9111,6 +9111,18 @@
     },
     "done": true
   },
+  "phantasm:recipes/building_blocks/polished_obsidian": {
+    "criteria": {
+      "has_obsidian": "2025-07-07 00:03:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-07-07 00:08:02 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2025-07-06 23:49:32 +0000"
@@ -9123,9 +9135,87 @@
     },
     "done": true
   },
+  "phantasm:recipes/building_blocks/obsidian": {
+    "criteria": {
+      "has_obsidian": "2025-07-07 00:03:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-07-07 00:08:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-07-07 00:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-07-07 00:03:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-07-07 00:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-07-07 00:08:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-07-07 00:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-07 00:03:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-07-07 00:08:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-07-07 00:03:19 +0000"
+    },
+    "done": true
+  },
   "escalated:recipes/misc/metal_walkway_steps": {
     "criteria": {
       "has_chain": "2025-07-06 23:49:34 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/misc/crafting/kinetics/brake": {
+    "criteria": {
+      "has_item": "2025-07-07 00:03:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-07-07 00:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-07 00:03:30 +0000"
     },
     "done": true
   },
