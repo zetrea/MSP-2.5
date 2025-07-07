@@ -9153,6 +9153,102 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-07-07 07:51:12 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-07 08:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_red_rock_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-07 08:01:18 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_fence_gate_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-07 08:01:18 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-07 08:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-07 08:01:18 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_stairs_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-07 08:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-07 08:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-07 08:01:18 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-07 08:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_dacite_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-07 08:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-07-07 08:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_white_dacite_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-07 08:01:18 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:adventure/void_blossom_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:void_blossom": "2025-07-07 08:10:58 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
+    "criteria": {
+      "has_void_thorn": "2025-07-07 08:13:21 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/earthdive_spear": {
+    "criteria": {
+      "has_void_thorn": "2025-07-07 08:13:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-07 08:20:52 +0000"
@@ -9162,12 +9258,6 @@
   "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-07 08:20:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2025-07-07 07:51:12 +0000"
     },
     "done": true
   },
@@ -9189,12 +9279,6 @@
     },
     "done": true
   },
-  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-07-07 08:01:18 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-07 08:20:52 +0000"
@@ -9207,21 +9291,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_red_rock_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-07-07 08:01:18 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-07 08:20:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-07-07 08:34:36 +0000"
     },
     "done": true
   },
@@ -9240,12 +9312,6 @@
   "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-07-07 08:20:52 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:adventure/void_blossom_defeat": {
-    "criteria": {
-      "bosses_of_mass_destruction:void_blossom": "2025-07-07 08:10:58 +0000"
     },
     "done": true
   },
@@ -9273,18 +9339,6 @@
     },
     "done": true
   },
-  "ribbits:recipes/mossy_oak_planks_fence_gate_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-07-07 08:01:18 +0000"
-    },
-    "done": true
-  },
-  "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-07-07 08:01:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/tuff_slab": {
     "criteria": {
       "has_tuff": "2025-07-07 08:20:52 +0000"
@@ -9303,39 +9357,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-07-07 08:01:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-07-07 08:28:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-07-07 08:20:52 +0000"
-    },
-    "done": true
-  },
-  "ribbits:recipes/mossy_oak_planks_stairs_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-07-07 08:01:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2025-07-07 08:34:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-07-07 08:01:18 +0000"
     },
     "done": true
   },
@@ -9363,22 +9387,9 @@
     },
     "done": true
   },
-  "repurposed_structures:mineshafts": {
-    "criteria": {
-      "in_mineshaft_crimson": "2025-07-07 08:29:56 +0000",
-      "in_mineshaft_soul": "2025-07-07 08:27:58 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-07-07 08:20:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-07-07 08:28:33 +0000"
     },
     "done": true
   },
@@ -9412,24 +9423,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-07-07 08:28:20 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
-    "criteria": {
-      "has_void_thorn": "2025-07-07 08:13:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/scoria": {
-    "criteria": {
-      "has_item": "2025-07-07 08:28:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/tuff_stairs": {
     "criteria": {
       "has_tuff": "2025-07-07 08:20:52 +0000"
@@ -9442,33 +9435,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-07-07 08:01:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-07-07 08:20:52 +0000"
-    },
-    "done": true
-  },
-  "ribbits:recipes/mossy_oak_planks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-07-07 08:01:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_dacite_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-07-07 08:01:18 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/earthdive_spear": {
-    "criteria": {
-      "has_void_thorn": "2025-07-07 08:13:21 +0000"
     },
     "done": true
   },
@@ -9484,18 +9453,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2025-07-07 08:01:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_white_dacite_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-07-07 08:01:18 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-07 08:20:52 +0000"
@@ -9505,6 +9462,49 @@
   "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-07 08:20:52 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_crimson": "2025-07-07 08:29:56 +0000",
+      "in_mineshaft_soul": "2025-07-07 08:27:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-07-07 08:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-07-07 08:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-07-07 08:28:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-07-07 08:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-07 08:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-07 08:34:36 +0000"
     },
     "done": true
   },
