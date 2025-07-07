@@ -9111,6 +9111,24 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/creeper_trophy": {
+    "criteria": {
+      "has_creeper_trophy": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_stone_brick_stairs_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
   "phantasm:recipes/building_blocks/polished_obsidian": {
     "criteria": {
       "has_obsidian": "2025-07-07 00:03:30 +0000"
@@ -9129,9 +9147,33 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/small_stone_bricks_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
   "escalated:recipes/misc/wooden_walkway_steps": {
     "criteria": {
       "has_chain": "2025-07-06 23:49:34 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_stone_bricks_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/vindicator_trophy": {
+    "criteria": {
+      "has_vindicator_trophy": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
+    "criteria": {
+      "has_minecraft:stone": "2025-07-07 00:25:00 +0000"
     },
     "done": true
   },
@@ -9141,9 +9183,45 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/cut_stone_stairs_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_trophy": {
+    "criteria": {
+      "has_skeleton_trophy": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_stone_brick_stairs_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_stone_slab_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-07-07 00:08:02 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_stone_stairs_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-07 00:25:00 +0000"
     },
     "done": true
   },
@@ -9153,9 +9231,81 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/stone_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/stone_pillar_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-07 00:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-07-07 00:03:30 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_stone_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/layered_stone_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-07 00:24:23 +0000"
     },
     "done": true
   },
@@ -9171,9 +9321,63 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/polished_cut_stone_wall_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "chipped:recipes/workbench/mason_table": {
+    "criteria": {
+      "has_item": "2025-07-07 00:24:04 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_stone_brick_wall_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_stone_wall_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_medium_pot": {
     "criteria": {
       "has_golden_medium_pot": "2025-07-07 00:03:19 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_stone_brick_slab_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-07 00:25:00 +0000"
     },
     "done": true
   },
@@ -9183,9 +9387,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/evoker_trophy": {
+    "criteria": {
+      "has_evoker_trophy": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_stone_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pillager_trophy": {
+    "criteria": {
+      "has_pillager_trophy": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-07-07 00:08:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_corner_trim": {
+    "criteria": {
+      "has_stone_corner_trim": "2025-07-07 00:25:00 +0000"
     },
     "done": true
   },
@@ -9201,15 +9429,75 @@
     },
     "done": true
   },
+  "sootychimneys:recipe/decorations/stone_brick_chimney": {
+    "criteria": {
+      "has_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-07 00:24:23 +0000"
+    },
+    "done": true
+  },
+  "chipped:recipes/misc/chisel": {
+    "criteria": {
+      "has_chisel": "2025-07-07 00:24:04 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_stone_brick_slab_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_stone_slab_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/witch_trophy": {
+    "criteria": {
+      "has_witch_trophy": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/misc/crafting/kinetics/brake": {
     "criteria": {
       "has_item": "2025-07-07 00:03:30 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_pillar_trim": {
+    "criteria": {
+      "has_stone_pillar_trim": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_wide_pot": {
     "criteria": {
       "has_golden_wide_pot": "2025-07-07 00:03:19 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_stone_brick_wall_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-07-07 00:25:00 +0000"
     },
     "done": true
   },
