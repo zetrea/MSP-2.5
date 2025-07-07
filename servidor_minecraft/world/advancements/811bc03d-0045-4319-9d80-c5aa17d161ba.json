@@ -9508,5 +9508,11 @@
     },
     "done": true
   },
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2025-07-07 09:02:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
