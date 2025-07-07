@@ -1831,6 +1831,7 @@
       "minecraft:witch": "2025-07-06 02:35:48 +0000",
       "minecraft:wither_skeleton": "2025-07-07 04:13:46 +0000",
       "minecraft:ghast": "2025-07-07 03:35:57 +0000",
+      "minecraft:hoglin": "2025-07-07 09:45:12 +0000",
       "minecraft:cave_spider": "2025-07-06 06:09:28 +0000",
       "minecraft:piglin": "2025-07-07 03:37:55 +0000",
       "minecraft:stray": "2025-07-06 02:53:03 +0000",
@@ -9508,9 +9509,57 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/warp_scroll": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-07 09:40:08 +0000"
+    },
+    "done": true
+  },
+  "constructionstick:recipes/misc/template_replacement": {
+    "criteria": {
+      "has_item": "2025-07-07 09:40:08 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_destruction": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-07 09:40:08 +0000"
+    },
+    "done": true
+  },
+  "constructionstick:recipes/tools/smithing_upgrade/netherite_stick_with_template_replacement": {
+    "criteria": {
+      "has_addition": "2025-07-07 09:40:08 +0000"
+    },
+    "done": true
+  },
+  "constructionstick:recipes/tools/smithing_upgrade/iron_stick_with_template_replacement": {
+    "criteria": {
+      "has_addition": "2025-07-07 09:40:08 +0000"
+    },
+    "done": true
+  },
+  "apothic_spawners:capturing": {
+    "criteria": {
+      "egg": "2025-07-07 09:45:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-07-07 09:40:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-07-07 09:36:11 +0000"
+    },
+    "done": true
+  },
+  "constructionstick:recipes/tools/smithing_upgrade/diamond_stick_with_template_replacement": {
+    "criteria": {
+      "has_addition": "2025-07-07 09:40:08 +0000"
     },
     "done": true
   },
@@ -9520,15 +9569,39 @@
     },
     "done": true
   },
+  "constructionstick:recipes/tools/smithing_upgrade/copper_stick_with_template_replacement": {
+    "criteria": {
+      "has_addition": "2025-07-07 09:40:08 +0000"
+    },
+    "done": true
+  },
+  "constructionstick:recipes/tools/smithing_upgrade/wooden_stick_with_template_replacement": {
+    "criteria": {
+      "has_addition": "2025-07-07 09:40:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
     "criteria": {
       "has_item": "2025-07-07 09:02:10 +0000"
     },
     "done": true
   },
+  "waystones:recipes/decorations/warp_dust": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-07 09:40:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
     "criteria": {
       "has_polished_blackstone_slab": "2025-07-07 09:17:41 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_stone": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-07 09:40:08 +0000"
     },
     "done": true
   },

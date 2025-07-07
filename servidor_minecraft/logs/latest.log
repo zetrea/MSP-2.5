@@ -11566,3 +11566,30 @@ io.netty.handler.codec.CodecException: Codec failure for type apothic_augments, 
 [07Jul2025 09:39:34.694] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
 [07Jul2025 09:39:42.892] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElJimmyy lost connection: Disconnected
 [07Jul2025 09:39:42.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy left the game
+[07Jul2025 09:41:43.569] [Server thread/INFO] [journeymap/]: zetreaa teleported to 260.0 46.0 270.0 minecraft:the_nether
+[07Jul2025 09:41:59.761] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 09:42:28.154] [Server thread/INFO] [journeymap/]: zetreaa teleported to 65.0 61.0 271.0 minecraft:the_nether
+[07Jul2025 09:42:30.241] [Server thread/INFO] [journeymap/]: zetreaa teleported to 67.0 52.0 270.0 minecraft:the_nether
+[07Jul2025 09:42:35.916] [Worker-Main-7/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/156422, l='ServerLevel[world]', x=-76.00, y=31.00, z=355.00] as it would cause deadlock
+[07Jul2025 09:42:37.368] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/156435, l='ServerLevel[world]', x=-84.00, y=31.00, z=153.00] as it would cause deadlock
+[07Jul2025 09:43:04.699] [Server thread/INFO] [journeymap/]: zetreaa teleported to 79.0 54.0 353.0 minecraft:the_nether
+[07Jul2025 09:43:12.069] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/156517, l='ServerLevel[world]', x=23.00, y=31.00, z=555.00] as it would cause deadlock
+[07Jul2025 09:43:15.281] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 09:43:16.111] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/156535, l='ServerLevel[world]', x=-51.00, y=31.00, z=540.00] as it would cause deadlock
+[07Jul2025 09:43:18.512] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 09:43:29.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa tried to swim in lava
+[07Jul2025 09:43:38.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Set own game mode to Creative Mode]
+[07Jul2025 09:43:45.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Teleported zetreaa to 96.500000, 26.000000, 400.500000]
+[07Jul2025 09:45:09.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Captured!]
+[07Jul2025 09:46:35.458] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 09:47:40.864] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 09:48:22.185] [User Authenticator #15/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
+[07Jul2025 09:48:22.243] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zetreaa lost connection: You logged in from another location
+[07Jul2025 09:48:22.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa left the game
+[07Jul2025 09:48:31.897] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zetreaa[/127.185.209.139:55995] logged in with entity id 157451 at (130.10330137506884, 39.0, 429.49666621894795)
+[07Jul2025 09:48:31.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa joined the game
+[07Jul2025 09:48:31.989] [Server thread/INFO] [Treasure Bags/]: Sending 33 bag types to zetreaa
+[07Jul2025 09:48:32.045] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
+[07Jul2025 09:49:13.956] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 09:49:28.394] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 09:50:31.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Set own game mode to Survival Mode]
