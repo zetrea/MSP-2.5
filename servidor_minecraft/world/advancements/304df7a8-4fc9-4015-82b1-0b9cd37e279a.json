@@ -9556,9 +9556,35 @@
     },
     "done": true
   },
+  "eternal_starlight:all_starlight_biomes": {
+    "criteria": {
+      "in_scarlet_forest": "2025-07-07 02:06:19 +0000",
+      "in_torreya_forest": "2025-07-07 02:06:52 +0000",
+      "in_dark_swamp": "2025-07-07 02:08:18 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-07-07 01:58:30 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:witness_meteor_shower": {
+    "criteria": {
+      "witnessed": "2025-07-07 02:06:48 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:root": {
+    "criteria": {
+      "in_dim": "2025-07-07 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:enter_starlight": {
+    "criteria": {
+      "in_dim": "2025-07-07 02:06:19 +0000"
     },
     "done": true
   },
