@@ -7085,5 +7085,17 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/complete_hide_and_seek_game": {
+    "criteria": {
+      "friendsandfoes:complete_hide_and_seek_game": "2025-07-07 03:17:32 +0000"
+    },
+    "done": true
+  },
+  "chalk:adventure/bound_by_bone": {
+    "criteria": {
+      "get_skull": "2025-07-07 03:12:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
