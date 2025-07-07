@@ -1,15 +1,15 @@
-[04:25:50] [INIT] KubeJS 2101.7.0-build.131; MC 2006 NeoForge
-[04:25:50] [INIT] Loaded plugins:
-[04:25:50] [INIT] - dev.latvian.mods.kubejs.BuiltinKubeJSPlugin
-[04:25:50] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
-[04:25:50] [INIT] - io.github.mortuusars.exposure.neoforge.integration.kubejs.ExposureKubeJSPlugin
-[04:25:50] [INIT] - com.oierbravo.mechanicals.compat.kubejs.MechanicalsJsPlugin
-[04:25:50] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[04:25:50] [INIT] - com.oierbravo.create_mechanical_extruder.compat.kubejs.KubeJSCreateMechanicalExtruderPlugin
-[04:25:50] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
-[04:25:50] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[04:25:50] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[04:25:50] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
-[04:25:50] [INFO] startup_scripts:main.js#2: Hello, World! (Loaded startup example script)
-[04:25:50] [INFO] Loaded script startup_scripts:main.js in 0.088 s
-[04:25:50] [INFO] Loaded 1/1 KubeJS startup scripts in 0.742 s with 0 errors and 0 warnings
+[22:34:38] [INIT] KubeJS 2101.7.0-build.131; MC 2006 NeoForge
+[22:34:38] [INIT] Loaded plugins:
+[22:34:38] [INIT] - dev.latvian.mods.kubejs.BuiltinKubeJSPlugin
+[22:34:38] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[22:34:38] [INIT] - io.github.mortuusars.exposure.neoforge.integration.kubejs.ExposureKubeJSPlugin
+[22:34:38] [INIT] - com.oierbravo.mechanicals.compat.kubejs.MechanicalsJsPlugin
+[22:34:38] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[22:34:38] [INIT] - com.oierbravo.create_mechanical_extruder.compat.kubejs.KubeJSCreateMechanicalExtruderPlugin
+[22:34:38] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
+[22:34:38] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[22:34:38] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[22:34:38] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[22:34:39] [INFO] startup_scripts:main.js#2: Hello, World! (Loaded startup example script)
+[22:34:39] [INFO] Loaded script startup_scripts:main.js in 0.086 s
+[22:34:39] [INFO] Loaded 1/1 KubeJS startup scripts in 0.741 s with 0 errors and 0 warnings
