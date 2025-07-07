@@ -8173,6 +8173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/pyromancer_leggings_smithing": {
+    "criteria": {
+      "has_fire_rune": "2025-07-07 05:12:46 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/polished_cut_amethyst_stairs_from_stone_types_amethyst_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst": "2025-07-07 05:00:23 +0000"
@@ -8215,6 +8221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/pyromancer_helmet_smithing": {
+    "criteria": {
+      "has_fire_rune": "2025-07-07 05:12:46 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/polished_cut_amethyst_wall_from_stone_types_amethyst_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst": "2025-07-07 05:00:23 +0000"
@@ -8254,6 +8266,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-07-07 05:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/pyromancer_boots_smithing": {
+    "criteria": {
+      "has_fire_rune": "2025-07-07 05:12:46 +0000"
     },
     "done": true
   },
@@ -8305,6 +8323,12 @@
     },
     "done": true
   },
+  "crystal_chronicles:recipes/misc/volcanite_shard": {
+    "criteria": {
+      "has_fire_rune": "2025-07-07 05:12:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-07 05:02:34 +0000"
@@ -8335,9 +8359,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/pyromancer_chestplate_smithing": {
+    "criteria": {
+      "has_fire_rune": "2025-07-07 05:12:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-07 05:02:34 +0000"
+    },
+    "done": true
+  },
+  "crystal_chronicles:recipes/combat/chakram": {
+    "criteria": {
+      "has_fire_rune": "2025-07-07 05:12:46 +0000"
     },
     "done": true
   },
