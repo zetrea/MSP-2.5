@@ -1825,6 +1825,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-07-06 02:33:28 +0000",
+      "minecraft:blaze": "2025-07-07 04:36:19 +0000",
       "minecraft:skeleton": "2025-07-06 01:51:05 +0000",
       "minecraft:zombified_piglin": "2025-07-07 04:03:42 +0000",
       "minecraft:witch": "2025-07-06 02:35:48 +0000",
@@ -8029,6 +8030,30 @@
   "bosses_of_mass_destruction:recipes/blast_amplifier": {
     "criteria": {
       "has_blazing_eye": "2025-07-07 04:11:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-07 04:37:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-07 04:37:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_fortress": "2025-07-07 04:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-07 04:37:35 +0000"
     },
     "done": true
   },

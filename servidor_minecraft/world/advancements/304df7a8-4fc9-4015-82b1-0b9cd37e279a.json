@@ -1834,6 +1834,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-07-06 02:31:38 +0000",
+      "minecraft:blaze": "2025-07-07 04:36:30 +0000",
       "minecraft:skeleton": "2025-07-06 01:56:53 +0000",
       "minecraft:wither_skeleton": "2025-07-06 08:10:03 +0000",
       "minecraft:cave_spider": "2025-07-06 08:14:33 +0000",
@@ -10528,6 +10529,84 @@
   "create_dragons_plus:recipes/blaze_upgrade_smithing_template": {
     "criteria": {
       "has_template": "2025-07-07 04:31:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-07 04:32:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-07 04:32:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-07 04:32:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-07 04:32:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-07 04:32:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-07 04:32:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_from_basic_to_copper_tier": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-07 04:32:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-07 04:32:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_fortress": "2025-07-07 04:39:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-07 04:32:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_tool": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-07 04:32:24 +0000"
+    },
+    "done": true
+  },
+  "createaddition:recipes/misc/crafting/capacitor_1": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-07 04:32:24 +0000"
+    },
+    "done": true
+  },
+  "createaddition:recipes/misc/crafting/capacitor_2": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-07 04:32:24 +0000"
     },
     "done": true
   },
