@@ -6929,6 +6929,36 @@
     },
     "done": true
   },
+  "ubesdelight:farmersdelight/recipes/cooking/bangsilog_extra": {
+    "criteria": {
+      "has_fishes": "2025-07-07 01:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-07-07 01:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-07-07 01:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-07-07 01:57:20 +0000"
+    },
+    "done": true
+  },
+  "ubesdelight:farmersdelight/recipes/cooking/bangsilog": {
+    "criteria": {
+      "has_foods_safe_raw_fish": "2025-07-07 01:57:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-07 02:22:29 +0000"
@@ -6956,12 +6986,6 @@
   "create:recipes/building_blocks/horizontal_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
     "criteria": {
       "has_glass_panes_colorless": "2025-07-07 02:22:29 +0000"
-    },
-    "done": true
-  },
-  "ubesdelight:farmersdelight/recipes/cooking/bangsilog_extra": {
-    "criteria": {
-      "has_fishes": "2025-07-07 01:57:20 +0000"
     },
     "done": true
   },
@@ -7001,27 +7025,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-07-07 01:57:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2025-07-07 01:57:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-07 02:22:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-07-07 01:57:20 +0000"
     },
     "done": true
   },
@@ -7052,12 +7058,6 @@
   "create:recipes/building_blocks/vertical_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
     "criteria": {
       "has_glass_panes_colorless": "2025-07-07 02:22:29 +0000"
-    },
-    "done": true
-  },
-  "ubesdelight:farmersdelight/recipes/cooking/bangsilog": {
-    "criteria": {
-      "has_foods_safe_raw_fish": "2025-07-07 01:57:20 +0000"
     },
     "done": true
   },
