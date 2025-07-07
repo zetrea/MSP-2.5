@@ -8101,9 +8101,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-07 05:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-07 05:02:34 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/cut_amethyst_slab_from_stone_types_amethyst_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst": "2025-07-07 05:00:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-07-07 05:08:17 +0000"
     },
     "done": true
   },
@@ -8119,9 +8137,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-07 05:02:34 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/polished_cut_amethyst_slab_from_stone_types_amethyst_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst": "2025-07-07 05:00:23 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/album": {
+    "criteria": {
+      "has_book": "2025-07-07 05:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-07 05:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-07 05:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-07 05:08:17 +0000"
     },
     "done": true
   },
@@ -8131,15 +8179,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-07 05:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-07 05:02:34 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/cut_amethyst_stairs_from_stone_types_amethyst_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst": "2025-07-07 05:00:23 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-07 05:02:34 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/small_amethyst_brick_stairs_from_stone_types_amethyst_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst": "2025-07-07 05:00:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-07 05:02:34 +0000"
     },
     "done": true
   },
@@ -8155,9 +8227,33 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2025-07-07 05:02:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-07 05:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-07 05:02:34 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/amethyst_block_from_stone_types_amethyst_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst": "2025-07-07 05:00:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-07-07 05:08:17 +0000"
     },
     "done": true
   },
@@ -8179,6 +8275,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2025-07-07 05:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-07 05:02:34 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/polished_cut_amethyst_from_stone_types_amethyst_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst": "2025-07-07 05:00:23 +0000"
@@ -8197,15 +8305,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-07 05:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-07 05:02:34 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/cut_amethyst_bricks_from_stone_types_amethyst_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst": "2025-07-07 05:00:23 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-07 05:02:34 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/cut_amethyst_brick_stairs_from_stone_types_amethyst_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst": "2025-07-07 05:00:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-07 05:02:34 +0000"
     },
     "done": true
   },
