@@ -8113,6 +8113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-07 05:24:17 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/cut_amethyst_slab_from_stone_types_amethyst_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst": "2025-07-07 05:00:23 +0000"
@@ -8137,9 +8143,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-07 05:24:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-07 05:24:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-07 05:02:34 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/netherite_dot_bolt_from_ingots_netherite_stonecutting": {
+    "criteria": {
+      "has_ingots_netherite": "2025-07-07 05:24:17 +0000"
     },
     "done": true
   },
@@ -8167,6 +8191,12 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/netherite_cross_bolt_from_ingots_netherite_stonecutting": {
+    "criteria": {
+      "has_ingots_netherite": "2025-07-07 05:24:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-07-07 05:08:17 +0000"
@@ -8185,6 +8215,18 @@
     },
     "done": true
   },
+  "constructionstick:recipes/tools/netherite_stick": {
+    "criteria": {
+      "has_item": "2025-07-07 05:24:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-07 05:24:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-07-07 05:08:17 +0000"
@@ -8194,6 +8236,18 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-07 05:02:34 +0000"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/tools/minecraft/crafting/rolling_pin_netherite_smithing": {
+    "criteria": {
+      "has_ingots_netherite": "2025-07-07 05:24:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-07 05:24:17 +0000"
     },
     "done": true
   },
@@ -8215,9 +8269,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-07 05:24:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-07 05:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-07 05:24:17 +0000"
     },
     "done": true
   },
@@ -8245,9 +8311,21 @@
     },
     "done": true
   },
+  "eternal_starlight:obtain_seeking_eye": {
+    "criteria": {
+      "has_item": "2025-07-07 05:22:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-07 05:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_brush_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-07 05:24:17 +0000"
     },
     "done": true
   },
@@ -8275,9 +8353,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-07 05:24:17 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/small_amethyst_bricks_from_stone_types_amethyst_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst": "2025-07-07 05:00:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-07 05:24:17 +0000"
     },
     "done": true
   },
@@ -8311,15 +8401,33 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/large_netherite_chain_from_ingots_netherite_stonecutting": {
+    "criteria": {
+      "has_ingots_netherite": "2025-07-07 05:24:17 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/cut_amethyst_brick_slab_from_stone_types_amethyst_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst": "2025-07-07 05:00:23 +0000"
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/netherite_flat_bolt_from_ingots_netherite_stonecutting": {
+    "criteria": {
+      "has_ingots_netherite": "2025-07-07 05:24:17 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/cut_amethyst_brick_wall_from_stone_types_amethyst_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst": "2025-07-07 05:00:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-07 05:24:17 +0000"
     },
     "done": true
   },
@@ -8341,6 +8449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-07 05:24:17 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/cut_amethyst_bricks_from_stone_types_amethyst_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst": "2025-07-07 05:00:23 +0000"
@@ -8359,6 +8473,12 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/netherite_floor_from_ingots_netherite_stonecutting": {
+    "criteria": {
+      "has_ingots_netherite": "2025-07-07 05:24:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/pyromancer_chestplate_smithing": {
     "criteria": {
       "has_fire_rune": "2025-07-07 05:12:46 +0000"
@@ -8374,6 +8494,18 @@
   "crystal_chronicles:recipes/combat/chakram": {
     "criteria": {
       "has_fire_rune": "2025-07-07 05:12:46 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/netherite_dash_bolt_from_ingots_netherite_stonecutting": {
+    "criteria": {
+      "has_ingots_netherite": "2025-07-07 05:24:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-07 05:24:17 +0000"
     },
     "done": true
   },
