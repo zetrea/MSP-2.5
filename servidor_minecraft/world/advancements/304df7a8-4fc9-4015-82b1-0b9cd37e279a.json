@@ -10756,9 +10756,45 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/combat/resonarium_helmet_smithing": {
+    "criteria": {
+      "has_resonarium_plate": "2025-07-07 06:18:06 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/resonarium_sword_smithing": {
+    "criteria": {
+      "has_resonarium_plate": "2025-07-07 06:18:06 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/resonarium_chestplate_smithing": {
+    "criteria": {
+      "has_resonarium_plate": "2025-07-07 06:18:06 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/tools/resonarium_hoe_smithing": {
+    "criteria": {
+      "has_resonarium_plate": "2025-07-07 06:18:06 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/tools/resonarium_shovel_smithing": {
+    "criteria": {
+      "has_resonarium_plate": "2025-07-07 06:18:06 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/soundproof_glass": {
     "criteria": {
       "has_soul_dust": "2025-07-07 06:12:36 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/tools/resonarium_axe_smithing": {
+    "criteria": {
+      "has_resonarium_plate": "2025-07-07 06:18:06 +0000"
     },
     "done": true
   },
@@ -10778,6 +10814,12 @@
       "sculk_snapper": "2025-07-07 06:12:38 +0000"
     },
     "done": false
+  },
+  "deeperdarker:recipes/combat/resonarium_leggings_smithing": {
+    "criteria": {
+      "has_resonarium_plate": "2025-07-07 06:18:06 +0000"
+    },
+    "done": true
   },
   "deeperdarker:main/explore_otherside": {
     "criteria": {
@@ -10799,9 +10841,21 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/tools/resonarium_pickaxe_smithing": {
+    "criteria": {
+      "has_resonarium_plate": "2025-07-07 06:18:06 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/misc/reinforced_echo_shard": {
     "criteria": {
       "has_warden_carapace": "2025-07-07 05:55:31 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/resonarium_boots_smithing": {
+    "criteria": {
+      "has_resonarium_plate": "2025-07-07 06:18:06 +0000"
     },
     "done": true
   },

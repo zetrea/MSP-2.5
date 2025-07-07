@@ -8587,9 +8587,31 @@
     },
     "done": true
   },
-  "deeperdarker:main/enter_otherside": {
+  "deeperdarker:main/kill_warden": {
     "criteria": {
-      "otherside": "2025-07-07 06:09:05 +0000"
+      "warden": "2025-07-07 05:54:41 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "shattered": "2025-07-07 06:09:31 +0000",
+      "shriek_worm": "2025-07-07 06:10:40 +0000",
+      "sculk_leech": "2025-07-07 06:16:29 +0000",
+      "warden": "2025-07-07 05:54:41 +0000",
+      "sculk_snapper": "2025-07-07 06:09:44 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
+    "criteria": {
+      "has_warden_carapace": "2025-07-07 05:54:41 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_heart_of_the_deep": "2025-07-07 05:54:42 +0000"
     },
     "done": true
   },
@@ -8611,27 +8633,9 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/combat/resonarium_helmet_smithing": {
-    "criteria": {
-      "has_resonarium_plate": "2025-07-07 06:15:01 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-07-07 05:55:54 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/combat/resonarium_sword_smithing": {
-    "criteria": {
-      "has_resonarium_plate": "2025-07-07 06:15:01 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/combat/resonarium_chestplate_smithing": {
-    "criteria": {
-      "has_resonarium_plate": "2025-07-07 06:15:01 +0000"
     },
     "done": true
   },
@@ -8659,33 +8663,9 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/tools/resonarium_hoe_smithing": {
-    "criteria": {
-      "has_resonarium_plate": "2025-07-07 06:15:01 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/tools/resonarium_shovel_smithing": {
-    "criteria": {
-      "has_resonarium_plate": "2025-07-07 06:15:01 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/soundproof_glass": {
-    "criteria": {
-      "has_soul_dust": "2025-07-07 06:09:46 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-07-07 05:55:54 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/tools/resonarium_axe_smithing": {
-    "criteria": {
-      "has_resonarium_plate": "2025-07-07 06:15:01 +0000"
     },
     "done": true
   },
@@ -8701,31 +8681,9 @@
     },
     "done": true
   },
-  "deeperdarker:main/kill_warden": {
-    "criteria": {
-      "warden": "2025-07-07 05:54:41 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:main/kill_all_sculk_mobs": {
-    "criteria": {
-      "shattered": "2025-07-07 06:09:31 +0000",
-      "shriek_worm": "2025-07-07 06:10:40 +0000",
-      "sculk_leech": "2025-07-07 06:16:29 +0000",
-      "warden": "2025-07-07 05:54:41 +0000",
-      "sculk_snapper": "2025-07-07 06:09:44 +0000"
-    },
-    "done": false
-  },
   "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-07-07 05:55:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-07-07 06:11:32 +0000"
     },
     "done": true
   },
@@ -8747,59 +8705,9 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/combat/resonarium_leggings_smithing": {
-    "criteria": {
-      "has_resonarium_plate": "2025-07-07 06:15:01 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:main/explore_otherside": {
-    "criteria": {
-      "overcast_columns": "2025-07-07 06:12:33 +0000",
-      "blooming_caverns": "2025-07-07 06:09:12 +0000",
-      "echoing_forest": "2025-07-07 06:09:43 +0000"
-    },
-    "done": false
-  },
-  "deeperdarker:recipes/combat/sonorous_staff": {
-    "criteria": {
-      "has_heart_of_the_deep": "2025-07-07 05:54:42 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-07-07 05:55:54 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/misc/resonarium_plate": {
-    "criteria": {
-      "has_resonarium": "2025-07-07 06:11:03 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/tools/resonarium_pickaxe_smithing": {
-    "criteria": {
-      "has_resonarium_plate": "2025-07-07 06:15:01 +0000"
-    },
-    "done": true
-  },
-  "chimes:recipe/decorations/glass_bells": {
-    "criteria": {
-      "has_bottle": "2025-07-07 06:02:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-07-07 06:11:32 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/misc/reinforced_echo_shard": {
-    "criteria": {
-      "has_warden_carapace": "2025-07-07 05:54:41 +0000"
     },
     "done": true
   },
@@ -8821,9 +8729,107 @@
     },
     "done": true
   },
+  "chimes:recipe/decorations/glass_bells": {
+    "criteria": {
+      "has_bottle": "2025-07-07 06:02:56 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/enter_otherside": {
+    "criteria": {
+      "otherside": "2025-07-07 06:09:05 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/explore_otherside": {
+    "criteria": {
+      "overcast_columns": "2025-07-07 06:12:33 +0000",
+      "blooming_caverns": "2025-07-07 06:09:12 +0000",
+      "echoing_forest": "2025-07-07 06:09:43 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/soundproof_glass": {
+    "criteria": {
+      "has_soul_dust": "2025-07-07 06:09:46 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/resonarium_plate": {
+    "criteria": {
+      "has_resonarium": "2025-07-07 06:11:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-07 06:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-07 06:11:32 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/resonarium_helmet_smithing": {
+    "criteria": {
+      "has_resonarium_plate": "2025-07-07 06:15:01 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/resonarium_sword_smithing": {
+    "criteria": {
+      "has_resonarium_plate": "2025-07-07 06:15:01 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/resonarium_chestplate_smithing": {
+    "criteria": {
+      "has_resonarium_plate": "2025-07-07 06:15:01 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/tools/resonarium_hoe_smithing": {
+    "criteria": {
+      "has_resonarium_plate": "2025-07-07 06:15:01 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/tools/resonarium_shovel_smithing": {
+    "criteria": {
+      "has_resonarium_plate": "2025-07-07 06:15:01 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/tools/resonarium_axe_smithing": {
+    "criteria": {
+      "has_resonarium_plate": "2025-07-07 06:15:01 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/resonarium_leggings_smithing": {
+    "criteria": {
+      "has_resonarium_plate": "2025-07-07 06:15:01 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/tools/resonarium_pickaxe_smithing": {
+    "criteria": {
+      "has_resonarium_plate": "2025-07-07 06:15:01 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/combat/resonarium_boots_smithing": {
     "criteria": {
       "has_resonarium_plate": "2025-07-07 06:15:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye": {
+    "criteria": {
+      "has_gloomy_cactus": "2025-07-07 06:24:33 +0000"
     },
     "done": true
   },
