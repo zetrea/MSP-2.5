@@ -10874,6 +10874,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-07 09:39:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-07 07:04:30 +0000"
@@ -10892,6 +10898,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-07 09:39:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-07-07 09:17:56 +0000"
@@ -10901,6 +10913,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-07-07 07:35:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-07 09:39:33 +0000"
     },
     "done": true
   },
@@ -10946,6 +10964,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/palettes/scorchia": {
+    "criteria": {
+      "has_item": "2025-07-07 09:39:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-07 09:39:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/netherite_knife_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-07 07:04:30 +0000"
@@ -10985,6 +11015,12 @@
   "irons_spellbooks:recipes/misc/fireward_ring": {
     "criteria": {
       "mithril_scrap": "2025-07-07 08:33:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-07 09:39:33 +0000"
     },
     "done": true
   },
@@ -11108,6 +11144,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-07 09:39:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-07 07:42:29 +0000"
@@ -11168,6 +11210,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-07 09:39:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-07 07:41:57 +0000"
@@ -11201,6 +11249,12 @@
   "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-07-07 08:01:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-07 09:39:33 +0000"
     },
     "done": true
   },
@@ -11336,6 +11390,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-07 09:39:33 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/small_blackstone_bricks_from_stone_types_blackstone_stonecutting": {
     "criteria": {
       "has_stone_types_blackstone": "2025-07-07 09:17:56 +0000"
@@ -11414,6 +11474,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-07 09:39:33 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/blackstone_pillar_from_stone_types_blackstone_stonecutting": {
     "criteria": {
       "has_stone_types_blackstone": "2025-07-07 09:17:56 +0000"
@@ -11423,6 +11489,12 @@
   "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-07 07:42:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-07 09:39:33 +0000"
     },
     "done": true
   },
@@ -11541,6 +11613,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-07 09:39:33 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:recipes/misc/cast_time_ring": {
     "criteria": {
       "mithril_scrap": "2025-07-07 08:33:47 +0000"
@@ -11577,6 +11655,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-07 09:39:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-07 07:41:57 +0000"
@@ -11589,9 +11673,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-07 09:39:33 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/large_netherite_chain_from_ingots_netherite_stonecutting": {
     "criteria": {
       "has_ingots_netherite": "2025-07-07 07:04:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-07 09:39:33 +0000"
     },
     "done": true
   },
@@ -11694,6 +11790,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-07 07:41:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-07 09:39:33 +0000"
     },
     "done": true
   },
@@ -11811,6 +11913,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-07 09:39:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2025-07-07 07:35:09 +0000"
@@ -11820,6 +11928,18 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-07-07 07:41:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-07 09:39:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-07 09:39:33 +0000"
     },
     "done": true
   },
