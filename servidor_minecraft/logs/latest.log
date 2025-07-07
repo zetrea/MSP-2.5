@@ -9293,3 +9293,53 @@ io.netty.handler.codec.CodecException: Codec failure for type apothic_augments, 
 [07Jul2025 06:36:51.517] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
 [07Jul2025 06:36:51.717] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
 [07Jul2025 06:36:51.912] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:37:37.379] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:37:37.864] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:37:39.662] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:37:41.431] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:37:41.631] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:38:05.262] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:38:07.091] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:38:07.270] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:39:14.192] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:39:16.030] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:39:16.235] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:40:11.290] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:40:11.742] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:40:11.931] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:40:16.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zetreaa> snoock victim
+[07Jul2025 06:40:29.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zetreaa> snoock victim le digo?
+[07Jul2025 06:40:30.791] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:40:32.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElJimmyy> si
+[07Jul2025 06:41:00.028] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:41:24.892] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:41:46.184] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:41:56.779] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:42:02.026] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:42:02.131] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:42:02.330] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:42:05.479] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:42:05.685] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:43:31.450] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:43:33.299] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:43:33.493] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:43:35.183] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:43:35.382] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:43:36.181] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:43:43.383] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:43:44.479] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:43:48.782] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:43:49.228] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:44:48.984] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:44:52.753] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:45:01.142] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:46:45.874] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:46:49.484] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:47:13.212] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:47:19.593] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:47:23.511] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:47:26.628] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:47:28.632] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:47:28.834] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:47:32.556] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 06:47:36.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa was obliterated by a sonically-charged shriek
