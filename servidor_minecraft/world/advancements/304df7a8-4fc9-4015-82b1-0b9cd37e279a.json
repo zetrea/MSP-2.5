@@ -9803,6 +9803,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-07-07 08:30:03 +0000",
       "minecraft:nether_wastes": "2025-07-07 03:35:23 +0000",
       "minecraft:soul_sand_valley": "2025-07-07 03:33:44 +0000",
       "minecraft:basalt_deltas": "2025-07-07 03:40:47 +0000"
@@ -10896,9 +10897,21 @@
     },
     "done": true
   },
+  "irons_spellbooks:recipes/misc/cooldown_ring": {
+    "criteria": {
+      "mithril_scrap": "2025-07-07 08:33:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-07 07:42:29 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:recipes/misc/frostward_ring": {
+    "criteria": {
+      "mithril_scrap": "2025-07-07 08:33:47 +0000"
     },
     "done": true
   },
@@ -10944,6 +10957,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:recipes/misc/fireward_ring": {
+    "criteria": {
+      "mithril_scrap": "2025-07-07 08:33:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_red_rock_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-07-07 08:01:00 +0000"
@@ -10974,6 +10993,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:recipes/misc/concentration_amulet": {
+    "criteria": {
+      "mithril_scrap": "2025-07-07 08:33:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2025-07-07 07:23:07 +0000"
@@ -10995,6 +11020,12 @@
   "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-07 07:41:57 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:recipes/misc/conjurers_talisman": {
+    "criteria": {
+      "mithril_scrap": "2025-07-07 08:33:47 +0000"
     },
     "done": true
   },
@@ -11238,6 +11269,18 @@
     },
     "done": true
   },
+  "irons_spellbooks:recipes/misc/visibility_ring": {
+    "criteria": {
+      "mithril_scrap": "2025-07-07 08:33:47 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:recipes/misc/heavy_chain_necklace": {
+    "criteria": {
+      "mithril_scrap": "2025-07-07 08:33:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-07 07:41:57 +0000"
@@ -11271,6 +11314,19 @@
   "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-07 07:42:29 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_crimson": "2025-07-07 08:30:06 +0000",
+      "in_mineshaft_soul": "2025-07-07 08:28:17 +0000"
+    },
+    "done": false
+  },
+  "irons_spellbooks:recipes/misc/affinity_ring": {
+    "criteria": {
+      "mithril_scrap": "2025-07-07 08:33:47 +0000"
     },
     "done": true
   },
@@ -11328,6 +11384,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:recipes/misc/cast_time_ring": {
+    "criteria": {
+      "mithril_scrap": "2025-07-07 08:33:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-07 07:41:57 +0000"
@@ -11382,6 +11444,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:recipes/misc/emerald_stoneplate_ring": {
+    "criteria": {
+      "mithril_scrap": "2025-07-07 08:33:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-07 07:04:30 +0000"
@@ -11403,6 +11471,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-07 07:41:57 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:recipes/misc/expulsion_ring": {
+    "criteria": {
+      "mithril_scrap": "2025-07-07 08:33:47 +0000"
     },
     "done": true
   },
@@ -11433,6 +11507,12 @@
   "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
     "criteria": {
       "has_minecraft:diorite": "2025-07-07 07:42:29 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:recipes/misc/poisonward_ring": {
+    "criteria": {
+      "mithril_scrap": "2025-07-07 08:33:47 +0000"
     },
     "done": true
   },
