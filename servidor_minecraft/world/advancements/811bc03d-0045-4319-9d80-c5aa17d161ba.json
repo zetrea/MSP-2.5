@@ -1828,6 +1828,7 @@
       "minecraft:skeleton": "2025-07-06 01:51:05 +0000",
       "minecraft:zombified_piglin": "2025-07-07 04:03:42 +0000",
       "minecraft:witch": "2025-07-06 02:35:48 +0000",
+      "minecraft:wither_skeleton": "2025-07-07 04:13:46 +0000",
       "minecraft:ghast": "2025-07-07 03:35:57 +0000",
       "minecraft:cave_spider": "2025-07-06 06:09:28 +0000",
       "minecraft:piglin": "2025-07-07 03:37:55 +0000",
@@ -7797,6 +7798,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_blazing_eye": "2025-07-07 04:11:02 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/polished_cut_netherrack_wall_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-07-07 04:00:41 +0000"
@@ -7812,6 +7819,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-07 04:08:16 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_blazing_eye": "2025-07-07 04:11:02 +0000"
     },
     "done": true
   },
