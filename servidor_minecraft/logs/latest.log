@@ -11619,3 +11619,126 @@ io.netty.handler.codec.CodecException: Codec failure for type apothic_augments, 
 [07Jul2025 10:02:25.011] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
 [07Jul2025 10:03:01.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Set own game mode to Creative Mode]
 [07Jul2025 10:03:15.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zetreaa: Set own game mode to Survival Mode]
+[07Jul2025 10:12:21.613] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:12:24.163] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:12:24.213] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:12:27.070] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:12:27.096] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:12:27.127] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:12:27.156] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:12:27.823] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:12:36.892] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:13:36.313] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:13:38.563] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:13:45.468] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:14:49.973] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:15:00.721] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:15:03.867] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:15:34.317] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:15:35.468] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:15:38.771] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:15:40.968] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:16:23.517] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:16:24.568] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:16:26.421] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:16:37.373] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:16:37.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa has made the advancement [Magery]
+[07Jul2025 10:17:00.626] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:20:41.515] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:21:20.024] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:22:40.161] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:22:58.967] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:22:59.519] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:23:13.366] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:23:39.218] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:23:43.770] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:24:16.423] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:24:21.268] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:24:32.378] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:24:46.891] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:24:48.694] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:25:56.224] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:25:56.433] [Server thread/ERROR] [KubeJS Server/]: rightclicks.js#4: Error in 'ItemEvents.rightClicked': dev.latvian.mods.rhino.EcmaError: TypeError: Cannot call method "includes" of undefined
+[07Jul2025 10:25:59.340] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zetreaa lost connection: Disconnected
+[07Jul2025 10:25:59.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa left the game
+[07Jul2025 10:26:08.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07Jul2025 10:26:08.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Jul2025 10:26:08.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Jul2025 10:26:08.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Jul2025 10:26:08.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Jul2025 10:26:08.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[07Jul2025 10:26:08.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Jul2025 10:26:08.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/crystal_chronicles:mockup_netherlike
+[07Jul2025 10:26:08.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Jul2025 10:26:08.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_starlight:starlight
+[07Jul2025 10:26:08.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/irons_spellbooks:pocket_dimension
+[07Jul2025 10:26:08.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/createteleporters:pocket_dimension
+[07Jul2025 10:26:08.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Jul2025 10:26:08.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[07Jul2025 10:26:08.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Jul2025 10:26:08.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mockup_netherlike): All chunks are saved
+[07Jul2025 10:26:08.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Jul2025 10:26:08.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (starlight): All chunks are saved
+[07Jul2025 10:26:08.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[07Jul2025 10:26:08.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[07Jul2025 10:26:08.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Jul2025 10:26:09.173] [Server thread/INFO] [Framework/]: Unloading server configs...
+[07Jul2025 10:26:09.174] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[07Jul2025 10:26:09.178] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[07Jul2025 10:26:09.180] [Server thread/ERROR] [net.neoforged.fml.javafmlmod.FMLModContainer/]: Exception caught during firing event: Cannot get config value before config is loaded.
+	Index: 0
+	Listeners:
+		0: net.neoforged.bus.EventListenerFactory$onLoad/0x000076ccecec8400@6986d010
+java.lang.IllegalStateException: Cannot get config value before config is loaded.
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.base.Preconditions.checkState(Preconditions.java:512)
+	at TRANSFORMER/neoforge@21.1.174/net.neoforged.neoforge.common.ModConfigSpec$ConfigValue.getRaw(ModConfigSpec.java:1235)
+	at TRANSFORMER/neoforge@21.1.174/net.neoforged.neoforge.common.ModConfigSpec$ConfigValue.get(ModConfigSpec.java:1222)
+	at TRANSFORMER/magic_coins@1.0.7/net.sirgrantd.magic_coins.config.ServerConfig.bakeConfig(ServerConfig.java:73)
+	at TRANSFORMER/magic_coins@1.0.7/net.sirgrantd.magic_coins.config.ServerConfig.onLoad(ServerConfig.java:83)
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:350)
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.ModContainer.acceptEvent(ModContainer.java:158)
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.config.ModConfig.setConfig(ModConfig.java:79)
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:233)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at java.base/java.util.Collections$SynchronizedCollection.forEach(Collections.java:2351)
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:129)
+	at TRANSFORMER/neoforge@21.1.174/net.neoforged.neoforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:134)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:750)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[07Jul2025 10:26:09.182] [Server thread/ERROR] [net.neoforged.fml.ModContainer/LOADING]: Caught exception during event net.neoforged.fml.event.config.ModConfigEvent$Unloading@5c7de971 dispatch for modid magic_coins
+java.lang.IllegalStateException: Cannot get config value before config is loaded.
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.base.Preconditions.checkState(Preconditions.java:512) ~[guava-32.1.2-jre.jar%2387!/:?]
+	at TRANSFORMER/neoforge@21.1.174/net.neoforged.neoforge.common.ModConfigSpec$ConfigValue.getRaw(ModConfigSpec.java:1235) ~[neoforge-21.1.174-universal.jar%23390!/:?]
+	at TRANSFORMER/neoforge@21.1.174/net.neoforged.neoforge.common.ModConfigSpec$ConfigValue.get(ModConfigSpec.java:1222) ~[neoforge-21.1.174-universal.jar%23390!/:?]
+	at TRANSFORMER/magic_coins@1.0.7/net.sirgrantd.magic_coins.config.ServerConfig.bakeConfig(ServerConfig.java:73) ~[magic_coins-1.0.7.jar%23562!/:?]
+	at TRANSFORMER/magic_coins@1.0.7/net.sirgrantd.magic_coins.config.ServerConfig.onLoad(ServerConfig.java:83) ~[magic_coins-1.0.7.jar%23562!/:?]
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:350) ~[bus-8.0.2.jar%2362!/:?]
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:315) ~[bus-8.0.2.jar%2362!/:?]
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.ModContainer.acceptEvent(ModContainer.java:158) ~[loader-4.0.39.jar%2359!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.config.ModConfig.setConfig(ModConfig.java:79) ~[loader-4.0.39.jar%2359!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:233) ~[loader-4.0.39.jar%2359!/:4.0]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at java.base/java.util.Collections$SynchronizedCollection.forEach(Collections.java:2351) ~[?:?]
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:129) ~[loader-4.0.39.jar%2359!/:4.0]
+	at TRANSFORMER/neoforge@21.1.174/net.neoforged.neoforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:134) ~[neoforge-21.1.174-universal.jar%23390!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:750) ~[server-1.21.1-20240808.144430-srg.jar%23389!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23389!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[07Jul2025 10:26:09.184] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Uncaught exception in server thread
+net.neoforged.fml.ModLoadingException: Loading errors encountered:
+	- Magic Coins (magic_coins) encountered an error while dispatching the net.neoforged.fml.event.config.ModConfigEvent$Unloading event
+	  java.lang.IllegalStateException: Cannot get config value before config is loaded.
+
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.ModContainer.acceptEvent(ModContainer.java:162) ~[loader-4.0.39.jar%2359!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.config.ModConfig.setConfig(ModConfig.java:79) ~[loader-4.0.39.jar%2359!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:233) ~[loader-4.0.39.jar%2359!/:4.0]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at java.base/java.util.Collections$SynchronizedCollection.forEach(Collections.java:2351) ~[?:?]
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:129) ~[loader-4.0.39.jar%2359!/:4.0]
+	at TRANSFORMER/neoforge@21.1.174/net.neoforged.neoforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:134) ~[neoforge-21.1.174-universal.jar%23390!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:750) ~[server-1.21.1-20240808.144430-srg.jar%23389!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23389!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]

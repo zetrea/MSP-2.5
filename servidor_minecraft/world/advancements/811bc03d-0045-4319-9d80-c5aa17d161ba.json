@@ -9611,9 +9611,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-07-07 10:24:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-07-07 10:24:58 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_diamond": {
     "criteria": {
       "requirement": "2025-07-07 10:03:18 +0000"
+    },
+    "done": true
+  },
+  "ubesdelight:farmersdelight/recipes/cooking/chicken_inasal": {
+    "criteria": {
+      "has_foods_raw_chicken": "2025-07-07 10:24:58 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
+    "criteria": {
+      "requirement": "2025-07-07 10:16:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-07-07 10:24:58 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-07-07 10:16:37 +0000"
     },
     "done": true
   },
