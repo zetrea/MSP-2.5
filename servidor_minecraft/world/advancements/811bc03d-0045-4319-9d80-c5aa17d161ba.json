@@ -6923,5 +6923,41 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-07-07 01:54:54 +0000"
+    },
+    "done": true
+  },
+  "ubesdelight:farmersdelight/recipes/cooking/bangsilog_extra": {
+    "criteria": {
+      "has_fishes": "2025-07-07 01:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-07-07 01:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-07-07 01:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-07-07 01:57:20 +0000"
+    },
+    "done": true
+  },
+  "ubesdelight:farmersdelight/recipes/cooking/bangsilog": {
+    "criteria": {
+      "has_foods_safe_raw_fish": "2025-07-07 01:57:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
