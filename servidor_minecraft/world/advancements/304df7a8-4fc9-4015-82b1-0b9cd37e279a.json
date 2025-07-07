@@ -10750,6 +10750,18 @@
     },
     "done": true
   },
+  "deeperdarker:main/enter_otherside": {
+    "criteria": {
+      "otherside": "2025-07-07 06:09:02 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/soundproof_glass": {
+    "criteria": {
+      "has_soul_dust": "2025-07-07 06:12:36 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/kill_warden": {
     "criteria": {
       "warden": "2025-07-07 06:01:53 +0000"
@@ -10758,13 +10770,32 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "warden": "2025-07-07 06:01:53 +0000"
+      "shattered": "2025-07-07 06:09:37 +0000",
+      "stalker": "2025-07-07 06:16:47 +0000",
+      "shriek_worm": "2025-07-07 06:09:59 +0000",
+      "sculk_leech": "2025-07-07 06:16:42 +0000",
+      "warden": "2025-07-07 06:01:53 +0000",
+      "sculk_snapper": "2025-07-07 06:12:38 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:main/explore_otherside": {
+    "criteria": {
+      "overcast_columns": "2025-07-07 06:12:37 +0000",
+      "blooming_caverns": "2025-07-07 06:09:02 +0000",
+      "echoing_forest": "2025-07-07 06:09:58 +0000"
     },
     "done": false
   },
   "deeperdarker:recipes/combat/sonorous_staff": {
     "criteria": {
       "has_heart_of_the_deep": "2025-07-07 05:55:33 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/resonarium_plate": {
+    "criteria": {
+      "has_resonarium": "2025-07-07 06:09:49 +0000"
     },
     "done": true
   },
