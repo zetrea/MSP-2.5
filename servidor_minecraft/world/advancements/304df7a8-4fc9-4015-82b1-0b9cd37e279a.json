@@ -10865,6 +10865,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/light_gray_cushion": {
+    "criteria": {
+      "has_light_gray_cushion": "2025-07-07 07:23:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-07 07:04:30 +0000"
@@ -10883,15 +10889,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-07 07:23:07 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_stool": {
+    "criteria": {
+      "has_wool": "2025-07-07 07:23:07 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/netherite_dot_bolt_from_ingots_netherite_stonecutting": {
     "criteria": {
       "has_ingots_netherite": "2025-07-07 07:04:30 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-07 07:23:07 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/netherite_cross_bolt_from_ingots_netherite_stonecutting": {
     "criteria": {
       "has_ingots_netherite": "2025-07-07 07:04:30 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-07 07:23:07 +0000"
     },
     "done": true
   },
@@ -10904,6 +10934,18 @@
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-07 07:04:30 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/hammock_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-07 07:23:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_sheet": {
+    "criteria": {
+      "has_light_gray_sheet": "2025-07-07 07:23:07 +0000"
     },
     "done": true
   },
@@ -10931,6 +10973,24 @@
     },
     "done": true
   },
+  "another_furniture:recipes/light_gray_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-07-07 07:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-07 07:23:07 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_curtain": {
+    "criteria": {
+      "has_wool": "2025-07-07 07:23:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_brush_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-07 07:04:30 +0000"
@@ -10946,6 +11006,12 @@
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-07 07:04:30 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/sleeping_bag_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-07 07:23:07 +0000"
     },
     "done": true
   },
@@ -10988,6 +11054,12 @@
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-07 07:04:30 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_lamp": {
+    "criteria": {
+      "has_wool": "2025-07-07 07:23:07 +0000"
     },
     "done": true
   },
