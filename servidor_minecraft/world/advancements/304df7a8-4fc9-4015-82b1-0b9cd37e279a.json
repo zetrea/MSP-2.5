@@ -9590,6 +9590,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-07 03:57:21 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:all_starlight_biomes": {
     "criteria": {
       "in_scarlet_forest": "2025-07-07 02:06:19 +0000",
@@ -9610,6 +9616,24 @@
   "eternal_starlight:recipes/building_blocks/nebulaite": {
     "criteria": {
       "has_item": "2025-07-07 02:11:04 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_netherrack_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 03:58:28 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_netherrack_wall_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 03:58:28 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_netherrack_brick_wall_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 03:58:28 +0000"
     },
     "done": true
   },
@@ -9655,9 +9679,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-07 03:51:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-07-07 03:30:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-07 03:57:21 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_netherrack_wall_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 03:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-07 03:51:15 +0000"
     },
     "done": true
   },
@@ -9709,9 +9757,39 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/small_netherrack_brick_stairs_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 03:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-07 03:51:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-07 03:58:28 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/black_terracotta_shingles": {
+    "criteria": {
+      "black_terracotta": "2025-07-07 03:51:27 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/misc/aethersent_ingot_smelting_from_raw_aethersent": {
     "criteria": {
       "has_item": "2025-07-07 02:11:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-07 03:57:21 +0000"
     },
     "done": true
   },
@@ -9745,6 +9823,12 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/small_netherrack_bricks_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 03:58:28 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:witness_meteor_shower": {
     "criteria": {
       "witnessed": "2025-07-07 02:06:48 +0000"
@@ -9763,15 +9847,57 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/netherrack_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 03:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-07 03:51:15 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/cut_basalt_brick_stairs_from_stone_types_basalt_stonecutting": {
     "criteria": {
       "has_stone_types_basalt": "2025-07-07 03:48:12 +0000"
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/cut_netherrack_brick_wall_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 03:58:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-07-07 03:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-07 03:51:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-07 03:51:15 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_netherrack_stairs_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 03:58:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-07 03:57:21 +0000"
     },
     "done": true
   },
@@ -9799,9 +9925,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-07 03:51:15 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:enter_starlight": {
     "criteria": {
       "in_dim": "2025-07-07 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_netherrack_brick_slab_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 03:58:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-07 03:57:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-07 03:51:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-07 03:57:21 +0000"
     },
     "done": true
   },
@@ -9817,6 +9973,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-07 03:57:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-07 03:57:21 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/redstone/comparator_from_cinder_brick_and_nightfall_spider_eye": {
     "criteria": {
       "has_nightfall_spider_eye": "2025-07-07 02:14:40 +0000"
@@ -9829,9 +9997,21 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/polished_cut_netherrack_slab_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 03:58:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-07 03:44:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-07 03:57:21 +0000"
     },
     "done": true
   },
@@ -9871,6 +10051,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-07 03:57:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-07 03:57:21 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/small_basalt_bricks_from_stone_types_basalt_stonecutting": {
     "criteria": {
       "has_stone_types_basalt": "2025-07-07 03:48:12 +0000"
@@ -9895,6 +10087,12 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/layered_netherrack_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 03:58:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-07-07 03:48:12 +0000"
@@ -9913,9 +10111,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-07 03:57:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-07 03:57:21 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_netherrack_brick_slab_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 03:58:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2025-07-07 03:40:58 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_netherrack_slab_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 03:58:28 +0000"
     },
     "done": true
   },
@@ -9931,9 +10153,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-07 03:51:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-07 03:57:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scorchia_pillar_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-07 03:57:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-07-07 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-07 03:51:15 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-07-07 03:08:26 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/netherrack_pillar_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 03:58:28 +0000"
     },
     "done": true
   },
@@ -9952,6 +10210,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-07-07 03:48:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-07 03:57:21 +0000"
     },
     "done": true
   },
@@ -9985,9 +10249,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-07 03:57:21 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_nether_wasteland": "2025-07-07 03:51:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-07 03:51:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-07 03:51:15 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/small_basalt_brick_slab_from_stone_types_basalt_stonecutting": {
     "criteria": {
       "has_stone_types_basalt": "2025-07-07 03:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-07 03:51:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-07-07 03:50:42 +0000"
     },
     "done": true
   },
@@ -10009,6 +10309,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-07 03:57:21 +0000"
+    },
+    "done": true
+  },
   "ubesdelight:recipes/misc/minecraft/crafting/leaf_feast": {
     "criteria": {
       "has_leaves": "2025-07-07 02:09:07 +0000"
@@ -10021,9 +10327,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-07-07 03:50:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-07 03:51:30 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_netherrack_bricks_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 03:58:28 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_netherrack_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 03:58:28 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_netherrack_brick_stairs_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 03:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-07 03:51:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-07-07 03:19:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-07-07 03:57:21 +0000"
     },
     "done": true
   },
@@ -10060,6 +10408,12 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-07-07 03:48:12 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_netherrack_stairs_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 03:58:28 +0000"
     },
     "done": true
   },
