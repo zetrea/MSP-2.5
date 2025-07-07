@@ -1826,6 +1826,7 @@
     "criteria": {
       "minecraft:pillager": "2025-07-06 02:33:28 +0000",
       "minecraft:skeleton": "2025-07-06 01:51:05 +0000",
+      "minecraft:zombified_piglin": "2025-07-07 04:03:42 +0000",
       "minecraft:witch": "2025-07-06 02:35:48 +0000",
       "minecraft:ghast": "2025-07-07 03:35:57 +0000",
       "minecraft:cave_spider": "2025-07-06 06:09:28 +0000",
@@ -7736,6 +7737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-07 04:08:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-07-07 03:56:36 +0000"
@@ -7754,6 +7761,30 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/cut_netherrack_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 04:00:41 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_netherrack_wall_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 04:00:41 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_netherrack_brick_wall_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 04:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-07 04:08:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/palettes/scorchia": {
     "criteria": {
       "has_item": "2025-07-07 03:56:36 +0000"
@@ -7766,15 +7797,63 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/polished_cut_netherrack_wall_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 04:00:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-07-07 03:56:36 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-07 04:08:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-07 04:08:16 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_netherrack_brick_stairs_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 04:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-07 04:00:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-07-07 03:56:36 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_netherrack_bricks_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 04:00:41 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/netherrack_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 04:00:41 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_netherrack_brick_wall_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 04:00:41 +0000"
     },
     "done": true
   },
@@ -7790,9 +7869,21 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/cut_netherrack_stairs_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 04:00:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-07-07 03:56:36 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_netherrack_brick_slab_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 04:00:41 +0000"
     },
     "done": true
   },
@@ -7802,9 +7893,39 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/polished_cut_netherrack_slab_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 04:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-07 04:08:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-07-07 03:56:36 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/layered_netherrack_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 04:00:41 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_netherrack_brick_slab_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 04:00:41 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_netherrack_slab_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 04:00:41 +0000"
     },
     "done": true
   },
@@ -7826,9 +7947,21 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/netherrack_pillar_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 04:00:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-07-07 03:56:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-07 04:08:16 +0000"
     },
     "done": true
   },
@@ -7838,9 +7971,33 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/cut_netherrack_bricks_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 04:00:41 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_netherrack_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 04:00:41 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_netherrack_brick_stairs_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 04:00:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-07-07 03:56:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-07 04:08:16 +0000"
     },
     "done": true
   },
@@ -7853,6 +8010,12 @@
   "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-07-07 03:56:36 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_netherrack_stairs_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-07-07 04:00:41 +0000"
     },
     "done": true
   },

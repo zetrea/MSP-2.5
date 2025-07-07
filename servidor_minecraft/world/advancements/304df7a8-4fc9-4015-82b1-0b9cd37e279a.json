@@ -9570,6 +9570,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-07 03:59:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-07-07 03:35:23 +0000",
@@ -9616,6 +9622,12 @@
   "eternal_starlight:recipes/building_blocks/nebulaite": {
     "criteria": {
       "has_item": "2025-07-07 02:11:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-07 03:59:26 +0000"
     },
     "done": true
   },
@@ -9781,6 +9793,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-07 03:59:26 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/misc/aethersent_ingot_smelting_from_raw_aethersent": {
     "criteria": {
       "has_item": "2025-07-07 02:11:04 +0000"
@@ -9883,6 +9901,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/warped_cabinet": {
+    "criteria": {
+      "has_warped_trapdoor": "2025-07-07 04:00:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-07-07 03:51:15 +0000"
@@ -9967,6 +9991,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-07 03:59:26 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/misc/shapeless/aetherstrike_rocket": {
     "criteria": {
       "has_item": "2025-07-07 02:11:11 +0000"
@@ -10018,6 +10048,12 @@
   "dndecor:recipes/building_blocks/cut_basalt_from_stone_types_basalt_stonecutting": {
     "criteria": {
       "has_stone_types_basalt": "2025-07-07 03:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-07 03:59:26 +0000"
     },
     "done": true
   },
@@ -10105,6 +10141,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-07 03:59:26 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/polished_cut_basalt_stairs_from_stone_types_basalt_stonecutting": {
     "criteria": {
       "has_stone_types_basalt": "2025-07-07 03:48:12 +0000"
@@ -10168,6 +10210,12 @@
   "create:recipes/building_blocks/scorchia_pillar_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-07-07 03:57:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-07 03:59:26 +0000"
     },
     "done": true
   },
@@ -10327,9 +10375,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-07 03:59:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-07-07 03:50:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-07 03:59:26 +0000"
     },
     "done": true
   },
@@ -10405,9 +10465,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-07 03:59:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-07-07 03:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-07 03:59:26 +0000"
     },
     "done": true
   },
@@ -10420,6 +10492,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-07-07 03:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-07 03:59:26 +0000"
     },
     "done": true
   },
