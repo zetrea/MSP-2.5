@@ -9285,6 +9285,12 @@
     },
     "done": true
   },
+  "constructionstick:recipes/tools/smithing_upgrade/copper_stick_with_template_angel": {
+    "criteria": {
+      "has_addition": "2025-07-07 00:50:03 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/cut_stone_from_stone_types_stone_stonecutting": {
     "criteria": {
       "has_stone_types_stone": "2025-07-07 00:25:00 +0000"
@@ -9345,6 +9351,12 @@
     },
     "done": true
   },
+  "constructionstick:recipes/tools/smithing_upgrade/diamond_stick_with_template_angel": {
+    "criteria": {
+      "has_addition": "2025-07-07 00:50:03 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/cut_stone_brick_wall_from_stone_types_stone_stonecutting": {
     "criteria": {
       "has_stone_types_stone": "2025-07-07 00:25:00 +0000"
@@ -9360,6 +9372,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-07-07 00:50:03 +0000"
     },
     "done": true
   },
@@ -9411,9 +9429,21 @@
     },
     "done": true
   },
+  "constructionstick:recipes/tools/smithing_upgrade/netherite_stick_with_template_angel": {
+    "criteria": {
+      "has_addition": "2025-07-07 00:50:03 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/stone_corner_trim": {
     "criteria": {
       "has_stone_corner_trim": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "constructionstick:recipes/misc/template_angel": {
+    "criteria": {
+      "has_item": "2025-07-07 00:50:03 +0000"
     },
     "done": true
   },
@@ -9432,6 +9462,12 @@
   "sootychimneys:recipe/decorations/stone_brick_chimney": {
     "criteria": {
       "has_stone": "2025-07-07 00:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-07-07 00:50:03 +0000"
     },
     "done": true
   },
@@ -9501,9 +9537,21 @@
     },
     "done": true
   },
+  "constructionstick:recipes/tools/smithing_upgrade/wooden_stick_with_template_angel": {
+    "criteria": {
+      "has_addition": "2025-07-07 00:50:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-07-07 00:03:30 +0000"
+    },
+    "done": true
+  },
+  "constructionstick:recipes/tools/smithing_upgrade/iron_stick_with_template_angel": {
+    "criteria": {
+      "has_addition": "2025-07-07 00:50:03 +0000"
     },
     "done": true
   },

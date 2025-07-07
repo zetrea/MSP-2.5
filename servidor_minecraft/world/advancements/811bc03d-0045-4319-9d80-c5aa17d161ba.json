@@ -6572,27 +6572,27 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
-    "criteria": {
-      "has_item": "2025-07-07 00:23:47 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/decorations/witch_hazel_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-07-07 00:02:16 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/tree_fertilizer": {
+  "biomeswevegone:recipes/building_blocks/stripped_witch_hazel_wood": {
+    "criteria": {
+      "has_log": "2025-07-07 00:02:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-07-07 00:23:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_bwg_dye_tag": {
+  "create:recipes/misc/crafting/tree_fertilizer": {
     "criteria": {
-      "has_dye_tag": "2025-07-07 00:42:09 +0000"
+      "has_item": "2025-07-07 00:23:47 +0000"
     },
     "done": true
   },
@@ -6608,9 +6608,39 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/stripped_witch_hazel_wood": {
+  "minecraft:recipes/misc/yellow_dye_from_bwg_dye_tag": {
     "criteria": {
-      "has_log": "2025-07-07 00:02:16 +0000"
+      "has_dye_tag": "2025-07-07 00:42:09 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/aspen_planks": {
+    "criteria": {
+      "has_log": "2025-07-07 00:47:03 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/aspen_wood": {
+    "criteria": {
+      "has_log": "2025-07-07 00:47:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-07 00:55:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-07 00:55:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-07 00:55:34 +0000"
     },
     "done": true
   },
