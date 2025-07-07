@@ -1837,6 +1837,7 @@
       "minecraft:blaze": "2025-07-07 04:36:30 +0000",
       "minecraft:skeleton": "2025-07-06 01:56:53 +0000",
       "minecraft:wither_skeleton": "2025-07-06 08:10:03 +0000",
+      "minecraft:ghast": "2025-07-07 04:49:10 +0000",
       "minecraft:cave_spider": "2025-07-06 08:14:33 +0000",
       "minecraft:piglin": "2025-07-06 02:56:13 +0000",
       "minecraft:vindicator": "2025-07-06 03:05:43 +0000",
@@ -10526,9 +10527,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-07 04:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-07 04:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-07 04:53:12 +0000"
+    },
+    "done": true
+  },
   "create_dragons_plus:recipes/blaze_upgrade_smithing_template": {
     "criteria": {
       "has_template": "2025-07-07 04:31:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-07 04:53:12 +0000"
     },
     "done": true
   },
@@ -10550,9 +10575,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-07 04:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-07 04:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-07 04:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-07 04:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-07 04:53:12 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-07-07 04:32:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-07 04:53:12 +0000"
     },
     "done": true
   },
@@ -10580,9 +10641,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-07 04:53:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_fortress": "2025-07-07 04:39:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-07 04:53:12 +0000"
     },
     "done": true
   },
@@ -10610,11 +10683,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-07 04:53:12 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:ruins": {
     "criteria": {
       "in_ruins_nether": "2025-07-07 04:30:55 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-07 04:53:12 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }

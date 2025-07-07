@@ -2181,6 +2181,8 @@
       "cooked_mutton": "2025-07-06 05:50:37 +0000",
       "cooked_beef": "2025-07-06 02:33:00 +0000",
       "baked_potato": "2025-07-06 06:29:16 +0000",
+      "porkchop": "2025-07-07 04:41:52 +0000",
+      "golden_carrot": "2025-07-07 04:49:50 +0000",
       "carrot": "2025-07-07 01:24:42 +0000"
     },
     "done": false
@@ -8039,15 +8041,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-07-07 04:48:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-07-07 04:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-07 04:42:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-07-07 04:37:35 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-07 04:42:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_fortress": "2025-07-07 04:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-07 04:42:18 +0000"
     },
     "done": true
   },
