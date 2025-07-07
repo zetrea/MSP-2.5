@@ -9806,9 +9806,10 @@
       "minecraft:crimson_forest": "2025-07-07 08:30:03 +0000",
       "minecraft:nether_wastes": "2025-07-07 03:35:23 +0000",
       "minecraft:soul_sand_valley": "2025-07-07 03:33:44 +0000",
-      "minecraft:basalt_deltas": "2025-07-07 03:40:47 +0000"
+      "minecraft:basalt_deltas": "2025-07-07 03:40:47 +0000",
+      "minecraft:warped_forest": "2025-07-07 08:40:53 +0000"
     },
-    "done": false
+    "done": true
   },
   "repurposed_structures:outposts": {
     "criteria": {
