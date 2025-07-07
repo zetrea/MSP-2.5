@@ -105,15 +105,18 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:cika_woods": "2025-07-06 05:43:23 +0000",
+      "biomeswevegone:araucaria_savanna": "2025-07-07 23:39:54 +0000",
       "biomeswevegone:orchard": "2025-07-06 01:46:49 +0000",
       "biomeswevegone:howling_peaks": "2025-07-06 02:53:57 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-07-06 02:11:18 +0000",
       "biomeswevegone:skyrise_vale": "2025-07-06 05:42:59 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-06 02:28:30 +0000",
       "biomeswevegone:coconino_meadow": "2025-07-06 03:36:00 +0000",
+      "biomeswevegone:lush_stacks": "2025-07-07 23:39:52 +0000",
       "biomeswevegone:maple_taiga": "2025-07-06 03:35:34 +0000",
       "biomeswevegone:sakura_grove": "2025-07-06 02:55:41 +0000",
       "biomeswevegone:prairie": "2025-07-06 02:46:44 +0000",
+      "biomeswevegone:baobab_savanna": "2025-07-07 23:39:07 +0000",
       "biomeswevegone:basalt_barrera": "2025-07-06 06:21:43 +0000",
       "biomeswevegone:temperate_grove": "2025-07-06 01:39:18 +0000",
       "biomeswevegone:zelkova_forest": "2025-07-06 05:20:03 +0000",
@@ -9691,12 +9694,6 @@
     },
     "done": true
   },
-  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
-    "criteria": {
-      "has_item": "2025-07-07 23:27:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
       "has_polished_blackstone": "2025-07-07 23:25:34 +0000"
@@ -9745,12 +9742,6 @@
     },
     "done": true
   },
-  "armoroftheages:recipes/decordations/pharaoh_armor_head": {
-    "criteria": {
-      "has_base_armor": "2025-07-07 23:29:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-07-07 23:25:34 +0000"
@@ -9775,12 +9766,6 @@
     },
     "done": true
   },
-  "armoroftheages:recipes/decordations/pharaoh_armor_legs": {
-    "criteria": {
-      "has_base_armor": "2025-07-07 23:26:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
     "criteria": {
       "has_polished_blackstone": "2025-07-07 23:25:34 +0000"
@@ -9790,6 +9775,48 @@
   "minecraft:recipes/decorations/polished_blackstone_wall": {
     "criteria": {
       "has_polished_blackstone": "2025-07-07 23:25:34 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/pharaoh_armor_legs": {
+    "criteria": {
+      "has_base_armor": "2025-07-07 23:26:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-07-07 23:27:15 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/pharaoh_armor_head": {
+    "criteria": {
+      "has_base_armor": "2025-07-07 23:29:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-07-07 23:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-07-07 23:32:44 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/keeper_armor_trim_smithing_template": {
+    "criteria": {
+      "has_keeper_armor_trim_smithing_template": "2025-07-07 23:39:41 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/keeper_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-07 23:39:41 +0000"
     },
     "done": true
   },
