@@ -8131,6 +8131,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:recipes/misc/cooldown_ring": {
+    "criteria": {
+      "mithril_scrap": "2025-07-07 05:38:31 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/amethyst_pillar_from_stone_types_amethyst_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst": "2025-07-07 05:00:23 +0000"
@@ -8143,6 +8149,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:recipes/misc/frostward_ring": {
+    "criteria": {
+      "mithril_scrap": "2025-07-07 05:38:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-07 05:24:17 +0000"
@@ -8152,6 +8164,12 @@
   "farmersdelight:recipes/combat/netherite_knife_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-07 05:24:17 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:recipes/misc/fireward_ring": {
+    "criteria": {
+      "mithril_scrap": "2025-07-07 05:38:31 +0000"
     },
     "done": true
   },
@@ -8173,6 +8191,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:recipes/misc/concentration_amulet": {
+    "criteria": {
+      "mithril_scrap": "2025-07-07 05:38:31 +0000"
+    },
+    "done": true
+  },
   "exposure:recipes/tools/album": {
     "criteria": {
       "has_book": "2025-07-07 05:08:17 +0000"
@@ -8188,6 +8212,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2025-07-07 05:02:34 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:recipes/misc/conjurers_talisman": {
+    "criteria": {
+      "mithril_scrap": "2025-07-07 05:38:31 +0000"
     },
     "done": true
   },
@@ -8329,9 +8359,27 @@
     },
     "done": true
   },
+  "irons_spellbooks:recipes/misc/visibility_ring": {
+    "criteria": {
+      "mithril_scrap": "2025-07-07 05:38:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab": {
     "criteria": {
       "has_polished_deepslate": "2025-07-07 05:02:34 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:recipes/misc/heavy_chain_necklace": {
+    "criteria": {
+      "mithril_scrap": "2025-07-07 05:38:31 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:recipes/misc/affinity_ring": {
+    "criteria": {
+      "mithril_scrap": "2025-07-07 05:38:31 +0000"
     },
     "done": true
   },
@@ -8377,6 +8425,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:recipes/misc/cast_time_ring": {
+    "criteria": {
+      "mithril_scrap": "2025-07-07 05:38:31 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/layered_amethyst_from_stone_types_amethyst_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst": "2025-07-07 05:00:23 +0000"
@@ -8407,6 +8461,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-07-07 05:36:34 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/cut_amethyst_brick_slab_from_stone_types_amethyst_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst": "2025-07-07 05:00:23 +0000"
@@ -8422,6 +8482,12 @@
   "dndecor:recipes/building_blocks/cut_amethyst_brick_wall_from_stone_types_amethyst_stonecutting": {
     "criteria": {
       "has_stone_types_amethyst": "2025-07-07 05:00:23 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:recipes/misc/emerald_stoneplate_ring": {
+    "criteria": {
+      "mithril_scrap": "2025-07-07 05:38:31 +0000"
     },
     "done": true
   },
@@ -8449,9 +8515,21 @@
     },
     "done": true
   },
+  "irons_spellbooks:recipes/misc/expulsion_ring": {
+    "criteria": {
+      "mithril_scrap": "2025-07-07 05:38:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-07 05:24:17 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:recipes/misc/poisonward_ring": {
+    "criteria": {
+      "mithril_scrap": "2025-07-07 05:38:31 +0000"
     },
     "done": true
   },
