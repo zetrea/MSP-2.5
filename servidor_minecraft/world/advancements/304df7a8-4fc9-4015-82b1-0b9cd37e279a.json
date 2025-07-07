@@ -9585,9 +9585,27 @@
     },
     "done": true
   },
+  "createaddition:recipes/misc/crafting/connector": {
+    "criteria": {
+      "has_slime_ball": "2025-07-07 03:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-07-07 03:26:58 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/redstone/comparator_from_nightfall_spider_eye": {
     "criteria": {
       "has_nightfall_spider_eye": "2025-07-07 02:14:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-07-07 03:19:34 +0000"
     },
     "done": true
   },
@@ -9624,6 +9642,12 @@
   "eternal_starlight:kill_creteor": {
     "criteria": {
       "kill": "2025-07-07 02:11:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-07 03:19:34 +0000"
     },
     "done": true
   },
@@ -9669,6 +9693,12 @@
     },
     "done": true
   },
+  "createaddition:recipes/misc/crafting/large_connector": {
+    "criteria": {
+      "has_slime_balls": "2025-07-07 03:19:34 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2025-07-07 02:56:00 +0000"
@@ -9693,6 +9723,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/packing_tape": {
+    "criteria": {
+      "has_slime": "2025-07-07 03:19:34 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/redstone/daylight_detector_from_nightfall_spider_eye": {
     "criteria": {
       "has_nightfall_spider_eye": "2025-07-07 02:14:40 +0000"
@@ -9708,6 +9744,12 @@
   "ubesdelight:recipes/misc/minecraft/crafting/leaf_feast": {
     "criteria": {
       "has_leaves": "2025-07-07 02:09:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-07 03:19:34 +0000"
     },
     "done": true
   },
