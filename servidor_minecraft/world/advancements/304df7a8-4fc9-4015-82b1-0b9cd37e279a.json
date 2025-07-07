@@ -1839,6 +1839,7 @@
       "minecraft:skeleton": "2025-07-06 01:56:53 +0000",
       "minecraft:wither_skeleton": "2025-07-06 08:10:03 +0000",
       "minecraft:ghast": "2025-07-07 04:49:10 +0000",
+      "minecraft:hoglin": "2025-07-07 23:06:20 +0000",
       "minecraft:cave_spider": "2025-07-06 08:14:33 +0000",
       "minecraft:piglin": "2025-07-06 02:56:13 +0000",
       "minecraft:vindicator": "2025-07-06 03:05:43 +0000",
@@ -2642,6 +2643,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-07-06 02:22:32 +0000",
+      "mutton": "2025-07-07 23:05:12 +0000",
       "bread": "2025-07-06 02:44:50 +0000",
       "golden_apple": "2025-07-06 07:41:47 +0000",
       "rotten_flesh": "2025-07-07 05:52:09 +0000",
@@ -11998,9 +12000,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-07-07 23:06:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-07-07 22:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-07 23:06:32 +0000"
     },
     "done": true
   },
