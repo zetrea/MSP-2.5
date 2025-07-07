@@ -117,6 +117,7 @@
       "biomeswevegone:basalt_barrera": "2025-07-06 06:21:43 +0000",
       "biomeswevegone:temperate_grove": "2025-07-06 01:39:18 +0000",
       "biomeswevegone:zelkova_forest": "2025-07-06 05:20:03 +0000",
+      "biomeswevegone:forgotten_forest": "2025-07-07 23:30:39 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-06 02:09:19 +0000",
       "biomeswevegone:dacite_ridges": "2025-07-06 05:57:43 +0000"
     },
@@ -1834,6 +1835,7 @@
       "minecraft:hoglin": "2025-07-07 09:45:12 +0000",
       "minecraft:cave_spider": "2025-07-06 06:09:28 +0000",
       "minecraft:piglin": "2025-07-07 03:37:55 +0000",
+      "minecraft:vindicator": "2025-07-07 23:30:58 +0000",
       "minecraft:stray": "2025-07-06 02:53:03 +0000",
       "minecraft:enderman": "2025-07-06 03:23:03 +0000",
       "minecraft:magma_cube": "2025-07-07 03:34:56 +0000",
@@ -9686,6 +9688,108 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-07-07 22:49:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-07-07 23:27:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-07 23:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-07 23:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-07 23:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-07 23:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-07 23:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-07 23:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-07 23:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-07 23:25:34 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/pharaoh_armor_head": {
+    "criteria": {
+      "has_base_armor": "2025-07-07 23:29:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-07 23:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-07 23:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-07 23:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-07 23:25:34 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/pharaoh_armor_legs": {
+    "criteria": {
+      "has_base_armor": "2025-07-07 23:26:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-07 23:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-07 23:25:34 +0000"
     },
     "done": true
   },

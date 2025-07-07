@@ -11994,6 +11994,12 @@
     },
     "done": true
   },
+  "constructionstick:recipes/tools/smithing_upgrade/wooden_stick_with_template_unbreakable": {
+    "criteria": {
+      "has_addition": "2025-07-07 23:28:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-07-07 22:48:22 +0000"
@@ -12003,6 +12009,18 @@
   "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
     "criteria": {
       "has_snout_armor_trim_smithing_template": "2025-07-07 23:06:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-07-07 23:27:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-07-07 23:28:11 +0000"
     },
     "done": true
   },
@@ -12018,9 +12036,45 @@
     },
     "done": true
   },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_nether": "2025-07-07 23:29:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-07-07 23:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-07-07 23:28:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-07-07 23:06:32 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/pharaoh_armor_head": {
+    "criteria": {
+      "has_base_armor": "2025-07-07 23:25:49 +0000"
+    },
+    "done": true
+  },
+  "constructionstick:recipes/tools/smithing_upgrade/copper_stick_with_template_unbreakable": {
+    "criteria": {
+      "has_addition": "2025-07-07 23:28:11 +0000"
+    },
+    "done": true
+  },
+  "constructionstick:recipes/tools/smithing_upgrade/netherite_stick_with_template_unbreakable": {
+    "criteria": {
+      "has_addition": "2025-07-07 23:28:11 +0000"
     },
     "done": true
   },
@@ -12042,9 +12096,33 @@
     },
     "done": true
   },
+  "constructionstick:recipes/tools/smithing_upgrade/diamond_stick_with_template_unbreakable": {
+    "criteria": {
+      "has_addition": "2025-07-07 23:28:11 +0000"
+    },
+    "done": true
+  },
+  "constructionstick:recipes/misc/template_destruction": {
+    "criteria": {
+      "has_item": "2025-07-07 23:29:48 +0000"
+    },
+    "done": true
+  },
+  "constructionstick:recipes/tools/smithing_upgrade/iron_stick_with_template_unbreakable": {
+    "criteria": {
+      "has_addition": "2025-07-07 23:28:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-07-07 22:48:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2025-07-07 23:24:04 +0000"
     },
     "done": true
   },
