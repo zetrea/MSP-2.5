@@ -10815,6 +10815,12 @@
     },
     "done": false
   },
+  "deeperdarker:main/obtain_sonorous_staff": {
+    "criteria": {
+      "sonorous_staff": "2025-07-07 06:34:51 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/combat/resonarium_leggings_smithing": {
     "criteria": {
       "has_resonarium_plate": "2025-07-07 06:18:06 +0000"

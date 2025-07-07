@@ -8596,6 +8596,7 @@
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "shattered": "2025-07-07 06:09:31 +0000",
+      "stalker": "2025-07-07 06:30:41 +0000",
       "shriek_worm": "2025-07-07 06:10:40 +0000",
       "sculk_leech": "2025-07-07 06:16:29 +0000",
       "warden": "2025-07-07 05:54:41 +0000",
@@ -8827,9 +8828,51 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/sculk_grime_brick_slab": {
+    "criteria": {
+      "has_sculk_grime_bricks": "2025-07-07 06:29:37 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_grime_brick_wall_from_sculk_grime_bricks_stonecutting": {
+    "criteria": {
+      "has_sculk_grime_bricks": "2025-07-07 06:29:37 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/obtain_sonorous_staff": {
+    "criteria": {
+      "sonorous_staff": "2025-07-07 06:35:57 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_grime_brick_slab_from_sculk_grime_bricks_stonecutting": {
+    "criteria": {
+      "has_sculk_grime_bricks": "2025-07-07 06:29:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye": {
     "criteria": {
       "has_gloomy_cactus": "2025-07-07 06:24:33 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_grime_brick_stairs": {
+    "criteria": {
+      "has_sculk_grime_bricks": "2025-07-07 06:29:37 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_grime_brick_stairs_from_sculk_grime_bricks_stonecutting": {
+    "criteria": {
+      "has_sculk_grime_bricks": "2025-07-07 06:29:37 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_grime_brick_wall": {
+    "criteria": {
+      "has_sculk_grime_bricks": "2025-07-07 06:29:37 +0000"
     },
     "done": true
   },
