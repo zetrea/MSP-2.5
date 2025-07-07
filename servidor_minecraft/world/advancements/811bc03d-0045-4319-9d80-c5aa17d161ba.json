@@ -6644,5 +6644,283 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 01:06:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 01:06:34 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/gold_floor_from_ingots_gold_stonecutting": {
+    "criteria": {
+      "has_ingots_gold": "2025-07-07 01:06:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 01:06:34 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:all_starlight_biomes": {
+    "criteria": {
+      "in_scarlet_forest": "2025-07-07 01:07:17 +0000",
+      "in_ether_river": "2025-07-07 01:08:01 +0000",
+      "in_torreya_forest": "2025-07-07 01:07:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 01:06:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 01:06:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 01:06:34 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/golden_apple_from_green_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 01:06:34 +0000"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/tools/minecraft/crafting/rolling_pin_gold": {
+    "criteria": {
+      "has_ingots_gold": "2025-07-07 01:06:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 01:06:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 01:06:34 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/scarlet_slab": {
+    "criteria": {
+      "has_item": "2025-07-07 01:07:49 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/redstone/scarlet_door": {
+    "criteria": {
+      "has_item": "2025-07-07 01:07:49 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:in_ether_fluid": {
+    "criteria": {
+      "in_fluid": "2025-07-07 01:08:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 01:06:34 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:root": {
+    "criteria": {
+      "in_dim": "2025-07-07 01:07:17 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/redstone/scarlet_button": {
+    "criteria": {
+      "has_item": "2025-07-07 01:07:49 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/gold_cross_bolt_from_ingots_gold_stonecutting": {
+    "criteria": {
+      "has_ingots_gold": "2025-07-07 01:06:34 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/gold_dash_bolt_from_ingots_gold_stonecutting": {
+    "criteria": {
+      "has_ingots_gold": "2025-07-07 01:06:34 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:challenge_gatekeeper": {
+    "criteria": {
+      "challenged": "2025-07-07 01:05:51 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/scarlet_planks": {
+    "criteria": {
+      "has_item": "2025-07-07 01:07:45 +0000"
+    },
+    "done": true
+  },
+  "constructionstick:recipes/tools/smithing_upgrade/copper_stick_with_template_angel": {
+    "criteria": {
+      "has_addition": "2025-07-07 01:04:27 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/gold_flat_bolt_from_ingots_gold_stonecutting": {
+    "criteria": {
+      "has_ingots_gold": "2025-07-07 01:06:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 01:06:34 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/redstone/scarlet_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-07 01:07:49 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:enter_starlight": {
+    "criteria": {
+      "in_dim": "2025-07-07 01:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 01:06:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 01:06:34 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/scarlet_wood": {
+    "criteria": {
+      "has_item": "2025-07-07 01:07:45 +0000"
+    },
+    "done": true
+  },
+  "constructionstick:recipes/tools/smithing_upgrade/diamond_stick_with_template_angel": {
+    "criteria": {
+      "has_addition": "2025-07-07 01:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 01:06:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-07-07 01:04:27 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/redstone/scarlet_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-07-07 01:07:49 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/scarlet_stairs": {
+    "criteria": {
+      "has_item": "2025-07-07 01:07:49 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/decorations/scarlet_sign": {
+    "criteria": {
+      "has_item": "2025-07-07 01:07:49 +0000"
+    },
+    "done": true
+  },
+  "constructionstick:recipes/tools/smithing_upgrade/netherite_stick_with_template_angel": {
+    "criteria": {
+      "has_addition": "2025-07-07 01:04:27 +0000"
+    },
+    "done": true
+  },
+  "constructionstick:recipes/misc/template_angel": {
+    "criteria": {
+      "has_item": "2025-07-07 01:04:27 +0000"
+    },
+    "done": true
+  },
+  "farmingforblockheads:recipes/decorations/feeding_trough": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 01:06:34 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/gold_dot_bolt_from_ingots_gold_stonecutting": {
+    "criteria": {
+      "has_ingots_gold": "2025-07-07 01:06:34 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/scarlet_fence": {
+    "criteria": {
+      "has_item": "2025-07-07 01:07:49 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/redstone/scarlet_fence_gate": {
+    "criteria": {
+      "has_item": "2025-07-07 01:07:49 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/large_gold_chain_from_ingots_gold_stonecutting": {
+    "criteria": {
+      "has_ingots_gold": "2025-07-07 01:06:34 +0000"
+    },
+    "done": true
+  },
+  "constructionstick:recipes/tools/smithing_upgrade/wooden_stick_with_template_angel": {
+    "criteria": {
+      "has_addition": "2025-07-07 01:04:27 +0000"
+    },
+    "done": true
+  },
+  "constructionstick:recipes/tools/smithing_upgrade/iron_stick_with_template_angel": {
+    "criteria": {
+      "has_addition": "2025-07-07 01:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 01:06:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
