@@ -10892,9 +10892,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-07-07 09:17:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-07-07 07:35:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-07 09:17:56 +0000"
     },
     "done": true
   },
@@ -10952,9 +10964,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-07-07 09:17:56 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/light_gray_stool": {
     "criteria": {
       "has_wool": "2025-07-07 07:23:07 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_blackstone_brick_stairs_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-07-07 09:17:56 +0000"
     },
     "done": true
   },
@@ -10967,6 +10991,12 @@
   "minecraft:recipes/building_blocks/mossy_red_rock_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-07-07 08:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-07 09:17:56 +0000"
     },
     "done": true
   },
@@ -11108,6 +11138,12 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/small_blackstone_brick_slab_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-07-07 09:17:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-07 07:42:29 +0000"
@@ -11126,9 +11162,27 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/polished_cut_blackstone_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-07-07 09:17:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-07 07:41:57 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/blackstone_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-07-07 09:17:56 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_blackstone_brick_stairs_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-07-07 09:17:56 +0000"
     },
     "done": true
   },
@@ -11186,6 +11240,12 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/cut_blackstone_wall_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-07-07 09:17:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-07 07:42:29 +0000"
@@ -11222,9 +11282,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-07 09:17:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-07 07:42:29 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_blackstone_slab_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-07-07 09:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-07 09:17:56 +0000"
     },
     "done": true
   },
@@ -11240,6 +11318,12 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/cut_blackstone_stairs_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-07-07 09:17:56 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/light_gray_curtain": {
     "criteria": {
       "has_wool": "2025-07-07 07:23:07 +0000"
@@ -11252,6 +11336,12 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/small_blackstone_bricks_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-07-07 09:17:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-07-07 07:42:29 +0000"
@@ -11261,6 +11351,18 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-07-07 08:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-07 09:17:56 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_blackstone_brick_wall_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-07-07 09:17:56 +0000"
     },
     "done": true
   },
@@ -11312,6 +11414,12 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/blackstone_pillar_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-07-07 09:17:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-07 07:42:29 +0000"
@@ -11325,15 +11433,39 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-07 09:17:56 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:recipes/misc/affinity_ring": {
     "criteria": {
       "mithril_scrap": "2025-07-07 08:33:47 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-07 09:17:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_pillar_trim": {
+    "criteria": {
+      "has_blackstone_pillar_trim": "2025-07-07 09:17:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-07 07:42:29 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/layered_blackstone_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-07-07 09:17:56 +0000"
     },
     "done": true
   },
@@ -11355,6 +11487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-07 09:17:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-07 07:41:57 +0000"
@@ -11373,9 +11511,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-07-07 09:17:56 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_blackstone_wall_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-07-07 09:17:56 +0000"
+    },
+    "done": true
+  },
   "comforts:recipes/decorations/sleeping_bag_light_gray": {
     "criteria": {
       "has_light_gray_wool": "2025-07-07 07:23:07 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_blackstone_brick_wall_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-07-07 09:17:56 +0000"
     },
     "done": true
   },
@@ -11406,6 +11562,12 @@
   "handcrafted:recipes/misc/diorite_corner_trim": {
     "criteria": {
       "has_diorite_corner_trim": "2025-07-07 07:42:29 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_blackstone_slab_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-07-07 09:17:56 +0000"
     },
     "done": true
   },
@@ -11445,6 +11607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-07 09:17:56 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:recipes/misc/emerald_stoneplate_ring": {
     "criteria": {
       "mithril_scrap": "2025-07-07 08:33:47 +0000"
@@ -11457,9 +11625,33 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/cut_blackstone_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-07-07 09:17:56 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/diorite_pillar_trim": {
     "criteria": {
       "has_diorite_pillar_trim": "2025-07-07 07:42:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_corner_trim": {
+    "criteria": {
+      "has_blackstone_corner_trim": "2025-07-07 09:17:56 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_blackstone_bricks_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-07-07 09:17:56 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_blackstone_stairs_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-07-07 09:17:56 +0000"
     },
     "done": true
   },
@@ -11523,9 +11715,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-07 09:17:56 +0000"
+    },
+    "done": true
+  },
   "simplyswords:twisted_blade": {
     "criteria": {
       "requirement": "2025-07-07 08:11:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-07 09:17:56 +0000"
     },
     "done": true
   },
@@ -11565,6 +11769,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-07 09:17:56 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_blackstone_brick_slab_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-07-07 09:17:56 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:recipes/earthdive_spear": {
     "criteria": {
       "has_void_thorn": "2025-07-07 08:11:02 +0000"
@@ -11580,6 +11796,12 @@
   "dndecor:recipes/building_blocks/dolomite_from_diorite_smelting": {
     "criteria": {
       "has_diorite": "2025-07-07 07:42:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-07-07 09:17:56 +0000"
     },
     "done": true
   },
