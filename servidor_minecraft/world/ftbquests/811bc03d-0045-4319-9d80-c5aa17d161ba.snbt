@@ -390,10 +390,7 @@
 	}
 	player_data: {
 		811bc03d004543199d80c5aa17d161ba: {
-			pinned_quests: [
-				"490B9CE61B5F7D4A"
-				"5037AA2541E439E5"
-			]
+			pinned_quests: ["490B9CE61B5F7D4A"]
 		}
 	}
 }
