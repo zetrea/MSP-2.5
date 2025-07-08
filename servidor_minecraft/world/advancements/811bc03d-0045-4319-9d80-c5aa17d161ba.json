@@ -9825,9 +9825,129 @@
     },
     "done": true
   },
+  "arts_and_crafts:recipes/building_blocks/red_terracotta_shingles_dye_recipe": {
+    "criteria": {
+      "red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-07-07 23:48:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_sleeping_bag_red": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-08 00:42:53 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/red_soapstone_wall_dye_recipe": {
+    "criteria": {
+      "red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-08 00:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/dye_red_chalk_stick": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_toilet": {
+    "criteria": {
+      "has_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_minecraft:red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/red_mud_brick_stairs_dye_recipe": {
+    "criteria": {
+      "red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_bath": {
+    "criteria": {
+      "has_minecraft:red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/red_mud_brick_wall_dye_recipe": {
+    "criteria": {
+      "red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/red_polished_soapstone_stairs_dye_recipe": {
+    "criteria": {
+      "red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 00:42:59 +0000"
     },
     "done": true
   },
@@ -9837,15 +9957,201 @@
     },
     "done": true
   },
+  "arts_and_crafts:recipes/building_blocks/red_mud_bricks_dye_recipe": {
+    "criteria": {
+      "red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/red_soapstone_bricks_dye_recipe": {
+    "criteria": {
+      "red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/dye_red_flower_pot_with_bleached_flower_pots": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/red_mud_brick_slab_dye_recipe": {
+    "criteria": {
+      "red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/red_polished_soapstone_dye_recipe": {
+    "criteria": {
+      "red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/dye_red_yeti_fur_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/red_plaster_dye_recipe": {
+    "criteria": {
+      "red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/red_terracotta_shingle_slab_dye_recipe": {
+    "criteria": {
+      "red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_basin": {
+    "criteria": {
+      "has_minecraft:red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/red_soapstone_brick_stairs_dye_recipe": {
+    "criteria": {
+      "red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/red_terracotta_shingle_wall_dye_recipe": {
+    "criteria": {
+      "red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/red_soapstone_stairs_dye_recipe": {
+    "criteria": {
+      "red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_toilet": {
+    "criteria": {
+      "has_minecraft:red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/red_soapstone_brick_slab_dye_recipe": {
+    "criteria": {
+      "red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_hammock_red": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/red_terracotta_shingle_stairs_dye_recipe": {
+    "criteria": {
+      "red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/dye_red_chalk": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/red_soapstone_brick_wall_dye_recipe": {
+    "criteria": {
+      "red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/red_soapstone_dye_recipe": {
+    "criteria": {
+      "red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
   "ubesdelight:recipes/food/minecraft/campfire_cooking/sugar_brown_from_sugar": {
     "criteria": {
       "has_sugar": "2025-07-08 00:03:37 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/red_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/misc/keeper_armor_trim_smithing_template": {
     "criteria": {
       "has_keeper_armor_trim_smithing_template": "2025-07-07 23:39:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-08 00:42:59 +0000"
     },
     "done": true
   },
@@ -9858,6 +10164,12 @@
   "eternal_starlight:recipes/misc/keeper_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-07-07 23:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-07-08 00:42:59 +0000"
     },
     "done": true
   },
@@ -9874,9 +10186,75 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/tinted_borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/dye_red_carpet_with_bleached_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/red_polished_soapstone_slab_dye_recipe": {
+    "criteria": {
+      "red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_cabinetry": {
+    "criteria": {
+      "has_minecraft:red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/tools/red_paintbrush": {
+    "criteria": {
+      "red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/dye_red_yeti_fur": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/dye_red_glazed_terracotta": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:biomeswevegone/adventure/pale_in_comparison": {
     "criteria": {
       "pale_bog": "2025-07-08 00:04:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-08 00:42:59 +0000"
     },
     "done": true
   },
@@ -9887,9 +10265,51 @@
     },
     "done": true
   },
+  "arts_and_crafts:recipes/building_blocks/dye_red_bed_with_bleached_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/red_soapstone_slab_dye_recipe": {
+    "criteria": {
+      "red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/dye_red_flower_pot": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/dye_red_wool_with_bleached_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/red_polished_soapstone_wall_dye_recipe": {
+    "criteria": {
+      "red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
   "ubesdelight:recipes/food/minecraft/smoking/sugar_brown_from_sugar": {
     "criteria": {
       "has_sugar": "2025-07-08 00:03:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_drawer": {
+    "criteria": {
+      "has_minecraft:red_dye": "2025-07-08 00:42:59 +0000"
     },
     "done": true
   },
