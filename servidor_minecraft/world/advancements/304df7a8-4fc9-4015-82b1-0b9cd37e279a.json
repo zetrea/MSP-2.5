@@ -1842,6 +1842,7 @@
       "minecraft:pillager": "2025-07-06 02:31:38 +0000",
       "minecraft:blaze": "2025-07-07 04:36:30 +0000",
       "minecraft:skeleton": "2025-07-06 01:56:53 +0000",
+      "minecraft:witch": "2025-07-08 01:22:14 +0000",
       "minecraft:wither_skeleton": "2025-07-06 08:10:03 +0000",
       "minecraft:ghast": "2025-07-07 04:49:10 +0000",
       "minecraft:hoglin": "2025-07-07 23:06:20 +0000",
@@ -12282,6 +12283,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-07-08 01:30:12 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-08 01:16:03 +0000"
@@ -12312,6 +12319,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-07-08 01:30:12 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/sculk_grime_brick_slab": {
     "criteria": {
       "has_sculk_grime_bricks": "2025-07-08 01:18:30 +0000"
@@ -12327,6 +12340,12 @@
   "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-08 01:16:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_crafting_upgrade_from_backpack_crafting_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-07-08 01:25:43 +0000"
     },
     "done": true
   },
@@ -12357,6 +12376,12 @@
   "sophisticatedbackpacks:recipes/misc/alchemy_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-08 01:16:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_crafting_upgrade_from_storage_crafting_upgrade": {
+    "criteria": {
+      "has_storage_upgrade": "2025-07-08 01:29:15 +0000"
     },
     "done": true
   },
@@ -12423,6 +12448,12 @@
   "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-08 01:16:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_smelting_upgrade_from_storage_smelting_upgrade": {
+    "criteria": {
+      "has_storage_upgrade": "2025-07-08 01:30:12 +0000"
     },
     "done": true
   },
@@ -12513,6 +12544,12 @@
   "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-08 01:16:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/auto_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-07-08 01:30:12 +0000"
     },
     "done": true
   },

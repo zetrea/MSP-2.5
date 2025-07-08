@@ -9833,6 +9833,12 @@
     },
     "done": true
   },
+  "arts_and_crafts:recipes/building_blocks/green_plaster_dye_recipe": {
+    "criteria": {
+      "green_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_table": {
     "criteria": {
       "has_minecraft:spruce_planks": "2025-07-08 01:09:13 +0000"
@@ -9860,6 +9866,18 @@
   "refurbished_furniture:recipes/decorations/blue_toilet": {
     "criteria": {
       "has_dye": "2025-07-08 01:18:07 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/dye_green_flower_pot": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_cabinetry": {
+    "criteria": {
+      "has_minecraft:green_dye": "2025-07-08 01:23:03 +0000"
     },
     "done": true
   },
@@ -9905,6 +9923,12 @@
     },
     "done": true
   },
+  "arts_and_crafts:recipes/building_blocks/dye_green_wool_with_bleached_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
   "arts_and_crafts:recipes/building_blocks/cyan_polished_soapstone_stairs_dye_recipe": {
     "criteria": {
       "cyan_dye": "2025-07-08 01:11:24 +0000"
@@ -9926,6 +9950,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-07-07 23:48:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-08 01:23:03 +0000"
     },
     "done": true
   },
@@ -9962,6 +9992,12 @@
   "comforts:recipes/building_blocks/dye_sleeping_bag_blue": {
     "criteria": {
       "has_needed_dye": "2025-07-08 01:18:07 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/green_soapstone_dye_recipe": {
+    "criteria": {
+      "green_dye": "2025-07-08 01:23:03 +0000"
     },
     "done": true
   },
@@ -10004,6 +10040,12 @@
   "arts_and_crafts:recipes/building_blocks/dye_cyan_glazed_terracotta": {
     "criteria": {
       "has_needed_dye": "2025-07-08 01:11:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_drawer": {
+    "criteria": {
+      "has_minecraft:green_dye": "2025-07-08 01:23:03 +0000"
     },
     "done": true
   },
@@ -10058,6 +10100,12 @@
   "connectedglass:recipes/misc/clear_glass_blue_pane2": {
     "criteria": {
       "recipe_condition2": "2025-07-08 01:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2025-07-08 01:23:03 +0000"
     },
     "done": true
   },
@@ -10169,6 +10217,12 @@
     },
     "done": true
   },
+  "arts_and_crafts:recipes/building_blocks/green_soapstone_bricks_dye_recipe": {
+    "criteria": {
+      "green_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_toilet": {
     "criteria": {
       "has_dye": "2025-07-08 00:42:59 +0000"
@@ -10190,6 +10244,12 @@
   "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
       "has_needed_dye": "2025-07-08 01:18:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_toilet": {
+    "criteria": {
+      "has_dye": "2025-07-08 01:23:03 +0000"
     },
     "done": true
   },
@@ -10220,6 +10280,12 @@
   "refurbished_furniture:recipes/decorations/blue_cooler_from_dyeing": {
     "criteria": {
       "has_dye": "2025-07-08 01:18:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-08 01:23:03 +0000"
     },
     "done": true
   },
@@ -10259,6 +10325,18 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/scratched_glass_green2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_cabinetry": {
     "criteria": {
       "has_minecraft:spruce_planks": "2025-07-08 01:09:13 +0000"
@@ -10274,6 +10352,12 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_cabinetry": {
     "criteria": {
       "has_minecraft:cyan_dye": "2025-07-08 01:11:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_bath": {
+    "criteria": {
+      "has_minecraft:green_dye": "2025-07-08 01:23:03 +0000"
     },
     "done": true
   },
@@ -10322,6 +10406,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-07-08 01:09:13 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/green_mud_brick_wall_dye_recipe": {
+    "criteria": {
+      "green_dye": "2025-07-08 01:23:03 +0000"
     },
     "done": true
   },
@@ -10397,6 +10487,12 @@
     },
     "done": true
   },
+  "comforts:recipes/building_blocks/dye_sleeping_bag_green": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_carpet": {
     "criteria": {
       "has_needed_dye": "2025-07-08 00:42:59 +0000"
@@ -10418,6 +10514,12 @@
   "arts_and_crafts:recipes/building_blocks/dye_blue_wool_with_bleached_wool": {
     "criteria": {
       "has_needed_dye": "2025-07-08 01:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 01:23:03 +0000"
     },
     "done": true
   },
@@ -10487,6 +10589,18 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_green_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/tools/green_paintbrush": {
+    "criteria": {
+      "green_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
   "arts_and_crafts:recipes/building_blocks/dye_red_flower_pot_with_bleached_flower_pots": {
     "criteria": {
       "has_needed_dye": "2025-07-08 00:42:59 +0000"
@@ -10535,6 +10649,12 @@
     },
     "done": true
   },
+  "arts_and_crafts:recipes/building_blocks/green_terracotta_shingle_slab_dye_recipe": {
+    "criteria": {
+      "green_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_red_dye": "2025-07-08 00:42:59 +0000"
@@ -10553,9 +10673,21 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/dye_green_yeti_fur_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/scratched_glass_purple2": {
     "criteria": {
       "recipe_condition2": "2025-07-08 01:15:23 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_green2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-08 01:23:03 +0000"
     },
     "done": true
   },
@@ -10607,6 +10739,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/clear_glass_green2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-08 01:09:13 +0000"
@@ -10619,9 +10757,21 @@
     },
     "done": true
   },
+  "arts_and_crafts:recipes/building_blocks/green_polished_soapstone_dye_recipe": {
+    "criteria": {
+      "green_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/purple_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2025-07-08 01:15:23 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/green_terracotta_shingle_wall_dye_recipe": {
+    "criteria": {
+      "green_dye": "2025-07-08 01:23:03 +0000"
     },
     "done": true
   },
@@ -10691,6 +10841,12 @@
     },
     "done": true
   },
+  "arts_and_crafts:recipes/building_blocks/green_mud_brick_slab_dye_recipe": {
+    "criteria": {
+      "green_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
   "arts_and_crafts:recipes/building_blocks/purple_soapstone_dye_recipe": {
     "criteria": {
       "purple_dye": "2025-07-08 01:15:23 +0000"
@@ -10706,6 +10862,12 @@
   "connectedglass:recipes/misc/scratched_glass_cyan2": {
     "criteria": {
       "recipe_condition2": "2025-07-08 01:11:24 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/dye_green_yeti_fur": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 01:23:03 +0000"
     },
     "done": true
   },
@@ -10730,6 +10892,18 @@
   "eternal_starlight:recipes/building_blocks/dye_cyan_yeti_fur": {
     "criteria": {
       "has_needed_dye": "2025-07-08 01:11:24 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/green_soapstone_slab_dye_recipe": {
+    "criteria": {
+      "green_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-08 01:23:03 +0000"
     },
     "done": true
   },
@@ -10820,6 +10994,12 @@
   "arts_and_crafts:recipes/building_blocks/cyan_soapstone_stairs_dye_recipe": {
     "criteria": {
       "cyan_dye": "2025-07-08 01:11:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-08 01:23:03 +0000"
     },
     "done": true
   },
@@ -10937,6 +11117,12 @@
     },
     "done": true
   },
+  "arts_and_crafts:recipes/building_blocks/green_soapstone_wall_dye_recipe": {
+    "criteria": {
+      "green_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
   "arts_and_crafts:recipes/building_blocks/blue_mud_brick_slab_dye_recipe": {
     "criteria": {
       "blue_dye": "2025-07-08 01:18:07 +0000"
@@ -10973,6 +11159,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
   "arts_and_crafts:recipes/building_blocks/red_soapstone_dye_recipe": {
     "criteria": {
       "red_dye": "2025-07-08 00:42:59 +0000"
@@ -10982,6 +11174,12 @@
   "refurbished_furniture:recipes/decorations/cyan_stool_from_dyeing": {
     "criteria": {
       "has_dye": "2025-07-08 01:11:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_basin": {
+    "criteria": {
+      "has_minecraft:green_dye": "2025-07-08 01:23:03 +0000"
     },
     "done": true
   },
@@ -11099,6 +11297,12 @@
     },
     "done": true
   },
+  "arts_and_crafts:recipes/building_blocks/green_polished_soapstone_stairs_dye_recipe": {
+    "criteria": {
+      "green_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_grill_from_dyeing": {
     "criteria": {
       "has_dye": "2025-07-08 00:42:59 +0000"
@@ -11171,6 +11375,18 @@
     },
     "done": true
   },
+  "arts_and_crafts:recipes/building_blocks/dye_green_chalk": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/dye_green_carpet_with_bleached_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
   "arts_and_crafts:recipes/building_blocks/dye_blue_flower_pot_with_bleached_flower_pots": {
     "criteria": {
       "has_needed_dye": "2025-07-08 01:18:07 +0000"
@@ -11180,6 +11396,18 @@
   "refurbished_furniture:recipes/misc/constructing/purple_kitchen_drawer": {
     "criteria": {
       "has_minecraft:purple_dye": "2025-07-08 01:15:23 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/dye_green_bed_with_bleached_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 01:23:03 +0000"
     },
     "done": true
   },
@@ -11225,6 +11453,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
   "arts_and_crafts:recipes/building_blocks/dye_blue_chalk": {
     "criteria": {
       "has_needed_dye": "2025-07-08 01:18:07 +0000"
@@ -11243,6 +11477,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_minecraft:green_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
   "ubesdelight:farmersdelight/recipes/cooking/milk_tea_ube_multiple": {
     "criteria": {
       "has_sugar": "2025-07-08 00:03:37 +0000",
@@ -11250,9 +11490,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/green_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/tinted_borderless_glass_red2": {
     "criteria": {
       "recipe_condition2": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-08 01:23:03 +0000"
     },
     "done": true
   },
@@ -11274,6 +11526,12 @@
     },
     "done": true
   },
+  "arts_and_crafts:recipes/building_blocks/green_mud_bricks_dye_recipe": {
+    "criteria": {
+      "green_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2025-07-08 01:18:07 +0000"
@@ -11283,6 +11541,12 @@
   "connectedglass:recipes/misc/tinted_borderless_glass_purple2": {
     "criteria": {
       "recipe_condition2": "2025-07-08 01:15:23 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/dye_green_glazed_terracotta": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 01:23:03 +0000"
     },
     "done": true
   },
@@ -11310,6 +11574,12 @@
     },
     "done": true
   },
+  "arts_and_crafts:recipes/building_blocks/dye_green_chalk_stick": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_sink": {
     "criteria": {
       "has_minecraft:cyan_dye": "2025-07-08 01:11:24 +0000"
@@ -11319,6 +11589,12 @@
   "refurbished_furniture:recipes/misc/constructing/red_kitchen_cabinetry": {
     "criteria": {
       "has_minecraft:red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/green_polished_soapstone_slab_dye_recipe": {
+    "criteria": {
+      "green_dye": "2025-07-08 01:23:03 +0000"
     },
     "done": true
   },
@@ -11376,6 +11652,12 @@
     },
     "done": true
   },
+  "comforts:recipes/building_blocks/dye_hammock_green": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/cyan_sofa_from_dyeing": {
     "criteria": {
       "has_dye": "2025-07-08 01:11:24 +0000"
@@ -11391,6 +11673,12 @@
   "arts_and_crafts:recipes/building_blocks/blue_soapstone_brick_wall_dye_recipe": {
     "criteria": {
       "blue_dye": "2025-07-08 01:18:07 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_green_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-08 01:23:03 +0000"
     },
     "done": true
   },
@@ -11454,6 +11742,18 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_green2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/green_soapstone_brick_stairs_dye_recipe": {
+    "criteria": {
+      "green_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_purple_pane2": {
     "criteria": {
       "recipe_condition2": "2025-07-08 01:15:23 +0000"
@@ -11463,6 +11763,18 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-07-08 01:09:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:green_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-08 01:23:03 +0000"
     },
     "done": true
   },
@@ -11508,9 +11820,21 @@
     },
     "done": true
   },
+  "arts_and_crafts:recipes/building_blocks/green_terracotta_shingle_stairs_dye_recipe": {
+    "criteria": {
+      "green_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
   "arts_and_crafts:recipes/building_blocks/cyan_polished_soapstone_slab_dye_recipe": {
     "criteria": {
       "cyan_dye": "2025-07-08 01:11:24 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/green_terracotta_shingles_dye_recipe": {
+    "criteria": {
+      "green_dye": "2025-07-08 01:23:03 +0000"
     },
     "done": true
   },
@@ -11523,6 +11847,12 @@
   "handcrafted:recipes/misc/spruce_nightstand": {
     "criteria": {
       "has_spruce_nightstand": "2025-07-08 01:09:13 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/green_mud_brick_stairs_dye_recipe": {
+    "criteria": {
+      "green_dye": "2025-07-08 01:23:03 +0000"
     },
     "done": true
   },
@@ -11545,6 +11875,18 @@
     },
     "done": true
   },
+  "arts_and_crafts:recipes/building_blocks/green_soapstone_brick_slab_dye_recipe": {
+    "criteria": {
+      "green_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/green_soapstone_brick_wall_dye_recipe": {
+    "criteria": {
+      "green_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_drawer": {
     "criteria": {
       "has_minecraft:cyan_dye": "2025-07-08 01:11:24 +0000"
@@ -11557,9 +11899,21 @@
     },
     "done": true
   },
+  "arts_and_crafts:recipes/building_blocks/dye_green_flower_pot_with_bleached_flower_pots": {
+    "criteria": {
+      "has_needed_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/building_blocks/dye_blue_yeti_fur_carpet": {
     "criteria": {
       "has_needed_dye": "2025-07-08 01:18:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_toilet": {
+    "criteria": {
+      "has_minecraft:green_dye": "2025-07-08 01:23:03 +0000"
     },
     "done": true
   },
@@ -11617,6 +11971,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/scratched_glass_green_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/cyan_grill_from_dyeing": {
     "criteria": {
       "has_dye": "2025-07-08 01:11:24 +0000"
@@ -11641,6 +12001,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/green_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/cyan_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_dye": "2025-07-08 01:11:24 +0000"
@@ -11650,6 +12016,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_chair": {
     "criteria": {
       "has_minecraft:spruce_planks": "2025-07-08 01:09:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-08 01:23:03 +0000"
     },
     "done": true
   },
@@ -11755,6 +12127,12 @@
     },
     "done": true
   },
+  "arts_and_crafts:recipes/building_blocks/green_polished_soapstone_wall_dye_recipe": {
+    "criteria": {
+      "green_dye": "2025-07-08 01:23:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_kitchen_sink": {
     "criteria": {
       "has_minecraft:purple_dye": "2025-07-08 01:15:23 +0000"
@@ -11794,6 +12172,12 @@
   "refurbished_furniture:recipes/misc/constructing/red_kitchen_drawer": {
     "criteria": {
       "has_minecraft:red_dye": "2025-07-08 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/green_soapstone_stairs_dye_recipe": {
+    "criteria": {
+      "green_dye": "2025-07-08 01:23:03 +0000"
     },
     "done": true
   },
