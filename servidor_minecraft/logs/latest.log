@@ -1577,3 +1577,5 @@ Caused by: java.io.IOException: Invalid tag id: 19
 [08Jul2025 02:14:33.589] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElJimmyy lost connection: Disconnected
 [08Jul2025 02:14:33.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElJimmyy left the game
 [08Jul2025 02:14:37.647] [Server thread/INFO] [journeymap/]: zetreaa teleported to 2889.5 115.0 -1245.5 minecraft:overworld
+[08Jul2025 02:33:38.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zetreaa lost connection: Timed out
+[08Jul2025 02:33:38.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zetreaa left the game
