@@ -107,6 +107,8 @@
       "biomeswevegone:cika_woods": "2025-07-06 05:43:23 +0000",
       "biomeswevegone:araucaria_savanna": "2025-07-07 23:39:54 +0000",
       "biomeswevegone:orchard": "2025-07-06 01:46:49 +0000",
+      "biomeswevegone:crag_gardens": "2025-07-07 23:54:21 +0000",
+      "biomeswevegone:amaranth_grassland": "2025-07-07 23:53:11 +0000",
       "biomeswevegone:howling_peaks": "2025-07-06 02:53:57 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-07-06 02:11:18 +0000",
       "biomeswevegone:skyrise_vale": "2025-07-06 05:42:59 +0000",
@@ -122,6 +124,7 @@
       "biomeswevegone:zelkova_forest": "2025-07-06 05:20:03 +0000",
       "biomeswevegone:forgotten_forest": "2025-07-07 23:30:39 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-06 02:09:19 +0000",
+      "biomeswevegone:jacaranda_jungle": "2025-07-07 23:55:12 +0000",
       "biomeswevegone:dacite_ridges": "2025-07-06 05:57:43 +0000"
     },
     "done": false
@@ -158,6 +161,7 @@
       "minecraft:dark_forest": "2025-07-06 02:12:43 +0000",
       "minecraft:forest": "2025-07-06 02:27:39 +0000",
       "minecraft:taiga": "2025-07-06 05:30:54 +0000",
+      "minecraft:sparse_jungle": "2025-07-07 23:54:26 +0000",
       "minecraft:deep_ocean": "2025-07-06 06:20:57 +0000",
       "minecraft:river": "2025-07-06 02:10:56 +0000",
       "minecraft:stony_shore": "2025-07-06 01:44:18 +0000",
@@ -1841,6 +1845,7 @@
       "minecraft:vindicator": "2025-07-07 23:30:58 +0000",
       "minecraft:stray": "2025-07-06 02:53:03 +0000",
       "minecraft:enderman": "2025-07-06 03:23:03 +0000",
+      "minecraft:silverfish": "2025-07-07 23:58:30 +0000",
       "minecraft:magma_cube": "2025-07-07 03:34:56 +0000",
       "minecraft:spider": "2025-07-06 01:56:58 +0000",
       "minecraft:piglin_brute": "2025-07-07 03:36:30 +0000",

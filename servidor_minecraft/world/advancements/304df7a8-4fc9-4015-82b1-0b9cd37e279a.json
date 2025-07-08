@@ -12000,6 +12000,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/gold_shulker_from_gold_chest": {
+    "criteria": {
+      "has_gold_chest": "2025-07-07 23:53:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/storage_output_from_input": {
     "criteria": {
       "has_storage_input": "2025-07-07 23:47:26 +0000"
@@ -12012,6 +12018,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/double_netherite_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-07-07 23:54:24 +0000"
+    },
+    "done": true
+  },
   "constructionstick:recipes/tools/smithing_upgrade/wooden_stick_with_template_unbreakable": {
     "criteria": {
       "has_addition": "2025-07-07 23:28:11 +0000"
@@ -12021,6 +12033,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-07-07 22:48:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_chest": {
+    "criteria": {
+      "has_gold_chest": "2025-07-07 23:53:37 +0000"
     },
     "done": true
   },
@@ -12084,6 +12102,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/double_diamond_chest": {
+    "criteria": {
+      "has_gold_chest": "2025-07-07 23:53:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-07-07 23:06:32 +0000"
@@ -12117,6 +12141,18 @@
   "sophisticatedstorage:recipes/misc/paintbrush": {
     "criteria": {
       "has_base_tier_wooden_storage": "2025-07-07 23:43:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_gold_chest": {
+    "criteria": {
+      "has_iron_chest": "2025-07-07 23:53:23 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_shulker_from_diamond_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-07-07 23:54:24 +0000"
     },
     "done": true
   },
@@ -12204,6 +12240,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/gold_chest": {
+    "criteria": {
+      "has_iron_chest": "2025-07-07 23:53:23 +0000"
+    },
+    "done": true
+  },
   "constructionstick:recipes/tools/smithing_upgrade/iron_stick_with_template_unbreakable": {
     "criteria": {
       "has_addition": "2025-07-07 23:28:11 +0000"
@@ -12219,6 +12261,18 @@
   "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
     "criteria": {
       "has_item": "2025-07-07 23:24:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_shulker_from_iron_chest": {
+    "criteria": {
+      "has_iron_chest": "2025-07-07 23:53:23 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/netherite_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-07-07 23:54:24 +0000"
     },
     "done": true
   },
