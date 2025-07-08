@@ -12283,6 +12283,36 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/cobbled_voidstone_stairs": {
+    "criteria": {
+      "has_item": "2025-07-08 01:55:26 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/cobbled_grimstone_stairs": {
+    "criteria": {
+      "has_item": "2025-07-08 01:54:26 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/saltpeter_block": {
+    "criteria": {
+      "has_saltpeter_powder": "2025-07-08 01:55:41 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/grimstone_tile_stairs_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:26 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_voidstone_wall_from_cobbled_voidstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:55:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-07-08 01:30:12 +0000"
@@ -12292,6 +12322,12 @@
   "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-08 01:16:03 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/cobbled_grimstone_wall": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:26 +0000"
     },
     "done": true
   },
@@ -12307,9 +12343,27 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/voidstone_tiles_from_cobbled_voidstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:55:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-08 01:16:03 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_tile_stairs_from_cobbled_voidstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:55:26 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_brick_slab_from_cobbled_voidstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:55:26 +0000"
     },
     "done": true
   },
@@ -12334,6 +12388,12 @@
   "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-08 01:16:03 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_voidstone_slab_from_cobbled_voidstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:55:26 +0000"
     },
     "done": true
   },
@@ -12367,9 +12427,27 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/polished_voidstone_from_cobbled_voidstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:55:26 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/grimstone_brick_wall_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-08 01:16:03 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/cobbled_grimstone_slab_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:26 +0000"
     },
     "done": true
   },
@@ -12391,6 +12469,18 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/misc/grimstone_smelting_from_cobbled_grimstone": {
+    "criteria": {
+      "has_item": "2025-07-08 01:54:26 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/voidstone_smelting_from_cobbled_voidstone": {
+    "criteria": {
+      "has_item": "2025-07-08 01:55:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-08 01:16:03 +0000"
@@ -12403,9 +12493,33 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/grimstone_tile_slab_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:26 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/grimstone_bricks_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:26 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_bricks_from_cobbled_voidstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:55:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-08 01:16:03 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/cobbled_voidstone_slab_from_cobbled_voidstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:55:26 +0000"
     },
     "done": true
   },
@@ -12415,15 +12529,45 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/cobbled_voidstone_slab": {
+    "criteria": {
+      "has_item": "2025-07-08 01:55:26 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/grimstone_tiles_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-08 01:16:03 +0000"
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/cobbled_grimstone_stairs_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:26 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/grimstone_brick_slab_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-08 01:16:03 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/cobbled_grimstone_wall_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:26 +0000"
     },
     "done": true
   },
@@ -12439,9 +12583,33 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/polished_grimstone_stairs_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-08 01:16:03 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_brick_stairs_from_cobbled_voidstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:55:26 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_grimstone_slab_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:26 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/chiseled_grimstone_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:26 +0000"
     },
     "done": true
   },
@@ -12463,6 +12631,24 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/grimstone_brick_stairs_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:26 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_tile_slab_from_cobbled_voidstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:55:26 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/cobbled_grimstone_slab": {
+    "criteria": {
+      "has_item": "2025-07-08 01:54:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-08 01:16:03 +0000"
@@ -12472,6 +12658,12 @@
   "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-08 01:16:03 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/cobbled_voidstone_wall_from_cobbled_voidstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:55:26 +0000"
     },
     "done": true
   },
@@ -12490,6 +12682,12 @@
   "deeperdarker:recipes/building_blocks/sculk_grime_brick_stairs": {
     "criteria": {
       "has_sculk_grime_bricks": "2025-07-08 01:18:30 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/grimstone_tile_wall_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:26 +0000"
     },
     "done": true
   },
@@ -12517,9 +12715,39 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/voidstone_tile_wall_from_cobbled_voidstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:55:26 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/sculk_grime_brick_stairs_from_sculk_grime_bricks_stonecutting": {
     "criteria": {
       "has_sculk_grime_bricks": "2025-07-08 01:18:30 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_brick_wall_from_cobbled_voidstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:55:26 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_grimstone_wall_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:26 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_voidstone_stairs_from_cobbled_voidstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:55:26 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_grimstone_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:26 +0000"
     },
     "done": true
   },
@@ -12529,9 +12757,21 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/cobbled_voidstone_stairs_from_cobbled_voidstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:55:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-08 01:16:03 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/cobbled_voidstone_wall": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:55:26 +0000"
     },
     "done": true
   },
@@ -12547,9 +12787,21 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/tools/saltpeter_matchbox": {
+    "criteria": {
+      "has_item": "2025-07-08 01:55:41 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/auto_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-07-08 01:30:12 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/chiseled_voidstone_from_cobbled_voidstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:55:26 +0000"
     },
     "done": true
   },
