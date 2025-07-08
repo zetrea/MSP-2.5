@@ -12343,6 +12343,12 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/combat/wilted_crossbow": {
+    "criteria": {
+      "has_item": "2025-07-08 02:14:05 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/building_blocks/voidstone_tile_wall_from_polished_voidstone_stonecutting": {
     "criteria": {
       "has_polished_voidstone": "2025-07-08 02:01:55 +0000"
@@ -12382,6 +12388,12 @@
   "eternal_starlight:recipes/building_blocks/voidstone_brick_wall_from_voidstone_bricks_stonecutting": {
     "criteria": {
       "has_voidstone_bricks": "2025-07-08 02:01:57 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/golem_steel_ingot_blasting_from_oxidized_golem_steel_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:08:23 +0000"
     },
     "done": true
   },
@@ -12547,6 +12559,12 @@
     },
     "done": true
   },
+  "eternal_starlight:obtain_golem_steel_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:14:05 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/misc/swamp_silver_nugget": {
     "criteria": {
       "has_swamp_silver_ingot": "2025-07-08 02:01:11 +0000"
@@ -12589,6 +12607,18 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/golem_steel_block": {
+    "criteria": {
+      "has_golem_steel_ingot": "2025-07-08 02:14:05 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/forge_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-08 02:08:23 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/misc/swamp_silver_nugget_smelting_from_swamp_silver_ingot": {
     "criteria": {
       "has_item": "2025-07-08 02:01:11 +0000"
@@ -12622,6 +12652,12 @@
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-08 01:16:03 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/combat/crystal_crossbow": {
+    "criteria": {
+      "has_item": "2025-07-08 02:14:05 +0000"
     },
     "done": true
   },
@@ -12661,6 +12697,12 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/combat/mechanical_crossbow": {
+    "criteria": {
+      "has_item": "2025-07-08 02:14:05 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/building_blocks/polished_voidstone_stairs": {
     "criteria": {
       "has_item": "2025-07-08 02:01:55 +0000"
@@ -12679,6 +12721,12 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/oxidized_golem_steel_block": {
+    "criteria": {
+      "has_oxidized_golem_steel_ingot": "2025-07-08 02:08:23 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-08 01:16:03 +0000"
@@ -12688,6 +12736,12 @@
   "eternal_starlight:recipes/tools/amaramber_shovel": {
     "criteria": {
       "has_item": "2025-07-08 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/decorations/golem_steel_bars": {
+    "criteria": {
+      "has_item": "2025-07-08 02:14:05 +0000"
     },
     "done": true
   },
@@ -12730,6 +12784,12 @@
   "eternal_starlight:recipes/building_blocks/voidstone_brick_wall": {
     "criteria": {
       "has_voidstone_bricks": "2025-07-08 02:01:57 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:kill_golem": {
+    "criteria": {
+      "kill": "2025-07-08 02:07:57 +0000"
     },
     "done": true
   },
@@ -12829,6 +12889,12 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/misc/golem_steel_ingot_smelting_from_oxidized_golem_steel_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:08:23 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/building_blocks/cobbled_grimstone_wall_from_cobbled_grimstone_stonecutting": {
     "criteria": {
       "has_cobbled_grimstone": "2025-07-08 01:54:26 +0000"
@@ -12856,6 +12922,12 @@
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-08 01:16:03 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/forge_armor_trim_smithing_template": {
+    "criteria": {
+      "has_forge_armor_trim_smithing_template": "2025-07-08 02:08:23 +0000"
     },
     "done": true
   },
@@ -13087,6 +13159,12 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/decorations/golem_steel_crate": {
+    "criteria": {
+      "has_item": "2025-07-08 02:08:23 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/misc/amaramber_nugget_smelting_from_amaramber_ingot": {
     "criteria": {
       "has_item": "2025-07-08 02:01:13 +0000"
@@ -13120,6 +13198,12 @@
   "eternal_starlight:recipes/building_blocks/oxidized_golem_steel_tile_slab_from_oxidized_golem_steel_tiles_stonecutting": {
     "criteria": {
       "has_oxidized_golem_steel_tiles": "2025-07-08 02:04:20 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/decorations/oxidized_golem_steel_bars": {
+    "criteria": {
+      "has_item": "2025-07-08 02:08:23 +0000"
     },
     "done": true
   },

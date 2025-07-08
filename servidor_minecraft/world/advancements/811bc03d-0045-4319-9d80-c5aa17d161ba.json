@@ -12243,6 +12243,12 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/combat/wilted_crossbow": {
+    "criteria": {
+      "has_item": "2025-07-08 02:13:52 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/building_blocks/voidstone_tile_wall_from_polished_voidstone_stonecutting": {
     "criteria": {
       "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
@@ -12276,6 +12282,12 @@
   "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2025-07-08 01:38:42 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/golem_steel_ingot_blasting_from_oxidized_golem_steel_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:08:50 +0000"
     },
     "done": true
   },
@@ -12393,6 +12405,12 @@
     },
     "done": true
   },
+  "eternal_starlight:obtain_golem_steel_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:13:52 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/misc/swamp_silver_nugget": {
     "criteria": {
       "has_swamp_silver_ingot": "2025-07-08 02:01:20 +0000"
@@ -12414,6 +12432,18 @@
   "dndecor:recipes/building_blocks/copper_cross_bolt_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-07-08 01:38:42 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/golem_steel_block": {
+    "criteria": {
+      "has_golem_steel_ingot": "2025-07-08 02:13:52 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/forge_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-08 02:08:45 +0000"
     },
     "done": true
   },
@@ -12447,6 +12477,12 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/combat/crystal_crossbow": {
+    "criteria": {
+      "has_item": "2025-07-08 02:13:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-07-08 01:38:42 +0000"
@@ -12477,6 +12513,12 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/combat/mechanical_crossbow": {
+    "criteria": {
+      "has_item": "2025-07-08 02:13:52 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/building_blocks/polished_voidstone_stairs": {
     "criteria": {
       "has_item": "2025-07-08 02:01:38 +0000"
@@ -12498,6 +12540,18 @@
   "eternal_starlight:recipes/misc/voidstone_smelting_from_cobbled_voidstone": {
     "criteria": {
       "has_item": "2025-07-08 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/oxidized_golem_steel_block": {
+    "criteria": {
+      "has_oxidized_golem_steel_ingot": "2025-07-08 02:08:50 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/decorations/golem_steel_bars": {
+    "criteria": {
+      "has_item": "2025-07-08 02:13:52 +0000"
     },
     "done": true
   },
@@ -12540,6 +12594,12 @@
   "create:copper": {
     "criteria": {
       "0": "2025-07-08 01:38:42 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:kill_golem": {
+    "criteria": {
+      "kill": "2025-07-08 02:07:57 +0000"
     },
     "done": true
   },
@@ -12651,6 +12711,12 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/misc/golem_steel_ingot_smelting_from_oxidized_golem_steel_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:08:50 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/building_blocks/cobbled_grimstone_wall_from_cobbled_grimstone_stonecutting": {
     "criteria": {
       "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
@@ -12660,6 +12726,12 @@
   "eternal_starlight:recipes/building_blocks/polished_grimstone_stairs_from_cobbled_grimstone_stonecutting": {
     "criteria": {
       "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/forge_armor_trim_smithing_template": {
+    "criteria": {
+      "has_forge_armor_trim_smithing_template": "2025-07-08 02:08:45 +0000"
     },
     "done": true
   },
@@ -12831,6 +12903,12 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/decorations/golem_steel_crate": {
+    "criteria": {
+      "has_item": "2025-07-08 02:08:50 +0000"
+    },
+    "done": true
+  },
   "moped:copper_moped_root": {
     "criteria": {
       "copper_moped_root_0": "2025-07-08 01:38:42 +0000"
@@ -12870,6 +12948,12 @@
   "eternal_starlight:recipes/building_blocks/polished_voidstone_slab": {
     "criteria": {
       "has_item": "2025-07-08 02:01:38 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/decorations/oxidized_golem_steel_bars": {
+    "criteria": {
+      "has_item": "2025-07-08 02:08:50 +0000"
     },
     "done": true
   },
