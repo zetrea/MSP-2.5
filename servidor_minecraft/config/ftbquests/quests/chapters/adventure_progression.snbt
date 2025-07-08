@@ -283,8 +283,8 @@
 					value: 1L
 				}
 				{
-					id: "14EE6E229854C088"
-					item: { components: { "ftbquests:missing_item": "kubejs:forgotten_eye_fragment_shard" }, count: 1, id: "ftbquests:missing_item" }
+					id: "3236F02AE50DEAED"
+					item: { count: 1, id: "minecraft:birch_planks" }
 					type: "item"
 				}
 			]
@@ -390,22 +390,15 @@
 				}
 			]
 			shape: "rsquare"
-			tasks: [
-				{
-					entity: "minecraft:warden"
-					icon: {
-						id: "deeperdarker:warden_helmet"
-					}
-					id: "7CB55CAE88CFAE43"
-					type: "kill"
-					value: 1L
+			tasks: [{
+				entity: "minecraft:warden"
+				icon: {
+					id: "deeperdarker:warden_helmet"
 				}
-				{
-					id: "0E32B6275EB31EFA"
-					item: { components: { "ftbquests:missing_item": "kubejs:forgotten_eye_fragment_core" }, count: 1, id: "ftbquests:missing_item" }
-					type: "item"
-				}
-			]
+				id: "7CB55CAE88CFAE43"
+				type: "kill"
+				value: 1L
+			}]
 			x: -9.0d
 			y: -11.5d
 		}
@@ -547,8 +540,8 @@
 					value: 1L
 				}
 				{
-					id: "1F73D100ABC809F8"
-					item: { components: { "ftbquests:missing_item": "kubejs:cursed_eye_fragment_core" }, count: 1, id: "ftbquests:missing_item" }
+					id: "7165FDDD12A838B2"
+					item: { count: 1, id: "minecraft:birch_planks" }
 					type: "item"
 				}
 			]
@@ -1184,22 +1177,15 @@
 				type: "item"
 			}]
 			shape: "rsquare"
-			tasks: [
-				{
-					entity: "eternal_starlight:starlight_golem"
-					icon: {
-						id: "eternal_starlight:oxidized_chiseled_golem_steel_block"
-					}
-					id: "0C6853CF6407B349"
-					type: "kill"
-					value: 1L
+			tasks: [{
+				entity: "eternal_starlight:starlight_golem"
+				icon: {
+					id: "eternal_starlight:oxidized_chiseled_golem_steel_block"
 				}
-				{
-					id: "5AC919AB324361DC"
-					item: { components: { "ftbquests:missing_item": "kubejs:lost_eye_fragment_core" }, count: 1, id: "ftbquests:missing_item" }
-					type: "item"
-				}
-			]
+				id: "0C6853CF6407B349"
+				type: "kill"
+				value: 1L
+			}]
 			x: -6.0d
 			y: -11.5d
 		}

@@ -110,6 +110,7 @@
       "biomeswevegone:orchard": "2025-07-06 01:46:49 +0000",
       "biomeswevegone:crag_gardens": "2025-07-07 23:54:21 +0000",
       "biomeswevegone:amaranth_grassland": "2025-07-07 23:53:11 +0000",
+      "biomeswevegone:fragment_jungle": "2025-07-08 03:51:23 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-07-06 02:11:18 +0000",
       "biomeswevegone:sakura_grove": "2025-07-06 02:55:41 +0000",
       "biomeswevegone:prairie": "2025-07-06 02:46:44 +0000",
@@ -123,6 +124,7 @@
       "biomeswevegone:aspen_boreal": "2025-07-06 02:09:19 +0000",
       "biomeswevegone:jacaranda_jungle": "2025-07-07 23:55:12 +0000",
       "biomeswevegone:dacite_ridges": "2025-07-06 05:57:43 +0000",
+      "biomeswevegone:shattered_glacier": "2025-07-08 04:56:46 +0000",
       "biomeswevegone:howling_peaks": "2025-07-06 02:53:57 +0000",
       "biomeswevegone:skyrise_vale": "2025-07-06 05:42:59 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-06 02:28:30 +0000",
@@ -131,7 +133,8 @@
       "biomeswevegone:lush_stacks": "2025-07-07 23:39:52 +0000",
       "biomeswevegone:maple_taiga": "2025-07-06 03:35:34 +0000",
       "biomeswevegone:cypress_swamplands": "2025-07-08 00:03:56 +0000",
-      "biomeswevegone:baobab_savanna": "2025-07-07 23:39:07 +0000"
+      "biomeswevegone:baobab_savanna": "2025-07-07 23:39:07 +0000",
+      "biomeswevegone:crimson_tundra": "2025-07-08 05:11:31 +0000"
     },
     "done": false
   },
@@ -163,25 +166,28 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-07-06 05:29:37 +0000",
       "minecraft:snowy_slopes": "2025-07-06 05:12:40 +0000",
-      "minecraft:beach": "2025-07-06 05:52:19 +0000",
-      "minecraft:dark_forest": "2025-07-06 02:12:43 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-07-08 04:43:21 +0000",
       "minecraft:forest": "2025-07-06 02:27:39 +0000",
       "minecraft:taiga": "2025-07-06 05:30:54 +0000",
-      "minecraft:sparse_jungle": "2025-07-07 23:54:26 +0000",
       "minecraft:deep_ocean": "2025-07-06 06:20:57 +0000",
+      "minecraft:lush_caves": "2025-07-06 05:32:33 +0000",
+      "minecraft:ice_spikes": "2025-07-08 04:56:54 +0000",
+      "minecraft:frozen_river": "2025-07-08 04:56:50 +0000",
+      "minecraft:ocean": "2025-07-06 01:45:36 +0000",
+      "minecraft:cherry_grove": "2025-07-06 02:55:42 +0000",
+      "minecraft:birch_forest": "2025-07-06 02:27:15 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-06 05:43:24 +0000",
+      "minecraft:beach": "2025-07-06 05:52:19 +0000",
+      "minecraft:dark_forest": "2025-07-06 02:12:43 +0000",
+      "minecraft:sparse_jungle": "2025-07-07 23:54:26 +0000",
       "minecraft:river": "2025-07-06 02:10:56 +0000",
       "minecraft:stony_shore": "2025-07-06 01:44:18 +0000",
-      "minecraft:lush_caves": "2025-07-06 05:32:33 +0000",
       "minecraft:dripstone_caves": "2025-07-06 02:54:18 +0000",
       "minecraft:frozen_peaks": "2025-07-06 02:53:56 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-06 01:45:04 +0000",
       "minecraft:deep_dark": "2025-07-06 02:54:54 +0000",
-      "minecraft:ocean": "2025-07-06 01:45:36 +0000",
-      "minecraft:cherry_grove": "2025-07-06 02:55:42 +0000",
       "minecraft:grove": "2025-07-06 02:52:51 +0000",
       "minecraft:meadow": "2025-07-06 03:37:58 +0000",
-      "minecraft:birch_forest": "2025-07-06 02:27:15 +0000",
-      "minecraft:old_growth_spruce_taiga": "2025-07-06 05:43:24 +0000",
       "minecraft:plains": "2025-07-07 03:27:44 +0000"
     },
     "done": false
@@ -1841,27 +1847,29 @@
       "minecraft:pillager": "2025-07-06 02:33:28 +0000",
       "minecraft:blaze": "2025-07-07 04:36:19 +0000",
       "minecraft:skeleton": "2025-07-06 01:51:05 +0000",
+      "minecraft:bogged": "2025-07-08 00:06:17 +0000",
+      "minecraft:ghast": "2025-07-07 03:35:57 +0000",
+      "minecraft:hoglin": "2025-07-07 09:45:12 +0000",
+      "minecraft:vindicator": "2025-07-07 23:30:58 +0000",
+      "minecraft:magma_cube": "2025-07-07 03:34:56 +0000",
+      "minecraft:spider": "2025-07-06 01:56:58 +0000",
+      "minecraft:piglin_brute": "2025-07-07 03:36:30 +0000",
+      "minecraft:creeper": "2025-07-06 03:18:57 +0000",
+      "minecraft:wither": "2025-07-08 03:35:03 +0000",
+      "minecraft:slime": "2025-07-07 03:20:46 +0000",
       "minecraft:phantom": "2025-07-08 01:19:07 +0000",
       "minecraft:zombified_piglin": "2025-07-07 04:03:42 +0000",
       "minecraft:witch": "2025-07-06 02:35:48 +0000",
       "minecraft:wither_skeleton": "2025-07-07 04:13:46 +0000",
-      "minecraft:bogged": "2025-07-08 00:06:17 +0000",
-      "minecraft:ghast": "2025-07-07 03:35:57 +0000",
-      "minecraft:hoglin": "2025-07-07 09:45:12 +0000",
       "minecraft:cave_spider": "2025-07-06 06:09:28 +0000",
       "minecraft:piglin": "2025-07-07 03:37:55 +0000",
-      "minecraft:vindicator": "2025-07-07 23:30:58 +0000",
       "minecraft:stray": "2025-07-06 02:53:03 +0000",
       "minecraft:enderman": "2025-07-06 03:23:03 +0000",
       "minecraft:silverfish": "2025-07-07 23:58:30 +0000",
-      "minecraft:magma_cube": "2025-07-07 03:34:56 +0000",
-      "minecraft:spider": "2025-07-06 01:56:58 +0000",
-      "minecraft:piglin_brute": "2025-07-07 03:36:30 +0000",
       "minecraft:vex": "2025-07-06 03:05:16 +0000",
       "minecraft:zombie": "2025-07-06 02:12:52 +0000",
-      "minecraft:creeper": "2025-07-06 03:18:57 +0000",
       "minecraft:drowned": "2025-07-06 05:47:32 +0000",
-      "minecraft:slime": "2025-07-07 03:20:46 +0000"
+      "minecraft:zombie_villager": "2025-07-08 05:37:02 +0000"
     },
     "done": false
   },
@@ -2192,16 +2200,17 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-07-06 02:31:05 +0000",
-      "apple": "2025-07-06 03:05:11 +0000",
       "bread": "2025-07-06 03:17:52 +0000",
       "golden_apple": "2025-07-06 23:09:08 +0000",
       "rotten_flesh": "2025-07-06 02:24:43 +0000",
-      "enchanted_golden_apple": "2025-07-06 03:45:08 +0000",
       "cooked_mutton": "2025-07-06 05:50:37 +0000",
       "cooked_beef": "2025-07-06 02:33:00 +0000",
       "baked_potato": "2025-07-06 06:29:16 +0000",
       "porkchop": "2025-07-07 04:41:52 +0000",
       "golden_carrot": "2025-07-07 04:49:50 +0000",
+      "apple": "2025-07-06 03:05:11 +0000",
+      "cooked_chicken": "2025-07-08 03:54:00 +0000",
+      "enchanted_golden_apple": "2025-07-06 03:45:08 +0000",
       "carrot": "2025-07-07 01:24:42 +0000"
     },
     "done": false
@@ -12183,75 +12192,9 @@
     },
     "done": true
   },
-  "eternal_starlight:obtain_swamp_silver_ingot": {
-    "criteria": {
-      "has_item": "2025-07-08 02:01:20 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/polished_voidstone_wall": {
-    "criteria": {
-      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/combat/swamp_silver_chestplate": {
-    "criteria": {
-      "has_item": "2025-07-08 02:01:20 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/misc/swamp_silver_ingot_from_nuggets": {
-    "criteria": {
-      "has_swamp_silver_nugget": "2025-07-08 01:59:41 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/cobbled_voidstone_stairs": {
-    "criteria": {
-      "has_item": "2025-07-08 01:56:08 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
     "criteria": {
       "has_minecraft:copper_ingot": "2025-07-08 01:38:42 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/cobbled_grimstone_stairs": {
-    "criteria": {
-      "has_item": "2025-07-08 01:54:19 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/saltpeter_block": {
-    "criteria": {
-      "has_saltpeter_powder": "2025-07-08 01:53:46 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/grimstone_tile_stairs_from_cobbled_grimstone_stonecutting": {
-    "criteria": {
-      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/polished_voidstone_wall_from_cobbled_voidstone_stonecutting": {
-    "criteria": {
-      "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/combat/wilted_crossbow": {
-    "criteria": {
-      "has_item": "2025-07-08 02:13:52 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/voidstone_tile_wall_from_polished_voidstone_stonecutting": {
-    "criteria": {
-      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
     },
     "done": true
   },
@@ -12267,27 +12210,9 @@
     },
     "done": true
   },
-  "eternal_starlight:recipes/building_blocks/cobbled_grimstone_wall": {
-    "criteria": {
-      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/atalphaite_block": {
-    "criteria": {
-      "has_atalphaite": "2025-07-08 01:55:51 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2025-07-08 01:38:42 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/misc/golem_steel_ingot_blasting_from_oxidized_golem_steel_ingot": {
-    "criteria": {
-      "has_item": "2025-07-08 02:08:50 +0000"
     },
     "done": true
   },
@@ -12297,21 +12222,9 @@
     },
     "done": true
   },
-  "eternal_starlight:recipes/building_blocks/voidstone_tiles_from_cobbled_voidstone_stonecutting": {
-    "criteria": {
-      "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-07-08 01:38:42 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/voidstone_bricks": {
-    "criteria": {
-      "has_item": "2025-07-08 02:01:38 +0000"
     },
     "done": true
   },
@@ -12321,21 +12234,9 @@
     },
     "done": true
   },
-  "eternal_starlight:recipes/building_blocks/voidstone_tile_stairs_from_cobbled_voidstone_stonecutting": {
-    "criteria": {
-      "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2025-07-08 01:38:42 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/voidstone_brick_slab_from_cobbled_voidstone_stonecutting": {
-    "criteria": {
-      "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
     },
     "done": true
   },
@@ -12351,81 +12252,9 @@
     },
     "done": true
   },
-  "eternal_starlight:recipes/misc/bucket_from_swamp_silver_ingot": {
-    "criteria": {
-      "has_item": "2025-07-08 02:01:20 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/voidstone_brick_slab_from_polished_voidstone_stonecutting": {
-    "criteria": {
-      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/voidstone_bricks_from_polished_voidstone_stonecutting": {
-    "criteria": {
-      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
-    },
-    "done": true
-  },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2025-07-08 01:39:34 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/combat/swamp_silver_boots": {
-    "criteria": {
-      "has_item": "2025-07-08 02:01:20 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/misc/tripwire_hook_from_swamp_silver_ingot": {
-    "criteria": {
-      "has_item": "2025-07-08 02:01:20 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/polished_voidstone_slab_from_cobbled_voidstone_stonecutting": {
-    "criteria": {
-      "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/combat/swamp_silver_helmet": {
-    "criteria": {
-      "has_item": "2025-07-08 02:01:20 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/copper_nugget": {
     "criteria": {
       "has_item": "2025-07-08 01:38:42 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:obtain_golem_steel_ingot": {
-    "criteria": {
-      "has_item": "2025-07-08 02:13:52 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/misc/swamp_silver_nugget": {
-    "criteria": {
-      "has_swamp_silver_ingot": "2025-07-08 02:01:20 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/polished_voidstone_from_cobbled_voidstone_stonecutting": {
-    "criteria": {
-      "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/grimstone_brick_wall_from_cobbled_grimstone_stonecutting": {
-    "criteria": {
-      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
     },
     "done": true
   },
@@ -12435,33 +12264,9 @@
     },
     "done": true
   },
-  "eternal_starlight:recipes/building_blocks/golem_steel_block": {
-    "criteria": {
-      "has_golem_steel_ingot": "2025-07-08 02:13:52 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/misc/forge_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-07-08 02:08:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/copper_trapdoor": {
     "criteria": {
       "has_copper_ingot": "2025-07-08 01:38:42 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/misc/swamp_silver_nugget_smelting_from_swamp_silver_ingot": {
-    "criteria": {
-      "has_item": "2025-07-08 02:01:20 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/cobbled_grimstone_slab_from_cobbled_grimstone_stonecutting": {
-    "criteria": {
-      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
     },
     "done": true
   },
@@ -12477,21 +12282,9 @@
     },
     "done": true
   },
-  "eternal_starlight:recipes/combat/crystal_crossbow": {
-    "criteria": {
-      "has_item": "2025-07-08 02:13:52 +0000"
-    },
-    "done": true
-  },
   "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-07-08 01:38:42 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/voidstone_brick_wall_from_polished_voidstone_stonecutting": {
-    "criteria": {
-      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
     },
     "done": true
   },
@@ -12501,69 +12294,9 @@
     },
     "done": true
   },
-  "eternal_starlight:recipes/building_blocks/chiseled_voidstone_from_polished_voidstone_stonecutting": {
-    "criteria": {
-      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/misc/grimstone_smelting_from_cobbled_grimstone": {
-    "criteria": {
-      "has_item": "2025-07-08 01:54:19 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/combat/mechanical_crossbow": {
-    "criteria": {
-      "has_item": "2025-07-08 02:13:52 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/polished_voidstone_stairs": {
-    "criteria": {
-      "has_item": "2025-07-08 02:01:38 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/misc/swamp_silver_nugget_blasting_from_swamp_silver_ingot": {
-    "criteria": {
-      "has_item": "2025-07-08 02:01:20 +0000"
-    },
-    "done": true
-  },
   "sootychimneys:recipe/decorations/copper_chimney": {
     "criteria": {
       "has_copper": "2025-07-08 01:38:42 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/misc/voidstone_smelting_from_cobbled_voidstone": {
-    "criteria": {
-      "has_item": "2025-07-08 01:56:08 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/oxidized_golem_steel_block": {
-    "criteria": {
-      "has_oxidized_golem_steel_ingot": "2025-07-08 02:08:50 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/decorations/golem_steel_bars": {
-    "criteria": {
-      "has_item": "2025-07-08 02:13:52 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:deactivate_energy_block": {
-    "criteria": {
-      "deactivate": "2025-07-08 02:03:30 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/grimstone_tile_slab_from_cobbled_grimstone_stonecutting": {
-    "criteria": {
-      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
     },
     "done": true
   },
@@ -12573,21 +12306,9 @@
     },
     "done": true
   },
-  "eternal_starlight:recipes/building_blocks/grimstone_bricks_from_cobbled_grimstone_stonecutting": {
-    "criteria": {
-      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2025-07-08 01:38:42 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/combat/swamp_silver_sword": {
-    "criteria": {
-      "has_item": "2025-07-08 02:01:20 +0000"
     },
     "done": true
   },
@@ -12597,51 +12318,9 @@
     },
     "done": true
   },
-  "eternal_starlight:kill_golem": {
-    "criteria": {
-      "kill": "2025-07-08 02:07:57 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/voidstone_bricks_from_cobbled_voidstone_stonecutting": {
-    "criteria": {
-      "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/tools/swamp_silver_pickaxe": {
-    "criteria": {
-      "has_item": "2025-07-08 02:01:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-07-08 01:38:42 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/tools/shears_from_swamp_silver_ingot": {
-    "criteria": {
-      "has_item": "2025-07-08 02:01:20 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/polished_voidstone_wall_from_polished_voidstone_stonecutting": {
-    "criteria": {
-      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/cobbled_voidstone_slab_from_cobbled_voidstone_stonecutting": {
-    "criteria": {
-      "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/combat/swamp_silver_leggings": {
-    "criteria": {
-      "has_item": "2025-07-08 02:01:20 +0000"
     },
     "done": true
   },
@@ -12657,21 +12336,9 @@
     },
     "done": true
   },
-  "eternal_starlight:recipes/building_blocks/cobbled_voidstone_slab": {
-    "criteria": {
-      "has_item": "2025-07-08 01:56:08 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/mechanical_pump": {
     "criteria": {
       "has_item": "2025-07-08 01:38:42 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/grimstone_tiles_from_cobbled_grimstone_stonecutting": {
-    "criteria": {
-      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
     },
     "done": true
   },
@@ -12681,57 +12348,9 @@
     },
     "done": true
   },
-  "eternal_starlight:recipes/misc/shapeless/cinder_brick": {
-    "criteria": {
-      "has_item": "2025-07-08 01:55:51 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/tools/swamp_silver_axe": {
-    "criteria": {
-      "has_item": "2025-07-08 02:01:20 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/cobbled_grimstone_stairs_from_cobbled_grimstone_stonecutting": {
-    "criteria": {
-      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/grimstone_brick_slab_from_cobbled_grimstone_stonecutting": {
-    "criteria": {
-      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2025-07-08 01:38:42 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/misc/golem_steel_ingot_smelting_from_oxidized_golem_steel_ingot": {
-    "criteria": {
-      "has_item": "2025-07-08 02:08:50 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/cobbled_grimstone_wall_from_cobbled_grimstone_stonecutting": {
-    "criteria": {
-      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/polished_grimstone_stairs_from_cobbled_grimstone_stonecutting": {
-    "criteria": {
-      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/misc/forge_armor_trim_smithing_template": {
-    "criteria": {
-      "has_forge_armor_trim_smithing_template": "2025-07-08 02:08:45 +0000"
     },
     "done": true
   },
@@ -12741,27 +12360,9 @@
     },
     "done": true
   },
-  "eternal_starlight:recipes/building_blocks/voidstone_brick_stairs_from_cobbled_voidstone_stonecutting": {
-    "criteria": {
-      "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/polished_grimstone_slab_from_cobbled_grimstone_stonecutting": {
-    "criteria": {
-      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2025-07-08 01:38:42 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/chiseled_grimstone_from_cobbled_grimstone_stonecutting": {
-    "criteria": {
-      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
     },
     "done": true
   },
@@ -12771,57 +12372,15 @@
     },
     "done": true
   },
-  "eternal_starlight:recipes/building_blocks/grimstone_brick_stairs_from_cobbled_grimstone_stonecutting": {
-    "criteria": {
-      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
-    },
-    "done": true
-  },
   "dndecor:recipes/building_blocks/large_copper_chain_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-07-08 01:38:42 +0000"
     },
     "done": true
   },
-  "eternal_starlight:recipes/building_blocks/voidstone_tile_slab_from_cobbled_voidstone_stonecutting": {
-    "criteria": {
-      "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/cobbled_grimstone_slab": {
-    "criteria": {
-      "has_item": "2025-07-08 01:54:19 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/swamp_silver_block": {
-    "criteria": {
-      "has_swamp_silver_ingot": "2025-07-08 02:01:20 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/voidstone_tile_slab_from_polished_voidstone_stonecutting": {
-    "criteria": {
-      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
-    },
-    "done": true
-  },
   "dndecor:recipes/building_blocks/copper_floor_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-07-08 01:38:42 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/voidstone_brick_stairs_from_polished_voidstone_stonecutting": {
-    "criteria": {
-      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/cobbled_voidstone_wall_from_cobbled_voidstone_stonecutting": {
-    "criteria": {
-      "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
     },
     "done": true
   },
@@ -12843,18 +12402,6 @@
     },
     "done": true
   },
-  "eternal_starlight:recipes/building_blocks/grimstone_tile_wall_from_cobbled_grimstone_stonecutting": {
-    "criteria": {
-      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/voidstone_tile_stairs_from_polished_voidstone_stonecutting": {
-    "criteria": {
-      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/transmitter": {
     "criteria": {
       "has_item": "2025-07-08 01:38:42 +0000"
@@ -12864,48 +12411,6 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
     "criteria": {
       "has_minecraft:copper_ingot": "2025-07-08 01:38:42 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/voidstone_tile_wall_from_cobbled_voidstone_stonecutting": {
-    "criteria": {
-      "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/tools/swamp_silver_sickle": {
-    "criteria": {
-      "has_item": "2025-07-08 02:01:20 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/polished_voidstone_stairs_from_polished_voidstone_stonecutting": {
-    "criteria": {
-      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/voidstone_brick_wall_from_cobbled_voidstone_stonecutting": {
-    "criteria": {
-      "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/polished_grimstone_wall_from_cobbled_grimstone_stonecutting": {
-    "criteria": {
-      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/polished_voidstone_stairs_from_cobbled_voidstone_stonecutting": {
-    "criteria": {
-      "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/decorations/golem_steel_crate": {
-    "criteria": {
-      "has_item": "2025-07-08 02:08:50 +0000"
     },
     "done": true
   },
@@ -12921,18 +12426,6 @@
     },
     "done": true
   },
-  "eternal_starlight:recipes/building_blocks/voidstone_tiles_from_polished_voidstone_stonecutting": {
-    "criteria": {
-      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/building_blocks/polished_grimstone_from_cobbled_grimstone_stonecutting": {
-    "criteria": {
-      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
-    },
-    "done": true
-  },
   "friendsandfoes:recipes/redstone/copper_button": {
     "criteria": {
       "has_copper_ingot": "2025-07-08 01:38:42 +0000"
@@ -12945,21 +12438,273 @@
     },
     "done": true
   },
-  "eternal_starlight:recipes/building_blocks/polished_voidstone_slab": {
-    "criteria": {
-      "has_item": "2025-07-08 02:01:38 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/decorations/oxidized_golem_steel_bars": {
-    "criteria": {
-      "has_item": "2025-07-08 02:08:50 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-07-08 01:38:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:copper_ingot": "2025-07-08 01:38:42 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/copper_dash_bolt_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-07-08 01:38:42 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-07-08 01:39:34 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/saltpeter_block": {
+    "criteria": {
+      "has_saltpeter_powder": "2025-07-08 01:53:46 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/tools/saltpeter_matchbox": {
+    "criteria": {
+      "has_item": "2025-07-08 01:53:46 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/cobbled_grimstone_stairs": {
+    "criteria": {
+      "has_item": "2025-07-08 01:54:19 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/grimstone_tile_stairs_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/cobbled_grimstone_wall": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/grimstone_brick_wall_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/cobbled_grimstone_slab_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/grimstone_smelting_from_cobbled_grimstone": {
+    "criteria": {
+      "has_item": "2025-07-08 01:54:19 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/grimstone_tile_slab_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/grimstone_bricks_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/grimstone_tiles_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/cobbled_grimstone_stairs_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/grimstone_brick_slab_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/cobbled_grimstone_wall_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_grimstone_stairs_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_grimstone_slab_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/chiseled_grimstone_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/grimstone_brick_stairs_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/cobbled_grimstone_slab": {
+    "criteria": {
+      "has_item": "2025-07-08 01:54:19 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/grimstone_tile_wall_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_grimstone_wall_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_grimstone_from_cobbled_grimstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/atalphaite_block": {
+    "criteria": {
+      "has_atalphaite": "2025-07-08 01:55:51 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/shapeless/cinder_brick": {
+    "criteria": {
+      "has_item": "2025-07-08 01:55:51 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/cobbled_voidstone_stairs": {
+    "criteria": {
+      "has_item": "2025-07-08 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_voidstone_wall_from_cobbled_voidstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_tiles_from_cobbled_voidstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_tile_stairs_from_cobbled_voidstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_brick_slab_from_cobbled_voidstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_voidstone_slab_from_cobbled_voidstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_voidstone_from_cobbled_voidstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/voidstone_smelting_from_cobbled_voidstone": {
+    "criteria": {
+      "has_item": "2025-07-08 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_bricks_from_cobbled_voidstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/cobbled_voidstone_slab_from_cobbled_voidstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/cobbled_voidstone_slab": {
+    "criteria": {
+      "has_item": "2025-07-08 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_brick_stairs_from_cobbled_voidstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_tile_slab_from_cobbled_voidstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/cobbled_voidstone_wall_from_cobbled_voidstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_tile_wall_from_cobbled_voidstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_brick_wall_from_cobbled_voidstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_voidstone_stairs_from_cobbled_voidstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
     },
     "done": true
   },
@@ -12975,27 +12720,111 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
-    "criteria": {
-      "has_minecraft:copper_ingot": "2025-07-08 01:38:42 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/tools/saltpeter_matchbox": {
-    "criteria": {
-      "has_item": "2025-07-08 01:53:46 +0000"
-    },
-    "done": true
-  },
-  "dndecor:recipes/building_blocks/copper_dash_bolt_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-07-08 01:38:42 +0000"
-    },
-    "done": true
-  },
   "eternal_starlight:recipes/building_blocks/chiseled_voidstone_from_cobbled_voidstone_stonecutting": {
     "criteria": {
       "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/swamp_silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_swamp_silver_nugget": "2025-07-08 01:59:41 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:obtain_swamp_silver_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:20 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/combat/swamp_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:20 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/bucket_from_swamp_silver_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:20 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/combat/swamp_silver_boots": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:20 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/tripwire_hook_from_swamp_silver_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:20 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/combat/swamp_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:20 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/swamp_silver_nugget": {
+    "criteria": {
+      "has_swamp_silver_ingot": "2025-07-08 02:01:20 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/swamp_silver_nugget_smelting_from_swamp_silver_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:20 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/swamp_silver_nugget_blasting_from_swamp_silver_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:20 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/combat/swamp_silver_sword": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:20 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/tools/swamp_silver_pickaxe": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:20 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/tools/shears_from_swamp_silver_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:20 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/combat/swamp_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:20 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/tools/swamp_silver_axe": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:20 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/swamp_silver_block": {
+    "criteria": {
+      "has_swamp_silver_ingot": "2025-07-08 02:01:20 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/tools/swamp_silver_sickle": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:20 +0000"
     },
     "done": true
   },
@@ -13005,9 +12834,1011 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/polished_voidstone_wall": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_tile_wall_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_bricks": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:38 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_brick_slab_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_bricks_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_brick_wall_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/chiseled_voidstone_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_voidstone_stairs": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:38 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_voidstone_wall_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_tile_slab_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_brick_stairs_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_tile_stairs_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_voidstone_stairs_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_tiles_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_voidstone_slab": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:38 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/building_blocks/polished_voidstone_slab_from_polished_voidstone_stonecutting": {
     "criteria": {
       "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:deactivate_energy_block": {
+    "criteria": {
+      "deactivate": "2025-07-08 02:03:30 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:kill_golem": {
+    "criteria": {
+      "kill": "2025-07-08 02:07:57 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/forge_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-08 02:08:45 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/forge_armor_trim_smithing_template": {
+    "criteria": {
+      "has_forge_armor_trim_smithing_template": "2025-07-08 02:08:45 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/golem_steel_ingot_blasting_from_oxidized_golem_steel_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:08:50 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/oxidized_golem_steel_block": {
+    "criteria": {
+      "has_oxidized_golem_steel_ingot": "2025-07-08 02:08:50 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/golem_steel_ingot_smelting_from_oxidized_golem_steel_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:08:50 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/decorations/golem_steel_crate": {
+    "criteria": {
+      "has_item": "2025-07-08 02:08:50 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/decorations/oxidized_golem_steel_bars": {
+    "criteria": {
+      "has_item": "2025-07-08 02:08:50 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/combat/wilted_crossbow": {
+    "criteria": {
+      "has_item": "2025-07-08 02:13:52 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:obtain_golem_steel_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:13:52 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/golem_steel_block": {
+    "criteria": {
+      "has_golem_steel_ingot": "2025-07-08 02:13:52 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/combat/crystal_crossbow": {
+    "criteria": {
+      "has_item": "2025-07-08 02:13:52 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/combat/mechanical_crossbow": {
+    "criteria": {
+      "has_item": "2025-07-08 02:13:52 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/decorations/golem_steel_bars": {
+    "criteria": {
+      "has_item": "2025-07-08 02:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-07-08 03:33:56 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2025-07-08 03:51:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-07-08 03:53:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-07-08 03:53:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/calcite_pillar_trim": {
+    "criteria": {
+      "has_calcite_pillar_trim": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_red_dye": {
+    "criteria": {
+      "has_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_light_gray_dye": {
+    "criteria": {
+      "has_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_brown_dye": {
+    "criteria": {
+      "has_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_pink_dye": {
+    "criteria": {
+      "has_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/building_blocks/white_chalk": {
+    "criteria": {
+      "calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_yellow_dye": {
+    "criteria": {
+      "has_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_lime_dye": {
+    "criteria": {
+      "has_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_light_blue_dye": {
+    "criteria": {
+      "has_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_black_dye": {
+    "criteria": {
+      "has_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_orange_dye": {
+    "criteria": {
+      "has_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_green_dye": {
+    "criteria": {
+      "has_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_magenta_dye": {
+    "criteria": {
+      "has_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_purple_dye": {
+    "criteria": {
+      "has_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_cyan_dye": {
+    "criteria": {
+      "has_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_blue_dye": {
+    "criteria": {
+      "has_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_gray_dye": {
+    "criteria": {
+      "has_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/calcite_corner_trim": {
+    "criteria": {
+      "has_calcite_corner_trim": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_white_dye": {
+    "criteria": {
+      "has_calcite": "2025-07-08 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-07-08 03:57:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/diorite_corner_trim": {
+    "criteria": {
+      "has_diorite_corner_trim": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/diorite_pillar_trim": {
+    "criteria": {
+      "has_diorite_pillar_trim": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
+    "criteria": {
+      "has_minecraft:diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/dolomite_from_diorite_smelting": {
+    "criteria": {
+      "has_diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-08 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-07-08 04:03:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2025-07-08 04:06:50 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
+    "criteria": {
+      "in_catacombs": "2025-07-08 04:11:07 +0000"
+    },
+    "done": true
+  },
+  "alshanex_familiars:dead_king_reward": {
+    "criteria": {
+      "slay_dead_king": "2025-07-08 04:14:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-08 04:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-08 04:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-08 04:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-08 04:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-08 04:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-08 04:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-07-08 05:03:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-07-08 05:03:02 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:adventure/night_lich_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:lich": "2025-07-08 05:18:44 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2025-07-08 05:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-08 05:38:57 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_cut_paste": {
+    "criteria": {
+      "has_shear": "2025-07-08 05:44:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_netherite_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-07-08 06:04:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_shulker_from_diamond_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-07-08 06:04:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/netherite_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-07-08 06:04:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-07-08 06:08:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-07-08 06:09:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_pillar_trim": {
+    "criteria": {
+      "has_granite_pillar_trim": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_corner_trim": {
+    "criteria": {
+      "has_granite_corner_trim": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
+    "criteria": {
+      "has_minecraft:granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/gabbro_from_granite_smelting": {
+    "criteria": {
+      "has_granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-07-08 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-07-08 06:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-07-08 06:39:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-07-08 07:00:20 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-07-08 07:03:15 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:shipwrecks": {
+    "criteria": {
+      "in_shipwreck_nether_bricks": "2025-07-08 06:59:04 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2025-07-08 06:59:51 +0000"
     },
     "done": true
   },
