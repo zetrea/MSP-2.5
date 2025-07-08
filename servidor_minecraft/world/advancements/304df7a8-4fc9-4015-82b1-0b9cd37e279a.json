@@ -12277,6 +12277,36 @@
     },
     "done": true
   },
+  "eternal_starlight:obtain_swamp_silver_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:11 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_voidstone_wall": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:55 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/amaramber_nugget_blasting_from_amaramber_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/combat/swamp_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:11 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/swamp_silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_swamp_silver_nugget": "2025-07-08 01:59:53 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-08 01:16:03 +0000"
@@ -12313,6 +12343,12 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/voidstone_tile_wall_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:55 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-07-08 01:30:12 +0000"
@@ -12331,9 +12367,27 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/oxidized_golem_steel_tile_stairs_from_oxidized_golem_steel_tiles_stonecutting": {
+    "criteria": {
+      "has_oxidized_golem_steel_tiles": "2025-07-08 02:04:20 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-08 01:16:03 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_brick_wall_from_voidstone_bricks_stonecutting": {
+    "criteria": {
+      "has_voidstone_bricks": "2025-07-08 02:01:57 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/amaramber_bricks": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:13 +0000"
     },
     "done": true
   },
@@ -12349,6 +12403,12 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/voidstone_bricks": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:55 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-08 01:16:03 +0000"
@@ -12361,15 +12421,75 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/voidstone_brick_slab": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:57 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/building_blocks/voidstone_brick_slab_from_cobbled_voidstone_stonecutting": {
     "criteria": {
       "has_cobbled_voidstone": "2025-07-08 01:55:26 +0000"
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/voidstone_tile_wall_from_voidstone_bricks_stonecutting": {
+    "criteria": {
+      "has_voidstone_bricks": "2025-07-08 02:01:57 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_tiles_from_voidstone_bricks_stonecutting": {
+    "criteria": {
+      "has_voidstone_bricks": "2025-07-08 02:01:57 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_tiles": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:57 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/bucket_from_swamp_silver_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:11 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_brick_slab_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:55 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/oxidized_golem_steel_tile_slab": {
+    "criteria": {
+      "has_item": "2025-07-08 02:04:20 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_bricks_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:55 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-08 01:16:03 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/combat/swamp_silver_boots": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:11 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/tripwire_hook_from_swamp_silver_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:11 +0000"
     },
     "done": true
   },
@@ -12391,6 +12511,12 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/voidstone_brick_stairs_from_voidstone_bricks_stonecutting": {
+    "criteria": {
+      "has_voidstone_bricks": "2025-07-08 02:01:57 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/building_blocks/polished_voidstone_slab_from_cobbled_voidstone_stonecutting": {
     "criteria": {
       "has_cobbled_voidstone": "2025-07-08 01:55:26 +0000"
@@ -12403,9 +12529,27 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/combat/swamp_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:11 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/tools/amaramber_sickle": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:13 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/storage_crafting_upgrade_from_backpack_crafting_upgrade": {
     "criteria": {
       "has_backpack_upgrade": "2025-07-08 01:25:43 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/swamp_silver_nugget": {
+    "criteria": {
+      "has_swamp_silver_ingot": "2025-07-08 02:01:11 +0000"
     },
     "done": true
   },
@@ -12445,6 +12589,18 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/misc/swamp_silver_nugget_smelting_from_swamp_silver_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:11 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_tile_slab_from_voidstone_bricks_stonecutting": {
+    "criteria": {
+      "has_voidstone_bricks": "2025-07-08 02:01:57 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/building_blocks/cobbled_grimstone_slab_from_cobbled_grimstone_stonecutting": {
     "criteria": {
       "has_cobbled_grimstone": "2025-07-08 01:54:26 +0000"
@@ -12469,9 +12625,51 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/voidstone_brick_wall_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:55 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/combat/amaramber_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/chiseled_voidstone_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:55 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/torreya_tiles": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/tools/amaramber_hoe": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:13 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/misc/grimstone_smelting_from_cobbled_grimstone": {
     "criteria": {
       "has_item": "2025-07-08 01:54:26 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_voidstone_stairs": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:55 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/swamp_silver_nugget_blasting_from_swamp_silver_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:11 +0000"
     },
     "done": true
   },
@@ -12484,6 +12682,24 @@
   "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-08 01:16:03 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/tools/amaramber_shovel": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/chiseled_voidstone_from_voidstone_bricks_stonecutting": {
+    "criteria": {
+      "has_voidstone_bricks": "2025-07-08 02:01:57 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:deactivate_energy_block": {
+    "criteria": {
+      "deactivate": "2025-07-08 02:03:26 +0000"
     },
     "done": true
   },
@@ -12505,9 +12721,27 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/combat/swamp_silver_sword": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:11 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_brick_wall": {
+    "criteria": {
+      "has_voidstone_bricks": "2025-07-08 02:01:57 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/building_blocks/voidstone_bricks_from_cobbled_voidstone_stonecutting": {
     "criteria": {
       "has_cobbled_voidstone": "2025-07-08 01:55:26 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/tools/amaramber_pickaxe": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:13 +0000"
     },
     "done": true
   },
@@ -12517,9 +12751,33 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/tools/swamp_silver_pickaxe": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:11 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/tools/shears_from_swamp_silver_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:11 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_voidstone_wall_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:55 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/building_blocks/cobbled_voidstone_slab_from_cobbled_voidstone_stonecutting": {
     "criteria": {
       "has_cobbled_voidstone": "2025-07-08 01:55:26 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/combat/swamp_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:11 +0000"
     },
     "done": true
   },
@@ -12538,6 +12796,12 @@
   "eternal_starlight:recipes/building_blocks/grimstone_tiles_from_cobbled_grimstone_stonecutting": {
     "criteria": {
       "has_cobbled_grimstone": "2025-07-08 01:54:26 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/tools/swamp_silver_axe": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:11 +0000"
     },
     "done": true
   },
@@ -12625,6 +12889,12 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/voidstone_brick_stairs": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:57 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-08 01:16:03 +0000"
@@ -12634,6 +12904,12 @@
   "eternal_starlight:recipes/building_blocks/grimstone_brick_stairs_from_cobbled_grimstone_stonecutting": {
     "criteria": {
       "has_cobbled_grimstone": "2025-07-08 01:54:26 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/oxidized_golem_steel_tile_stairs": {
+    "criteria": {
+      "has_item": "2025-07-08 02:04:20 +0000"
     },
     "done": true
   },
@@ -12649,6 +12925,24 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/swamp_silver_block": {
+    "criteria": {
+      "has_swamp_silver_ingot": "2025-07-08 02:01:11 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_tile_slab_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:55 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/tools/amaramber_axe": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:13 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-08 01:16:03 +0000"
@@ -12661,9 +12955,21 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/voidstone_brick_stairs_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:55 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/building_blocks/cobbled_voidstone_wall_from_cobbled_voidstone_stonecutting": {
     "criteria": {
       "has_cobbled_voidstone": "2025-07-08 01:55:26 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_brick_slab_from_voidstone_bricks_stonecutting": {
+    "criteria": {
+      "has_voidstone_bricks": "2025-07-08 02:01:57 +0000"
     },
     "done": true
   },
@@ -12685,9 +12991,33 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/combat/amaramber_helmet": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/combat/amaramber_sword": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:13 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/building_blocks/grimstone_tile_wall_from_cobbled_grimstone_stonecutting": {
     "criteria": {
       "has_cobbled_grimstone": "2025-07-08 01:54:26 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/amaramber_nugget": {
+    "criteria": {
+      "has_amaramber_ingot": "2025-07-08 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_tile_stairs_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:55 +0000"
     },
     "done": true
   },
@@ -12721,6 +13051,18 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/tools/swamp_silver_sickle": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:11 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_voidstone_stairs_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:55 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/sculk_grime_brick_stairs_from_sculk_grime_bricks_stonecutting": {
     "criteria": {
       "has_sculk_grime_bricks": "2025-07-08 01:18:30 +0000"
@@ -12745,6 +13087,18 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/misc/amaramber_nugget_smelting_from_amaramber_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_tiles_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:55 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/building_blocks/polished_grimstone_from_cobbled_grimstone_stonecutting": {
     "criteria": {
       "has_cobbled_grimstone": "2025-07-08 01:54:26 +0000"
@@ -12757,9 +13111,27 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/polished_voidstone_slab": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:55 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/oxidized_golem_steel_tile_slab_from_oxidized_golem_steel_tiles_stonecutting": {
+    "criteria": {
+      "has_oxidized_golem_steel_tiles": "2025-07-08 02:04:20 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/building_blocks/cobbled_voidstone_stairs_from_cobbled_voidstone_stonecutting": {
     "criteria": {
       "has_cobbled_voidstone": "2025-07-08 01:55:26 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_tile_stairs_from_voidstone_bricks_stonecutting": {
+    "criteria": {
+      "has_voidstone_bricks": "2025-07-08 02:01:57 +0000"
     },
     "done": true
   },
@@ -12808,6 +13180,18 @@
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-08 01:16:03 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/combat/shield_from_swamp_silver_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:11 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_voidstone_slab_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:55 +0000"
     },
     "done": true
   },

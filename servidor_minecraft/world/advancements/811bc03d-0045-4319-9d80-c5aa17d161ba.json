@@ -6864,6 +6864,7 @@
   "eternal_starlight:all_starlight_biomes": {
     "criteria": {
       "in_scarlet_forest": "2025-07-07 01:07:17 +0000",
+      "in_starlight_forest": "2025-07-08 01:57:07 +0000",
       "in_ether_river": "2025-07-07 01:08:01 +0000",
       "in_torreya_forest": "2025-07-07 01:07:56 +0000"
     },
@@ -12182,6 +12183,30 @@
     },
     "done": true
   },
+  "eternal_starlight:obtain_swamp_silver_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:20 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_voidstone_wall": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/combat/swamp_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:20 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/swamp_silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_swamp_silver_nugget": "2025-07-08 01:59:41 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/building_blocks/cobbled_voidstone_stairs": {
     "criteria": {
       "has_item": "2025-07-08 01:56:08 +0000"
@@ -12215,6 +12240,12 @@
   "eternal_starlight:recipes/building_blocks/polished_voidstone_wall_from_cobbled_voidstone_stonecutting": {
     "criteria": {
       "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_tile_wall_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
     },
     "done": true
   },
@@ -12266,6 +12297,12 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/voidstone_bricks": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_table_cloth_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-07-08 01:38:42 +0000"
@@ -12302,9 +12339,39 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/misc/bucket_from_swamp_silver_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:20 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_brick_slab_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_bricks_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
+    },
+    "done": true
+  },
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-07-08 01:39:34 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/combat/swamp_silver_boots": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:20 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/tripwire_hook_from_swamp_silver_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:20 +0000"
     },
     "done": true
   },
@@ -12314,9 +12381,21 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/combat/swamp_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/copper_nugget": {
     "criteria": {
       "has_item": "2025-07-08 01:38:42 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/swamp_silver_nugget": {
+    "criteria": {
+      "has_swamp_silver_ingot": "2025-07-08 02:01:20 +0000"
     },
     "done": true
   },
@@ -12344,6 +12423,12 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/misc/swamp_silver_nugget_smelting_from_swamp_silver_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:20 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/building_blocks/cobbled_grimstone_slab_from_cobbled_grimstone_stonecutting": {
     "criteria": {
       "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
@@ -12368,15 +12453,39 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/voidstone_brick_wall_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/copper_door": {
     "criteria": {
       "has_copper_ingot": "2025-07-08 01:38:42 +0000"
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/chiseled_voidstone_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/misc/grimstone_smelting_from_cobbled_grimstone": {
     "criteria": {
       "has_item": "2025-07-08 01:54:19 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_voidstone_stairs": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:38 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/swamp_silver_nugget_blasting_from_swamp_silver_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:20 +0000"
     },
     "done": true
   },
@@ -12389,6 +12498,12 @@
   "eternal_starlight:recipes/misc/voidstone_smelting_from_cobbled_voidstone": {
     "criteria": {
       "has_item": "2025-07-08 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:deactivate_energy_block": {
+    "criteria": {
+      "deactivate": "2025-07-08 02:03:30 +0000"
     },
     "done": true
   },
@@ -12416,6 +12531,12 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/combat/swamp_silver_sword": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:20 +0000"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2025-07-08 01:38:42 +0000"
@@ -12428,15 +12549,39 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/tools/swamp_silver_pickaxe": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-07-08 01:38:42 +0000"
     },
     "done": true
   },
+  "eternal_starlight:recipes/tools/shears_from_swamp_silver_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:20 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_voidstone_wall_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/building_blocks/cobbled_voidstone_slab_from_cobbled_voidstone_stonecutting": {
     "criteria": {
       "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/combat/swamp_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:20 +0000"
     },
     "done": true
   },
@@ -12479,6 +12624,12 @@
   "eternal_starlight:recipes/misc/shapeless/cinder_brick": {
     "criteria": {
       "has_item": "2025-07-08 01:55:51 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/tools/swamp_silver_axe": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:20 +0000"
     },
     "done": true
   },
@@ -12572,9 +12723,27 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/swamp_silver_block": {
+    "criteria": {
+      "has_swamp_silver_ingot": "2025-07-08 02:01:20 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_tile_slab_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/copper_floor_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-07-08 01:38:42 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/voidstone_brick_stairs_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
     },
     "done": true
   },
@@ -12608,6 +12777,12 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/voidstone_tile_stairs_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/transmitter": {
     "criteria": {
       "has_item": "2025-07-08 01:38:42 +0000"
@@ -12623,6 +12798,18 @@
   "eternal_starlight:recipes/building_blocks/voidstone_tile_wall_from_cobbled_voidstone_stonecutting": {
     "criteria": {
       "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/tools/swamp_silver_sickle": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:20 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_voidstone_stairs_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
     },
     "done": true
   },
@@ -12656,6 +12843,12 @@
     },
     "done": true
   },
+  "eternal_starlight:recipes/building_blocks/voidstone_tiles_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:recipes/building_blocks/polished_grimstone_from_cobbled_grimstone_stonecutting": {
     "criteria": {
       "has_cobbled_grimstone": "2025-07-08 01:54:19 +0000"
@@ -12671,6 +12864,12 @@
   "constructionstick:recipes/tools/copper_stick": {
     "criteria": {
       "has_item": "2025-07-08 01:38:42 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_voidstone_slab": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:38 +0000"
     },
     "done": true
   },
@@ -12713,6 +12912,18 @@
   "eternal_starlight:recipes/building_blocks/chiseled_voidstone_from_cobbled_voidstone_stonecutting": {
     "criteria": {
       "has_cobbled_voidstone": "2025-07-08 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/combat/shield_from_swamp_silver_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 02:01:20 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_voidstone_slab_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2025-07-08 02:01:38 +0000"
     },
     "done": true
   },
